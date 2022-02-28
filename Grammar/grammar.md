@@ -22,3 +22,11 @@ Note : S(subject)主语, V(verb)谓语, O(object)宾语, C(complement)补语
 8. preposition(介词) prep.
 9. conjunction(连词) conj.
 10. interjection(感叹词) int.
+
+## 3. 动词时态
+|  状态/时间      | 过去的过去   | 过去          | 过去的将来   | 现在     | 将来  |
+|  ----           | ----   | ---------  |  ---------   |  --------  |  ----    |
+| 一般             |        | did        | woudl do     | do         | will do  |
+| 进行             |        | was/were doing| would be doing| am/is/are doing | will be doing
+|       | had been doing | have been doing | would have been doing |  | will have been doing | 
+| 完成  | had done| have done| would have doen |  | will have done | 
