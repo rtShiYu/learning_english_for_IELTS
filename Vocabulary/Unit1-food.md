@@ -47,9 +47,9 @@ Beansprots 绿豆芽
 Peas 碗豆
 Corn 玉米粒
 ```
----
 
 ## 2. 常用水果
+---
 ```
 Lemon🍋
 Pear 梨子🍐
@@ -80,3 +80,23 @@ Star-fruit(carambola)杨桃
 Honeydew-melon 哈蜜瓜🍈
 Fig 无花果
 Avocado 牛油果(鳄梨)🥑
+```
+
+## 3. 常用住宿
+---
+```
+hostel 青年公寓
+lounge 休息室
+vacancy 空闲
+lease 租金
+deposit 定金
+adjacent 邻近的
+homestay 住在当地居民家中
+dormitory 大学宿舍
+bedsit 起居室，卧室
+towel 毛巾
+mattress 床垫
+radiator 电暖气
+shutters 百叶窗
+balcony 阳台
+```
