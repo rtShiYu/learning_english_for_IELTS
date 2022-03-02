@@ -100,3 +100,50 @@ radiator 电暖气
 shutters 百叶窗
 balcony 阳台
 ```
+
+## 4. 常用交通运输
+---
+```
+bus 公共汽车
+driver 汽车司机
+double decker bus 双层公共汽车
+coach, motor coach, bus 大客车
+taxi, taxicab 计程汽车，出租汽车
+trolleybus 无轨电车
+tramcar, streetcar 电车，有轨电车
+underground, tube, subway 地铁
+stop 停车站
+taxi rank, taxi stand 计程汽车车站，出租汽车总站
+taxi driver, cab driver 出租车司机
+conductor 售票员
+inspector 检查员，稽查员
+ride 乘车
+minimum fare (of a taxi) 最低车费
+railway 铁路 (美作:railroad)
+track 轨道
+train 火车
+railway system, railway net-work 铁路系统
+express train 特别快车
+fast train 快车
+through train 直达快车
+stopping train, slow train 慢车
+excursion train 游览列车
+commuter train, suburban train 市郊火车
+railcar 轨道车
+coach, carriage 车厢
+sleeping car, sleeper 卧车
+dining car, restaurant car, luncheon car 餐车
+sleeper with couchettes 双层卧铺车
+berth, bunk 铺位
+up train 上行车
+down train 下行车
+luggage van, baggage car 行李车
+mail car 邮政车
+station, railway station 车站
+station hall 车站大厅
+booking office, ticket office 售票处
+ticket-collector, gateman 收票员
+platform 月台， 站台
+platform ticket 站台票
+
+```
