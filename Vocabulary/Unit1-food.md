@@ -147,3 +147,39 @@ platform 月台， 站台
 platform ticket 站台票
 
 ```
+
+## 5. 中餐名称
+---
+```
+豆浆　 Soybean milk
+油条　 Fried bread stick
+馒 头　teamed buns ，Steamed bread
+烧饼  Clay oven rolls
+葱油饼 crisp short cakes
+稀饭　 Rice porridge
+米粉　 Rice noodles
+水饺　 Boiled）dumplings
+白饭　 Plain white rice　　
+紫菜汤  Seaweed soup　
+牡蛎汤　Oyster soup　
+饭团　 Rice and vegetable roll
+蛋花汤　 Egg &amp; vegetable soup
+皮蛋　 100-year egg
+鱼丸汤　 Fish ball soup
+咸鸭蛋　 Salted duck egg
+臭豆腐　 Stinky tofu (Smelly tofu)
+油豆腐　Oily bean curd
+虾球　 Shrimp balls
+肉丸  Rice-meat dumplings
+糯米饭 Glutinous rice　
+春卷　 Spring rolls
+蛋炒饭　Fried rice with egg　
+蛋卷　 Chicken rolls　
+刀削面 Sliced noodles　
+乌龙面　Seafood noodles
+麻辣面　Spicy hot noodles
+麻酱面 Sesame paste noodles
+榨菜肉丝面 Pork, pickled mustard green noodles
+火锅　 Hot pot
+卤味 braised food
+```
