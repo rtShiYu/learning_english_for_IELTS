@@ -26,7 +26,38 @@ Note : S(subject)主语, V(verb)谓语, O(object)宾语, C(complement)补语
 ## 3. 动词时态
 |  状态/时间      | 过去的过去   | 过去          | 过去的将来   | 现在     | 将来  |
 |  ----           | ----   | ---------  |  ---------   |  --------  |  ----    |
-| 一般             |        | did        | woudl do     | do         | will do  |
+| 一般             |        | did        | would do     | do         | will do  |
 | 进行             |        | was/were doing| would be doing| am/is/are doing | will be doing
 |       | had been doing | have been doing | would have been doing |  | will have been doing | 
-| 完成  | had done| have done| would have doen |  | will have done | 
+| 完成  | had done| have done| would have doen |  | will have done |
+
+- 状态:
+
+1.  一般
+```
+用法：
+A）表示现在发生的动作、情况、状态和特征
+B）习惯用语
+C）经常性、习惯性动作。
+D）客观事实和普遍真理。
+```
+2.  进行
+```
+用法：
+A）表示说话时正在进行的动作
+```
+
+3. 完成
+```
+用法：
+A）所谓“完成态”表示“当前”动作状态的完成或者结果。
+“完成态”更加直白的可以解释为“已经做了某事”。
+```
+
+
+3. 完成进行
+```
+用法：
+A）所谓的“完成进行态”就是动作的“完成态”结合“进行态”进而延伸出“完成进行态”。
+“完成进行态”更加直白的可以解释为“一直在做某事”。
+```
