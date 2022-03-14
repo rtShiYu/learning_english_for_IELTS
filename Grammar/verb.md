@@ -41,3 +41,11 @@ Children fall asleep easily. 孩子们入睡快。
 ### IV. 情态动词
 情态动词好比情绪表，本身有各种意义，却不能单独做谓语，只能和主要动词一起构成谓语，表示说话人的语气、情绪或态度。情态动词没有人称和数的变化。
 常见的情态动词有：can/could, may/might, must/have to, shall/should, will/would, used to, had better, need, dare。
+
+## 2. 非谓语动词
+非谓语动词（Non-predicative Verbs）
+英语中动词（Verb）根据其是否做谓语分为谓语动词（Predicative Verbs）和非谓语动词（Non-predicative Verbs）。非谓语动词又叫非限定动词（即动词的非谓语形式），非谓语动词是指在句子中不是谓语的动词，非谓语动词除了不能独立作谓语外，可以承担句子的其他成分。
+主要包括：
+- 不定式：to + verb
+- 动名词：Verb+ing, 否定式：not + 动名词
+- 分词 (现在分词和过去分词): Verb+ing，Verb+ed
