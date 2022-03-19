@@ -49,3 +49,40 @@ Children fall asleep easily. 孩子们入睡快。
 - 不定式：to + verb
 - 动名词：Verb+ing, 否定式：not + 动名词
 - 分词 (现在分词和过去分词): Verb+ing，Verb+ed
+
+### 1. 不定时
+
+a) 动词不定式作主语
+```
+To do morning exercises is useful for our health.做早操有利于我们的健康.
+To sweep the floor is my duty every day.每天打扫地板是我的责任.
+```
+
+b) 动词不定式作宾语
+```
+I plan to watch Days of Our Past 我打算观看《我们过去的日子》
+She longed to go back to her hometown.她渴望返回家乡。
+```
+
+c)动词不定式作定语
+```
+He's a pleasant fellow to work with. 他是一个乐于共事的人。
+```
+
+d)动词不定式作状语
+```
+He ran so fast as to catch the first bus.　他飞快地跑以便赶上第一班车。(目的状语)
+What have I said to make you angry? 我说了什么使你生气的话？(结果状语)
+```
+
+e)动词不定式作补语
+```
+Father will not allow us to play on the street. 父亲不让我们在街上玩耍。
+We believe him to be guilty. 我们相信他是有罪的。
+```
+
+动词不定式的否定形式是在to前面直接加not,变成not to + verb；如：
+```
+Not to say so，you don't understand. 别这样说，你不理解。
+Tom told Jerry not to come over. 汤姆叫杰利别过来。(不定式的否定形式)
+```
