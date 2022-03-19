@@ -50,7 +50,7 @@ Children fall asleep easily. 孩子们入睡快。
 - 动名词：Verb+ing, 否定式：not + 动名词
 - 分词 (现在分词和过去分词): Verb+ing，Verb+ed
 
-### 1. 不定时
+### 1. 不定式
 
 a) 动词不定式作主语
 ```
@@ -85,4 +85,31 @@ We believe him to be guilty. 我们相信他是有罪的。
 ```
 Not to say so，you don't understand. 别这样说，你不理解。
 Tom told Jerry not to come over. 汤姆叫杰利别过来。(不定式的否定形式)
+```
+
+### 2. 动名词
+动名词可以作主语、作表语、作宾语、作定语、作同位语，另外在句式中需要学习动名词在一般式、被动式、完成式，被动完成式、否定式及复合结构句式的用法。
+
+动名词使用例句，如：
+
+```
+Seeing is believing. 眼见为实。（一般式）
+
+He came to the party without being invited．他未被邀请就来到了晚会。（被动式）
+
+I regret not following his advice. 我后悔没听他的劝告。（否定式：not + 动名词 ）
+
+We remembered having seen the film. 我们记得看过这部电影。（完成式）
+
+He suggested our trying it once again. 他建议我们再试一次。 （复合结构： 物主代词（或名词所有格）+ 动名词）
+
+Reading aloud is very helpful. 朗读是很有好处的。 （作主语）
+
+In the ant city,the queen's job is laying eggs. 在蚂蚁王国，蚁后的工作是产卵。（作表语）
+
+They haven't finished building the dam. 他们还没有建好大坝。 （作宾语）
+
+He can't walk without a walking-stick. 他没有拐杖不能走路。 （作定语）
+
+The cave, his hiding-place is secret. 那个山洞，他藏身的地方很秘密。 （作同位语
 ```
