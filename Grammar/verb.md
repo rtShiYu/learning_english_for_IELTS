@@ -113,3 +113,36 @@ He can't walk without a walking-stick. 他没有拐杖不能走路。 （作定�
 
 The cave, his hiding-place is secret. 那个山洞，他藏身的地方很秘密。 （作同位语
 ```
+
+### 3. 分词
+
+a)现在分词
+
+现在分词用于现在进行时，一般在动词后加ing，表示正在进行的某一个动作或行为，还可用于将来时态和过去进行时。现在分词既具有动词的一些特征，又具有形容词和副词的句法功能。
+
+现在分词可以在句子中做定语、状语、补语、表语，例句如：
+```
+He is a promising young man.他时一个有培养前途的青年。（作定语）
+
+There is someone knocking at the door.有人在敲门。（引起一个短语，放在所修饰的词后面）
+
+A boy came running in.一个男孩跑进屋来。（作状语）
+
+I found my car missing. 我发现我的车不见了。（作补语）
+
+Her letter was touching. 她的信很感人。（作表语）
+```
+
+b)过去分词
+
+过去分词是用于现在完成时，一般是由动词加-ed构成。过去分词一方面具有动词的性质，另一方面也相当于一个形容词或副词，在句中可以作表语、定语、状语和补足语。
+
+```
+Don’t touch the glass because it is broken. 不要碰那个杯子，它是坏的。（作表语）
+
+The excited people rushed into the building. 激动的人们奔进了大楼。（作定语）
+
+Given another chance, he will do better.再给他一次机会，他会做得更好。（作状语）
+
+One of the glasses was found broken. 有人发现其中一个杯子破了。（作补足语
+```
