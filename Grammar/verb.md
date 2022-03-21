@@ -42,6 +42,30 @@ Children fall asleep easily. 孩子们入睡快。
 情态动词好比情绪表，本身有各种意义，却不能单独做谓语，只能和主要动词一起构成谓语，表示说话人的语气、情绪或态度。情态动词没有人称和数的变化。
 常见的情态动词有：can/could, may/might, must/have to, shall/should, will/would, used to, had better, need, dare。
 
+(1）表“推测”句型：
+```
+1. 肯定句中用：must（一定）、could（可能）、may/might（也许）
+2. 否定句中用：can't/couldn't（不可能），may not/might not （可能不）
+3. 疑问句中用：can/could （能……?）
+注：以上三种句式中情态动词的语气按程度都是依次递减的。Might,could并非may,can的过去式，而表示语气较为委婉或可能性较小。
+```
+
+(2）表“推测”时态：
+```
+1. 对将来情况的推测，用“情态动词 + do（动词原形）
+2. 对现在或一般情况的推测，用“情态动词 + be”，“情态动词 +be doing”或“情态动词 + 动词原形”
+3. 对过去情况的推测，用“情态动词 + have +done（过去分词）
+注：情态动词 should /ought to表推测时，意为“想必会，理应……”但与“have +过去分词”连用时，则又可构成虚拟语气意为“本应该做某事却没做”。
+```
+
+（3）情态动词+have done 用法
+```
+1. must have done sth.一定做过某事
+2. can/could have done sth.本来能够做某事，而实际上未做
+3. can't/couldn't have done sth.不可能做过某事
+4. ought to/should have done sth.过去本应该做某事而实际上并没有做
+```
+
 ## 2. 非谓语动词
 非谓语动词（Non-predicative Verbs）
 英语中动词（Verb）根据其是否做谓语分为谓语动词（Predicative Verbs）和非谓语动词（Non-predicative Verbs）。非谓语动词又叫非限定动词（即动词的非谓语形式），非谓语动词是指在句子中不是谓语的动词，非谓语动词除了不能独立作谓语外，可以承担句子的其他成分。
