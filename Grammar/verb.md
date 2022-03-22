@@ -38,6 +38,33 @@ Children fall asleep easily. 孩子们入睡快。
 ### III. 助动词
 助动词本身没有意义，只是帮助实义动词完成某些语法功能，如表示时态、语态，构成否定句、疑问句、简略句等。
 助动词包括：be, have, do, shall, will及其变化形式
+
+```
+1. I must go home at once. （我必须立刻回家）
+2. May I go home now？(我现在可以回家了吗？）
+
+be + 现在分词 = 进行时
+1. He is reading a book （他正在读书）
+
+be除了可构成进行时和被动语态外，还可以接动词的不定式构成一般将来时。
+1. We are to meet twice a week.
+
+任何动词要用not连用形成否定，一定要靠do、does、did再加上not协助
+动词前若置not以外的否定词，如：never（从来不）、seldom（不常）、rarely（很少）、hardly（几乎不）、scarcely（几乎不）等，则不需要与do/does/did连用。
+1. I not love her（错）.而应该改为 I don't love her.
+2. He never lived here.（他从未住过这儿）
+3. He seldom sings.（他很少唱歌）
+
+do、does和did可形成疑问句
+1. Did you understand it?（你懂吗？）
+2. Where does he live？（他住在哪儿？）
+
+do、does和did加强语气, 即在肯定句的动词前，按时态人称置入do/does/did，再将动词改为原形，此时do/does/did译成“的确”
+
+1. He loves her.（他爱她）---> He does love her（他确实爱她）
+2. He worked hard.（他很用功）---> He did work hard.（他确实很用功）
+
+```
 ### IV. 情态动词
 情态动词好比情绪表，本身有各种意义，却不能单独做谓语，只能和主要动词一起构成谓语，表示说话人的语气、情绪或态度。情态动词没有人称和数的变化。
 常见的情态动词有：can/could, may/might, must/have to, shall/should, will/would, used to, had better, need, dare。
