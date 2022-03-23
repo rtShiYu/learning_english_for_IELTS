@@ -197,3 +197,19 @@ Given another chance, he will do better.再给他一次机会，他会做得更�
 
 One of the glasses was found broken. 有人发现其中一个杯子破了。（作补足语
 ```
+## 3. 主谓一致
+主语是单数形式，谓语用单数形式;
+主语是复数形式，谓语用复数形式;
+
+- a. 不定式、介词短语、动名词、从句做主语时，谓语用单数。
+- b. 不定代词及each作主语或是修饰主语时应看作单数，谓语动词用单数.
+- c. 表示国家/机构/事件/作品等专有名词作主语时应看作单数，谓语动词用单数.
+- d. “a series of/a kind of/the number of等+名词”构成名词短语作主语时看作单数，谓语动词用单数。
+- e. some/several/both/few/many/a number of 等词修饰主语，或它们自身作主语时应看作复数，谓语动词用复数。
+- f. 由and连接两个或以上主语时，
+  - 如指同一人或物，谓语用单数；
+  - 指不同的人或物，谓语用复数.
+- g. 有些短语a lot of,most of,any of,half of,three fifths of,eighty percent of,some of,none of,the rest of,all of等
+  - 后接不可数名词或单数名词作主语时应看作单数，谓语动词用单数；
+  - 如果后接可数名词复数形式作主语时应看作复数，谓语动词用复数。
+- h. 主语为三单，或习惯用作单数名词或不可数名词的词，如：money，information，clothing等，谓语动词用单数。
