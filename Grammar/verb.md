@@ -201,15 +201,51 @@ One of the glasses was found broken. 有人发现其中一个杯子破了。（�
 主语是单数形式，谓语用单数形式;
 主语是复数形式，谓语用复数形式;
 
+```
+This book is mine. （主语单数）
+These books are mine. （主语复数）
+```
+
 - a. 不定式、介词短语、动名词、从句做主语时，谓语用单数。
+```
+To get up early is necessary.
+Seeing is believing.
+What he said has been recorded
+```
 - b. 不定代词及each作主语或是修饰主语时应看作单数，谓语动词用单数.
+```
+Either one is OK.
+```
 - c. 表示国家/机构/事件/作品等专有名词作主语时应看作单数，谓语动词用单数.
+```
+One Thousand And One Nights(《一千零一夜》）tells people lots of mysterious bits of folklore .
+
+The United Nations plays an important role in the international affairs .
+```
 - d. “a series of/a kind of/the number of等+名词”构成名词短语作主语时看作单数，谓语动词用单数。
+```
+The number of printing mistakes in some recent books often surprises people even to death.
+```
 - e. some/several/both/few/many/a number of 等词修饰主语，或它们自身作主语时应看作复数，谓语动词用复数。
+```
+Both of them are OK .
+
+A number of graduates are voluntarily going to work in the West of China.
+```
 - f. 由and连接两个或以上主语时，
   - 如指同一人或物，谓语用单数；
   - 指不同的人或物，谓语用复数.
+```
+The teacher and writer is famous all over the world.（一个人，两个身份）
+
+The teacher and the writer are both famous all over the world. （两个人）
+```
 - g. 有些短语a lot of,most of,any of,half of,three fifths of,eighty percent of,some of,none of,the rest of,all of等
   - 后接不可数名词或单数名词作主语时应看作单数，谓语动词用单数；
   - 如果后接可数名词复数形式作主语时应看作复数，谓语动词用复数。
+```
+A lot of money was stolen yesterday when the electricity was suddenly cut off.
+
+A lot of books about Investment Fund have been published recently.
+```
 - h. 主语为三单，或习惯用作单数名词或不可数名词的词，如：money，information，clothing等，谓语动词用单数。
