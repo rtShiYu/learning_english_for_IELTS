@@ -198,6 +198,7 @@ Given another chance, he will do better.再给他一次机会，他会做得更�
 One of the glasses was found broken. 有人发现其中一个杯子破了。（作补足语
 ```
 ## 3. 主谓一致
+### 一、语法一致
 主语是单数形式，谓语用单数形式;
 主语是复数形式，谓语用复数形式;
 
@@ -249,3 +250,56 @@ A lot of money was stolen yesterday when the electricity was suddenly cut off.
 A lot of books about Investment Fund have been published recently.
 ```
 - h. 主语为三单，或习惯用作单数名词或不可数名词的词，如：money，information，clothing等，谓语动词用单数。
+
+### 二、意 义 一 致
+
+意义一致：从意义上来解决主谓一致问题。
+有时主语形式上为单数，但意义上却是复数，那么谓语依意义用复数形式；
+有时主语形式上为复数，但意义上却是单数，那么谓语依意义用单数形式。
+```
+a. 这儿离学校还有5公里。
+b. 5公里不是什么远距离。
+a. Five kilometers lie between here and the school.（谓语复数）
+b. Five kilometers is not a big distance.（谓语单数）
+```
+
+a. 当主语后接由as well as/as much as/ accompanied by/ including/ in addition to/ more than/ no less than/ rather than/ together with等引导的词组时,其谓语动词的形式要依主语的单复数而定.
+
+```
+Petroleum, along with fuel gas, has recently risen in price.
+The warehouse, with all its stockings,was burned last night.
+```
+
+b. 表示时间/金钱/距离/体积/重量/面积/数字等词语作主语时,
+其意义若是指总量应看作单数，谓语动词用单数；
+其意义若是指"有多少数量"则应该看作是复数，谓语动词也应该用复数.
+```
+Four weeks are often regarded as one month.
+Twenty years stands for a long period in one's life.
+```
+c. "the + 形容词"作主语
+其意义若是指个人或抽象概念应看作单数，谓语动词用单数；
+其意义若是指一类人则应该看作是复数，谓语动词用复数.
+```
+The young（年轻人，指一类人）, often think of the old conservative.
+```
+
+d. 集体名词作主语时，谓语动词的数取决于主语的意义：
+主语表示整体时视为单数，谓语动词用单数；
+主语表示集体中的个体成员时视为复数，谓语动词用复数。
+
+这类集体名词常见的有：
+army, audience, cattle, class, club, committee, crowd, family, government, group, majority, minority, part, people, police, public, staff, team等，其中cattle, people, police一般看成复数形式.
+```
+The family are all fond of football.
+The family is the tiniest cell of the society.
+```
+
+e. 一个单数名词同时被两个不同的形容词修饰时
+表示两个不同的概念时，谓语动词用复数;
+表示的是同一概念时应用单数.
+
+```
+Ancient and modern history are the subjects we are studying.
+The last and most difficult lesson is lesson14.
+```
