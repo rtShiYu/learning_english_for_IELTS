@@ -303,3 +303,18 @@ e. 一个单数名词同时被两个不同的形容词修饰时
 Ancient and modern history are the subjects we are studying.
 The last and most difficult lesson is lesson14.
 ```
+
+### 三、就 近 原 则
+谓语动词的人称和数常常与最近作主语的词语保持一致。
+常出现在这类句子中的连词有：or,either… or …，neither… nor …，not only… but also …等
+```
+Either I or they are responsible for the result of the matter.
+
+Not only he but also all his family are keen on concerts.
+```
+
+there be句型的be动词单复数取决于be动词后紧跟的主语。
+如果其后是由and连接的两个主语，则应与靠近的那个主语保持一致。
+```
+There is one book and two cups on the desk.
+```
