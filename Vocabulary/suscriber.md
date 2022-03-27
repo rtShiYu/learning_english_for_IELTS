@@ -21,5 +21,17 @@ Arizona: 亚利桑那州
 bucket list: what places are on our bucket list?    
 
 ---
+Date: 2022.3.28  
 
+ruinous  
+offramp  
+odds  
+zealous  
+headstrong  
+pessimistic  
+irrational  
+engage  
+threshold  
+
+---
 
