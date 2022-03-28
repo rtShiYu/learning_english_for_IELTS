@@ -1,0 +1,5 @@
+# Are we too busy to enjoy life?
+
+“You cannot step into the same river twice, for other waters are continually flowing on,” supposedly said Heraclitus. Time is like a river. If you’re too busy to enjoy life—too busy to spend time with friends and family, too busy to learn how to paint or play the guitar, too busy to go on that hike, too busy to cook something nice for yourself—these moments will be gone, and you will never get that time back.
+
+You may think it’s too late. It’s not. Like many people, I personally experience time anxiety—the recurring thought that it’s too late to start or accomplish something new—but the reality is you probably still have many years in front of you. Defining what “time well spent” means to you and making space for these moments is one of the greatest gifts you can make to your future self.
