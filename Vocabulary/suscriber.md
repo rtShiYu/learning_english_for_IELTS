@@ -53,3 +53,22 @@ routinely
 Innovation is a threat. Change is rerrifying. Being perfect at somthing is dangerous if it's the only thing you can do.  
 
 ---
+Date: 2022.03.30
+
+jackfruit  
+basket  
+trunk  
+persimmon  
+nourishment  
+inspire  
+ripple  
+coal  
+papaya  
+salad  
+carambola  
+shining  
+plum  
+mimic  
+ripen  
+
+---
