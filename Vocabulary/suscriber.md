@@ -72,3 +72,17 @@ mimic
 ripen  
 
 ---
+Data: 2022.03.31
+
+negotiate  
+aggressive  
+invasion  
+invade  
+strategic  
+tension  
+broadly  
+influx  
+aftermath  
+emission  
+
+---
