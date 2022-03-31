@@ -86,3 +86,17 @@ aftermath
 emission  
 
 ---
+Data: 2022.04.01
+
+speculation  
+disposal  
+weatherize  
+literally  
+combine  
+peril  
+gallon  
+hinge  
+brutally  
+mental  
+
+---
