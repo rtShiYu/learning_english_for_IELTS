@@ -100,3 +100,21 @@ brutally
 mental  
 
 ---
+Data: 2022.04.02  
+
+scapegoat  
+convict  
+juror  
+impartial  
+fair  
+serve  
+deliberate  
+disclose  
+grant  
+trial  
+justfy  
+pretrial  
+bid  
+robust   
+
+--- 
