@@ -72,7 +72,7 @@ mimic
 ripen  
 
 ---
-Data: 2022.03.31
+Date: 2022.03.31
 
 negotiate  
 aggressive  
@@ -86,7 +86,7 @@ aftermath
 emission  
 
 ---
-Data: 2022.04.01
+Date: 2022.04.01
 
 speculation  
 disposal  
@@ -100,7 +100,7 @@ brutally
 mental  
 
 ---
-Data: 2022.04.02  
+Date: 2022.04.02  
 
 scapegoat  
 convict  
@@ -118,7 +118,7 @@ bid
 robust   
 
 --- 
-Data: 2022.04.03  
+Date: 2022.04.03  
 
 filter  
 codec  
@@ -130,5 +130,20 @@ notabley
 constraint  
 offload  
 canvas  
+
+--- 
+Date: 2022.04.04  
+
+attempt  
+disposition  
+manifest  
+semblance  
+rigid  
+tie  
+tether  
+internship  
+gulf  
+distress  
+existential 
 
 --- 
