@@ -147,3 +147,17 @@ distress
 existential 
 
 --- 
+Date: 2022.04.05
+
+spontaneous  
+frustration  
+anxiety  
+facilitage  
+euphoria  
+unenventful  
+insomnia  
+distract  
+perceptual  
+nudge  
+
+--- 
