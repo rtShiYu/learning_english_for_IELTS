@@ -192,4 +192,15 @@ contentment
 extricate  
 
 ---
+Date: 2022.04.08
 
+hypothetical(adj), hypotheses(n)  
+micromanage  
+lure  
+resist  
+myriad  
+stasis  
+honing(n), hone   
+hybrid  
+
+---
