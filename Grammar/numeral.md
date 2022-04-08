@@ -113,3 +113,38 @@ once 一倍（次）, twice 两倍（次）, three times 三倍（次）, five t
 公元前59年写作: 59 b.c，读作 fifty-nine b.c(b.c/k. 是英文before christ/kraist的缩写，用在年份后。)
 公元8年写作: 8 a.d.，读作 eight a.d(a.d.是拉丁文anno domini的缩写，用在年份后。)
 ```
+### 1.2 序数词
+
+#### 1. 常见序数
+
+```c++
+// 第一，第二，第三的序数词
+中文	英文	英文缩写
+第一 	first	1st
+第二	second	2nd
+第三	third 	3rd
+
+// 第四至十九的序数词
+由对应的基数词加后缀th构成，要注意第五、第八、第九、第十二的拼写变化。
+第四 fourth(4th)        第十二 twelfth (12th)
+第五 fifth (5th)        第十三 thirteenth (13th)
+第六 sixth (6th)        第十四 fourteenth (14th)
+第七 seventh (7th)      第十五 fifteenth (15th)
+第八 eighth (8th)       第十六 sixteenth (16th)
+第九 ninth (9th)        第十七 seventeenth (17th)
+第十 tenth (10th)       第十八 eighteenth (18th)
+第十一eleventh(11th)    第十九 nineteenth (19th)
+
+// 第二十到第九十九的序数词
+20-90整十位数序数词 - 将对应的基数词词尾中的y变为i，然后加eth构成。
+21-99非整十位数序数词 - 十位数用基数词，个位数用相应的序数词。十位数和个位数之间用连字符"-"连接
+第二十 twentieth (20th)     第二十一 twenty-first (21st)
+第三十 thirtieth (30th)     第三十二 thirty-second (32nd)
+第四十 fortieth (40th)      第四十三 forty-third (43rd)
+第五十 fiftieth (50th)      第五十四 fifty-fourth (54th)
+第六十 sixtieth (60th)      第六十五 sixty-fifth (65th)
+第七十 seventieth (70th)    第七十六 seventy-sixth (76th)
+第八十 eightieth (80th)     第八十七 eighty-seventh (87th)
+第九十 ninetieth (90th)     第九十九 ninety-ninth (99th)
+
+```
