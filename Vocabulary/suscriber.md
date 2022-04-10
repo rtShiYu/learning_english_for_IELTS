@@ -217,3 +217,19 @@ desert
 crumb  
 
 ---
+Date: 2022.04.10  
+
+canyon  
+potential  
+spot  
+bone  
+cow  
+jaw  
+backtrack  
+carn  
+cairn  
+scout 
+sketchy  
+doable  
+
+---
