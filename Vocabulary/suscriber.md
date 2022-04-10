@@ -233,3 +233,19 @@ sketchy
 doable  
 
 ---
+Date: 2022.04.11  
+I stopped checking social media before noon. Here's how it improved my work(and my life) [reference link](https://tribunecontentagency.com/article/i-stopped-checking-social-media-before-noon-heres-how-it-improved-my-work-and-my-life/)
+```
+distraction  
+nefarious  
+contribute  
+hop  
+cognitive  
+clutter  
+squash  
+prolong  
+spoon  
+engagement  
+fertile  
+```
+---
