@@ -249,3 +249,17 @@ engagement
 fertile  
 ```
 ---
+Date: 2022.04.12
+- Elevator Pitch: Can You Explain Yourself In One Sentence? ([Reference link](https://www.riskology.co/elevator-pitch/))
+
+```
+hobby
+ramble
+fumble
+jargon
+concise
+schema
+boil it down
+pitch
+```
+---
