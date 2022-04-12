@@ -8,4 +8,11 @@ Death is not the opposite of life, but the part of it.
 // 死亡并不是生命的对立面，而是它的一部分
 ```
 
+---
+Date: 2022.04.12
+
+```
+With ordinary talent and extraordinary perseverance, all things are attainable.
+平凡的智力加上非凡的坚持，所有的事情皆可达成
+```
 --- 
