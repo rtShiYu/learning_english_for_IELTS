@@ -263,3 +263,17 @@ boil it down
 pitch
 ```
 ---
+Date: 2022.04.13
+- You’d be a lot happier if you stop saying you’re so busy. ([Reference link](https://www.fastcompany.com/90735704/youd-be-a-lot-happier-if-you-stop-saying-youre-so-busy))
+
+```
+hamster
+relentless
+sanity
+overwhelm
+perceive
+juggle
+toddle
+detract
+```
+---
