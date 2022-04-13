@@ -277,3 +277,15 @@ toddle
 detract
 ```
 ---
+Date: 2022.04.14
+- Can Introverts Thrive in “Extroverted” Careers?([Reference link](https://hbr.org/2021/01/can-introverts-thrive-in-extroverted-careers))
+```
+tendency
+empathize
+introvert
+extrovert
+thrive
+exhaust
+stimulation
+```
+---
