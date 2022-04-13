@@ -16,3 +16,10 @@ With ordinary talent and extraordinary perseverance, all things are attainable.
 平凡的智力加上非凡的坚持，所有的事情皆可达成
 ```
 --- 
+Date: 2022.04.13
+
+```
+Activity is the only road to knowledge.
+行动是通往知识的唯一道路。
+```
+---
