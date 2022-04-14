@@ -23,3 +23,10 @@ Activity is the only road to knowledge.
 行动是通往知识的唯一道路。
 ```
 ---
+
+Date: 2022.04.14
+
+```
+Do what you say, and say what you do.
+做你说过的，说你能做的。
+```
