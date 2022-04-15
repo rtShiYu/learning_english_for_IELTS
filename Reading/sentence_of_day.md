@@ -30,3 +30,12 @@ Date: 2022.04.14
 Do what you say, and say what you do.
 做你说过的，说你能做的。
 ```
+
+---
+Date: 2022.04.15
+
+```
+Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it.
+无论你能做什么，或者梦想做什么，着手开始吧。大胆就是天赋，能量，和魔力的代名词。
+```
+---
