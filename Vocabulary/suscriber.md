@@ -313,3 +313,26 @@ aspect
 indulge
 ```
 ---
+
+Date: 2022.04.17
+```
+grace
+gratitude
+tumbleweed
+thistle
+horse
+ecological
+rut(n) rutted(adj)
+jug
+throng
+darn
+twisted
+doughnut 🍩
+skinny
+ladder
+boulder
+pot(n) pothole
+anchor ⚓️
+giant
+```
+---
