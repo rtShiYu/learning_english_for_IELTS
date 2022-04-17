@@ -336,3 +336,18 @@ anchor ⚓️
 giant
 ```
 ---
+Date: 2022.04.18
+
+- If you knew the future, would you still choose your life? ([Reference link](https://bigthink.com/thinking/know-future-choose-your-life))
+
+```
+ignorance
+bliss
+dwelling
+lottery
+tornado
+meteorite
+implication
+utterly
+```
+---
