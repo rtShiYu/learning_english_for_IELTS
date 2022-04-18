@@ -54,3 +54,11 @@ Happiness is the spiritual experience of living every minute with love, grace an
 幸福就是时刻都以仁爱，善良，和感恩来生活的精神体验。
 ```
 ---
+
+Date: 2022.04.18
+
+```
+Education is not the filling of a pail, but the lighting of a fire.
+教育不是住满一桶水，而是点燃一把火。
+```
+---
