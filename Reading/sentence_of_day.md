@@ -62,3 +62,10 @@ Education is not the filling of a pail, but the lighting of a fire.
 教育不是住满一桶水，而是点燃一把火。
 ```
 ---
+
+Date: 2022.04.19
+
+```
+Think big thoughts but relish small pleasures.
+心怀大想法，享受小乐趣。
+```
