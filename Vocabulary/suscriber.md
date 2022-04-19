@@ -364,3 +364,17 @@ evacuate
 horrific
 ```
 ---
+
+Date: 2022.04.20
+
+- Job hopping shouldn’t be your first instinct. Try ‘job crafting’ instead ([Reference link](https://www.fastcompany.com/90737833/does-the-perfect-fit-job-exist-this-strategy-may-bring-workers-closer-to-finding-one))
+```
+forthcoming
+deplete
+caveat
+misfit misalignment
+vocation, vacation
+stocke
+fulfillment
+```
+---
