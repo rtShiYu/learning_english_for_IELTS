@@ -351,3 +351,16 @@ implication
 utterly
 ```
 ---
+
+Date: 2022.04.19
+
+```
+hybrid
+sailor
+sinking
+contradict
+crew
+evacuate
+horrific
+```
+---
