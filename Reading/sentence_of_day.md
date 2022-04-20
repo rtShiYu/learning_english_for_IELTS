@@ -69,3 +69,12 @@ Date: 2022.04.19
 Think big thoughts but relish small pleasures.
 心怀大想法，享受小乐趣。
 ```
+
+---
+Date: 2022.04.20
+
+```
+Rainbow comes after a storm.
+风雨过后总见彩虹。
+```
+---
