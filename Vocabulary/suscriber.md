@@ -378,3 +378,20 @@ stocke
 fulfillment
 ```
 ---
+
+Date: 2022.04.21
+
+- How developing mental immunity can protect us from bad ideas([Reference link](https://nesslabs.com/mental-immunity))
+```
+immunity(n), immune(adj)
+congnition(n), cognitive(adj)
+formula(n), formulate(vt)
+infancy
+bacteria
+stimuli
+factual
+corruption
+polarisation
+propaganda
+```
+---
