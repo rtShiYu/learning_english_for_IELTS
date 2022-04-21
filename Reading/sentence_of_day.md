@@ -78,3 +78,10 @@ Rainbow comes after a storm.
 风雨过后总见彩虹。
 ```
 ---
+Date: 2022.04.21
+
+```
+Beauty is when you can appreciate yourself. When you love yourself, that's when you are most beautiful.
+美就是欣赏自己。你爱着自己的时候，就是你最美丽的时候。
+```
+---
