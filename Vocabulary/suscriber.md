@@ -395,3 +395,14 @@ polarisation
 propaganda
 ```
 ---
+
+Date: 2022.04.22
+```
+proprietary
+intuitive
+versatile
+arbitrary
+inward, outward
+infancy
+```
+---
