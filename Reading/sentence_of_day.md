@@ -85,3 +85,10 @@ Beauty is when you can appreciate yourself. When you love yourself, that's when 
 美就是欣赏自己。你爱着自己的时候，就是你最美丽的时候。
 ```
 ---
+Date: 2022.04.22
+
+```
+The lover of nature is he whose inward and outward senses are still truly adjusted to each other; who has retaiined the spirit of infancy even into the era of manhood.
+热爱大自然的人是那种成年后内外感官依然协调一致，依然保持童心的人。
+```
+---
