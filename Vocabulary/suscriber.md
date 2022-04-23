@@ -406,3 +406,21 @@ inward, outward
 infancy
 ```
 ---
+Date: 2022.04.23
+
+```
+snap
+flavor
+reveal
+oligarch
+revitalise
+proportion
+assault
+deprive
+scenario
+western intelligence
+troop
+humiliated
+theatre
+```
+---
