@@ -92,3 +92,10 @@ The lover of nature is he whose inward and outward senses are still truly adjust
 热爱大自然的人是那种成年后内外感官依然协调一致，依然保持童心的人。
 ```
 ---
+Date: 2022.04.23
+
+```
+He that loves a book will never want a faithful friend, a wholesome counselor, a cheerful companion, an effectual comforter.
+热爱书的人绝不会缺少忠实的朋友，有益的顾问，愉快地伴侣盒有效地慰藉。
+```
+---
