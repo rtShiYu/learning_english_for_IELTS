@@ -99,3 +99,11 @@ He that loves a book will never want a faithful friend, a wholesome counselor, a
 热爱书的人绝不会缺少忠实的朋友，有益的顾问，愉快地伴侣盒有效地慰藉。
 ```
 ---
+
+Date: 2022.04.24
+
+```
+When you can't make them see the light, make them feel the heat.
+若你不能使他们看到光明，就让他们感受到热度吧。
+```
+---
