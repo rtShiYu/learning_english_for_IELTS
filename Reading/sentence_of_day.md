@@ -107,3 +107,10 @@ When you can't make them see the light, make them feel the heat.
 若你不能使他们看到光明，就让他们感受到热度吧。
 ```
 ---
+Date: 2022.04.25
+
+```
+Everybody thinks of changing humanity, and nobody thinks of changing himself.
+每个人都想着改变别人，没有人想改变自己。
+```
+---
