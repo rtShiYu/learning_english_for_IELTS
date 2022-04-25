@@ -448,3 +448,16 @@ their allies
 along with
 ```
 ---
+Date: 2022.04.26
+- Are you a taker, a giver, or a matcher?([Reference link](https://nesslabs.com/taker-giver-matcher))
+
+```
+scattered
+transactional
+reciprocity
+strive
+breed
+distinctive
+tilt
+```
+---
