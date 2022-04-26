@@ -114,3 +114,11 @@ Everybody thinks of changing humanity, and nobody thinks of changing himself.
 每个人都想着改变别人，没有人想改变自己。
 ```
 ---
+
+Date: 2022.04.26
+
+```
+It is not the years in your life that count, it's the life in your years.
+到头来，你活了多少岁不算什么，重要的是你是如何度过这些岁月的。--亚伯拉罕·林肯
+```
+---
