@@ -461,3 +461,18 @@ distinctive
 tilt
 ```
 ---
+
+Date: 2022.04.27
+
+- 4 Ways to Make Sure You Achieve Your Goals This Year([Reference link](https://hbr.org/2022/04/4-ways-to-make-sure-you-achieve-your-goals-this-year?autocomplete=true))
+
+```
+attest
+tactic(plan of tactic)
+eliminating
+distractions
+intentionally
+overwhelmed
+
+```
+---
