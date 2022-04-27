@@ -122,3 +122,11 @@ It is not the years in your life that count, it's the life in your years.
 到头来，你活了多少岁不算什么，重要的是你是如何度过这些岁月的。--亚伯拉罕·林肯
 ```
 ---
+
+Date: 2022.04.27
+
+```
+Winning is imoportant to me, but what brings me real enjoy is the experience of being fully engaged in whatever I'm doing.
+胜利对我很重要，但带给我真正快乐的是全心全意投入在我所做的事情上。
+```
+---
