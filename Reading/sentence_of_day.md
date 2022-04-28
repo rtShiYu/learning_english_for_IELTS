@@ -130,3 +130,10 @@ Winning is imoportant to me, but what brings me real enjoy is the experience of 
 胜利对我很重要，但带给我真正快乐的是全心全意投入在我所做的事情上。
 ```
 ---
+
+Date: 2022.04.28
+```
+ A smooth sea never made a skilled mariner.
+ 平静的海面造就不了纯熟的水手
+```
+---

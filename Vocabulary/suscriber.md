@@ -476,3 +476,15 @@ overwhelmed
 
 ```
 ---
+
+Date: 2022.04.28
+
+```
+fraud
+engagement
+prospective
+contacts
+revamp
+bargain
+```
+---
