@@ -137,3 +137,10 @@ Date: 2022.04.28
  平静的海面造就不了纯熟的水手
 ```
 ---
+Date: 2022.04.29
+
+```
+Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
+永远做最好的自己，而不做别人的影子。
+```
+---
