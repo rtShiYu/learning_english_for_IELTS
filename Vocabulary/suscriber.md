@@ -488,3 +488,17 @@ revamp
 bargain
 ```
 ---
+
+Date: 2022.04.29
+
+- ‘Find Your Passion’ Is Awful Advice([Reference link](https://www.theatlantic.com/science/archive/2018/07/find-your-passion-is-terrible-advice/564932/))
+
+```
+refrain
+passion
+consequence
+delineate
+implication
+
+```
+---
