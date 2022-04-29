@@ -148,3 +148,19 @@ once 一倍（次）, twice 两倍（次）, three times 三倍（次）, five t
 第九十 ninetieth (90th)     第九十九 ninety-ninth (99th)
 
 ```
+#### 2. 常见序数词的用法
+
+```c++
+// 用来表示年、月、日： "年”用基数词，“日用序数词”，如:
+1949 年10 月1 日——写法： Oct. 1st, 1949. 读作：Oct. （the）first，nineteen forty-nine.
+2017 年2 月28 日——写法：February 28th，2017读作： February，（the）twenty-eighth，two thousand and seventeen.
+
+// 序数词作“几分之几”时,有复数形式。 如:
+1/5→one fifth ; 2/3→ two thirds ; 4/7→ four sevenths ; 1/2→ a half ; 1/4→one fourth =a quarter ; 3/4→three fourths =three quarters ; 50%→ fifty hundredths ( fifty percent).
+
+// 英语中小读的读法是小数点以前的数用基数词读出，小数点读作point,小数点之后的数用基数词逐个读出。如：
+0.7读作zero point seven
+6.18读作 six point one eight
+8.06读作 eight point zero six
+
+```
