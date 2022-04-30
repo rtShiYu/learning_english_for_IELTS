@@ -502,3 +502,20 @@ implication
 
 ```
 ---
+
+Date: 2022.04.30
+
+```
+adventure
+colorado
+loess plateau
+hop
+flume
+awning
+stick
+canyon
+campsite
+conflunce
+bend
+```
+---

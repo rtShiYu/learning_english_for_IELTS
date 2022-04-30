@@ -148,16 +148,7 @@ Always be a first-rate version of yourself, instead of a second-rate version of 
 Date: 2022.04.30
 
 ```
-adventure
-colorado
-loess plateau
-hop
-flume
-awning
-stick
-canyon
-campsite
-conflunce
-bend
+The bitter must come before the sweet; and that also makes the sweet the sweeter.
+苦应于甜，会使甜更甜。
 ```
 ---
