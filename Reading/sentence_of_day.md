@@ -144,3 +144,20 @@ Always be a first-rate version of yourself, instead of a second-rate version of 
 永远做最好的自己，而不做别人的影子。
 ```
 ---
+
+Date: 2022.04.30
+
+```
+adventure
+colorado
+loess plateau
+hop
+flume
+awning
+stick
+canyon
+campsite
+conflunce
+bend
+```
+---
