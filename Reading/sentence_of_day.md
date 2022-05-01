@@ -152,3 +152,11 @@ The bitter must come before the sweet; and that also makes the sweet the sweeter
 苦应于甜，会使甜更甜。
 ```
 ---
+
+Date: 2022.05.01
+
+```
+In the confrontation between the stream and rock, the stream always wins, not through strenth but by persevence.
+在溪流与岩石的对峙里，溪流永远都是胜者，它靠的不是力量而是毅力。
+```
+---
