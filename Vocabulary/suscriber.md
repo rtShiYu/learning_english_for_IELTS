@@ -519,3 +519,14 @@ conflunce
 bend
 ```
 ---
+
+Date: 2022.05.01
+```
+confrontation
+persevence
+hunchback
+petroglyph
+pictograph
+graffiti
+```
+---
