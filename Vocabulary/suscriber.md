@@ -530,3 +530,14 @@ pictograph
 graffiti
 ```
 ---
+
+2022.05.02
+
+```
+flute
+trickster
+fertility
+extensive
+moisture
+```
+---

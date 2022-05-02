@@ -160,3 +160,10 @@ In the confrontation between the stream and rock, the stream always wins, not th
 在溪流与岩石的对峙里，溪流永远都是胜者，它靠的不是力量而是毅力。
 ```
 ---
+Date: 2022.05.02
+
+```
+A winner is just a loser who tired one more time.
+成功的人往外只是比失败的人多尝试了一次。
+```
+---
