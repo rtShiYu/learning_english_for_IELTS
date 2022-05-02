@@ -541,3 +541,22 @@ extensive
 moisture
 ```
 ---
+
+2022.05.03
+
+- How to Build Wealth When You Don’t Come from Money([Reference link](https://hbr.org/2022/03/how-to-build-wealth-when-you-dont-come-from-money))
+
+```
+institute, institution
+mindset
+racism
+obstacle
+consciously
+entertain
+proactive
+overwhelmed
+formative
+accumulated
+literate
+```
+---
