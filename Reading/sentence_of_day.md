@@ -167,3 +167,10 @@ A winner is just a loser who tired one more time.
 成功的人往外只是比失败的人多尝试了一次。
 ```
 ---
+
+Date: 2022.05.03
+
+```
+Education is a progressive discovery of our own ignorance.
+教育是一个逐步发现自己无知的过程。
+```
