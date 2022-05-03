@@ -560,3 +560,19 @@ accumulated
 literate
 ```
 ---
+
+---
+2022.05.04
+
+```
+circumstance
+fallacy
+compensate
+sink, sunk
+averison
+successor
+rigged
+adversion
+aversion
+```
+---
