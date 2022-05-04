@@ -174,3 +174,11 @@ Date: 2022.05.03
 Education is a progressive discovery of our own ignorance.
 教育是一个逐步发现自己无知的过程。
 ```
+
+Date: 2022.05.04
+
+```
+Youth is not a time of life, it is a state of mind.
+青春不是年华，而是心境。
+```
+---
