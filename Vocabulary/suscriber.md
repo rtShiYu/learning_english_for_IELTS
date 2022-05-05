@@ -576,3 +576,20 @@ adversion
 aversion
 ```
 ---
+
+2022.05.05
+
+```
+cliff
+morph
+mine, mining
+ransburg, johannesburg
+speculation
+vast
+iconic
+slant, slanting
+weird
+sandstone
+star trek
+```
+---
