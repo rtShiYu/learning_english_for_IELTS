@@ -182,3 +182,10 @@ Youth is not a time of life, it is a state of mind.
 青春不是年华，而是心境。
 ```
 ---
+
+2022.05.05
+
+```
+Fear melts when you take action towards a goal you really want.
+当你对一个你真正想要的目标付诸行动时，恐惧就会消失。
+```
