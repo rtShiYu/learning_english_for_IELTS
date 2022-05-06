@@ -183,9 +183,16 @@ Youth is not a time of life, it is a state of mind.
 ```
 ---
 
-2022.05.05
+Date: 2022.05.05
 
 ```
 Fear melts when you take action towards a goal you really want.
 当你对一个你真正想要的目标付诸行动时，恐惧就会消失。
 ```
+
+---
+Date: 2022.05.06
+If you look the right way, you can see that the whole world is a garden.
+如果欣赏的角度对了，整个世界都是花园。
+
+---
