@@ -196,3 +196,10 @@ If you look the right way, you can see that the whole world is a garden.
 如果欣赏的角度对了，整个世界都是花园。
 
 ---
+
+Date: 2022.05.07
+
+```
+The hard thing to do and the right thing to do are usually the same thing.
+难做的事和该做的事往往是同一件事。
+```
