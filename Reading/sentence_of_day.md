@@ -203,3 +203,12 @@ Date: 2022.05.07
 The hard thing to do and the right thing to do are usually the same thing.
 难做的事和该做的事往往是同一件事。
 ```
+---
+Date: 2022.05.08
+
+```
+To Mothers: Happy Mother's Day! Love yourself to gain more happiness!
+致母亲：母亲节快乐！爱自己，更快乐!
+```
+---
+
