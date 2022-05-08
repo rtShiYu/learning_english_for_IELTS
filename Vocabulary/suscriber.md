@@ -605,7 +605,7 @@ attorney
 ```
 ---
 
-Date: 2022.05.06
+Date: 2022.05.07
 
 ```
 cultivate
@@ -619,3 +619,13 @@ grant
 mundane
 ```
 ---
+
+Date: 2022.05.08
+
+```
+calibration
+identify
+subsequent
+apartment
+exploit or explore
+```
