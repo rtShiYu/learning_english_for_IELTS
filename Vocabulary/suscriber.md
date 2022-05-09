@@ -629,3 +629,17 @@ subsequent
 apartment
 exploit or explore
 ```
+
+---
+Date: 2022.05.09
+
+- "Exercise Guilt" Is Real — But It Shouldn’t Be ([reference link](https://hbr.org/2022/05/exercise-guilt-is-real-but-it-shouldnt-be#:~:text=Where%20your%20work%20meets%20your,is%20good%20for%20our%20health.))
+```
+unmet
+cognitive
+thwarted
+thwarted
+intensive
+Sedentary, Sensible, Superfluous
+```
+---
