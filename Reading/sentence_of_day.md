@@ -212,3 +212,10 @@ To Mothers: Happy Mother's Day! Love yourself to gain more happiness!
 ```
 ---
 
+Date: 2022.05.09
+
+```
+What's life without a little risk？
+生活怎么能没有点儿小冒险呢？
+```
+---
