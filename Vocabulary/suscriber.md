@@ -643,3 +643,18 @@ intensive
 Sedentary, Sensible, Superfluous
 ```
 ---
+
+Date: 2022.05.10
+
+- Your Thinking Rate Is Fixed ([reference link](https://fs.blog/thinking-rate-fixed/#:~:text=DeMarco%20writes%2C%20%E2%80%9CThink%20rate%20is,to%20sustain%20it%20for%20long.))
+
+```
+chase, chasing
+proportion
+discern
+anticipate
+pattern
+intuition
+
+```
+---
