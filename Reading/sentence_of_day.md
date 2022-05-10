@@ -219,3 +219,11 @@ What's life without a little risk？
 生活怎么能没有点儿小冒险呢？
 ```
 ---
+
+Date: 2022.05.10
+
+```
+You can like the life you're living. You can live the life you like.
+你可以热爱已有的生活，也可以去追求想要的生活。
+```
+---
