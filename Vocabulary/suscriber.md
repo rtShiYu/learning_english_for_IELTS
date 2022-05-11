@@ -658,3 +658,14 @@ intuition
 
 ```
 ---
+
+Date: 2022.05.11
+```
+photopic
+infrared
+ambient
+thermopile
+absorb
+chamber
+```
+---
