@@ -669,3 +669,15 @@ absorb
 chamber
 ```
 ---
+
+Date: 2022.05.12
+
+```
+quantifiable
+quota
+attainment
+deliverables
+onboarding
+metrics
+```
+---
