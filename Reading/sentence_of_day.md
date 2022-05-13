@@ -242,3 +242,10 @@ Disaster is more painful for survivors because it's hard to forget.
 灾难对于幸存者来说更痛苦，因为它难以忘却。
 ```
 ---
+
+Date: 2022.05.13
+```
+Don't let anyone ever make you feel like you don't deserve what you want.
+别让任何人让你觉得自己不配拥有梦想。
+```
+---
