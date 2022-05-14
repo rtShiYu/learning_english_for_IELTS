@@ -249,3 +249,10 @@ Don't let anyone ever make you feel like you don't deserve what you want.
 别让任何人让你觉得自己不配拥有梦想。
 ```
 ---
+
+Date: 2022.05.14
+```
+Saving the world requires sacrifice.
+拯救世界需要付出代价。
+```
+---
