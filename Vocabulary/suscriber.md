@@ -710,3 +710,20 @@ cozy
 owl
 ```
 ---
+
+Date: 2022.05.16
+```
+evacuate
+eliminate
+braces
+tamper
+cruise
+compliment
+cinder
+cone
+trailhead
+indentation
+texture
+petrified
+```
+---
