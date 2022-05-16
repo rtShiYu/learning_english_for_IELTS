@@ -727,3 +727,14 @@ texture
 petrified
 ```
 ---
+
+Date: 2022.05.17
+- Lazy Expert Syndrome: How to Stay on Top of Your Game([reference link](https://www.riskology.co/lazy-expert-syndrome/))
+```
+literally
+painstakingly
+testify
+flub
+ego
+```
+---
