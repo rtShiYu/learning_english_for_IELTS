@@ -263,3 +263,10 @@ The real danger is that if we hear enough lies, then we no longer recognize the 
 真正的危险是，我们听多了谎言，便不再能分辨出真相。
 ```
 ---
+
+Date: 2022.05.16
+```
+Take a break from worrying about what you can't control. Live a little.
+别杞人忧天，活在当下。
+```
+---
