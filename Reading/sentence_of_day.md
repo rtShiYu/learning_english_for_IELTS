@@ -270,3 +270,11 @@ Take a break from worrying about what you can't control. Live a little.
 别杞人忧天，活在当下。
 ```
 ---
+
+Date: 2022.05.17
+
+```
+Do not let your emotions override your judgment.
+不要被情绪影响了你的判断力
+```
+---
