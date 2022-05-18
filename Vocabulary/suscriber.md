@@ -738,3 +738,17 @@ flub
 ego
 ```
 ---
+
+Date: 2022.05.18
+
+```
+brutal
+clearance
+lava
+obscure
+scramble
+circular
+fern
+dome
+```
+---
