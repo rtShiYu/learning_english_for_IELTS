@@ -278,3 +278,11 @@ Do not let your emotions override your judgment.
 不要被情绪影响了你的判断力
 ```
 ---
+
+Date: 2022.05.18
+
+```
+If we just open the door a crack, the light comes pouring in.
+只要把门打开一丝缝隙，光就会倾泄而入。
+```
+---
