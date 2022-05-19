@@ -286,3 +286,11 @@ If we just open the door a crack, the light comes pouring in.
 只要把门打开一丝缝隙，光就会倾泄而入。
 ```
 ---
+
+Date: 2022.05.19
+
+```
+It's okay to be scared. In order to be brave, we got to be a little scared.
+害怕是正常的，感到害怕才能学会勇敢。
+```
+---
