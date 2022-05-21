@@ -302,3 +302,11 @@ The greatest thing I've ever known is to love and be loved in return.
 我所知道的最美好的事莫过于双向奔赴的爱。
 ```
 ---
+
+Date: 2022.05.21
+
+```
+There's no rhyme or reason for this life.
+世事无常。
+```
+---
