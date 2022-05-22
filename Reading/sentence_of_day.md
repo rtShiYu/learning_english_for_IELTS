@@ -310,3 +310,11 @@ There's no rhyme or reason for this life.
 世事无常。
 ```
 ---
+
+Date: 2022.05.22
+
+```
+It is much more difficult to judge oneself than to judge others.
+审判自己比审判别人要难得多。
+```
+---
