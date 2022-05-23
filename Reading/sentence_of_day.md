@@ -318,3 +318,11 @@ It is much more difficult to judge oneself than to judge others.
 审判自己比审判别人要难得多。
 ```
 ---
+
+Date: 2022.05.23
+
+```
+Happiness is a way station between to much and too little.
+幸福是太多和太少之间的一站。
+```
+---
