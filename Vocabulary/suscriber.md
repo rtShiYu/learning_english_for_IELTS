@@ -811,3 +811,15 @@ stretch
 erroneous
 
 ```
+---
+Date: 2022.05.24
+
+```
+emerge
+evolve
+gesture
+spontaneously
+dialect
+linguist
+```
+---
