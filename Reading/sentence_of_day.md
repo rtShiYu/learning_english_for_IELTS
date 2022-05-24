@@ -326,3 +326,10 @@ Happiness is a way station between to much and too little.
 幸福是太多和太少之间的一站。
 ```
 ---
+
+Date: 2022.05.24
+```
+If you are good at something, never do it for free.
+擅长的事情，绝不能白干。
+```
+---
