@@ -823,3 +823,17 @@ dialect
 linguist
 ```
 ---
+
+Date: 2022.05,25
+
+```
+primary
+pupil
+governor
+gunman
+handgun
+rifle
+reunite
+assailant
+horrifically
+```
