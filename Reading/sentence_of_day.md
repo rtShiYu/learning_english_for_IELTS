@@ -333,3 +333,10 @@ If you are good at something, never do it for free.
 擅长的事情，绝不能白干。
 ```
 ---
+
+Date: 2022.05.25
+```
+People are afraid of what they don't understand.
+人们害怕他们不理解的东西。
+```
+---
