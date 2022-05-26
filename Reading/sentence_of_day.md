@@ -340,3 +340,10 @@ People are afraid of what they don't understand.
 人们害怕他们不理解的东西。
 ```
 ---
+
+Date: 2022.05.26
+
+```
+I see an opportunity, and I make it happen.
+只要有机会，我就绝不让它溜走。
+```
