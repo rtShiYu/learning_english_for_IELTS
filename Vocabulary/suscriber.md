@@ -837,7 +837,7 @@ reunite
 assailant
 horrifically
 ```
-
+---
 Date: 2022.05.26
 
 ```
@@ -849,6 +849,7 @@ Ship from; ship to
 thansit
 ```
 
+---
 Date: 2022.05.27
 
 ```
@@ -857,4 +858,15 @@ banner
 retail
 confusion
 rolling
+```
+
+---
+Date: 2022.05.28
+```
+spin
+notable
+probe
+prompted
+manifest
+perspective
 ```
