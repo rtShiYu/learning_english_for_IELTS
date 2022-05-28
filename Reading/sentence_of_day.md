@@ -347,9 +347,16 @@ Date: 2022.05.26
 I see an opportunity, and I make it happen.
 只要有机会，我就绝不让它溜走。
 ```
-
+---
 Date: 2022.05.27
 ```
 You don't have to let the result of one mistake be the thing that defines you.
 别被区区一个过失定义了自己。
+```
+
+---
+Date: 2022.05.28
+```
+Don't waste your time looking back. You're not going that way.
+不要浪费时间回头看，你要走的不是回头路。
 ```
