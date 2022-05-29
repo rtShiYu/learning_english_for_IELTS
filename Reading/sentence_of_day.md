@@ -360,3 +360,10 @@ Date: 2022.05.28
 Don't waste your time looking back. You're not going that way.
 不要浪费时间回头看，你要走的不是回头路。
 ```
+
+---
+Date: 2022.05.29
+```
+Possessions are generally diminished by possession.
+越想占有，越会失去。
+```
