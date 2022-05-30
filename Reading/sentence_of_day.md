@@ -367,3 +367,10 @@ Date: 2022.05.29
 Possessions are generally diminished by possession.
 越想占有，越会失去。
 ```
+---
+Date: 2022.05.30
+
+```
+A person often meets his destiny on the road he took to avoid it.
+逃避命运之人，终将直面命运。
+```
