@@ -374,3 +374,10 @@ Date: 2022.05.30
 A person often meets his destiny on the road he took to avoid it.
 逃避命运之人，终将直面命运。
 ```
+
+---
+Date: 2022.05.31
+```
+To live would be an awfully big adventure.
+生活是一场大冒险。
+```
