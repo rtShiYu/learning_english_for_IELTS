@@ -395,3 +395,10 @@ Date: 2022.06.02
 After all the difficult times, you will embrace a bright future.
 熬过所有的艰难时刻，你将前程似锦。
 ```
+
+---
+Date: 2022.06.03
+```
+After drinking realgar wine, all diseases are far away.
+喝了雄黄酒，百病远离。
+```
