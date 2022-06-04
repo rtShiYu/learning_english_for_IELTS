@@ -940,3 +940,15 @@ raft
 mad
 kayaks
 ```
+
+---
+Date: 2022.06.04
+```
+gasoline
+medicare
+prospect
+deficit
+wheat and corn
+harvest
+barrel
+```
