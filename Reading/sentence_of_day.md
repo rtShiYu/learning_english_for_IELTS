@@ -402,3 +402,10 @@ Date: 2022.06.03
 After drinking realgar wine, all diseases are far away.
 喝了雄黄酒，百病远离。
 ```
+
+---
+Date: 2022.06.04
+```
+All your efforts will be paid off one day.
+你所有的努力终会有所回报。
+```
