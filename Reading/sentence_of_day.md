@@ -409,3 +409,10 @@ Date: 2022.06.04
 All your efforts will be paid off one day.
 你所有的努力终会有所回报。
 ```
+
+---
+Date: 2022.06.05
+```
+The road is tortuous, but the future is bright.
+前路虽有崎岖坎坷，未来却会光明万丈。
+```
