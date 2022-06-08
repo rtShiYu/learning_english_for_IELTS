@@ -430,3 +430,10 @@ Date: 2022.06.07
 Let's seize the day and live it to the fullest.
 只争朝夕，不负韶华。
 ```
+
+---
+Date: 2022.06.08
+```
+The fact that you are beaten by darkness proves that you are light itself.
+你被黑暗敲打，恰恰证明你是光明本身。
+```
