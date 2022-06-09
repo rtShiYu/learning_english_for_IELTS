@@ -999,3 +999,15 @@ assault
 drought
 sumptuous
 ```
+
+---
+Date: 2022.06.09
+```
+escalation
+accurate
+procurement
+stuck
+weird
+exposure
+
+```
