@@ -437,3 +437,10 @@ Date: 2022.06.08
 The fact that you are beaten by darkness proves that you are light itself.
 你被黑暗敲打，恰恰证明你是光明本身。
 ```
+
+---
+Date: 2022.06.09
+```
+That which does not defeat us makes us stronger.
+那些不能打败我们的，终将使我们更强大。
+```
