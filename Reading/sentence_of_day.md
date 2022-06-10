@@ -444,3 +444,11 @@ Date: 2022.06.09
 That which does not defeat us makes us stronger.
 那些不能打败我们的，终将使我们更强大。
 ```
+---
+
+Date: 2022.06.10
+```
+When you start to live the life you have been wanting, all the scars of the past will become medals.
+当你过上了想要的生活，过往的一切伤疤都会成为勋章。
+```
+
