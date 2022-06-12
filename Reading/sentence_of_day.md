@@ -458,3 +458,10 @@ Eternity is not a distance but a decision.
 永远不是一种距离，而是一种决定。
 ```
 
+---
+Date: 2022.06.12
+```
+To sin by silence when we should protest makes cowards out of men.
+应该抗议时却保持沉默，这种罪过使人成为懦夫。
+```
+
