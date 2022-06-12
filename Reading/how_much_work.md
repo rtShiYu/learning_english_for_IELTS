@@ -1,0 +1,23 @@
+# How much work is enough work
+[Anne-Laure Le Cunff](https://nesslabs.com/author/annelaure) • Reading time: 4 minutes
+
+Many people believe the more they work, the more productive they are. But it couldn’t be further from the truth. How much work is enough work? Is there an ideal number of hours you should work everyday? This is an interesting question at the intersection of [productivity](https://nesslabs.com/mindful-productivity) and [time management](https://nesslabs.com/time-management). And the good news is: we may have an answer.
+## Four hours of creative work
+In the early 1950s, psychology professors Raymond Van Zelst and Willard Kerr from the Illinois Institute of Technology [surveyed](https://amzn.to/31TAz8V) almost 200 of their colleagues about their work habits and schedules. They then graphed the number of hours spent working in the office against the number of articles they published in order to measure their productivity.
+
+![](https://cdn.nlark.com/yuque/0/2022/jpeg/459569/1648914575519-15bf926b-d680-4c8b-8174-cfa50364adf6.jpeg#clientId=u27839638-aa60-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=u34f2ca20&margin=%5Bobject%20Object%5D&originHeight=629&originWidth=800&originalType=url&ratio=1&rotation=0&showTitle=false&status=done&style=none&taskId=ueb3dbdc8-7c02-4695-8fe3-6f9638dade1&title=)
+Instead of the linear graph you may expect—more hours equals more papers—the data instead revealed an M-shaped curve. The curve peaked between 10 and 20 hours of work per week, then turned downward. It’s fascinating to notice that researchers who spent 25 hours working per week were no more productive than those who spent five. Around 35 hours of work per week—incidentally, the legal number of work hours in France where I’m originally from—was the worst in terms of productivity. The curve rises again around 50 hours a week, but looking at the data reveals that it was only the case for people who had more physical tasks, where scientists spent a lot of time taking measurements and attending to machines.
+
+These figures suggest that if you’re a knowledge worker and your job doesn’t require you to perform lots of physical tasks, it would make more sense to do creative work about four hours a day. By creative work, I mean focused, highly productive and output-driven work. So what do you do with the rest of the day?
+
+The rest of the day should be used to recharge your creative batteries. Read books and blogs in a relaxed environment, listen to podcasts relevant to your work, go for a walk, schedule conversations with people in your field you would like to connect with and learn from, make sure to have time to spend with your friends and family, take care of your health by cooking and exercising. All of these are not exactly work, but they will make you much more productive in the long term.
+## Famous innovators with short working hours
+If you decide—and can afford—to work shorter hours, you will be in good company. Many of the most productive people in history had famously short working hours.
+
+- **Charles Dickens.** After five hours of work, the writer was done for the day. He would work from nine to two, with a break for lunch, and dedicate the rest of the day to reading and spending time with acquaintances.
+- **Thomas Mann.** “Afternoons are for reading, for my much too mountainous correspondence and for walks,” the Nobel laureate said. He would shut himself in his office daily from 9am to lunchtime to work on longer pieces of work such as novels. After an hour-long nap and afternoon tea, he would spend another hour working on editing and shorter pieces. After that, he was done for the day.
+- **Charles Darwin.** After breakfast and a morning walk, the famous scientist was in his study by 8am and worked for an hour and a half. At 9:30, he would write letters and read the morning mail. One hour later, Darwin returned to work. And, by noon, he was done with work. The rest of the day was spent having lunch, answering more letters, taking a nap, having another walk, and spending time with his wife and family.
+
+Émile Zola and Henri Poincaré also had very short daily work schedules. “Four hours of creative work a day is about the limit for a mathematician,” said Poincaré, confirming the findings from scientific research. He published about thirty books and five hundred papers in his lifetime—not bad in terms of productivity.
+
+Of course, not everyone can afford to work shorter hours, especially in jobs where people are paid by the hour such as many freelancers, and these findings do not apply to physical jobs. But in the realm of knowledge work, this research shows that we need to keep on shifting our focus on productive output versus amount of input.
