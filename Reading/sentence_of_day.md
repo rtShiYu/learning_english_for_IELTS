@@ -465,3 +465,10 @@ To sin by silence when we should protest makes cowards out of men.
 应该抗议时却保持沉默，这种罪过使人成为懦夫。
 ```
 
+---
+Date: 2022.06.13
+```
+Miracles sometimes occur, but one has to work terribly for them.
+奇迹有时候是会发生的，但是你得为之拼命地努力。
+```
+
