@@ -485,3 +485,10 @@ Date: 2022.06.15
 May you be loyal to yourself, live like yourself.
 愿你忠于自我，活出自我。
 ```
+
+---
+Date: 2022.06.16
+```
+The best preparation for tomorrow is doing your best today.
+在今天把事情做到最好就是对明天的最好准备。
+```
