@@ -492,3 +492,10 @@ Date: 2022.06.16
 The best preparation for tomorrow is doing your best today.
 在今天把事情做到最好就是对明天的最好准备。
 ```
+
+---
+Date: 2022.06.17
+```
+No road of flowers leads to glory.
+没有一条通往光荣的道路是铺满鲜花的。
+```
