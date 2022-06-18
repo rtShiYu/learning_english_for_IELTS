@@ -499,3 +499,10 @@ Date: 2022.06.17
 No road of flowers leads to glory.
 没有一条通往光荣的道路是铺满鲜花的。
 ```
+
+---
+Date: 2022.06.18
+```
+Loving you is the most grand and joyful secret in my youth.
+爱你是我青春里最盛大且欢愉的秘密。
+```
