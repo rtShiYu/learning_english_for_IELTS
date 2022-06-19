@@ -1108,3 +1108,14 @@ conflict
 segment
 executable
 ```
+
+---
+Date: 2022.06.19
+```
+scare
+heaven
+immoral
+pretend
+miracle
+cunt/twat
+```
