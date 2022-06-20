@@ -1119,3 +1119,16 @@ pretend
 miracle
 cunt/twat
 ```
+
+---
+Date: 2022.06.20
+```
+transitory
+circumstance
+burnout
+glorify
+snag
+corner
+entrepreneur
+mainfest
+```
