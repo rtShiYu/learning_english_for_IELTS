@@ -527,3 +527,12 @@ Date: 2022.06.21
 A great ship asks for deep waters.
 大船寻深水而航行。
 ```
+
+---
+Date: 2022.06.22
+```
+intensive
+scrolling
+versatility
+collaborative
+```
