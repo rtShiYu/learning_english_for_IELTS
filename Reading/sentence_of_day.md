@@ -520,3 +520,10 @@ Date: 2022.06.20
 You fail to recognize that it matters not what someone is born, but what they grow to be.
 你没有认识到，重要的不是一个人的出生，而是他们成长的样子。
 ```
+
+---
+Date: 2022.06.21
+```
+A great ship asks for deep waters.
+大船寻深水而航行。
+```
