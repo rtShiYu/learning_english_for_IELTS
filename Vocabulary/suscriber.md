@@ -1132,3 +1132,23 @@ corner
 entrepreneur
 mainfest
 ```
+
+---
+Date: 2022.06.21
+```
+intensive
+scrolling
+versatility
+collaborative
+```
+
+---
+Date: 2022.06.22
+```
+fortunate
+trail
+strap
+traction
+trick
+rob
+```
