@@ -534,3 +534,10 @@ Date: 2022.06.22
 The good seaman is known in bad weather.
 惊涛骇浪，方显英雄本色。
 ```
+
+---
+Date: 2022.06.23
+```
+Not pleased by external gains, not saddened by personal losses.
+不以物喜，不以己悲。
+```
