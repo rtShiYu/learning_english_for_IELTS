@@ -1152,3 +1152,14 @@ traction
 trick
 rob
 ```
+
+---
+Date: 2022.06.23
+```
+spruce
+hurl
+sift
+churn
+dirt
+pump
+```
