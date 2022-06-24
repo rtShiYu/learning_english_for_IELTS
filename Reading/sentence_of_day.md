@@ -541,3 +541,10 @@ Date: 2022.06.23
 Not pleased by external gains, not saddened by personal losses.
 不以物喜，不以己悲。
 ```
+
+---
+Date: 2022.06.24
+```
+Stop comparing yourself to other people. You are only on the planet to be you, not someone else's imitation of you.
+不要把自己跟别人比较。你来到这个世上就是为了做你自己，而不是模仿别人。
+```
