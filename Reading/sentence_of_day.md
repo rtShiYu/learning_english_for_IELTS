@@ -562,3 +562,10 @@ Date: 2022.06.26
 Those who follow the light will eventually be radiant.
 追光者终将光芒万丈。
 ```
+
+---
+Date: 2022.06.27
+```
+If you think the road is difficult, it must be uphill.
+如果你觉得路难走，那它一定是上坡路。
+```
