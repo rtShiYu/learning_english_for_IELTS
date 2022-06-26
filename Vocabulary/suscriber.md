@@ -1194,3 +1194,14 @@ miles
 tire/tires
 destiny
 ```
+
+---
+Date: 2022.06.27
+```
+mobilize
+ripe
+shock
+autocrat
+brutal
+abortion
+```
