@@ -1205,3 +1205,13 @@ autocrat
 brutal
 abortion
 ```
+
+---
+Date: 2022.06.28
+```
+flatter
+trustworthy
+wholesome
+compromise
+railroad
+```
