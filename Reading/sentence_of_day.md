@@ -569,9 +569,17 @@ Date: 2022.06.27
 If you think the road is difficult, it must be uphill.
 如果你觉得路难走，那它一定是上坡路。
 ```
-
+---
 Date: 2022.06.28
 ```
 When we let go of something, it opens up a little space to grow.
 当我们放手时，也得到了成长。
 ```
+
+---
+Date: 2022.06.29
+```
+The result may joke with you, but the process won't.
+结果可能会和你开玩笑，但过程不会。
+```
+
