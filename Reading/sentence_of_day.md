@@ -583,3 +583,9 @@ The result may joke with you, but the process won't.
 结果可能会和你开玩笑，但过程不会。
 ```
 
+---
+Date: 2022.06.30
+```
+The perfection of personality is the foundation, and the establishment of wealth is the end.
+人格的完善是本，财富的确立是末。
+```
