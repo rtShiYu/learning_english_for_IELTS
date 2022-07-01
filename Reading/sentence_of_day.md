@@ -589,3 +589,10 @@ Date: 2022.06.30
 The perfection of personality is the foundation, and the establishment of wealth is the end.
 人格的完善是本，财富的确立是末。
 ```
+
+---
+Date: 2022.07.01
+```
+Dreams are like stars. You may never touch them, but if you follow them, they will lead you to your destiny.
+梦想就像星星，也许你永远无法触碰，但如果跟随它们，它们将引领你找到人生的路。
+```
