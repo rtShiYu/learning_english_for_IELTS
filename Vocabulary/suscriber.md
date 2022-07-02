@@ -1245,3 +1245,13 @@ curriculum
 supermacist
 contraception
 ```
+
+---
+Date: 2022.07.02
+```
+self-discipline
+petition
+impartial
+impeach
+nominee
+```
