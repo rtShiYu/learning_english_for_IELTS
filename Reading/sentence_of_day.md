@@ -596,3 +596,10 @@ Date: 2022.07.01
 Dreams are like stars. You may never touch them, but if you follow them, they will lead you to your destiny.
 梦想就像星星，也许你永远无法触碰，但如果跟随它们，它们将引领你找到人生的路。
 ```
+
+---
+Date: 2022.07.02
+```
+Self-discipline is the first condition of freedom.
+自律是自由的首要条件。
+```
