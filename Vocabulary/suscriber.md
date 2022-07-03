@@ -1045,3 +1045,213 @@ neat
 soak
 leash
 ```
+
+---
+Date: 2022.06.13
+```
+introvert
+envision
+mandatory
+delegation
+diversity
+paucity
+```
+---
+Date: 2022.06.14
+```
+plumber
+interpolated
+hilarious
+warranty
+fortune
+```
+
+---
+Date: 2022.06.15
+```
+frustration
+symptoms
+intense
+mobility
+validation
+entail
+```
+
+---
+Date: 2022.06.16
+```
+meta
+repetition
+collapse
+paddy
+volatility
+meltdown
+```
+
+Date: 2022.06.17
+---
+```
+boundary
+metaphor
+akin
+mechanism
+ignition
+dominate
+```
+
+---
+Date: 2022.06.18
+```
+assember
+combined
+conflict
+segment
+executable
+```
+
+---
+Date: 2022.06.19
+```
+scare
+heaven
+immoral
+pretend
+miracle
+cunt/twat
+```
+
+---
+Date: 2022.06.20
+```
+transitory
+circumstance
+burnout
+glorify
+snag
+corner
+entrepreneur
+mainfest
+```
+
+---
+Date: 2022.06.21
+```
+intensive
+scrolling
+versatility
+collaborative
+```
+
+---
+Date: 2022.06.22
+```
+fortunate
+trail
+strap
+traction
+trick
+rob
+```
+
+---
+Date: 2022.06.23
+```
+spruce
+hurl
+sift
+churn
+dirt
+pump
+```
+
+---
+Date: 2022.06.24
+```
+hydraulic
+sluice
+inundate
+hillside
+weathered
+dredge
+```
+
+---
+Date: 2022.06.25
+```
+refurb
+reils
+unmet
+reservation
+wrapping
+```
+
+---
+Date: 2022.06.26
+```
+beefy
+cruiser
+miles
+tire/tires
+destiny
+```
+
+---
+Date: 2022.06.27
+```
+mobilize
+ripe
+shock
+autocrat
+brutal
+abortion
+```
+
+---
+Date: 2022.06.28
+```
+flatter
+trustworthy
+wholesome
+compromise
+railroad
+```
+
+---
+Date: 2022.06.29
+```
+monolithic
+primarily
+determine
+precision
+legacy
+```
+
+---
+Date: 2022.06.30
+```
+approved
+stick/stuck
+credentials
+incredible
+resilience
+```
+
+---
+Date: 2022.07.01
+```
+proposal
+involuntary
+curriculum
+supermacist
+contraception
+```
+
+---
+Date: 2022.07.02
+```
+self-discipline
+petition
+impartial
+impeach
+nominee
+```

@@ -465,3 +465,141 @@ To sin by silence when we should protest makes cowards out of men.
 应该抗议时却保持沉默，这种罪过使人成为懦夫。
 ```
 
+---
+Date: 2022.06.13
+```
+Miracles sometimes occur, but one has to work terribly for them.
+奇迹有时候是会发生的，但是你得为之拼命地努力。
+```
+
+---
+Date: 2022.06.14
+```
+Great things never came from comfort zones.
+伟大的事物从不来自于舒适圈。
+```
+
+---
+Date: 2022.06.15
+```
+May you be loyal to yourself, live like yourself.
+愿你忠于自我，活出自我。
+```
+
+---
+Date: 2022.06.16
+```
+The best preparation for tomorrow is doing your best today.
+在今天把事情做到最好就是对明天的最好准备。
+```
+
+---
+Date: 2022.06.17
+```
+No road of flowers leads to glory.
+没有一条通往光荣的道路是铺满鲜花的。
+```
+
+---
+Date: 2022.06.18
+```
+Loving you is the most grand and joyful secret in my youth.
+爱你是我青春里最盛大且欢愉的秘密。
+```
+
+---
+Date: 2022.06.19
+```
+The first time I hugged the sky was when you held me above your head.
+我第一次拥抱天空是您将我举过头顶。
+```
+
+---
+Date: 2022.06.20
+```
+You fail to recognize that it matters not what someone is born, but what they grow to be.
+你没有认识到，重要的不是一个人的出生，而是他们成长的样子。
+```
+
+---
+Date: 2022.06.21
+```
+A great ship asks for deep waters.
+大船寻深水而航行。
+```
+
+---
+Date: 2022.06.22
+```
+The good seaman is known in bad weather.
+惊涛骇浪，方显英雄本色。
+```
+
+---
+Date: 2022.06.23
+```
+Not pleased by external gains, not saddened by personal losses.
+不以物喜，不以己悲。
+```
+
+---
+Date: 2022.06.24
+```
+Stop comparing yourself to other people. You are only on the planet to be you, not someone else's imitation of you.
+不要把自己跟别人比较。你来到这个世上就是为了做你自己，而不是模仿别人。
+```
+
+---
+Date: 2022.06.25
+```
+Fortune favors the bold.
+好运眷顾勇者。
+```
+
+---
+Date: 2022.06.26
+```
+Those who follow the light will eventually be radiant.
+追光者终将光芒万丈。
+```
+
+---
+Date: 2022.06.27
+```
+If you think the road is difficult, it must be uphill.
+如果你觉得路难走，那它一定是上坡路。
+```
+---
+Date: 2022.06.28
+```
+When we let go of something, it opens up a little space to grow.
+当我们放手时，也得到了成长。
+```
+
+---
+Date: 2022.06.29
+```
+The result may joke with you, but the process won't.
+结果可能会和你开玩笑，但过程不会。
+```
+
+---
+Date: 2022.06.30
+```
+The perfection of personality is the foundation, and the establishment of wealth is the end.
+人格的完善是本，财富的确立是末。
+```
+
+---
+Date: 2022.07.01
+```
+Dreams are like stars. You may never touch them, but if you follow them, they will lead you to your destiny.
+梦想就像星星，也许你永远无法触碰，但如果跟随它们，它们将引领你找到人生的路。
+```
+
+---
+Date: 2022.07.02
+```
+Self-discipline is the first condition of freedom.
+自律是自由的首要条件。
+```
