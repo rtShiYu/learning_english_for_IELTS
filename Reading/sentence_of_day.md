@@ -603,3 +603,10 @@ Date: 2022.07.02
 Self-discipline is the first condition of freedom.
 自律是自由的首要条件。
 ```
+
+---
+Date: 2022.07.03
+```
+Don't rush to deny yourself before you get the result.
+在你还没得到结果之前，不要急于否定自己。
+```
