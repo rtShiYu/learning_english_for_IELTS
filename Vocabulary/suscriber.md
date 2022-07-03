@@ -1255,3 +1255,15 @@ impartial
 impeach
 nominee
 ```
+
+---
+Date: 2022.07.03
+```
+frisky
+shuttle
+croissant
+bastard
+complaint
+pan
+pregnant
+```
