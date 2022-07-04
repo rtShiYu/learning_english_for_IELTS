@@ -610,3 +610,10 @@ Date: 2022.07.03
 Don't rush to deny yourself before you get the result.
 在你还没得到结果之前，不要急于否定自己。
 ```
+
+---
+Date: 2022.07.04
+```
+The darker the sky, the brighter stars.
+天空越黑，星星越亮。
+```
