@@ -624,3 +624,10 @@ Date: 2022.07.05
 Every effort is the foreshadowing of luck.
 每一次努力都是幸运的伏笔。
 ```
+
+---
+Date: 2022.07.06
+```
+Our greatest glory consists not in never falling, but in rising every time.
+我们最值得自豪的不是从未跌倒，而是每次跌倒后都能站起来。
+```
