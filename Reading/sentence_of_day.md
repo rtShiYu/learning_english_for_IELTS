@@ -1,6 +1,6 @@
 # 每日英语
 
---- 
+---
 Date: 2022.04.11
 
 ```
@@ -15,7 +15,7 @@ Date: 2022.04.12
 With ordinary talent and extraordinary perseverance, all things are attainable.
 平凡的智力加上非凡的坚持，所有的事情皆可达成
 ```
---- 
+---
 Date: 2022.04.13
 
 ```
@@ -637,4 +637,11 @@ Date: 2022.07.07
 ```
 Turn sweat into pearls and dreams into reality.
 把汗水变成珍珠，把梦想变成现实。
+```
+
+---
+Date: 2022.07.08
+```
+At that time, youth was blooming, with the sun blazing and wind kissing the treetop.
+
 ```
