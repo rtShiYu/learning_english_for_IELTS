@@ -645,3 +645,11 @@ Date: 2022.07.08
 At that time, youth was blooming, with the sun blazing and wind kissing the treetop.
 
 ```
+
+---
+Date: 2022.07.09
+```
+Home is not a place, but a kind of memory.
+故乡不是一个地方，而是一种记忆。
+
+```
