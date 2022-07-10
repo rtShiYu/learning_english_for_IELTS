@@ -1336,3 +1336,13 @@ glacier
 paraglider
 demon
 ```
+
+---
+Date: 2022.07.10
+```
+scare
+insect
+spider
+thirsty
+fever
+```
