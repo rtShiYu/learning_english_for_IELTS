@@ -653,3 +653,10 @@ Home is not a place, but a kind of memory.
 故乡不是一个地方，而是一种记忆。
 
 ```
+
+---
+Date: 2022.07.10
+```
+A man is not old until regrets take the place of dreams.
+当懊悔取代梦想时，人也就老了。
+```
