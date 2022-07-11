@@ -1346,3 +1346,13 @@ spider
 thirsty
 fever
 ```
+
+---
+Data: 2022. 07.11
+```
+campsite
+pension
+element
+trigger
+mandatory
+```
