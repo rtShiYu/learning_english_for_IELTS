@@ -1356,3 +1356,15 @@ element
 trigger
 mandatory
 ```
+
+---
+Date: 2022.07.12
+```
+stark
+inequity
+quarter
+fossil
+fuel
+coal
+scrutiny
+```
