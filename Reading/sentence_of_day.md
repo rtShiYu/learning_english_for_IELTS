@@ -667,3 +667,10 @@ Date: 2022.07.11
 We read to know we're not alone.
 我们阅读，是为了知道自己并不孤独。
 ```
+
+---
+Date: 2022.07.12
+```
+Love rises in the east and falls in the west, romance lasts till death.
+爱意东升西落，浪漫至死不渝。
+```
