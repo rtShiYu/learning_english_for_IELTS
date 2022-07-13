@@ -1368,3 +1368,13 @@ fuel
 coal
 scrutiny
 ```
+
+---
+Date: 2022.07.13
+```
+northwest
+air strike
+mandatory
+inflation
+aggressive
+```
