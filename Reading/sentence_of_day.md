@@ -674,3 +674,10 @@ Date: 2022.07.12
 Love rises in the east and falls in the west, romance lasts till death.
 爱意东升西落，浪漫至死不渝。
 ```
+
+---
+Date: 2022.07.13
+```
+It's futile to rectify the past, but you can still change the future.
+悟以往之不谏，知来者之可追。
+```
