@@ -681,3 +681,10 @@ Date: 2022.07.13
 It's futile to rectify the past, but you can still change the future.
 悟以往之不谏，知来者之可追。
 ```
+
+---
+Date: 2022.07.14
+```
+Thank you for appearing in my youth.
+谢谢你出席我的青春。
+```
