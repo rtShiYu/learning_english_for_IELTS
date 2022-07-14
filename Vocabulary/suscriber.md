@@ -1378,3 +1378,15 @@ mandatory
 inflation
 aggressive
 ```
+
+---
+Date: 2022.07.14
+```
+mug
+cupboard
+tap
+broccoli
+salmon
+tuna
+cod
+```
