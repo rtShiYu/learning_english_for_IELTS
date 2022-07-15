@@ -1390,3 +1390,14 @@ salmon
 tuna
 cod
 ```
+
+---
+Date: 2022.07.15
+```
+rug
+pajama
+drawer
+wardrobe
+comb
+gel
+```
