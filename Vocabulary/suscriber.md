@@ -1413,3 +1413,13 @@ shampoo
 razor
 toothpaste, toothbrush
 ```
+
+---
+Date: 2022.07.17
+```
+rubber
+envelope
+stick
+letter box
+telephone, telescope, tele-
+```
