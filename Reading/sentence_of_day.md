@@ -702,3 +702,10 @@ Date: 2022.07.16
 Summer was a thousand colors in a parched landscape.
 夏天是干燥的风景里上千种的色彩。
 ```
+
+---
+Date: 2022.07.17
+```
+Everything has cracks and that's where the light comes in.
+万物皆有裂痕，那是光招进来的地方。
+```
