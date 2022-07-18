@@ -1423,3 +1423,15 @@ stick
 letter box
 telephone, telescope, tele-
 ```
+
+---
+Date: 2022.07.18
+```
+selfie
+tent
+excursion
+cabin
+crew
+rent
+ferry
+```
