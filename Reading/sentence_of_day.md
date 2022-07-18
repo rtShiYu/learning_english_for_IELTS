@@ -716,3 +716,10 @@ Date: 2022.07.18
 Youth is not afraid of the long years, there is still glory in the other side.
 少年不惧岁月长，彼方尚有荣光在。
 ```
+
+---
+Date: 2022.07.19
+```
+Those who miss each other will finally get together.
+错失彼此的人终有一朝重逢。
+```
