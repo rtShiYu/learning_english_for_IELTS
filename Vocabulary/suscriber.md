@@ -1435,3 +1435,13 @@ crew
 rent
 ferry
 ```
+
+---
+Date: 2022.07.19
+```
+currency
+bucher
+pharmacy
+receptionist
+garage
+```
