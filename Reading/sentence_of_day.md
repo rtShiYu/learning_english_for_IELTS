@@ -709,3 +709,10 @@ Date: 2022.07.17
 Everything has cracks and that's where the light comes in.
 万物皆有裂痕，那是光招进来的地方。
 ```
+
+---
+Date: 2022.07.18
+```
+Youth is not afraid of the long years, there is still glory in the other side.
+少年不惧岁月长，彼方尚有荣光在。
+```
