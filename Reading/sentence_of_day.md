@@ -723,3 +723,10 @@ Date: 2022.07.19
 Those who miss each other will finally get together.
 错失彼此的人终有一朝重逢。
 ```
+
+---
+Date: 2022.07.20
+```
+Be the protagonist of your own youth, rather than a foil for others.
+做自己青春的角色，而不是他人的陪衬。
+```
