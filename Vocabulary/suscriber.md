@@ -1445,3 +1445,15 @@ pharmacy
 receptionist
 garage
 ```
+
+---
+Date: 2022.07.20
+```
+steak
+rare, medium, well-done
+soft drink
+cocktail
+pizza
+desperate
+alight
+```
