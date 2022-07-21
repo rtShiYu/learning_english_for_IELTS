@@ -1457,3 +1457,14 @@ pizza
 desperate
 alight
 ```
+
+---
+Date: 2022.07.21
+```
+badminton
+jog
+kayaking
+court
+controversial
+utterly
+```
