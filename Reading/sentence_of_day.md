@@ -730,3 +730,10 @@ Date: 2022.07.20
 Be the protagonist of your own youth, rather than a foil for others.
 做自己青春的角色，而不是他人的陪衬。
 ```
+
+---
+Date: 2022.07.21
+```
+Give it your best shot every time.
+每一次都要拼尽全力。
+```
