@@ -1468,3 +1468,13 @@ court
 controversial
 utterly
 ```
+
+---
+Date: 2022.07.22
+```
+gutter
+punctuate
+leather
+emphasis
+phonemic
+```
