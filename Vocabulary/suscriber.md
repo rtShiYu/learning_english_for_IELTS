@@ -1478,3 +1478,13 @@ leather
 emphasis
 phonemic
 ```
+
+---
+Date: 2022.07.23
+```
+fiction
+romantic comedy
+play a role
+cartoon
+thriller
+```
