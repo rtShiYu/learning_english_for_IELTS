@@ -751,3 +751,9 @@ Date: 2022.07.23
 Love is imagination. The other is the carrier. It's you who give the meaning to it.
 爱是想象力，对方是载体，是你赋予它的意义。
 ```
+
+Date: 2022.07.24
+```
+When you cry for missing the sun, you will miss the stars again.
+当你错过太阳而哭泣时，你也要在错过群星了。
+```
