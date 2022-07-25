@@ -1500,3 +1500,13 @@ neat
 rugged
 foggy
 ```
+
+---
+Date: 2022.07.25
+```
+ashamed
+recommend
+condemned
+appall
+ignorant
+```

@@ -757,3 +757,9 @@ Date: 2022.07.24
 When you cry for missing the sun, you will miss the stars again.
 当你错过太阳而哭泣时，你也要在错过群星了。
 ```
+
+Date: 2022.07.25
+```
+The smartest people understand that they are the most ignorant ones.
+最聪明的人明白自己是最无知的。
+```
