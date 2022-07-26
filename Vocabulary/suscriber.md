@@ -1510,3 +1510,14 @@ condemned
 appall
 ignorant
 ```
+
+---
+Date: 2022.07.26
+```
+tide
+drift
+bandage
+retired
+funeral
+depressed
+```
