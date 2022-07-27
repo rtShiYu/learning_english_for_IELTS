@@ -1521,3 +1521,14 @@ retired
 funeral
 depressed
 ```
+
+---
+Date: 2022.07.27
+```
+cattle
+lorry
+occasion
+solitary
+jewelly
+antique
+```
