@@ -764,8 +764,16 @@ The smartest people understand that they are the most ignorant ones.
 最聪明的人明白自己是最无知的。
 ```
 
+---
 Date: 2022.07.26
 ```
 You can do whatever you want, but you can't drift with the tide.
 你可以随心所欲，但不能随波逐流。
+```
+
+---
+Date: 2022.07.27
+```
+Stay hungry, stay foolish.
+求知若饥，虚心若愚。
 ```
