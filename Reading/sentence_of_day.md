@@ -777,3 +777,10 @@ Date: 2022.07.27
 Stay hungry, stay foolish.
 求知若饥，虚心若愚。
 ```
+
+---
+Date: 2022.07.28
+```
+I am still waiting for you in situ, but you have forgotten you had been here once.
+我还在原地等你，你却已经忘记曾来过这里。
+```
