@@ -784,3 +784,10 @@ Date: 2022.07.28
 I am still waiting for you in situ, but you have forgotten you had been here once.
 我还在原地等你，你却已经忘记曾来过这里。
 ```
+
+---
+Date: 2022.07.29
+```
+Don't trouble trouble till trouble troubles you.
+不要自找麻烦，除非麻烦找上门。
+```
