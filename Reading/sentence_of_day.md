@@ -791,3 +791,10 @@ Date: 2022.07.29
 Don't trouble trouble till trouble troubles you.
 不要自找麻烦，除非麻烦找上门。
 ```
+
+---
+Date: 2022.07.30
+```
+Be loyal to yourself. Laugh heartily, cry heartily.
+做一个忠于自己的人。笑着放肆，哭着酣畅。
+```
