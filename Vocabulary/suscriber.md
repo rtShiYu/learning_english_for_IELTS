@@ -1555,3 +1555,14 @@ degrees celsius
 waterfall
 consists of
 ```
+
+---
+Date: 2022.07.30
+```
+detour
+slopes
+peninsula
+portage
+canoe
+boundary
+```
