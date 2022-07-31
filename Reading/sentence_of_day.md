@@ -798,3 +798,10 @@ Date: 2022.07.30
 Be loyal to yourself. Laugh heartily, cry heartily.
 做一个忠于自己的人。笑着放肆，哭着酣畅。
 ```
+
+---
+Date: 2022.07.31
+```
+Shoot for the moon, even if you miss it, you'll land among the stars.
+奔赴月亮，即便错过，你也将置身繁星之中。
+```
