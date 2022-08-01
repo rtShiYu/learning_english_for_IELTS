@@ -2,251 +2,251 @@
 ## 1. Journey
 
 ---
-Date: 
+Date:
 
-Hint  
-onward   
-runnel  
-tunnel  
-creek    
-waterfall   
-glimpse   
-archangel   
-potholes  
+Hint
+onward
+runnel
+tunnel
+creek
+waterfall
+glimpse
+archangel
+potholes
 icicle
-priceless  
-burrito 
-lame  
-Arizona: 亚利桑那州   
-bucket list: what places are on our bucket list?    
+priceless
+burrito
+lame
+Arizona: 亚利桑那州
+bucket list: what places are on our bucket list?
 
 ---
-Date: 2022.3.28  
+Date: 2022.3.28
 
-ruinous  
-offramp  
-odds  
-zealous  
-headstrong  
-pessimistic  
-irrational  
-engage  
-threshold  
+ruinous
+offramp
+odds
+zealous
+headstrong
+pessimistic
+irrational
+engage
+threshold
 
 ---
 Date: 2022.03.29
 
-grub  
-thrive  
-mammal  
-inefficiency   
-generalist  
-disruption  
-metabolic  
-inert life  
-spawn  
-competitive  
-constrain    
-rock  
-fragile  
-routinely   
-Innovation is a threat. Change is rerrifying. Being perfect at somthing is dangerous if it's the only thing you can do.  
+grub
+thrive
+mammal
+inefficiency
+generalist
+disruption
+metabolic
+inert life
+spawn
+competitive
+constrain
+rock
+fragile
+routinely
+Innovation is a threat. Change is rerrifying. Being perfect at somthing is dangerous if it's the only thing you can do.
 
 ---
 Date: 2022.03.30
 
-jackfruit  
-basket  
-trunk  
-persimmon  
-nourishment  
-inspire  
-ripple  
-coal  
-papaya  
-salad  
-carambola  
-shining  
-plum  
-mimic  
-ripen  
+jackfruit
+basket
+trunk
+persimmon
+nourishment
+inspire
+ripple
+coal
+papaya
+salad
+carambola
+shining
+plum
+mimic
+ripen
 
 ---
 Date: 2022.03.31
 
-negotiate  
-aggressive  
-invasion  
-invade  
-strategic  
-tension  
-broadly  
-influx  
-aftermath  
-emission  
+negotiate
+aggressive
+invasion
+invade
+strategic
+tension
+broadly
+influx
+aftermath
+emission
 
 ---
 Date: 2022.04.01
 
-speculation  
-disposal  
-weatherize  
-literally  
-combine  
-peril  
-gallon  
-hinge  
-brutally  
-mental  
+speculation
+disposal
+weatherize
+literally
+combine
+peril
+gallon
+hinge
+brutally
+mental
 
 ---
-Date: 2022.04.02  
+Date: 2022.04.02
 
-scapegoat  
-convict  
-juror  
-impartial  
-fair  
-serve  
-deliberate  
-disclose  
-grant  
-trial  
-justfy  
-pretrial  
-bid  
-robust   
+scapegoat
+convict
+juror
+impartial
+fair
+serve
+deliberate
+disclose
+grant
+trial
+justfy
+pretrial
+bid
+robust
 
---- 
-Date: 2022.04.03  
+---
+Date: 2022.04.03
 
-filter  
-codec  
-inexpensive  
-stereo  
-crudely  
-relay  
-notabley  
-constraint  
-offload  
-canvas  
+filter
+codec
+inexpensive
+stereo
+crudely
+relay
+notabley
+constraint
+offload
+canvas
 
---- 
-Date: 2022.04.04  
+---
+Date: 2022.04.04
 
-attempt  
-disposition  
-manifest  
-semblance  
-rigid  
-tie  
-tether  
-internship  
-gulf  
-distress  
-existential 
+attempt
+disposition
+manifest
+semblance
+rigid
+tie
+tether
+internship
+gulf
+distress
+existential
 
---- 
+---
 Date: 2022.04.05
 
-spontaneous  
-frustration  
-anxiety  
-facilitage  
-euphoria  
-unenventful  
-insomnia  
-distract  
-perceptual  
-nudge  
+spontaneous
+frustration
+anxiety
+facilitage
+euphoria
+unenventful
+insomnia
+distract
+perceptual
+nudge
 
---- 
-Date: 2022.04.06  
+---
+Date: 2022.04.06
 
-stake  
-approach  
-opposite  
-brilliance  
-strike  
-unleash  
-divine  
-intervention  
+stake
+approach
+opposite
+brilliance
+strike
+unleash
+divine
+intervention
 
---- 
-Date: 2022.04.07  
+---
+Date: 2022.04.07
 
 - I am grateful for...
 - I will focus on...
 - I will let go of...
 
-spin  
-willpower  
-carve  
-ballast  
-fatigue  
-stare  
-rubberneck  
-combo  
-hassle  
-contentment  
-extricate  
+spin
+willpower
+carve
+ballast
+fatigue
+stare
+rubberneck
+combo
+hassle
+contentment
+extricate
 
 ---
 Date: 2022.04.08
 
-hypothetical(adj), hypotheses(n)  
-micromanage  
-lure  
-resist  
-myriad  
-stasis  
-honing(n), hone   
-hybrid  
+hypothetical(adj), hypotheses(n)
+micromanage
+lure
+resist
+myriad
+stasis
+honing(n), hone
+hybrid
 
 ---
-Date: 2022.04.09  
+Date: 2022.04.09
 
-inspire  
-ridiculous  
-scheme    
-maggie  
-regenerate  
-fence  
-hitchhiker  
-desert  
-crumb  
-
----
-Date: 2022.04.10  
-
-canyon  
-potential  
-spot  
-bone  
-cow  
-jaw  
-backtrack  
-carn  
-cairn  
-scout 
-sketchy  
-doable  
+inspire
+ridiculous
+scheme
+maggie
+regenerate
+fence
+hitchhiker
+desert
+crumb
 
 ---
-Date: 2022.04.11  
+Date: 2022.04.10
+
+canyon
+potential
+spot
+bone
+cow
+jaw
+backtrack
+carn
+cairn
+scout
+sketchy
+doable
+
+---
+Date: 2022.04.11
 I stopped checking social media before noon. Here's how it improved my work(and my life) [reference link](https://tribunecontentagency.com/article/i-stopped-checking-social-media-before-noon-heres-how-it-improved-my-work-and-my-life/)
 ```
-distraction  
-nefarious  
-contribute  
-hop  
-cognitive  
-clutter  
-squash  
-prolong  
-spoon  
-engagement  
-fertile  
+distraction
+nefarious
+contribute
+hop
+cognitive
+clutter
+squash
+prolong
+spoon
+engagement
+fertile
 ```
 ---
 Date: 2022.04.12
@@ -1088,8 +1088,8 @@ volatility
 meltdown
 ```
 
-Date: 2022.06.17
 ---
+Date: 2022.06.17
 ```
 boundary
 metaphor
@@ -1254,4 +1254,327 @@ petition
 impartial
 impeach
 nominee
+```
+
+---
+Date: 2022.07.03
+```
+frisky
+shuttle
+croissant
+bastard
+complaint
+pan
+pregnant
+```
+
+---
+Date: 2022.07.04
+```
+coherent
+vehicle
+pursue
+spine
+guarantee
+motivation
+```
+
+---
+Date: 2022.07.05
+```
+prose
+deserve
+impulsive
+coincidence
+stoop
+fleeting
+treat
+fuse
+```
+
+---
+Date: 2022.07.06
+```
+aunt
+cousin
+woodturner
+casual
+muesli
+oblige
+```
+
+---
+Date: 2022.07.07
+```
+bipolar
+dose
+hairdresser/hairdryer
+lip
+toe
+fragile
+```
+
+---
+Date: 2022.07.08
+```
+chest
+shameless
+cancer
+tropical
+asthma
+lifespan
+allergy
+```
+
+---
+Date: 2022.07.09
+```
+hawkeye
+ripping
+ammo
+glacier
+paraglider
+demon
+```
+
+---
+Date: 2022.07.10
+```
+scare
+insect
+spider
+thirsty
+fever
+```
+
+---
+Data: 2022. 07.11
+```
+campsite
+pension
+element
+trigger
+mandatory
+```
+
+---
+Date: 2022.07.12
+```
+stark
+inequity
+quarter
+fossil
+fuel
+coal
+scrutiny
+```
+
+---
+Date: 2022.07.13
+```
+northwest
+air strike
+mandatory
+inflation
+aggressive
+```
+
+---
+Date: 2022.07.14
+```
+mug
+cupboard
+tap
+broccoli
+salmon
+tuna
+cod
+```
+
+---
+Date: 2022.07.15
+```
+rug
+pajama
+drawer
+wardrobe
+comb
+gel
+```
+
+---
+Date: 2022.07.16
+```
+parch
+revise
+basin
+conditioner
+shampoo
+razor
+toothpaste, toothbrush
+```
+
+---
+Date: 2022.07.17
+```
+rubber
+envelope
+stick
+letter box
+telephone, telescope, tele-
+```
+
+---
+Date: 2022.07.18
+```
+selfie
+tent
+excursion
+cabin
+crew
+rent
+ferry
+```
+
+---
+Date: 2022.07.19
+```
+currency
+bucher
+pharmacy
+receptionist
+garage
+```
+
+---
+Date: 2022.07.20
+```
+steak
+rare, medium, well-done
+soft drink
+cocktail
+pizza
+desperate
+alight
+```
+
+---
+Date: 2022.07.21
+```
+badminton
+jog
+kayaking
+court
+controversial
+utterly
+```
+
+---
+Date: 2022.07.22
+```
+gutter
+punctuate
+leather
+emphasis
+phonemic
+```
+
+---
+Date: 2022.07.23
+```
+fiction
+romantic comedy
+play a role
+cartoon
+thriller
+```
+
+---
+Date: 2022.07.24
+```
+Michigan
+fairy
+tale
+tint
+neat
+rugged
+foggy
+```
+
+---
+Date: 2022.07.25
+```
+ashamed
+recommend
+condemned
+appall
+ignorant
+```
+
+---
+Date: 2022.07.26
+```
+tide
+drift
+bandage
+retired
+funeral
+depressed
+```
+
+---
+Date: 2022.07.27
+```
+cattle
+lorry
+occasion
+solitary
+jewelly
+antique
+```
+
+---
+Date: 2022.07.28
+```
+situ
+continent
+nationalituy
+frazzle
+qualification
+idiot
+bigoted
+```
+
+---
+Date: 2022.07.29
+```
+minus
+cave
+canal
+degrees celsius
+waterfall
+consists of
+```
+
+---
+Date: 2022.07.30
+```
+detour
+slopes
+peninsula
+portage
+canoe
+boundary
+```
+
+---
+Date: 2022.07.31
+```
+breeze
+log
+turtle
+skeg
+fin
+inflatable
+chamber
 ```

@@ -1,6 +1,6 @@
 # 每日英语
 
---- 
+---
 Date: 2022.04.11
 
 ```
@@ -15,7 +15,7 @@ Date: 2022.04.12
 With ordinary talent and extraordinary perseverance, all things are attainable.
 平凡的智力加上非凡的坚持，所有的事情皆可达成
 ```
---- 
+---
 Date: 2022.04.13
 
 ```
@@ -602,4 +602,206 @@ Date: 2022.07.02
 ```
 Self-discipline is the first condition of freedom.
 自律是自由的首要条件。
+```
+
+---
+Date: 2022.07.03
+```
+Don't rush to deny yourself before you get the result.
+在你还没得到结果之前，不要急于否定自己。
+```
+
+---
+Date: 2022.07.04
+```
+The darker the sky, the brighter stars.
+天空越黑，星星越亮。
+```
+
+---
+Date: 2022.07.05
+```
+Every effort is the foreshadowing of luck.
+每一次努力都是幸运的伏笔。
+```
+
+---
+Date: 2022.07.06
+```
+Our greatest glory consists not in never falling, but in rising every time.
+我们最值得自豪的不是从未跌倒，而是每次跌倒后都能站起来。
+```
+
+---
+Date: 2022.07.07
+```
+Turn sweat into pearls and dreams into reality.
+把汗水变成珍珠，把梦想变成现实。
+```
+
+---
+Date: 2022.07.08
+```
+At that time, youth was blooming, with the sun blazing and wind kissing the treetop.
+
+```
+
+---
+Date: 2022.07.09
+```
+Home is not a place, but a kind of memory.
+故乡不是一个地方，而是一种记忆。
+
+```
+
+---
+Date: 2022.07.10
+```
+A man is not old until regrets take the place of dreams.
+当懊悔取代梦想时，人也就老了。
+```
+
+---
+Date: 2022.07.11
+```
+We read to know we're not alone.
+我们阅读，是为了知道自己并不孤独。
+```
+
+---
+Date: 2022.07.12
+```
+Love rises in the east and falls in the west, romance lasts till death.
+爱意东升西落，浪漫至死不渝。
+```
+
+---
+Date: 2022.07.13
+```
+It's futile to rectify the past, but you can still change the future.
+悟以往之不谏，知来者之可追。
+```
+
+---
+Date: 2022.07.14
+```
+Thank you for appearing in my youth.
+谢谢你出席我的青春。
+```
+
+---
+Date: 2022.07.15
+```
+What we do in life echoes in eternity.
+今生所为终有回响。
+```
+
+---
+Date: 2022.07.16
+```
+Summer was a thousand colors in a parched landscape.
+夏天是干燥的风景里上千种的色彩。
+```
+
+---
+Date: 2022.07.17
+```
+Everything has cracks and that's where the light comes in.
+万物皆有裂痕，那是光招进来的地方。
+```
+
+---
+Date: 2022.07.18
+```
+Youth is not afraid of the long years, there is still glory in the other side.
+少年不惧岁月长，彼方尚有荣光在。
+```
+
+---
+Date: 2022.07.19
+```
+Those who miss each other will finally get together.
+错失彼此的人终有一朝重逢。
+```
+
+---
+Date: 2022.07.20
+```
+Be the protagonist of your own youth, rather than a foil for others.
+做自己青春的角色，而不是他人的陪衬。
+```
+
+---
+Date: 2022.07.21
+```
+Give it your best shot every time.
+每一次都要拼尽全力。
+```
+
+---
+Date: 2022.07.22
+```
+We are all in the gutter, but some of us are looking at the stars.
+身在井隅，心向璀璨。
+```
+
+---
+Date: 2022.07.23
+```
+Love is imagination. The other is the carrier. It's you who give the meaning to it.
+爱是想象力，对方是载体，是你赋予它的意义。
+```
+
+Date: 2022.07.24
+```
+When you cry for missing the sun, you will miss the stars again.
+当你错过太阳而哭泣时，你也要在错过群星了。
+```
+
+Date: 2022.07.25
+```
+The smartest people understand that they are the most ignorant ones.
+最聪明的人明白自己是最无知的。
+```
+
+---
+Date: 2022.07.26
+```
+You can do whatever you want, but you can't drift with the tide.
+你可以随心所欲，但不能随波逐流。
+```
+
+---
+Date: 2022.07.27
+```
+Stay hungry, stay foolish.
+求知若饥，虚心若愚。
+```
+
+---
+Date: 2022.07.28
+```
+I am still waiting for you in situ, but you have forgotten you had been here once.
+我还在原地等你，你却已经忘记曾来过这里。
+```
+
+---
+Date: 2022.07.29
+```
+Don't trouble trouble till trouble troubles you.
+不要自找麻烦，除非麻烦找上门。
+```
+
+---
+Date: 2022.07.30
+```
+Be loyal to yourself. Laugh heartily, cry heartily.
+做一个忠于自己的人。笑着放肆，哭着酣畅。
+```
+
+---
+Date: 2022.07.31
+```
+Shoot for the moon, even if you miss it, you'll land among the stars.
+奔赴月亮，即便错过，你也将置身繁星之中。
 ```
