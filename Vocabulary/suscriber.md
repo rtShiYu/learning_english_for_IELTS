@@ -1578,3 +1578,18 @@ fin
 inflatable
 chamber
 ```
+
+---
+Date: 2022.08.01
+```
+mandatory
+moderate
+span
+cardio-vascular
+plain
+cello
+flute
+drum
+classical music(for example, Beethoven, Mozart)
+pop music; folk music; jazz music, rock music
+```
