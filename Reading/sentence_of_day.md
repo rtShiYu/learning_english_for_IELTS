@@ -805,3 +805,10 @@ Date: 2022.07.31
 Shoot for the moon, even if you miss it, you'll land among the stars.
 奔赴月亮，即便错过，你也将置身繁星之中。
 ```
+
+---
+Date: 2022.08.01
+```
+Forget all the reasons why it won't work, and believe the one reason why it will.
+忘掉所有那些不可能的借口，去坚持那一个可能得理由。
+```
