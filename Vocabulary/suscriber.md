@@ -1593,3 +1593,15 @@ drum
 classical music(for example, Beethoven, Mozart)
 pop music; folk music; jazz music, rock music
 ```
+
+---
+Date: 2022.08.02
+```
+pensioner
+temper
+flare
+trickle
+pour
+gloomy
+profit
+```
