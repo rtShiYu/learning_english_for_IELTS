@@ -812,3 +812,10 @@ Date: 2022.08.01
 Forget all the reasons why it won't work, and believe the one reason why it will.
 忘掉所有那些不可能的借口，去坚持那一个可能得理由。
 ```
+
+---
+Date: 2022.08.02
+```
+Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.
+人生不总在于握有一手好牌，有时也要打好一把烂牌。
+```
