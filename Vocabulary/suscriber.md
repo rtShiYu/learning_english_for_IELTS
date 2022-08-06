@@ -1639,3 +1639,15 @@ accommodate
 panoramic
 tranquil
 ```
+
+---
+Date: 2022.08.06
+```
+retired
+retain
+dialogue
+pretext
+provocative
+infuriate
+drills
+```
