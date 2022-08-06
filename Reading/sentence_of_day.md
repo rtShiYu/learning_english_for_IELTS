@@ -840,3 +840,10 @@ Date: 2022.08.05
 If a man has no dream, what is the difference between him and salted fish?
 做人如果没有了梦想，那和咸鱼有什么区别？
 ```
+---
+Date: 2022.08.06
+```
+You are not ordinary; you are born to stand out.
+你天生与众不同，注定不会被淹没在人群中。
+```
+
