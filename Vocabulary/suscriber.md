@@ -1651,3 +1651,14 @@ provocative
 infuriate
 drills
 ```
+
+---
+Date: 2022.08.07
+```
+gangster
+phenom
+miraculous
+remarkable
+repulse
+swoon
+```
