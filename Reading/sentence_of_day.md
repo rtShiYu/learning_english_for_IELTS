@@ -853,3 +853,10 @@ Date: 2022.08.07
 Autumn carries more gold in its pocket than all the other seasons.
 秋天的口袋里，比其它季节收藏着更多金黄色。
 ```
+
+---
+Date: 2022.08.08
+```
+To lost in something you love is better than to win in something you hate.
+宁可失败在你喜欢的事情上，也不要成功在你所憎恶的事情上。
+```
