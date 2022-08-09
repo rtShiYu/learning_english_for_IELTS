@@ -1678,3 +1678,15 @@ property
 driving rain
 Bustle and hustle will be tranquil.
 ```
+
+Date: 2022.08.09
+```
+cage
+bull
+donkey
+live stock
+endangered animals
+wasp
+bee
+ant
+```
