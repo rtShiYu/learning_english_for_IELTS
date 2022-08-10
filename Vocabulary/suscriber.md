@@ -1690,3 +1690,13 @@ wasp
 bee
 ant
 ```
+
+Date: 2022.08.10
+```
+compound
+idiom
+bitterly
+pitch
+poverty
+breed/cause
+```
