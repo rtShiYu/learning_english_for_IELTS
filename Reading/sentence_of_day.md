@@ -867,3 +867,10 @@ Date: 2022.08.09
 Many people will walk in and out of your life, but only true friends will leave footprints in your heart.
 无数人走进和走出你的生活，但只有真正的朋友会在你的心里留下足迹。
 ```
+
+---
+Date: 2022.08.10
+```
+Praise is like sunlight to the human spirit; we cannot flower and grow without it.
+对于人的精神来说，赞扬就像阳光一样，没有它我们便不能开花生长。
+```
