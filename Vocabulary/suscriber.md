@@ -1700,3 +1700,14 @@ pitch
 poverty
 breed/cause
 ```
+
+---
+Date: 2022.08.11
+```
+imposing
+breadwinner
+inner
+pavement
+cobbled
+quaint
+```
