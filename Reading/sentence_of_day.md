@@ -874,3 +874,10 @@ Date: 2022.08.10
 Praise is like sunlight to the human spirit; we cannot flower and grow without it.
 对于人的精神来说，赞扬就像阳光一样，没有它我们便不能开花生长。
 ```
+
+---
+Date: 2022.08.11
+```
+The truth is a beautiful and terrible thing, and should therefore be treated with great caution.
+真相是一种美丽又可怕的东西，需要格外谨慎地对待。
+```
