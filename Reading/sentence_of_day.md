@@ -881,3 +881,10 @@ Date: 2022.08.11
 The truth is a beautiful and terrible thing, and should therefore be treated with great caution.
 真相是一种美丽又可怕的东西，需要格外谨慎地对待。
 ```
+
+---
+Date: 2022.08.12
+```
+Death is not the end of life, forgetting is.
+死亡并不是生命的终点，遗忘才是。
+```
