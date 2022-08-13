@@ -888,3 +888,10 @@ Date: 2022.08.12
 Death is not the end of life, forgetting is.
 死亡并不是生命的终点，遗忘才是。
 ```
+
+---
+Date: 2022.08.13
+```
+If time being of all things the most precious, wasting time must be the greatest prodigality.
+如果时间是最宝贵的东西，浪费时间应该是最大的挥霍。
+```
