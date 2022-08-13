@@ -1721,3 +1721,17 @@ spoilt/unspoilt
 particle
 hyphen
 ```
+
+---
+Date: 2022.08.13
+```
+stereo
+steal
+untidy/tidy
+hurricane
+snowstorm
+forest fire
+earthquake
+flood
+crowded
+```
