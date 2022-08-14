@@ -895,3 +895,10 @@ Date: 2022.08.13
 If time being of all things the most precious, wasting time must be the greatest prodigality.
 如果时间是最宝贵的东西，浪费时间应该是最大的挥霍。
 ```
+
+---
+Date: 2022.08.14
+```
+Don't stop. Don't hide. Follow the light, and you'll find tomorrow.
+不要停下，不要逃避，沿着光明前行，你会找到明天。
+```
