@@ -1735,3 +1735,13 @@ earthquake
 flood
 crowded
 ```
+
+---
+Date: 2022.08.14
+```
+jug
+submitted
+deparately
+disgrace
+obtained
+```
