@@ -1745,3 +1745,14 @@ deparately
 disgrace
 obtained
 ```
+
+---
+Date: 2022.08.15
+```
+pupils
+recruit
+quota
+tariff
+elite
+novelist
+```
