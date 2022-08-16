@@ -909,3 +909,10 @@ Date: 2022.08.15
 Patience is bitter, but its fruit is sweet.
 忍耐是痛苦的，但它的果实是甜蜜的。
 ```
+
+---
+Date: 2022.08.16
+```
+It is no use doing what you like; you have got to like what you do.
+不能爱哪行才干哪行，要干哪行爱哪行。
+```
