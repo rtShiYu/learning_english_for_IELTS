@@ -1768,3 +1768,13 @@ ginger
 portly
 sleek
 ```
+
+---
+Date: 2022.08.17
+```
+standby
+onset
+deprived
+flatmate
+album
+```
