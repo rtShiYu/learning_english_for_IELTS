@@ -916,3 +916,10 @@ Date: 2022.08.16
 It is no use doing what you like; you have got to like what you do.
 不能爱哪行才干哪行，要干哪行爱哪行。
 ```
+
+---
+Date: 2022.08.17
+```
+It's better to light a candle than curse the darkness.
+与其诅咒黑暗，不如点亮蜡烛。
+```
