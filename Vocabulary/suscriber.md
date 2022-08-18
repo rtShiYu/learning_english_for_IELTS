@@ -1778,3 +1778,14 @@ deprived
 flatmate
 album
 ```
+
+---
+Date: 2022.08.18
+```
+white-water rafting
+shattered
+summon
+cricket
+formidable
+penalty
+```
