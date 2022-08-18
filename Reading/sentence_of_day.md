@@ -923,3 +923,10 @@ Date: 2022.08.17
 It's better to light a candle than curse the darkness.
 与其诅咒黑暗，不如点亮蜡烛。
 ```
+
+---
+Date: 2022.08.18
+```
+If you can't handle failure, then you can't handle success either.
+驾驭不了失败的人也驾驭不了成功。
+```
