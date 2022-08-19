@@ -930,3 +930,10 @@ Date: 2022.08.18
 If you can't handle failure, then you can't handle success either.
 驾驭不了失败的人也驾驭不了成功。
 ```
+
+---
+Date: 2022.08.19
+```
+There is light at the end of the tunnel.
+守得云开见月明。
+```
