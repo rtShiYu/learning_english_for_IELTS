@@ -937,3 +937,10 @@ Date: 2022.08.19
 There is light at the end of the tunnel.
 守得云开见月明。
 ```
+
+---
+Date: 2022.08.20
+```
+What makes life dreary is the want of motive.
+没有了目的，生活便郁闷无光。
+```
