@@ -1799,3 +1799,14 @@ adequate
 century
 deficit
 ```
+
+---
+Date: 2022.08.20
+```
+fabrication
+fender
+nasty
+hostile
+deck
+sag
+```
