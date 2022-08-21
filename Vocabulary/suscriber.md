@@ -1810,3 +1810,17 @@ hostile
 deck
 sag
 ```
+
+---
+Date: 2022.08.21
+```
+rent
+soared
+landlord
+preferred
+negotiation
+misconception
+mortgage
+proof
+resopsect
+```
