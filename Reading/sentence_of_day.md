@@ -951,3 +951,9 @@ Date: 2022.08.21
 A day without laughter is a day wasted.
 没有笑声的一天是浪费的一天。
 ```
+
+Date: 2022.08.22
+```
+Life's too short to hold grudges.
+人生苦短，何必留仇。
+```
