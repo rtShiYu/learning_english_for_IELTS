@@ -1824,3 +1824,16 @@ mortgage
 proof
 resopsect
 ```
+
+---
+Date: 2022.08.22
+```
+chilly
+corridor
+drought
+dilapidation
+granny
+airy
+cosy
+storey
+```
