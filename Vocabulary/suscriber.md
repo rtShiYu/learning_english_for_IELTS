@@ -1837,3 +1837,14 @@ airy
 cosy
 storey
 ```
+
+---
+Date: 2022.08.23
+```
+appetite
+spoil
+hearty
+slap
+gourmet
+addictive
+```
