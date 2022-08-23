@@ -957,3 +957,10 @@ Date: 2022.08.22
 Life's too short to hold grudges.
 人生苦短，何必留仇。
 ```
+
+---
+Date: 2022.08.23
+```
+Easy times create weak men. Weak men create tough times.
+安逸时刻早就疲软的人，软弱的人早就艰难时刻。
+```
