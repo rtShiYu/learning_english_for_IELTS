@@ -964,3 +964,10 @@ Date: 2022.08.23
 Easy times create weak men. Weak men create tough times.
 安逸时刻早就疲软的人，软弱的人早就艰难时刻。
 ```
+
+---
+Date: 2022.08.24
+```
+Don't just sit at home, or the life of your dreams will sail right past you.
+坐在家里无所事事，只会让你与想要的生活失之交臂。
+```
