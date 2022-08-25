@@ -971,3 +971,10 @@ Date: 2022.08.24
 Don't just sit at home, or the life of your dreams will sail right past you.
 坐在家里无所事事，只会让你与想要的生活失之交臂。
 ```
+
+---
+Date: 2022.08.25
+```
+Storms make trees take deeper roots.
+暴风雨使得树木的根扎得更深。
+```
