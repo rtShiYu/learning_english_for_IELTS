@@ -978,3 +978,10 @@ Date: 2022.08.25
 Storms make trees take deeper roots.
 暴风雨使得树木的根扎得更深。
 ```
+
+---
+Date: 2022.08.26
+```
+Nothing in this world that's worth having comes easy.
+这世界上凡是指的拥有的东西，都不易获得。
+```
