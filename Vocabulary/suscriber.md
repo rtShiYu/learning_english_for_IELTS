@@ -1870,3 +1870,15 @@ idol
 catchy
 easy listening
 ```
+
+---
+Date: 2022.08.26
+```
+guning
+equivalent
+propose
+lexicon
+hanky
+denote
+riddle
+```
