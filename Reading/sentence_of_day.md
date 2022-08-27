@@ -985,3 +985,10 @@ Date: 2022.08.26
 Nothing in this world that's worth having comes easy.
 这世界上凡是指的拥有的东西，都不易获得。
 ```
+
+---
+Date: 2022.08.27
+```
+Wherever there is a human being, there is an opportunity for kindness.
+哪里有人，哪里就有良善的机会。
+```
