@@ -992,3 +992,10 @@ Date: 2022.08.27
 Wherever there is a human being, there is an opportunity for kindness.
 哪里有人，哪里就有良善的机会。
 ```
+
+---
+Date: 2022.08.28
+```
+The longest day has an end.
+最难过的日子也有尽头。
+```
