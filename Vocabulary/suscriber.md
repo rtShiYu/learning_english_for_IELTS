@@ -1907,3 +1907,15 @@ creek
 ridge
 spectacular
 ```
+
+---
+Date: 2022.08.29
+```
+foul
+penalty
+billiard
+dart
+athletic
+archery
+aerobic
+```
