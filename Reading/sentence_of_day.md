@@ -999,3 +999,10 @@ Date: 2022.08.28
 The longest day has an end.
 最难过的日子也有尽头。
 ```
+
+---
+DateL 2022.08.29
+```
+Good judgement comes from experience, and a lot of that comes from bad judgment.
+正确的决断源自经验，而大部分经验源自错误的决断。
+```
