@@ -1001,8 +1001,15 @@ The longest day has an end.
 ```
 
 ---
-DateL 2022.08.29
+Date: 2022.08.29
 ```
 Good judgement comes from experience, and a lot of that comes from bad judgment.
 正确的决断源自经验，而大部分经验源自错误的决断。
+```
+
+---
+Date: 2022.08.30
+```
+Honest disaggreement is often a good sign of progress.
+坦诚的分歧往往是进步的好迹象。
 ```
