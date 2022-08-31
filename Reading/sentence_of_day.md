@@ -1013,3 +1013,10 @@ Date: 2022.08.30
 Honest disaggreement is often a good sign of progress.
 坦诚的分歧往往是进步的好迹象。
 ```
+
+---
+Date: 2022.08.31
+```
+The real difficulty is to overcome how you think about yourself.
+真正的困难是克服你对自己的看法。
+```
