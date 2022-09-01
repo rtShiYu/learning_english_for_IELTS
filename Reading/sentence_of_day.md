@@ -830,7 +830,7 @@ There is some good in this world, and it's worth fighting for.
 ---
 Date: 2022.08.04
 ```
-The deepest and heaviest love mush grow up with the time.
+The deepest and heaviest love must grow up with the time.
 最深最重的爱，须与时日共成长。
 ```
 
