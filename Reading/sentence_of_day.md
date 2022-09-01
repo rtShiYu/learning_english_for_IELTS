@@ -1020,3 +1020,10 @@ Date: 2022.08.31
 The real difficulty is to overcome how you think about yourself.
 真正的困难是克服你对自己的看法。
 ```
+
+---
+Date: 2022.09.01
+```
+There's nothing for you behind you. All that exists is what's ahead.
+来路无可眷恋，值得期待的只有前方。
+```
