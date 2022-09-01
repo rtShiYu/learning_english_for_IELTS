@@ -805,3 +805,218 @@ Date: 2022.07.31
 Shoot for the moon, even if you miss it, you'll land among the stars.
 奔赴月亮，即便错过，你也将置身繁星之中。
 ```
+
+---
+Date: 2022.08.01
+```
+Forget all the reasons why it won't work, and believe the one reason why it will.
+忘掉所有那些不可能的借口，去坚持那一个可能得理由。
+```
+
+---
+Date: 2022.08.02
+```
+Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.
+人生不总在于握有一手好牌，有时也要打好一把烂牌。
+```
+
+---
+Date: 2022.08.03
+```
+There is some good in this world, and it's worth fighting for.
+这世上存在着某些美好的事物，值得我们奋战到底。
+```
+
+---
+Date: 2022.08.04
+```
+The deepest and heaviest love must grow up with the time.
+最深最重的爱，须与时日共成长。
+```
+
+---
+Date: 2022.08.05
+```
+If a man has no dream, what is the difference between him and salted fish?
+做人如果没有了梦想，那和咸鱼有什么区别？
+```
+---
+Date: 2022.08.06
+```
+You are not ordinary; you are born to stand out.
+你天生与众不同，注定不会被淹没在人群中。
+```
+
+---
+Date: 2022.08.07
+```
+Autumn carries more gold in its pocket than all the other seasons.
+秋天的口袋里，比其它季节收藏着更多金黄色。
+```
+
+---
+Date: 2022.08.08
+```
+To lost in something you love is better than to win in something you hate.
+宁可失败在你喜欢的事情上，也不要成功在你所憎恶的事情上。
+```
+
+---
+Date: 2022.08.09
+```
+Many people will walk in and out of your life, but only true friends will leave footprints in your heart.
+无数人走进和走出你的生活，但只有真正的朋友会在你的心里留下足迹。
+```
+
+---
+Date: 2022.08.10
+```
+Praise is like sunlight to the human spirit; we cannot flower and grow without it.
+对于人的精神来说，赞扬就像阳光一样，没有它我们便不能开花生长。
+```
+
+---
+Date: 2022.08.11
+```
+The truth is a beautiful and terrible thing, and should therefore be treated with great caution.
+真相是一种美丽又可怕的东西，需要格外谨慎地对待。
+```
+
+---
+Date: 2022.08.12
+```
+Death is not the end of life, forgetting is.
+死亡并不是生命的终点，遗忘才是。
+```
+
+---
+Date: 2022.08.13
+```
+If time being of all things the most precious, wasting time must be the greatest prodigality.
+如果时间是最宝贵的东西，浪费时间应该是最大的挥霍。
+```
+
+---
+Date: 2022.08.14
+```
+Don't stop. Don't hide. Follow the light, and you'll find tomorrow.
+不要停下，不要逃避，沿着光明前行，你会找到明天。
+```
+
+---
+Date: 2022.08.15
+```
+Patience is bitter, but its fruit is sweet.
+忍耐是痛苦的，但它的果实是甜蜜的。
+```
+
+---
+Date: 2022.08.16
+```
+It is no use doing what you like; you have got to like what you do.
+不能爱哪行才干哪行，要干哪行爱哪行。
+```
+
+---
+Date: 2022.08.17
+```
+It's better to light a candle than curse the darkness.
+与其诅咒黑暗，不如点亮蜡烛。
+```
+
+---
+Date: 2022.08.18
+```
+If you can't handle failure, then you can't handle success either.
+驾驭不了失败的人也驾驭不了成功。
+```
+
+---
+Date: 2022.08.19
+```
+There is light at the end of the tunnel.
+守得云开见月明。
+```
+
+---
+Date: 2022.08.20
+```
+What makes life dreary is the want of motive.
+没有了目的，生活便郁闷无光。
+```
+
+---
+Date: 2022.08.21
+```
+A day without laughter is a day wasted.
+没有笑声的一天是浪费的一天。
+```
+
+Date: 2022.08.22
+```
+Life's too short to hold grudges.
+人生苦短，何必留仇。
+```
+
+---
+Date: 2022.08.23
+```
+Easy times create weak men. Weak men create tough times.
+安逸时刻早就疲软的人，软弱的人早就艰难时刻。
+```
+
+---
+Date: 2022.08.24
+```
+Don't just sit at home, or the life of your dreams will sail right past you.
+坐在家里无所事事，只会让你与想要的生活失之交臂。
+```
+
+---
+Date: 2022.08.25
+```
+Storms make trees take deeper roots.
+暴风雨使得树木的根扎得更深。
+```
+
+---
+Date: 2022.08.26
+```
+Nothing in this world that's worth having comes easy.
+这世界上凡是指的拥有的东西，都不易获得。
+```
+
+---
+Date: 2022.08.27
+```
+Wherever there is a human being, there is an opportunity for kindness.
+哪里有人，哪里就有良善的机会。
+```
+
+---
+Date: 2022.08.28
+```
+The longest day has an end.
+最难过的日子也有尽头。
+```
+
+---
+Date: 2022.08.29
+```
+Good judgement comes from experience, and a lot of that comes from bad judgment.
+正确的决断源自经验，而大部分经验源自错误的决断。
+```
+
+---
+Date: 2022.08.30
+```
+Honest disaggreement is often a good sign of progress.
+坦诚的分歧往往是进步的好迹象。
+```
+
+---
+Date: 2022.08.31
+```
+The real difficulty is to overcome how you think about yourself.
+真正的困难是克服你对自己的看法。
+```

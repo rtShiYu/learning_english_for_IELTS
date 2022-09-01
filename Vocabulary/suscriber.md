@@ -1578,3 +1578,366 @@ fin
 inflatable
 chamber
 ```
+
+---
+Date: 2022.08.01
+```
+mandatory
+moderate
+span
+cardio-vascular
+plain
+cello
+flute
+drum
+classical music(for example, Beethoven, Mozart)
+pop music; folk music; jazz music, rock music
+```
+
+---
+Date: 2022.08.02
+```
+pensioner
+temper
+flare
+trickle
+pour
+gloomy
+profit
+```
+
+---
+Date: 2022.08.03
+```
+brochure
+freak
+frost
+crisp
+mist
+dense,thick
+scroch
+```
+
+---
+Date: 2022.08.04
+```
+guardian; the guardian
+standoff
+hosepipe
+restriction
+household
+demand
+drought
+```
+
+---
+Date: 2022.08.05
+```
+aisle
+charter
+accommodate
+panoramic
+tranquil
+```
+
+---
+Date: 2022.08.06
+```
+retired
+retain
+dialogue
+pretext
+provocative
+infuriate
+drills
+```
+
+---
+Date: 2022.08.07
+```
+gangster
+phenom
+miraculous
+remarkable
+repulse
+swoon
+```
+
+---
+Date: 2022.08.08
+```
+bustle
+hustle
+wander
+dramatic
+cottage
+bend
+bleak
+bump
+property
+driving rain
+Bustle and hustle will be tranquil.
+```
+
+Date: 2022.08.09
+```
+cage
+bull
+donkey
+live stock
+endangered animals
+wasp
+bee
+ant
+```
+
+Date: 2022.08.10
+```
+compound
+idiom
+bitterly
+pitch
+poverty
+breed/cause
+```
+
+---
+Date: 2022.08.11
+```
+imposing
+breadwinner
+inner
+pavement
+cobbled
+quaint
+```
+
+Date: 2022.08.12
+```
+skyline
+snowy
+secluded
+spoilt/unspoilt
+particle
+hyphen
+```
+
+---
+Date: 2022.08.13
+```
+stereo
+steal
+untidy/tidy
+hurricane
+snowstorm
+forest fire
+earthquake
+flood
+crowded
+```
+
+---
+Date: 2022.08.14
+```
+jug
+submitted
+deparately
+disgrace
+obtained
+```
+
+---
+Date: 2022.08.15
+```
+pupils
+recruit
+quota
+tariff
+elite
+novelist
+```
+
+---
+Date: 2022.08.16
+```
+bachelor
+respectable
+blonder
+auburn
+ginger
+portly
+sleek
+```
+
+---
+Date: 2022.08.17
+```
+standby
+onset
+deprived
+flatmate
+album
+```
+
+---
+Date: 2022.08.18
+```
+white-water rafting
+shattered
+summon
+cricket
+formidable
+penalty
+```
+
+---
+Date: 2022.08.19
+```
+tunnel
+mugger
+adequate
+century
+deficit
+```
+
+---
+Date: 2022.08.20
+```
+fabrication
+fender
+nasty
+hostile
+deck
+sag
+```
+
+---
+Date: 2022.08.21
+```
+rent
+soared
+landlord
+preferred
+negotiation
+misconception
+mortgage
+proof
+resopsect
+```
+
+---
+Date: 2022.08.22
+```
+chilly
+corridor
+drought
+dilapidation
+granny
+airy
+cosy
+storey
+```
+
+---
+Date: 2022.08.23
+```
+appetite
+spoil
+hearty
+slap
+gourmet
+addictive
+```
+
+---
+Date: 2022.08.24
+```
+absorbed
+engrossed
+cameo
+critic
+produce
+```
+
+---
+Date: 2022.08.25
+```
+tune
+strum
+melodie
+divide
+idol
+catchy
+easy listening
+```
+
+---
+Date: 2022.08.26
+```
+guning
+equivalent
+propose
+lexicon
+hanky
+denote
+riddle
+```
+
+---
+Date: 2022.08.27
+```
+clip
+neat
+clamp
+splice
+onward
+bush
+soggy
+```
+
+---
+Date: 2022.08.28
+```
+croissant
+cinnamon
+blueberry
+scone
+sawtooth
+creek
+ridge
+spectacular
+```
+
+---
+Date: 2022.08.29
+```
+foul
+penalty
+billiard
+dart
+athletic
+archery
+aerobic
+```
+
+---
+Date: 2022.08.30
+```
+sustain
+hay
+splitting
+incruable
+excruciate
+stick
+vigorous
+```
+
+---
+Date: 2022.08.31
+```
+assessment
+withdraw
+malware
+spam
+hint
+```
