@@ -1027,3 +1027,10 @@ Date: 2022.09.01
 There's nothing for you behind you. All that exists is what's ahead.
 来路无可眷恋，值得期待的只有前方。
 ```
+
+---
+Date: 2022.09.02
+```
+Distance doesn't mean separation.
+距离不代表分离。
+```
