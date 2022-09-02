@@ -1952,3 +1952,13 @@ supervise
 permanent
 steady
 ```
+
+---
+Date: 2022.09.02
+```
+flame
+heir
+embody
+patriotic
+maid
+```
