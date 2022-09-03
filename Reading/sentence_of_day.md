@@ -1034,3 +1034,10 @@ Date: 2022.09.02
 Distance doesn't mean separation.
 距离不代表分离。
 ```
+
+---
+Date: 2022.09.03
+```
+Let's cross the bridge when we come to it.
+船到桥头自然直。
+```
