@@ -1962,3 +1962,15 @@ embody
 patriotic
 maid
 ```
+
+---
+Date: 2022.09.03
+```
+politician
+plumber
+pilot
+pharmacist
+paramedic
+optician
+miner
+```
