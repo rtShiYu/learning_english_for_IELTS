@@ -1974,3 +1974,15 @@ paramedic
 optician
 miner
 ```
+
+---
+Date: 2022.09.04
+```
+midwife
+mechanic
+lifeguard
+lecturer
+interior designer
+illustrator
+glazer
+```
