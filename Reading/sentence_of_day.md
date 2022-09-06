@@ -1055,3 +1055,10 @@ Date: 2022.09.05
 A loving heart is the beginning of all knowledge.
 一颗充满热爱的心是一切知识的起源。
 ```
+
+---
+Date: 2022.09.06
+```
+That man is the richest whose pleasure are the cheapest.
+能处处寻求快乐的人才是最富有的人。
+```
