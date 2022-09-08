@@ -1069,3 +1069,10 @@ Date: 2022.09.07
 Practice random kindness and senseless acts of beauty.
 随心随意求美，无来无由行善。
 ```
+
+---
+Date: 2022.09.08
+```
+They who cannot do as they would, must do as they can.
+不能如愿而行，也需尽力而为。
+```
