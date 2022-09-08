@@ -2008,11 +2008,22 @@ eloquent
 ```
 
 ---
-Date: 2022.09.06
+Date: 2022.09.07
 ```
 attorney
 cabinet
 premium
 act
 bullet
+```
+
+---
+Date: 2022.09.08
+```
+staff
+bankrupt
+recession
+stadium
+behalf
+vacancy
 ```
