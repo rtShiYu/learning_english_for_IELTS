@@ -1076,3 +1076,10 @@ Date: 2022.09.08
 They who cannot do as they would, must do as they can.
 不能如愿而行，也需尽力而为。
 ```
+
+---
+Date: 2022.09.09
+```
+Why waste precious time dreaming when waking life is so much better?
+醒着的生活如此美好，为何要把时间浪费在做梦上呢？
+```
