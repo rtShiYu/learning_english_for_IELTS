@@ -1083,3 +1083,10 @@ Date: 2022.09.09
 Why waste precious time dreaming when waking life is so much better?
 醒着的生活如此美好，为何要把时间浪费在做梦上呢？
 ```
+
+---
+Date: 2022.09.10
+```
+Don't moon away the Mid-Autumn Festival.
+不要虚度了中秋佳节。
+```
