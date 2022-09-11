@@ -2049,3 +2049,14 @@ gamechanger
 reiterate
 discrepancy
 ```
+
+---
+Date: 2022.09.11
+```
+unveil
+criticism
+hostility
+outright
+groundwork
+underway
+```
