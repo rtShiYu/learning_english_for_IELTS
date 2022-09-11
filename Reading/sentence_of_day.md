@@ -1090,3 +1090,10 @@ Date: 2022.09.10
 Don't moon away the Mid-Autumn Festival.
 不要虚度了中秋佳节。
 ```
+
+---
+Date: 2022.09.11
+```
+Everyone you meet is fighting a battle you know nothing about.
+每个人都在经历你无法想象的困境。
+```
