@@ -1097,3 +1097,10 @@ Date: 2022.09.11
 Everyone you meet is fighting a battle you know nothing about.
 每个人都在经历你无法想象的困境。
 ```
+
+---
+Date: 2022.09.12
+```
+A lie can travel halfway aroud the world while the truth is still putting on its shoes.
+当真理还正在穿鞋的时候，谎言就能走遍半个世界。
+```
