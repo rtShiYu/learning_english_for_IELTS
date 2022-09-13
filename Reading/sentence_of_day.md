@@ -1104,3 +1104,10 @@ Date: 2022.09.12
 A lie can travel halfway aroud the world while the truth is still putting on its shoes.
 当真理还正在穿鞋的时候，谎言就能走遍半个世界。
 ```
+
+---
+Date: 2022.09.13
+```
+Distance doesn't ruin a relationship. Doubts do.
+毁灭感情的不是距离，而是怀疑。
+```
