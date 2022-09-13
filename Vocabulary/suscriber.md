@@ -2073,3 +2073,13 @@ dismal
 evoke
 considerable
 ```
+
+---
+Date: 2022.09.13
+```
+diverge
+alongside
+custody
+misled
+sworn
+```
