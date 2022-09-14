@@ -1111,3 +1111,10 @@ Date: 2022.09.13
 Distance doesn't ruin a relationship. Doubts do.
 毁灭感情的不是距离，而是怀疑。
 ```
+
+---
+Date: 2022.09.13
+```
+The better you become, the better you attract.
+你若盛开，蝴蝶自来。
+```
