@@ -2083,3 +2083,14 @@ custody
 misled
 sworn
 ```
+
+---
+Date: 2022.09.14
+```
+plagiarism
+inferior
+broadly
+tentative
+monetary
+irrefutable
+```
