@@ -1113,8 +1113,15 @@ Distance doesn't ruin a relationship. Doubts do.
 ```
 
 ---
-Date: 2022.09.13
+Date: 2022.09.14
 ```
 The better you become, the better you attract.
 你若盛开，蝴蝶自来。
+```
+
+---
+Date: 2022.09.15
+```
+A smile is the most charming part of a person forever.
+微笑永远是一个人最迷人的特质。
 ```
