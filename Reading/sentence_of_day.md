@@ -1125,3 +1125,10 @@ Date: 2022.09.15
 A smile is the most charming part of a person forever.
 微笑永远是一个人最迷人的特质。
 ```
+
+---
+Date: 2022.09.16
+```
+Promise yourself to be so strong that nothing can disturb your peace of mind.
+答应自己要坚强，不让任何事物烦扰内心的平静。
+```
