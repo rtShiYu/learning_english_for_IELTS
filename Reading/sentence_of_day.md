@@ -1132,3 +1132,10 @@ Date: 2022.09.16
 Promise yourself to be so strong that nothing can disturb your peace of mind.
 答应自己要坚强，不让任何事物烦扰内心的平静。
 ```
+
+---
+Date: 2022.09.17
+```
+I'm a slow walker, but I never walk backwards.
+我走得很慢，但是从来不会后退。
+```
