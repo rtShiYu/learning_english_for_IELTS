@@ -2115,3 +2115,15 @@ lottery
 reinforce
 investor
 ```
+
+---
+Date: 2022.09.17
+```
+videograph
+misled
+smuggle
+pledge
+negotiation
+malign
+sovereignty
+```
