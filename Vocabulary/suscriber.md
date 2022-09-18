@@ -2127,3 +2127,15 @@ negotiation
 malign
 sovereignty
 ```
+
+---
+Date: 2022.09.18
+```
+alienate
+guilty
+calamity
+spiritual
+authentic
+disturb
+prognosis
+```
