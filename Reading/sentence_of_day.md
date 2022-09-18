@@ -1139,3 +1139,10 @@ Date: 2022.09.17
 I'm a slow walker, but I never walk backwards.
 我走得很慢，但是从来不会后退。
 ```
+
+---
+Date: 2022.09.18
+```
+People tend to confuse bad decisions with bad luck.
+没有糟糕的运气，只有糟糕的决定。
+```
