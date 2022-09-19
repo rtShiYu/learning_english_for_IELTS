@@ -1146,3 +1146,10 @@ Date: 2022.09.18
 People tend to confuse bad decisions with bad luck.
 没有糟糕的运气，只有糟糕的决定。
 ```
+
+---
+Date: 2022.09.19
+```
+Not everybody could sail the ocean, but still we could share this dream.
+不是每个人都能成为销魂的船长，但都可以让梦想远航。
+```
