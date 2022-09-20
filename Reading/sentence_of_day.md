@@ -1153,3 +1153,10 @@ Date: 2022.09.19
 Not everybody could sail the ocean, but still we could share this dream.
 不是每个人都能成为销魂的船长，但都可以让梦想远航。
 ```
+
+---
+Date: 2022.09.20
+```
+Problems are not stop signs; they are guidelines.
+问题不是止步不前的标志，而是前进的指引。
+```
