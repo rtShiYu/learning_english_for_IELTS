@@ -1160,3 +1160,10 @@ Date: 2022.09.20
 Problems are not stop signs; they are guidelines.
 问题不是止步不前的标志，而是前进的指引。
 ```
+
+---
+Date: 2022.09.21
+```
+Be strong but not rude. Be kind but not weak. Be humble but not timid. Be proud but not arrogant.
+坚强但不要无礼，善良但不要软弱，谦虚但不要胆小，自豪但不要傲慢
+```
