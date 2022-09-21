@@ -2162,3 +2162,14 @@ grab
 serendipitous
 sleeve
 ```
+
+---
+Date: 2022.09.21
+```
+deterrent
+shoplifter
+verdict
+accused
+stipulate
+prohibit
+```
