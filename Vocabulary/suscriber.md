@@ -2173,3 +2173,13 @@ accused
 stipulate
 prohibit
 ```
+
+---
+Date: 2022.09.22
+```
+staggering
+juvenile
+terrorism
+political
+arrogant
+```
