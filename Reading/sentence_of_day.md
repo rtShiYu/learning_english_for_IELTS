@@ -1167,3 +1167,10 @@ Date: 2022.09.21
 Be strong but not rude. Be kind but not weak. Be humble but not timid. Be proud but not arrogant.
 坚强但不要无礼，善良但不要软弱，谦虚但不要胆小，自豪但不要傲慢
 ```
+
+---
+Date: 2022.09.22
+```
+We are more often frightened than hurt; and we suffer more from imagination than from reality.
+我们经常害怕而受伤，我们的苦大多来自想象而非现实。
+```
