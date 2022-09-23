@@ -2183,3 +2183,15 @@ terrorism
 political
 arrogant
 ```
+
+---
+Date: 2022.09.23
+```
+famine
+divorce
+civil, civil war
+troop
+rebel
+campaign
+flick
+```
