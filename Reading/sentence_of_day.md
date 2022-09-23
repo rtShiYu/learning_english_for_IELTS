@@ -1174,3 +1174,10 @@ Date: 2022.09.22
 We are more often frightened than hurt; and we suffer more from imagination than from reality.
 我们经常害怕而受伤，我们的苦大多来自想象而非现实。
 ```
+
+---
+Date: 2022.09.23
+```
+Courage is fear holding on a minute longer.
+勇气就是即使恐惧仍然能继续坚持一分钟。
+```
