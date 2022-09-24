@@ -1181,3 +1181,10 @@ Date: 2022.09.23
 Courage is fear holding on a minute longer.
 勇气就是即使恐惧仍然能继续坚持一分钟。
 ```
+
+---
+Date: 2022.09.24
+```
+Yesterday is history; tomorrow is a mystery; but today is a gift.
+昨天已是历史，明天还是一个迷，而今天则是一份礼物。
+```
