@@ -1188,3 +1188,10 @@ Date: 2022.09.24
 Yesterday is history; tomorrow is a mystery; but today is a gift.
 昨天已是历史，明天还是一个迷，而今天则是一份礼物。
 ```
+
+---
+Date: 2022.09.25
+```
+It's easy to straighten a tree when it's small, but it's difficult to stretch a tree when it's big.
+树小扶直易，树大扳伸难。
+```
