@@ -1195,3 +1195,10 @@ Date: 2022.09.25
 It's easy to straighten a tree when it's small, but it's difficult to stretch a tree when it's big.
 树小扶直易，树大扳伸难。
 ```
+
+---
+Date: 2022.09.26
+```
+Being a winner is never an accident; winning comes about by design, determination and positive action.
+成为胜者从来不是意外，胜利来自规划，决心与正面行动。
+```
