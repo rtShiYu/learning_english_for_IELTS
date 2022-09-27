@@ -2230,3 +2230,14 @@ miserable
 gut
 inability
 ```
+
+---
+Date: 2022.09.27
+```
+confiscated
+riot
+criminal
+denied
+lunging
+epidemiology
+```
