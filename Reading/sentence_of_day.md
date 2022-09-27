@@ -1202,3 +1202,10 @@ Date: 2022.09.26
 Being a winner is never an accident; winning comes about by design, determination and positive action.
 成为胜者从来不是意外，胜利来自规划，决心与正面行动。
 ```
+
+---
+Date: 2022.09.27
+```
+If it is important to you, you will find a way.
+如果你认为重要，你就会想对策。
+```
