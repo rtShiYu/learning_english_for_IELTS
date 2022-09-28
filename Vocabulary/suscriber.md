@@ -2251,3 +2251,13 @@ wrap-up
 alignment
 metric
 ```
+
+---
+Date: 2022.09.29
+```
+annual
+payback
+diesel
+empower
+rental
+```
