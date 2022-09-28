@@ -1209,3 +1209,10 @@ Date: 2022.09.27
 If it is important to you, you will find a way.
 如果你认为重要，你就会想对策。
 ```
+
+---
+Date: 2022.09.28
+```
+Keep what you say and carry out what you do.
+言必行，行必果。
+```
