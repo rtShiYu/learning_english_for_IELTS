@@ -2261,3 +2261,14 @@ diesel
 empower
 rental
 ```
+
+---
+Date: 2022.09.30
+```
+incumbent
+premium
+criteria
+upfront
+rental
+disruptor
+```
