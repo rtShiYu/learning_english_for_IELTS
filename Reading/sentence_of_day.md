@@ -1230,3 +1230,10 @@ Date: 2022.09.30
 Hang in there, victory is just around the corner!
 坚持住，胜利就在眼前。
 ```
+
+---
+Date: 2022.10.01
+```
+Real integrity is doing the right thing, knowing that nobody's going to know whether you did it or not.
+真正的正直是做对的事，即使没有人会了解你究竟做了什么。
+```
