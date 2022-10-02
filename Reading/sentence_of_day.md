@@ -1237,3 +1237,10 @@ Date: 2022.10.01
 Real integrity is doing the right thing, knowing that nobody's going to know whether you did it or not.
 真正的正直是做对的事，即使没有人会了解你究竟做了什么。
 ```
+
+---
+Date: 2022.10.02
+```
+Real strength doesn't come form pushing other people down. It's from lifting them up.
+真正的力量不是推倒别人，而是讲摔倒的人扶起来。
+```
