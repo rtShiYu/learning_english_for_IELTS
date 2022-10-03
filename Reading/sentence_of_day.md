@@ -1020,3 +1020,227 @@ Date: 2022.08.31
 The real difficulty is to overcome how you think about yourself.
 真正的困难是克服你对自己的看法。
 ```
+
+---
+Date: 2022.09.01
+```
+There's nothing for you behind you. All that exists is what's ahead.
+来路无可眷恋，值得期待的只有前方。
+```
+
+---
+Date: 2022.09.02
+```
+Distance doesn't mean separation.
+距离不代表分离。
+```
+
+---
+Date: 2022.09.03
+```
+Let's cross the bridge when we come to it.
+船到桥头自然直。
+```
+
+---
+Date: 2022.09.04
+```
+The beauty of summer can heal the winter of your life.
+夏天的美好，能治愈生命里的冬天。
+```
+
+---
+Date: 2022.09.05
+```
+A loving heart is the beginning of all knowledge.
+一颗充满热爱的心是一切知识的起源。
+```
+
+---
+Date: 2022.09.06
+```
+That man is the richest whose pleasure are the cheapest.
+能处处寻求快乐的人才是最富有的人。
+```
+
+---
+Date: 2022.09.07
+```
+Practice random kindness and senseless acts of beauty.
+随心随意求美，无来无由行善。
+```
+
+---
+Date: 2022.09.08
+```
+They who cannot do as they would, must do as they can.
+不能如愿而行，也需尽力而为。
+```
+
+---
+Date: 2022.09.09
+```
+Why waste precious time dreaming when waking life is so much better?
+醒着的生活如此美好，为何要把时间浪费在做梦上呢？
+```
+
+---
+Date: 2022.09.10
+```
+Don't moon away the Mid-Autumn Festival.
+不要虚度了中秋佳节。
+```
+
+---
+Date: 2022.09.11
+```
+Everyone you meet is fighting a battle you know nothing about.
+每个人都在经历你无法想象的困境。
+```
+
+---
+Date: 2022.09.12
+```
+A lie can travel halfway aroud the world while the truth is still putting on its shoes.
+当真理还正在穿鞋的时候，谎言就能走遍半个世界。
+```
+
+---
+Date: 2022.09.13
+```
+Distance doesn't ruin a relationship. Doubts do.
+毁灭感情的不是距离，而是怀疑。
+```
+
+---
+Date: 2022.09.14
+```
+The better you become, the better you attract.
+你若盛开，蝴蝶自来。
+```
+
+---
+Date: 2022.09.15
+```
+A smile is the most charming part of a person forever.
+微笑永远是一个人最迷人的特质。
+```
+
+---
+Date: 2022.09.16
+```
+Promise yourself to be so strong that nothing can disturb your peace of mind.
+答应自己要坚强，不让任何事物烦扰内心的平静。
+```
+
+---
+Date: 2022.09.17
+```
+I'm a slow walker, but I never walk backwards.
+我走得很慢，但是从来不会后退。
+```
+
+---
+Date: 2022.09.18
+```
+People tend to confuse bad decisions with bad luck.
+没有糟糕的运气，只有糟糕的决定。
+```
+
+---
+Date: 2022.09.19
+```
+Not everybody could sail the ocean, but still we could share this dream.
+不是每个人都能成为销魂的船长，但都可以让梦想远航。
+```
+
+---
+Date: 2022.09.20
+```
+Problems are not stop signs; they are guidelines.
+问题不是止步不前的标志，而是前进的指引。
+```
+
+---
+Date: 2022.09.21
+```
+Be strong but not rude. Be kind but not weak. Be humble but not timid. Be proud but not arrogant.
+坚强但不要无礼，善良但不要软弱，谦虚但不要胆小，自豪但不要傲慢
+```
+
+---
+Date: 2022.09.22
+```
+We are more often frightened than hurt; and we suffer more from imagination than from reality.
+我们经常害怕而受伤，我们的苦大多来自想象而非现实。
+```
+
+---
+Date: 2022.09.23
+```
+Courage is fear holding on a minute longer.
+勇气就是即使恐惧仍然能继续坚持一分钟。
+```
+
+---
+Date: 2022.09.24
+```
+Yesterday is history; tomorrow is a mystery; but today is a gift.
+昨天已是历史，明天还是一个迷，而今天则是一份礼物。
+```
+
+---
+Date: 2022.09.25
+```
+It's easy to straighten a tree when it's small, but it's difficult to stretch a tree when it's big.
+树小扶直易，树大扳伸难。
+```
+
+---
+Date: 2022.09.26
+```
+Being a winner is never an accident; winning comes about by design, determination and positive action.
+成为胜者从来不是意外，胜利来自规划，决心与正面行动。
+```
+
+---
+Date: 2022.09.27
+```
+If it is important to you, you will find a way.
+如果你认为重要，你就会想对策。
+```
+
+---
+Date: 2022.09.28
+```
+Keep what you say and carry out what you do.
+言必行，行必果。
+```
+
+---
+Date: 2022.09.29
+```
+I'm just an emotionless working machine.
+我只是一个没有感情的工作机器。
+```
+
+---
+Date: 2022.09.30
+```
+Hang in there, victory is just around the corner!
+坚持住，胜利就在眼前。
+```
+
+---
+Date: 2022.10.01
+```
+Real integrity is doing the right thing, knowing that nobody's going to know whether you did it or not.
+真正的正直是做对的事，即使没有人会了解你究竟做了什么。
+```
+
+---
+Date: 2022.10.02
+```
+Real strength doesn't come form pushing other people down. It's from lifting them up.
+真正的力量不是推倒别人，而是讲摔倒的人扶起来。
+```

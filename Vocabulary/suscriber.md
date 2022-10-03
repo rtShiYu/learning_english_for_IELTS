@@ -1941,3 +1941,356 @@ malware
 spam
 hint
 ```
+
+---
+Date: 2022.09.01
+```
+embark
+ladder
+wreck
+supervise
+permanent
+steady
+```
+
+---
+Date: 2022.09.02
+```
+flame
+heir
+embody
+patriotic
+maid
+```
+
+---
+Date: 2022.09.03
+```
+politician
+plumber
+pilot
+pharmacist
+paramedic
+optician
+miner
+```
+
+---
+Date: 2022.09.04
+```
+midwife
+mechanic
+lifeguard
+lecturer
+interior designer
+illustrator
+glazer
+```
+
+---
+Date: 2022.09.05
+```
+gardener
+florist
+flight attendant
+fishmonger
+store and retrieve
+```
+
+---
+Date: 2022.09.06
+```
+formidable
+summon
+catastrophic
+rescue
+eloquent
+```
+
+---
+Date: 2022.09.07
+```
+attorney
+cabinet
+premium
+act
+bullet
+```
+
+---
+Date: 2022.09.08
+```
+staff
+bankrupt
+recession
+stadium
+behalf
+vacancy
+```
+
+---
+Date: 2022.09.09
+```
+precious
+hallway
+ugliest
+couch
+humble
+aspect
+```
+
+---
+Date: 2022.09.10
+```
+affordable
+sustainable
+coordinate
+gamechanger
+reiterate
+discrepancy
+```
+
+---
+Date: 2022.09.11
+```
+unveil
+criticism
+hostility
+outright
+groundwork
+underway
+```
+
+---
+Date: 2022.09.12
+```
+circumstance
+accomplish
+consummate
+star-studded
+sentimentality
+dismal
+evoke
+considerable
+```
+
+---
+Date: 2022.09.13
+```
+diverge
+alongside
+custody
+misled
+sworn
+```
+
+---
+Date: 2022.09.14
+```
+plagiarism
+inferior
+broadly
+tentative
+monetary
+irrefutable
+```
+
+---
+Date: 2022.09.15
+```
+strenuously
+charming
+beyond
+durabulity
+stainless
+glanceable
+```
+
+---
+Date: 2022.09.16
+```
+obey
+profound
+lottery
+reinforce
+investor
+```
+
+---
+Date: 2022.09.17
+```
+videograph
+misled
+smuggle
+pledge
+negotiation
+malign
+sovereignty
+```
+
+---
+Date: 2022.09.18
+```
+alienate
+guilty
+calamity
+spiritual
+authentic
+disturb
+prognosis
+```
+
+---
+Date: 2022.09.19
+```
+radiator
+enormous
+metaphor
+pattern
+predictable
+diagnosis
+struggle
+foster
+```
+
+---
+Date: 2022.09.20
+```
+overall
+replicate
+grab
+serendipitous
+sleeve
+```
+
+---
+Date: 2022.09.21
+```
+deterrent
+shoplifter
+verdict
+accused
+stipulate
+prohibit
+```
+
+---
+Date: 2022.09.22
+```
+staggering
+juvenile
+terrorism
+political
+arrogant
+```
+
+---
+Date: 2022.09.23
+```
+famine
+divorce
+civil, civil war
+troop
+rebel
+campaign
+flick
+```
+
+---
+Date: 2022.09.24
+```
+Montana
+briefly
+bagel
+sprout
+landslide
+grizzly
+```
+
+---
+Date: 2022.09.25
+```
+robber
+documentary
+reality TV
+interviewer/interviewee
+repair/mend
+plaster
+plumber
+```
+
+---
+Date: 2022.09.26
+```
+trance
+colla
+fortify
+explicit
+miserable
+gut
+inability
+```
+
+---
+Date: 2022.09.27
+```
+confiscated
+riot
+criminal
+denied
+lunging
+epidemiology
+```
+
+---
+Date: 2022.09.28
+```
+segmentation
+prospect
+wrap-up
+alignment
+metric
+```
+
+---
+Date: 2022.09.29
+```
+annual
+payback
+diesel
+empower
+rental
+```
+
+---
+Date: 2022.09.30
+```
+incumbent
+premium
+criteria
+upfront
+rental
+disruptor
+```
+
+---
+Date: 2022.10.01
+```
+unnerve
+smash
+prime
+innocent
+pike
+endure
+```
+
+---
+Date: 2022.10.02
+```
+ivory
+hen
+pony
+vide
+rural
+flyover
+```
