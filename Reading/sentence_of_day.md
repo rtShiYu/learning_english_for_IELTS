@@ -1258,3 +1258,10 @@ Date: 2022.10.04
 No matter what label is thrown your way, only you can define yourself.
 不管你被贴上什么标签，只有你才能定义自己。
 ```
+
+---
+Date: 2022.10.05
+```
+At the place we don't know, there is always some sadness we haven't seen.
+在我们不曾了解的地方，总有些未曾看到的心酸。
+```
