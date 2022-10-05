@@ -2314,3 +2314,14 @@ occupied
 dumped
 pattern
 ```
+
+---
+Date: 2022.10.05
+```
+gourd
+participate
+mobility
+reimbursement
+loyalty
+hassle
+```
