@@ -1265,3 +1265,10 @@ Date: 2022.10.05
 At the place we don't know, there is always some sadness we haven't seen.
 在我们不曾了解的地方，总有些未曾看到的心酸。
 ```
+
+---
+Date: 2022.10.06
+```
+Whatever is going to happen will happen, whether we worry or not.
+不管你焦虑是否，该发生的的总会发生。
+```
