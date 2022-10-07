@@ -1272,3 +1272,10 @@ Date: 2022.10.06
 Whatever is going to happen will happen, whether we worry or not.
 不管你焦虑是否，该发生的的总会发生。
 ```
+
+---
+Date: 2022.10.10.07
+```
+Though there is much to be concerned about, there is far, far more for which to be thankful.
+尽管有很多事让人忧虑，但相比而言，值得感激的事要多得多。
+```
