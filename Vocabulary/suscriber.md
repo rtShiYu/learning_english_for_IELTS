@@ -2336,3 +2336,14 @@ spear
 align
 engage
 ```
+
+---
+Date: 2022.10.07
+```
+hive
+jockey
+spite
+surrender
+interpret
+overqualified
+```
