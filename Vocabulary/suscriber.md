@@ -2347,3 +2347,13 @@ surrender
 interpret
 overqualified
 ```
+
+---
+Date: 2022.10.08
+```
+incentives
+clarification
+confidential
+prospecting
+baked
+```
