@@ -2357,3 +2357,13 @@ confidential
 prospecting
 baked
 ```
+
+---
+Date: 2022.10.09
+```
+alliance
+conduit
+collaboration
+newsletter
+referral
+```
