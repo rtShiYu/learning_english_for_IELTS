@@ -1286,3 +1286,10 @@ Date: 2022.10.08
 You don't have to see the whole staircase, just take the first step.
 你无需看到楼梯的全貌，只要迈出第一步。
 ```
+
+---
+Date: 2022.10.09
+```
+Things do not change. We do.
+万物不变，是我们在变。
+```
