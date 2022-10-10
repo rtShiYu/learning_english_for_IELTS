@@ -2367,3 +2367,13 @@ collaboration
 newsletter
 referral
 ```
+
+---
+Date: 2022.10.10
+```
+collaboration
+vital
+strategic
+phases
+intelligence
+```
