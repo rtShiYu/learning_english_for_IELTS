@@ -1293,3 +1293,10 @@ Date: 2022.10.09
 Things do not change. We do.
 万物不变，是我们在变。
 ```
+
+---
+Date: 2022.10.10
+```
+Everything in the past is a mirror of wisdom.
+过往一切都是智慧的映射.
+```
