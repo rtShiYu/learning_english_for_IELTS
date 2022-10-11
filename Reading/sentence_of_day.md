@@ -1300,3 +1300,10 @@ Date: 2022.10.10
 Everything in the past is a mirror of wisdom.
 过往一切都是智慧的映射.
 ```
+
+---
+Date: 2022.10.11
+```
+Love is like the moon. When it does not increase, it decreases.
+爱情就像月亮，不增则减。
+```
