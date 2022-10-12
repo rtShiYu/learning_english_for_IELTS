@@ -1307,3 +1307,10 @@ Date: 2022.10.11
 Love is like the moon. When it does not increase, it decreases.
 爱情就像月亮，不增则减。
 ```
+
+---
+Date: 2022.10.12
+```
+If you put off everything till you're sure of it, you'll never get anything done.
+如果你把每件事都推迟到确定以后才做，那你什么都做不成。
+```
