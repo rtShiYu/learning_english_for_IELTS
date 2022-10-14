@@ -2399,3 +2399,14 @@ tinted
 stain
 vest
 ```
+
+---
+Date: 2022.10.13
+```
+rope
+turnover
+perfume
+ambassador
+proposal
+invasion
+```
