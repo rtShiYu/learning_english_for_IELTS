@@ -1314,3 +1314,10 @@ Date: 2022.10.12
 If you put off everything till you're sure of it, you'll never get anything done.
 如果你把每件事都推迟到确定以后才做，那你什么都做不成。
 ```
+
+---
+Date: 2022.10.13
+```
+The elderly is history and drama for reference of our lives.
+老人犹如历史和戏剧，可为我们的生活提供参考。
+```
