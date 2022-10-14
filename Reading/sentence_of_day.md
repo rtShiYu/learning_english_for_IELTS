@@ -1321,3 +1321,10 @@ Date: 2022.10.13
 The elderly is history and drama for reference of our lives.
 老人犹如历史和戏剧，可为我们的生活提供参考。
 ```
+
+---
+Date: 2022.10.14
+```
+He who fixes his mistakes and constantly moves forward will reach his goals.
+能改正自己的错误并持续前进的人，将可以到达他的目标。
+```
