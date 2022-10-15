@@ -1328,3 +1328,10 @@ Date: 2022.10.14
 He who fixes his mistakes and constantly moves forward will reach his goals.
 能改正自己的错误并持续前进的人，将可以到达他的目标。
 ```
+
+---
+Date: 2022.10.15
+```
+One man's meat is another man's poison.
+甲之蜜糖，乙之砒霜。
+```
