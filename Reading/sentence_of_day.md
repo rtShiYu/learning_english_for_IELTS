@@ -1335,3 +1335,10 @@ Date: 2022.10.15
 One man's meat is another man's poison.
 甲之蜜糖，乙之砒霜。
 ```
+
+---
+Date: 2022.10.16
+```
+Good looks may fade, but a good heart keeps you beautiful forever.
+芳容易逝，而善心却能令美丽永驻。
+```
