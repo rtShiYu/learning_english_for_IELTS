@@ -2460,3 +2460,14 @@ rumour
 intuition
 stiff
 ```
+
+---
+Date: 2022.10.18
+```
+deprivation
+chore
+wail
+disrupt
+yank
+carnival
+```
