@@ -1342,3 +1342,10 @@ Date: 2022.10.16
 Good looks may fade, but a good heart keeps you beautiful forever.
 芳容易逝，而善心却能令美丽永驻。
 ```
+
+---
+Date: 2022.10.17
+```
+Either you run the day, or the day runs you.
+你不主宰时光，时光就会主宰你。
+```
