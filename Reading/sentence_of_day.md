@@ -1349,3 +1349,10 @@ Date: 2022.10.17
 Either you run the day, or the day runs you.
 你不主宰时光，时光就会主宰你。
 ```
+
+---
+Date: 2022.10.18
+```
+If you are hopeful, you will be invincible.
+满怀希望，就会所向披靡。
+```
