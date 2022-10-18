@@ -1356,3 +1356,10 @@ Date: 2022.10.18
 If you are hopeful, you will be invincible.
 满怀希望，就会所向披靡。
 ```
+
+---
+Date: 2022.10.19
+```
+Everyone has talent. What is rare is the courage to follow the talent to the dark place where it leads.
+人人都有天赋。罕见的是甘愿跟随天赋，尝尽人间甘苦的勇气。
+```
