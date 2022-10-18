@@ -2471,3 +2471,15 @@ disrupt
 yank
 carnival
 ```
+
+---
+Date: 2022.10.19
+```
+insulin
+deny
+neonatal
+alleged, allegedly
+dent
+peerage
+boom
+```
