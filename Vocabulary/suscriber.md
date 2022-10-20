@@ -2483,3 +2483,15 @@ dent
 peerage
 boom
 ```
+
+---
+Date: 2022.10.20
+```
+haunt
+ghost
+trauma
+collective
+genocide
+```
+
+.
