@@ -1274,7 +1274,7 @@ Whatever is going to happen will happen, whether we worry or not.
 ```
 
 ---
-Date: 2022.10.10.07
+Date: 2022.10.07
 ```
 Though there is much to be concerned about, there is far, far more for which to be thankful.
 尽管有很多事让人忧虑，但相比而言，值得感激的事要多得多。
@@ -1362,4 +1362,11 @@ Date: 2022.10.19
 ```
 Everyone has talent. What is rare is the courage to follow the talent to the dark place where it leads.
 人人都有天赋。罕见的是甘愿跟随天赋，尝尽人间甘苦的勇气。
+```
+
+---
+Date: 2022.10.20
+```
+A rose by any other name would smell as sweet.
+玫瑰即使换了名字也依旧芬芳。
 ```

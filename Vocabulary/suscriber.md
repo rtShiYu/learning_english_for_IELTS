@@ -2494,4 +2494,3 @@ collective
 genocide
 ```
 
-.
