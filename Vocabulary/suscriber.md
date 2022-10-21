@@ -2494,3 +2494,13 @@ collective
 genocide
 ```
 
+---
+Date: 2022,10.21
+```
+rough
+filthy
+opposite
+synonym
+diagram
+highlight
+```
