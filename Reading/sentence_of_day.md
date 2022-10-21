@@ -1370,3 +1370,10 @@ Date: 2022.10.20
 A rose by any other name would smell as sweet.
 玫瑰即使换了名字也依旧芬芳。
 ```
+
+---
+Date: 2022.10.21
+```
+Even the weariest river winds somewhere safe to sea.
+即使是最疲惫的河流，也终会入海安身。
+```
