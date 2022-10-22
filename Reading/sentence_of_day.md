@@ -1377,3 +1377,10 @@ Date: 2022.10.21
 Even the weariest river winds somewhere safe to sea.
 即使是最疲惫的河流，也终会入海安身。
 ```
+
+---
+Date: 2022.10.22
+```
+It's hard to please everyone, so keep delighful for yourself.
+众口难调，开心就好。
+```

@@ -2495,7 +2495,7 @@ genocide
 ```
 
 ---
-Date: 2022,10.21
+Date: 2022.10.21
 ```
 rough
 filthy
