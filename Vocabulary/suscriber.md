@@ -2515,3 +2515,17 @@ zipper
 abolish
 yield
 ```
+
+---
+Date: 2022.10.23
+```
+fancy
+spare
+sedan
+gorgeous
+sheltered
+tagged
+conquer
+weirdness
+craggy
+```
