@@ -1391,3 +1391,10 @@ Date: 2022.10.23
 At this moment, I miss you more than usual.
 此刻，我比平时更想你。
 ```
+
+---
+Date: 2022.10.24
+```
+Don't stay mad for too long. Learn to leave things behind.
+生气不宜太久，要学会放下。
+```
