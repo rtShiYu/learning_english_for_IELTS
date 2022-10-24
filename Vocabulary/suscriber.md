@@ -2529,3 +2529,13 @@ conquer
 weirdness
 craggy
 ```
+
+---
+Date: 2022.10.24
+```
+hooligan
+ceasefire
+rage
+decisive
+squander
+```
