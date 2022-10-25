@@ -1398,3 +1398,10 @@ Date: 2022.10.24
 Don't stay mad for too long. Learn to leave things behind.
 生气不宜太久，要学会放下。
 ```
+
+---
+Date: 2022.10.25
+```
+The better you become, the better you attract.
+你若盛开，蝴蝶自来。
+```
