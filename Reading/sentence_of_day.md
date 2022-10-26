@@ -1405,3 +1405,10 @@ Date: 2022.10.25
 The better you become, the better you attract.
 你若盛开，蝴蝶自来。
 ```
+
+---
+Date: 2022.10.26
+```
+Nothing in life is to be feared. It is only to be understood.
+生活中没有什么可怕的东西，只有需要理解的东西。
+```
