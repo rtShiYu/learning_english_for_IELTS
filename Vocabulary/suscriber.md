@@ -2573,3 +2573,14 @@ nephew
 tolerant
 variety
 ```
+
+---
+Date: 2022.10.28
+```
+lung
+intestine
+liver
+recipe
+accumulate
+quadrature
+```
