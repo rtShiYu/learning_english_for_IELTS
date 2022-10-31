@@ -1447,3 +1447,10 @@ Date: 2022.10.31
 Today is a beautiful day. Whatever you want to do, seize the good time to do it.
 今天是个美好的日子，无论你想做什么，抓住这个好时光去做吧。
 ```
+
+---
+Date: 2022.11.01
+```
+Ideas don't come out fully formed. They only become clear as you work on them. You just have to get started.
+好的构想不是一看是就形成，它是在你实现的过程中变得更加清晰，你只需要着手去做。
+```
