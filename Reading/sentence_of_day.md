@@ -1244,3 +1244,206 @@ Date: 2022.10.02
 Real strength doesn't come form pushing other people down. It's from lifting them up.
 真正的力量不是推倒别人，而是讲摔倒的人扶起来。
 ```
+
+---
+Date: 2022.10.03
+```
+Young people have changed the course of history time and time again.
+古往今来，年轻人一次又一次地改变着历史的进程。
+```
+
+---
+Date: 2022.10.04
+```
+No matter what label is thrown your way, only you can define yourself.
+不管你被贴上什么标签，只有你才能定义自己。
+```
+
+---
+Date: 2022.10.05
+```
+At the place we don't know, there is always some sadness we haven't seen.
+在我们不曾了解的地方，总有些未曾看到的心酸。
+```
+
+---
+Date: 2022.10.06
+```
+Whatever is going to happen will happen, whether we worry or not.
+不管你焦虑是否，该发生的的总会发生。
+```
+
+---
+Date: 2022.10.07
+```
+Though there is much to be concerned about, there is far, far more for which to be thankful.
+尽管有很多事让人忧虑，但相比而言，值得感激的事要多得多。
+```
+
+---
+Date: 2022.10.08
+```
+You don't have to see the whole staircase, just take the first step.
+你无需看到楼梯的全貌，只要迈出第一步。
+```
+
+---
+Date: 2022.10.09
+```
+Things do not change. We do.
+万物不变，是我们在变。
+```
+
+---
+Date: 2022.10.10
+```
+Everything in the past is a mirror of wisdom.
+过往一切都是智慧的映射.
+```
+
+---
+Date: 2022.10.11
+```
+Love is like the moon. When it does not increase, it decreases.
+爱情就像月亮，不增则减。
+```
+
+---
+Date: 2022.10.12
+```
+If you put off everything till you're sure of it, you'll never get anything done.
+如果你把每件事都推迟到确定以后才做，那你什么都做不成。
+```
+
+---
+Date: 2022.10.13
+```
+The elderly is history and drama for reference of our lives.
+老人犹如历史和戏剧，可为我们的生活提供参考。
+```
+
+---
+Date: 2022.10.14
+```
+He who fixes his mistakes and constantly moves forward will reach his goals.
+能改正自己的错误并持续前进的人，将可以到达他的目标。
+```
+
+---
+Date: 2022.10.15
+```
+One man's meat is another man's poison.
+甲之蜜糖，乙之砒霜。
+```
+
+---
+Date: 2022.10.16
+```
+Good looks may fade, but a good heart keeps you beautiful forever.
+芳容易逝，而善心却能令美丽永驻。
+```
+
+---
+Date: 2022.10.17
+```
+Either you run the day, or the day runs you.
+你不主宰时光，时光就会主宰你。
+```
+
+---
+Date: 2022.10.18
+```
+If you are hopeful, you will be invincible.
+满怀希望，就会所向披靡。
+```
+
+---
+Date: 2022.10.19
+```
+Everyone has talent. What is rare is the courage to follow the talent to the dark place where it leads.
+人人都有天赋。罕见的是甘愿跟随天赋，尝尽人间甘苦的勇气。
+```
+
+---
+Date: 2022.10.20
+```
+A rose by any other name would smell as sweet.
+玫瑰即使换了名字也依旧芬芳。
+```
+
+---
+Date: 2022.10.21
+```
+Even the weariest river winds somewhere safe to sea.
+即使是最疲惫的河流，也终会入海安身。
+```
+
+---
+Date: 2022.10.22
+```
+It's hard to please everyone, so keep delighful for yourself.
+众口难调，开心就好。
+```
+
+---
+Date: 2022.10.23
+```
+At this moment, I miss you more than usual.
+此刻，我比平时更想你。
+```
+
+---
+Date: 2022.10.24
+```
+Don't stay mad for too long. Learn to leave things behind.
+生气不宜太久，要学会放下。
+```
+
+---
+Date: 2022.10.25
+```
+The better you become, the better you attract.
+你若盛开，蝴蝶自来。
+```
+
+---
+Date: 2022.10.26
+```
+Nothing in life is to be feared. It is only to be understood.
+生活中没有什么可怕的东西，只有需要理解的东西。
+```
+
+---
+Date: 2022.10.27
+```
+I'm not afraid of storms, for I'm learning how to sail my ship.
+我不惧怕风暴，因为我正在学习如何乘风破浪。
+```
+
+---
+Date: 2022.10.28
+```
+Time is a versatile performer. it flies, marches on, heals all wounds, runs out and will tell.
+时间是个多才多艺的表演者。它能展翅飞翔，能阔步前进，能治愈创伤，能消失而去，也能揭示真相。
+```
+
+---
+Date: 2022.10.29
+```
+When you really matter to someone, that person will always make time for you.
+真正在乎你的人，从来都“不忙”。
+```
+
+---
+Date: 2022.10.30
+```
+True masters tend to focus on one thing and do it well.
+真正的大师往往专注于打磨一件事。
+```
+
+---
+Date: 2022.10.31
+```
+Today is a beautiful day. Whatever you want to do, seize the good time to do it.
+今天是个美好的日子，无论你想做什么，抓住这个好时光去做吧。
+```
