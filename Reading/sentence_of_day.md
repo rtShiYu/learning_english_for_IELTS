@@ -1454,3 +1454,10 @@ Date: 2022.11.01
 Ideas don't come out fully formed. They only become clear as you work on them. You just have to get started.
 好的构想不是一看是就形成，它是在你实现的过程中变得更加清晰，你只需要着手去做。
 ```
+
+---
+Date: 2022.11.02
+```
+I am the master of my own destiny.
+我命由我不由天。
+```
