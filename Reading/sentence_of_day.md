@@ -1461,3 +1461,10 @@ Date: 2022.11.02
 I am the master of my own destiny.
 我命由我不由天。
 ```
+
+---
+Date: 2022.11.03
+```
+The memory is a muscle that must be exercised.
+记忆就像一块肌肉，必须要勤运动。
+```
