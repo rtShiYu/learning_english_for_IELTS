@@ -2646,3 +2646,15 @@ shame
 rucksack
 ferment
 ```
+
+---
+Date: 2022.11.03
+```
+bake
+grill
+lettuce
+spinach
+crab
+vinegar
+ingredient
+```
