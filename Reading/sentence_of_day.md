@@ -1468,3 +1468,10 @@ Date: 2022.11.03
 The memory is a muscle that must be exercised.
 记忆就像一块肌肉，必须要勤运动。
 ```
+
+---
+Date: 2022.11.04
+```
+Personality begins where comparison ends.
+个性是在没有比较时开始出现。
+```
