@@ -2670,3 +2670,15 @@ lever
 ghastly
 narrative
 ```
+
+---
+Date: 2022.11.05
+```
+silently
+read out loud
+motivation
+retreat
+hushed
+confine
+intuitively, intuitive
+```
