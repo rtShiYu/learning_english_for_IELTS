@@ -1475,3 +1475,10 @@ Date: 2022.11.04
 Personality begins where comparison ends.
 个性是在没有比较时开始出现。
 ```
+
+---
+Date: 2022.11.05
+```
+Throughout history, people have never before expected to be as comfortable as people do today.
+在整个历史里，人类从没想过可以像今天的人这般舒服。
+``
