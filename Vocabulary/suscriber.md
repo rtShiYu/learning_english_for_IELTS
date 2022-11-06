@@ -2682,3 +2682,14 @@ hushed
 confine
 intuitively, intuitive
 ```
+
+---
+Date: 2022.11.06
+```
+work out
+appreciate
+favor
+set the alarm
+mug
+cardio
+```
