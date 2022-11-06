@@ -1481,4 +1481,12 @@ Date: 2022.11.05
 ```
 Throughout history, people have never before expected to be as comfortable as people do today.
 在整个历史里，人类从没想过可以像今天的人这般舒服。
-``
+```
+
+---
+Date: 2022.11.06
+```
+The most exhausting thing in life is being insincere.
+生活中最使人筋疲力尽的事是弄虚作假。
+```
+
