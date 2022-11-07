@@ -1490,3 +1490,10 @@ The most exhausting thing in life is being insincere.
 生活中最使人筋疲力尽的事是弄虚作假。
 ```
 
+---
+Date: 2022.11.07
+```
+The dignity and glory of the person lies not in sophistication but in honesty.
+人性的尊严和光荣不在精明，而在诚实。
+```
+
