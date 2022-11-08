@@ -1497,3 +1497,9 @@ The dignity and glory of the person lies not in sophistication but in honesty.
 人性的尊严和光荣不在精明，而在诚实。
 ```
 
+---
+Date: 2022.11.08
+```
+The struggle makes everything all the more worth it.
+奋斗让一切都变得更有价值。
+```
