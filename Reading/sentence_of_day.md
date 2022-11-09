@@ -1503,3 +1503,10 @@ Date: 2022.11.08
 The struggle makes everything all the more worth it.
 奋斗让一切都变得更有价值。
 ```
+
+---
+Date: 2022.11.09
+```
+Be less curious about people and more curious about ideas.
+少对人好奇，多对想法好奇
+```
