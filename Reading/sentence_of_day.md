@@ -1510,3 +1510,10 @@ Date: 2022.11.09
 Be less curious about people and more curious about ideas.
 少对人好奇，多对想法好奇
 ```
+
+---
+Date: 2022.11.10
+```
+The top of one mountain is always the bottom of another.
+一座山的山顶，永远是另一座的山底。
+```
