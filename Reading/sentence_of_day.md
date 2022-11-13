@@ -1531,3 +1531,10 @@ Date: 2022.11.12
 Ultimately, it is the desire, not the desired, that we love.
 归根结底，我们爱的不是欲望之物，而是欲望本身。
 ```
+
+---
+Date: 2022.11.13
+```
+Pain is inevitable. Suffering is optional.
+痛是难免的，苦却是甘愿得。
+```
