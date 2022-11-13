@@ -2766,3 +2766,15 @@ meth
 carpet
 stain
 ```
+
+---
+Date: 2022.11.13
+```
+venture-capital
+approach
+innovation
+from...to...; from...and...to...; from...to...and...
+prognosis, diagnosis
+prospect, forecast
+dabble
+```
