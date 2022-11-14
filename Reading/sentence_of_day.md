@@ -1538,3 +1538,10 @@ Date: 2022.11.13
 Pain is inevitable. Suffering is optional.
 痛是难免的，苦却是甘愿得。
 ```
+
+---
+Date: 2022.11.14
+```
+Over every mountain there is path, although it may not be seen from the valley.
+每座山顶都有道路，虽然山谷不一定看得到。
+```
