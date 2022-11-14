@@ -2778,3 +2778,13 @@ prognosis, diagnosis
 prospect, forecast
 dabble
 ```
+
+---
+Date: 2022.11.14
+```
+readily
+relevant
+seized
+novice
+miracle
+```
