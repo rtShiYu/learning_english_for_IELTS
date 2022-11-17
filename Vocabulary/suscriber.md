@@ -2810,3 +2810,14 @@ crossing
 ladybird
 presumably
 ```
+
+---
+Date: 2022.11.17
+```
+reside
+hood
+rod
+utter
+essence
+jaunt
+```
