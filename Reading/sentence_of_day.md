@@ -1559,3 +1559,10 @@ Date: 2022.11.16
 After all, tomorrow is another day.
 不管怎样，明天又是新的一天。
 ```
+
+---
+Date: 2022.11.17
+```
+Procrastination is the thief of time.
+拖延是时间的小偷。
+```
