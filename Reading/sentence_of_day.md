@@ -1572,3 +1572,10 @@ Date: 2022.11.18
 ```
 An open mind is a gold mine.
 ```
+
+---
+Date: 2022.11.19
+```
+The price of inaction is far greater than the cost of making a mistake.
+没有行动的代价，远超过犯错的代价。
+```
