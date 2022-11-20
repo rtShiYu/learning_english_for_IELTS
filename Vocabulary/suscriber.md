@@ -2853,3 +2853,16 @@ poll
 fate
 implication
 ```
+
+---
+Date: 2022.11.21
+```
+extravaganza
+dog
+controversy
+allegation
+concourse
+dog
+conservative
+teeter
+```
