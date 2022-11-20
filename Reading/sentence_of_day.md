@@ -1586,3 +1586,10 @@ Date: 2022.11.20
 If you don't walk out, you will think that this is the whole world.
 走出去，才能看到更大的世界。
 ```
+
+---
+Date: 2022.11.21
+```
+Don't get too comfortable with who you are at any given time - you may miss the opportunity to become who you want to be.
+别在任何时候对现在的你太过满足 - 你可能会失去机会成为你想成为的人。
+```
