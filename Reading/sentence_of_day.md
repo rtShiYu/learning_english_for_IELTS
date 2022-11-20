@@ -1579,3 +1579,10 @@ Date: 2022.11.19
 The price of inaction is far greater than the cost of making a mistake.
 没有行动的代价，远超过犯错的代价。
 ```
+
+---
+Date: 2022.11.20
+```
+If you don't walk out, you will think that this is the whole world.
+走出去，才能看到更大的世界。
+```
