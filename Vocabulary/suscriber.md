@@ -2842,3 +2842,14 @@ legislative
 transcend
 drugstore
 ```
+
+---
+Date: 2022.11.20
+```
+fascinate
+hurtle
+consequential
+poll
+fate
+implication
+```
