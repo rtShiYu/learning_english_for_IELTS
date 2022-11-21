@@ -1593,3 +1593,15 @@ Date: 2022.11.21
 Don't get too comfortable with who you are at any given time - you may miss the opportunity to become who you want to be.
 别在任何时候对现在的你太过满足 - 你可能会失去机会成为你想成为的人。
 ```
+
+---
+Date: 2022.11.22
+```
+distraction
+struggle
+lifelong
+magnet
+hatch
+evolve
+extraordinary
+```
