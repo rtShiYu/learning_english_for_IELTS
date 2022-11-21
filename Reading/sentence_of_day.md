@@ -1597,11 +1597,6 @@ Don't get too comfortable with who you are at any given time - you may miss the 
 ---
 Date: 2022.11.22
 ```
-distraction
-struggle
-lifelong
-magnet
-hatch
-evolve
-extraordinary
+When the snows fall and the white winds blow, the lone wolf dies but the pack survives.
+当大雪降下，白风吹起，独狼死群狼存。
 ```
