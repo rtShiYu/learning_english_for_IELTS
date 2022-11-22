@@ -1600,3 +1600,10 @@ Date: 2022.11.22
 When the snows fall and the white winds blow, the lone wolf dies but the pack survives.
 当大雪降下，白风吹起，独狼死群狼存。
 ```
+
+---
+Date: 2022.11.23
+```
+The greater the man, the more restrained his anger.
+人越伟大，越能克制怒火。
+```
