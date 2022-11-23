@@ -1607,3 +1607,10 @@ Date: 2022.11.23
 The greater the man, the more restrained his anger.
 人越伟大，越能克制怒火。
 ```
+
+---
+Date: 2022.11.24
+```
+Live for the moment.
+活在当下。
+```
