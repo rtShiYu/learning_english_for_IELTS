@@ -2904,3 +2904,16 @@ levitate
 ludicrous
 miraculous
 ```
+
+---
+Date: 2022.11.25
+```
+terse
+turn over
+world cup
+tie, tied
+apparent
+solidarity
+rout
+alleged
+```
