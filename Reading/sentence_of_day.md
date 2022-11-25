@@ -1614,3 +1614,10 @@ Date: 2022.11.24
 Live for the moment.
 活在当下。
 ```
+
+---
+Date: 2022.11.25
+```
+Resolve to perform what you ought. Perform without fail what you resolve.
+当做必做，持之以恒。
+```
