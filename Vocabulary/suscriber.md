@@ -2917,3 +2917,15 @@ solidarity
 rout
 alleged
 ```
+
+---
+Date: 2022.11.26
+```
+slump
+sophomore
+blow up
+downturn
+grim
+miserable
+crumble
+```
