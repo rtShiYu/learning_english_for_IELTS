@@ -1621,3 +1621,10 @@ Date: 2022.11.25
 Resolve to perform what you ought. Perform without fail what you resolve.
 当做必做，持之以恒。
 ```
+
+---
+Date: 2022.11.26
+```
+To be a sailor of the world, bound for all ports.
+做世界的水手，游遍所有的港口。
+```
