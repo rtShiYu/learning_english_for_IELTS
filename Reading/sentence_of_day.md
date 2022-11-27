@@ -1628,3 +1628,10 @@ Date: 2022.11.26
 To be a sailor of the world, bound for all ports.
 做世界的水手，游遍所有的港口。
 ```
+
+---
+Date: 2022.11.27
+```
+I live to be the rule of life, not a slave.
+我要做生命的主宰，而非奴隶。
+```
