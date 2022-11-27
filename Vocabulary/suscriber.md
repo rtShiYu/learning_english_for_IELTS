@@ -2929,3 +2929,14 @@ grim
 miserable
 crumble
 ```
+
+---
+Date: 2022.11.27
+```
+at stake
+scramble
+indication
+undeterred
+haunted
+sensation
+```
