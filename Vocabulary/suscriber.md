@@ -2940,3 +2940,14 @@ undeterred
 haunted
 sensation
 ```
+
+---
+Date: 2022.11.28
+```
+pedestrian bridge
+collapsed
+suspension bridge
+renovation
+innovation
+layoff
+```
