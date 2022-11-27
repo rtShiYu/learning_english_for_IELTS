@@ -1635,3 +1635,10 @@ Date: 2022.11.27
 I live to be the rule of life, not a slave.
 我要做生命的主宰，而非奴隶。
 ```
+
+---
+Date: 2022.11.28
+```
+It's not the length of life, but the depth of life.
+不是生命的长度，而是生命的深度。
+```
