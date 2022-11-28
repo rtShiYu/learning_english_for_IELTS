@@ -1642,3 +1642,9 @@ Date: 2022.11.28
 It's not the length of life, but the depth of life.
 不是生命的长度，而是生命的深度。
 ```
+
+---
+Date: 2022.11.29
+```
+Don't be a victim.
+```

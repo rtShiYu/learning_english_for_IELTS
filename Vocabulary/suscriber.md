@@ -2951,3 +2951,13 @@ renovation
 innovation
 layoff
 ```
+
+---
+Date: 2022.11.29
+```
+drastic
+bid
+midterm
+jackpot
+reaffirm
+```
