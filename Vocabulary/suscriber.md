@@ -2623,3 +2623,353 @@ outskirt
 bother
 cereal
 ```
+
+---
+Date 2022.11.01
+```
+charge
+expire
+snapshort
+stimulate
+lagging
+immersive
+ambient
+```
+
+---
+Date: 2022.11.02
+```
+occasional
+intigator
+ethanol
+shame
+rucksack
+ferment
+```
+
+---
+Date: 2022.11.03
+```
+bake
+grill
+lettuce
+spinach
+crab
+vinegar
+ingredient
+```
+
+---
+Date: 2022.10.04
+```
+wreathe
+virtuous
+stigma
+executive
+lever
+ghastly
+narrative
+```
+
+---
+Date: 2022.11.05
+```
+silently
+read out loud
+motivation
+retreat
+hushed
+confine
+intuitively, intuitive
+```
+
+---
+Date: 2022.11.06
+```
+work out
+appreciate
+favor
+set the alarm
+mug
+cardio
+```
+
+---
+Date: 2022.11.07
+```
+clip
+cower
+exemption
+actuary
+herd
+hunt
+```
+
+---
+Date: 2022.11.08
+```
+probe
+obit
+eruption
+debris
+nectar
+sticky
+```
+
+---
+Date: 2022.11.09
+```
+vehicle
+dull
+liberty
+pedestal
+plaster
+sculpture
+copper
+mould
+wooden
+crate
+```
+
+---
+Date: 2022.11.10
+```
+overheard
+retired
+scared
+breeze
+multicolored
+blob
+grab
+```
+
+---
+Date: 2022.11.11
+```
+withdraw
+trickery
+strategic
+umlaut
+doppelganger
+goer
+glance
+narrator
+```
+
+---
+Date: 2022.11.12
+```
+desire
+isolated
+passionate
+meth
+carpet
+stain
+```
+
+---
+Date: 2022.11.13
+```
+venture-capital
+approach
+innovation
+from...to...; from...and...to...; from...to...and...
+prognosis, diagnosis
+prospect, forecast
+dabble
+```
+
+---
+Date: 2022.11.14
+```
+readily
+relevant
+seized
+novice
+miracle
+```
+
+---
+Date: 2022.11.15
+```
+substitute
+standoff
+reiterated
+invade
+vein
+hatch
+geopolitical
+```
+
+---
+Date: 2022.11.16
+```
+pedestrian
+junction
+crossing
+ladybird
+presumably
+```
+
+---
+Date: 2022.11.17
+```
+reside
+hood
+rod
+utter
+essence
+jaunt
+```
+
+---
+Date: 2022.11.18
+```
+enrollment
+portal
+residential
+emission
+incremental
+```
+
+---
+Date: 2022.11.19
+```
+mishap
+turmoil
+momentum
+legislative
+transcend
+drugstore
+```
+
+---
+Date: 2022.11.20
+```
+fascinate
+hurtle
+consequential
+poll
+fate
+implication
+```
+
+---
+Date: 2022.11.21
+```
+extravaganza
+dog
+controversy
+allegation
+concourse
+dog
+conservative
+teeter
+```
+
+---
+Date: 2022.11.22
+```
+distraction
+struggle
+lifelong
+magnet
+hatch
+evolve
+extraordinary
+```
+
+---
+Date: 2022.11.23
+```
+track
+serve
+settle
+shy
+prospect
+retreat
+crypto
+resign
+asset
+affiliated
+```
+
+---
+Date: 2022.11.24
+```
+petty
+manchild
+profiteer
+levitate
+ludicrous
+miraculous
+```
+
+---
+Date: 2022.11.25
+```
+terse
+turn over
+world cup
+tie, tied
+apparent
+solidarity
+rout
+alleged
+```
+
+---
+Date: 2022.11.26
+```
+slump
+sophomore
+blow up
+downturn
+grim
+miserable
+crumble
+```
+
+---
+Date: 2022.11.27
+```
+at stake
+scramble
+indication
+undeterred
+haunted
+sensation
+```
+
+---
+Date: 2022.11.28
+```
+pedestrian bridge
+collapsed
+suspension bridge
+renovation
+innovation
+layoff
+```
+
+---
+Date: 2022.11.29
+```
+drastic
+bid
+midterm
+jackpot
+reaffirm
+```
+
+---
+Date: 2022.11.30
+```
+knockout
+protest
+toll
+stringent
+crackdown
+curb
+erup
+```

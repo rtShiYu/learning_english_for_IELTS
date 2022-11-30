@@ -1447,3 +1447,211 @@ Date: 2022.10.31
 Today is a beautiful day. Whatever you want to do, seize the good time to do it.
 今天是个美好的日子，无论你想做什么，抓住这个好时光去做吧。
 ```
+
+---
+Date: 2022.11.01
+```
+Ideas don't come out fully formed. They only become clear as you work on them. You just have to get started.
+好的构想不是一看是就形成，它是在你实现的过程中变得更加清晰，你只需要着手去做。
+```
+
+---
+Date: 2022.11.02
+```
+I am the master of my own destiny.
+我命由我不由天。
+```
+
+---
+Date: 2022.11.03
+```
+The memory is a muscle that must be exercised.
+记忆就像一块肌肉，必须要勤运动。
+```
+
+---
+Date: 2022.11.04
+```
+Personality begins where comparison ends.
+个性是在没有比较时开始出现。
+```
+
+---
+Date: 2022.11.05
+```
+Throughout history, people have never before expected to be as comfortable as people do today.
+在整个历史里，人类从没想过可以像今天的人这般舒服。
+```
+
+---
+Date: 2022.11.06
+```
+The most exhausting thing in life is being insincere.
+生活中最使人筋疲力尽的事是弄虚作假。
+```
+
+---
+Date: 2022.11.07
+```
+The dignity and glory of the person lies not in sophistication but in honesty.
+人性的尊严和光荣不在精明，而在诚实。
+```
+
+---
+Date: 2022.11.08
+```
+The struggle makes everything all the more worth it.
+奋斗让一切都变得更有价值。
+```
+
+---
+Date: 2022.11.09
+```
+Be less curious about people and more curious about ideas.
+少对人好奇，多对想法好奇
+```
+
+---
+Date: 2022.11.10
+```
+The top of one mountain is always the bottom of another.
+一座山的山顶，永远是另一座的山底。
+```
+
+---
+Date: 2022.11.11
+```
+Let yourself be silently drawn by the stronger pull of what you really love.
+让自己安静地被你真正喜爱的事所拉去。
+```
+
+---
+Date: 2022.11.12
+```
+Ultimately, it is the desire, not the desired, that we love.
+归根结底，我们爱的不是欲望之物，而是欲望本身。
+```
+
+---
+Date: 2022.11.13
+```
+Pain is inevitable. Suffering is optional.
+痛是难免的，苦却是甘愿得。
+```
+
+---
+Date: 2022.11.14
+```
+Over every mountain there is path, although it may not be seen from the valley.
+每座山顶都有道路，虽然山谷不一定看得到。
+```
+
+---
+Date: 2022.11.15
+```
+Words and ideas can change the world.
+文字和思想能改变世界。
+```
+
+---
+Date: 2022.11.16
+```
+After all, tomorrow is another day.
+不管怎样，明天又是新的一天。
+```
+
+---
+Date: 2022.11.17
+```
+Procrastination is the thief of time.
+拖延是时间的小偷。
+```
+
+---
+Date: 2022.11.18
+```
+An open mind is a gold mine.
+```
+
+---
+Date: 2022.11.19
+```
+The price of inaction is far greater than the cost of making a mistake.
+没有行动的代价，远超过犯错的代价。
+```
+
+---
+Date: 2022.11.20
+```
+If you don't walk out, you will think that this is the whole world.
+走出去，才能看到更大的世界。
+```
+
+---
+Date: 2022.11.21
+```
+Don't get too comfortable with who you are at any given time - you may miss the opportunity to become who you want to be.
+别在任何时候对现在的你太过满足 - 你可能会失去机会成为你想成为的人。
+```
+
+---
+Date: 2022.11.22
+```
+When the snows fall and the white winds blow, the lone wolf dies but the pack survives.
+当大雪降下，白风吹起，独狼死群狼存。
+```
+
+---
+Date: 2022.11.23
+```
+The greater the man, the more restrained his anger.
+人越伟大，越能克制怒火。
+```
+
+---
+Date: 2022.11.24
+```
+Live for the moment.
+活在当下。
+```
+
+---
+Date: 2022.11.25
+```
+Resolve to perform what you ought. Perform without fail what you resolve.
+当做必做，持之以恒。
+```
+
+---
+Date: 2022.11.26
+```
+To be a sailor of the world, bound for all ports.
+做世界的水手，游遍所有的港口。
+```
+
+---
+Date: 2022.11.27
+```
+I live to be the rule of life, not a slave.
+我要做生命的主宰，而非奴隶。
+```
+
+---
+Date: 2022.11.28
+```
+It's not the length of life, but the depth of life.
+不是生命的长度，而是生命的深度。
+```
+
+---
+Date: 2022.11.29
+```
+Don't be a victim.
+```
+
+---
+Date: 2022.11.30
+```
+Life is to be enjoyed, not endured.
+人生是用来享受的，不是忍受。
+```
