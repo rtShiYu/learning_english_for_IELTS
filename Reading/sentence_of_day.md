@@ -1648,3 +1648,10 @@ Date: 2022.11.29
 ```
 Don't be a victim.
 ```
+
+---
+Date: 2022.11.30
+```
+Life is to be enjoyed, not endured.
+人生是用来享受的，不是忍受。
+```
