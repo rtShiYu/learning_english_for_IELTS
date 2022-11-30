@@ -2973,3 +2973,16 @@ crackdown
 curb
 erup
 ```
+
+---
+Date: 2022.12.01
+```
+sticker price
+merchandise
+celebrated
+shed
+plunge
+precipitious
+whopping
+sophistication
+```
