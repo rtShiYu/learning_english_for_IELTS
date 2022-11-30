@@ -2961,3 +2961,15 @@ midterm
 jackpot
 reaffirm
 ```
+
+---
+Date: 2022.11.30
+```
+knockout
+protest
+toll
+stringent
+crackdown
+curb
+erup
+```
