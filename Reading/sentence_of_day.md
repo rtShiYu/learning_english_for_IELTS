@@ -1655,3 +1655,10 @@ Date: 2022.11.30
 Life is to be enjoyed, not endured.
 人生是用来享受的，不是忍受。
 ```
+
+---
+Date: 2022.12.01
+```
+The supreme happiness of life is the conviction that we are loved.
+生活中最大的幸福是坚信有人爱我们。
+```
