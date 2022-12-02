@@ -1662,3 +1662,9 @@ Date: 2022.12.01
 The supreme happiness of life is the conviction that we are loved.
 生活中最大的幸福是坚信有人爱我们。
 ```
+
+---
+Date: 2022.12.02
+```
+If you don't build your dreams, someone will hire you to build theirs.
+```
