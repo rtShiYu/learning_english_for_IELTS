@@ -2986,3 +2986,14 @@ precipitious
 whopping
 sophistication
 ```
+
+---
+Date: 2022.12.02
+```
+row, fight
+betrayed
+quotation, quote
+ambitious
+disturbance, interrupt, affect
+captained
+```
