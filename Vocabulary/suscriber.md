@@ -2997,3 +2997,15 @@ ambitious
 disturbance, interrupt, affect
 captained
 ```
+
+---
+Date: 2022.12.03
+```
+slap
+punch
+horrific
+to be bald
+alopecia
+sibling
+nephew
+```
