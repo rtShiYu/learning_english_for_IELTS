@@ -1675,3 +1675,10 @@ Date: 2022.12.03
 Although the world is full of suffering, it is also full of the overcoming of it.
 世间多苦难，但苦难总是能战胜的。
 ```
+
+---
+Date: 2022.12.04
+```
+You are so much more than how you look.
+你比你的外表更有魅力。
+```
