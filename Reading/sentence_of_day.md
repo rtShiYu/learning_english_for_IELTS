@@ -1682,3 +1682,10 @@ Date: 2022.12.04
 You are so much more than how you look.
 你比你的外表更有魅力。
 ```
+
+---
+Date: 2022.12.05
+```
+We don't stop playing because we grow old; we grow old because we stop playing.
+我们不是因为年老而停止玩乐，我们是因为停止玩乐才会变老。
+```
