@@ -3031,3 +3031,14 @@ avert
 impose
 wage
 ```
+
+---
+Date: 2022.12.06
+```
+defy
+slowdown
+barrel
+withdraw
+ease
+vulnerable
+```
