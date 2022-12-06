@@ -1689,3 +1689,10 @@ Date: 2022.12.05
 We don't stop playing because we grow old; we grow old because we stop playing.
 我们不是因为年老而停止玩乐，我们是因为停止玩乐才会变老。
 ```
+
+---
+Date: 2022.12.06
+```
+The deepest and heaviest love must grow up with the time.
+最深最重的爱，须与时日共成长。
+```
