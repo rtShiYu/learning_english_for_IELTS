@@ -3042,3 +3042,14 @@ withdraw
 ease
 vulnerable
 ```
+
+---
+Date: 2022.12.07
+```
+modest
+trundle
+pluck
+juggler
+busker
+qualify, qualifed
+```
