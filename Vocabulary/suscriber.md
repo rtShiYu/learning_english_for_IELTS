@@ -3053,3 +3053,15 @@ juggler
 busker
 qualify, qualifed
 ```
+
+---
+Date: 2022.12.08
+```
+compel
+vain
+grasp
+valor
+humlest
+sobriety
+biography
+```
