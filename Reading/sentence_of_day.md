@@ -1698,8 +1698,15 @@ The deepest and heaviest love must grow up with the time.
 ```
 
 ---
-Date: 2022.12.06
+Date: 2022.12.07
 ```
 A timely snow promises a good harvest.
 瑞雪兆丰年。
+```
+
+---
+Date: 2022.12.08
+```
+Only by self-respect will you compel others to respect you.
+只有自尊才能迫使他人尊敬你。
 ```
