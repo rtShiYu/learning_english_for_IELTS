@@ -1710,3 +1710,10 @@ Date: 2022.12.08
 Only by self-respect will you compel others to respect you.
 只有自尊才能迫使他人尊敬你。
 ```
+
+---
+Date: 2011.12.09
+```
+Sometimes things go better when you just say no.
+有时候拒绝会让事情变得更好。
+```
