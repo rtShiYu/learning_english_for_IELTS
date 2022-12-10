@@ -1712,8 +1712,15 @@ Only by self-respect will you compel others to respect you.
 ```
 
 ---
-Date: 2011.12.09
+Date: 2022.12.09
 ```
 Sometimes things go better when you just say no.
 有时候拒绝会让事情变得更好。
+```
+
+---
+Date: 2022.12.10
+```
+They tell me that I'm crazy, but I'll never let them change me.
+就算他们叫我疯子，我也不会因此改变分毫。
 ```
