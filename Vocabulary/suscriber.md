@@ -3088,3 +3088,18 @@ sprung
 prominent
 redact
 ```
+
+---
+Date: 2022.12.11
+```
+surplus
+cheque
+stimulus
+severe
+squeeze
+grim
+mule
+tech-heavy
+on the news
+property sector
+```
