@@ -1724,3 +1724,10 @@ Date: 2022.12.10
 They tell me that I'm crazy, but I'll never let them change me.
 就算他们叫我疯子，我也不会因此改变分毫。
 ```
+
+---
+Date: 2022.12.11
+```
+I am a great believer in luck, and I find that the harder I work, the more I have of it.
+我很相信运气，事实上我发现我越努力，我的运气越好。
+```
