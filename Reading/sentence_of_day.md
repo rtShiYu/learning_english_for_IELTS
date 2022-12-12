@@ -1731,3 +1731,10 @@ Date: 2022.12.11
 I am a great believer in luck, and I find that the harder I work, the more I have of it.
 我很相信运气，事实上我发现我越努力，我的运气越好。
 ```
+
+---
+Date: 2022.12.12
+```
+You can't use up creativity. The more you use, the more you have.
+创造力是用之不竭的，你用的越多，拥有的就越多。
+```
