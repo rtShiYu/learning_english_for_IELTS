@@ -1738,3 +1738,10 @@ Date: 2022.12.12
 You can't use up creativity. The more you use, the more you have.
 创造力是用之不竭的，你用的越多，拥有的就越多。
 ```
+
+---
+Date: 2022.12.13
+```
+When people hurt you over and over, think of them like sandpaper. They may scratch and hurt you a bit, but in the end, you end up polished and they end up useless.
+他们可能会刮伤你，但最终你会变得更优秀，而他们变得一无是处。
+```
