@@ -1745,3 +1745,10 @@ Date: 2022.12.13
 When people hurt you over and over, think of them like sandpaper. They may scratch and hurt you a bit, but in the end, you end up polished and they end up useless.
 他们可能会刮伤你，但最终你会变得更优秀，而他们变得一无是处。
 ```
+
+---
+Date: 2022.12.14
+```
+It is better to be hated for what you are than to be loved for waht you are not.
+宁可做自己而被讨厌，也不要伪装自己而被爱。
+```
