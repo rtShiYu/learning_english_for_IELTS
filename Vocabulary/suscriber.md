@@ -3138,3 +3138,15 @@ headset
 rhetoric
 monologue
 ```
+
+---
+Date: 2022.12.15
+```
+prosecutor
+unseal
+indictment
+conspiracy
+breakthough
+fusion
+notably
+```
