@@ -1752,3 +1752,10 @@ Date: 2022.12.14
 It is better to be hated for what you are than to be loved for waht you are not.
 宁可做自己而被讨厌，也不要伪装自己而被爱。
 ```
+
+---
+Date: 2022.12.15
+```
+Always to your best. What you plant now, you will harvest later.
+全力以赴吧。今日播下的种子，终会得到丰收。
+```
