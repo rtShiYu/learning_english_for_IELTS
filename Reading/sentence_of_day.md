@@ -1759,3 +1759,10 @@ Date: 2022.12.15
 Always to your best. What you plant now, you will harvest later.
 全力以赴吧。今日播下的种子，终会得到丰收。
 ```
+
+---
+Date: 2022.12.16
+```
+Change does not roll in on the wheels of inevitability, but comes through continuous struggle.
+改变不是不可避免的轮子般滚滚前进，而是通过持续的挣扎奋斗才能到了。
+```
