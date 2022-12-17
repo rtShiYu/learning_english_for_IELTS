@@ -1766,3 +1766,10 @@ Date: 2022.12.16
 Change does not roll in on the wheels of inevitability, but comes through continuous struggle.
 改变不是不可避免的轮子般滚滚前进，而是通过持续的挣扎奋斗才能到了。
 ```
+
+---
+Date: 2022.12.17
+```
+The future is not our to see. What will be will.
+我们不能遇见未来，顺其自然吧。
+```
