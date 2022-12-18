@@ -1773,3 +1773,10 @@ Date: 2022.12.17
 The future is not our to see. What will be will.
 我们不能遇见未来，顺其自然吧。
 ```
+
+---
+Date: 2022.12.18
+```
+If you want the rainbow, you've got to put up with the rain.
+如果你想看到彩虹，就要承受下雨。
+```
