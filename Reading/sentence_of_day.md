@@ -1780,3 +1780,10 @@ Date: 2022.12.18
 If you want the rainbow, you've got to put up with the rain.
 如果你想看到彩虹，就要承受下雨。
 ```
+
+---
+Date: 2022.12.19
+```
+You cannot swim for new horizons until you have courage to lose sight of the shore.
+除非有勇气离开岸边，否则你永远游不到彼岸。
+```
