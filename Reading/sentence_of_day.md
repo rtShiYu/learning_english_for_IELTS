@@ -1787,3 +1787,10 @@ Date: 2022.12.19
 You cannot swim for new horizons until you have courage to lose sight of the shore.
 除非有勇气离开岸边，否则你永远游不到彼岸。
 ```
+
+---
+Date: 2022.12.20
+```
+However bad life may seem, there is always something you can do, and succeed at.
+无论生活多么艰辛，你总会有自己的方式发光。
+```
