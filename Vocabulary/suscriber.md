@@ -3196,3 +3196,14 @@ unimpaired
 heroism
 biography
 ```
+
+---
+Date: 2022.12.20
+```
+scrutiny
+suspend
+dispute
+sanction
+sequel
+stunned
+```
