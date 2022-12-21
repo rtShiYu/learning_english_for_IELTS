@@ -1794,3 +1794,10 @@ Date: 2022.12.20
 However bad life may seem, there is always something you can do, and succeed at.
 无论生活多么艰辛，你总会有自己的方式发光。
 ```
+
+---
+Date: 2022.12.21
+```
+Every challenge, every adversity, contains within it the seeds of opportunity and growth.
+每个挑战，每次逆境，里面都藏有机会与成长的种子。
+```
