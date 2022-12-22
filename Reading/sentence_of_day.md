@@ -1801,3 +1801,10 @@ Date: 2022.12.21
 Every challenge, every adversity, contains within it the seeds of opportunity and growth.
 每个挑战，每次逆境，里面都藏有机会与成长的种子。
 ```
+
+---
+Date: 2022.12.22
+```
+The man who removes a mountain begins by carrying away small stones.
+移开山头的人总是从搬小石头开始。
+```
