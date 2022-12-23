@@ -1814,3 +1814,10 @@ Date: 2022.12.23
 ```
 Kept in a small bowl, the goldfish will remain small.
 ```
+
+---
+Date: 2022.12.24
+```
+From error to error, one discovers the entire truth.
+经由一次次的犯错，我们方能得以发现整个真相。
+```
