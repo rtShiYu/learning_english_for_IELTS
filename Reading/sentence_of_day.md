@@ -1808,3 +1808,9 @@ Date: 2022.12.22
 The man who removes a mountain begins by carrying away small stones.
 移开山头的人总是从搬小石头开始。
 ```
+
+---
+Date: 2022.12.23
+```
+Kept in a small bowl, the goldfish will remain small.
+```
