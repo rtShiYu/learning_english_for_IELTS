@@ -1821,3 +1821,9 @@ Date: 2022.12.24
 From error to error, one discovers the entire truth.
 经由一次次的犯错，我们方能得以发现整个真相。
 ```
+
+---
+Date: 2022.12.25
+```
+Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family.
+```
