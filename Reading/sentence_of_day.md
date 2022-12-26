@@ -1827,3 +1827,10 @@ Date: 2022.12.25
 ```
 Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family.
 ```
+
+---
+Date: 2022.12.26
+```
+In every person who comes near you, look for what is good and strong.
+对遇见的每一个人，寻找他身上的优点及强项。
+```
