@@ -3272,3 +3272,15 @@ bitter
 retreat
 contract
 ```
+
+---
+Date: 2022.12.27
+```
+annex
+aging
+artifact
+glamour
+harbour
+harbor
+maneuver
+```

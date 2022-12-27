@@ -1834,3 +1834,10 @@ Date: 2022.12.26
 In every person who comes near you, look for what is good and strong.
 对遇见的每一个人，寻找他身上的优点及强项。
 ```
+
+---
+Date: 2022.12.27
+```
+It's no use going back to yesterday, because I was a different person then.
+回顾昨天毫无用处，因为我已今非昔比。
+```
