@@ -3284,3 +3284,14 @@ harbour
 harbor
 maneuver
 ```
+
+---
+Date: 2022.12.28
+```
+midday
+midmorning
+midweek
+midwinter
+minibus, minicab
+hostel
+```

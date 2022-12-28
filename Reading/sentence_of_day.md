@@ -1841,3 +1841,10 @@ Date: 2022.12.27
 It's no use going back to yesterday, because I was a different person then.
 回顾昨天毫无用处，因为我已今非昔比。
 ```
+
+---
+Date: 2022.12.28
+```
+A positive attitude will have positive results.
+积极的态度会带来积极的结果。
+```
