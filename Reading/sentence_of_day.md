@@ -1848,3 +1848,10 @@ Date: 2022.12.28
 A positive attitude will have positive results.
 积极的态度会带来积极的结果。
 ```
+
+---
+Date: 2022.12.29
+```
+Don't argue with the people of strong determination, because they may change the fact.
+别和意志坚决的人争论，因为他们可能讲改变现实。
+```
