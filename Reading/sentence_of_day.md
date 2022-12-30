@@ -1855,3 +1855,10 @@ Date: 2022.12.29
 Don't argue with the people of strong determination, because they may change the fact.
 别和意志坚决的人争论，因为他们可能讲改变现实。
 ```
+
+---
+Date: 2022.12.30
+```
+Everybody deserves to be loved.
+每个人都值得被爱。
+```

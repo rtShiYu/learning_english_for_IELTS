@@ -3307,3 +3307,14 @@ textile
 cellulose
 pond
 ```
+
+---
+Date: 2022.12.30
+```
+dweller
+poverty
+frustration
+parachute
+reservoir
+dominance
+```
