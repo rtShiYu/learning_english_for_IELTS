@@ -2973,3 +2973,361 @@ crackdown
 curb
 erup
 ```
+
+---
+Date: 2022.12.01
+```
+sticker price
+merchandise
+celebrated
+shed
+plunge
+precipitious
+whopping
+sophistication
+```
+
+---
+Date: 2022.12.02
+```
+row, fight
+betrayed
+quotation, quote
+ambitious
+disturbance, interrupt, affect
+captained
+```
+
+---
+Date: 2022.12.03
+```
+slap
+punch
+horrific
+to be bald
+alopecia
+sibling
+nephew
+```
+
+---
+Date: 2022.12.04
+```
+spiked
+grossly
+mislead
+grasp
+tactic
+```
+
+---
+Date: 2022.12.05
+```
+paralysis
+implant
+commercially
+legislation
+avert
+impose
+wage
+```
+
+---
+Date: 2022.12.06
+```
+defy
+slowdown
+barrel
+withdraw
+ease
+vulnerable
+```
+
+---
+Date: 2022.12.07
+```
+modest
+trundle
+pluck
+juggler
+busker
+qualify, qualifed
+```
+
+---
+Date: 2022.12.08
+```
+compel
+vain
+grasp
+valor
+humlest
+sobriety
+biography
+```
+
+---
+Date: 2022.12.09
+```
+validation
+landmark
+maturity
+stride
+insightful
+lacrosse
+```
+
+---
+Date: 2022.12.10
+```
+clergyman
+humbler
+exhibit
+practical
+sprung
+prominent
+redact
+```
+
+---
+Date: 2022.12.11
+```
+surplus
+cheque
+stimulus
+severe
+squeeze
+grim
+mule
+tech-heavy
+on the news
+property sector
+```
+
+---
+Date: 2022.12.12
+```
+combat
+awareness
+concrete
+scannel
+roll
+plaque
+```
+
+---
+Date: 2022.12.13
+```
+garage
+passionate
+aluminum
+sweat
+adventure
+dogma
+criticism
+most of all right now
+```
+
+---
+Date： 2022.12.14
+```
+biscuit
+nail
+snappy
+headset
+rhetoric
+monologue
+```
+
+---
+Date: 2022.12.15
+```
+prosecutor
+unseal
+indictment
+conspiracy
+breakthough
+fusion
+notably
+```
+
+---
+Date: 2022.12.16
+```
+apparently
+supplement
+mobility
+sacrifice
+inflammation
+sugary
+stagnant
+```
+
+---
+Date: 2022.12.17
+```
+stall
+haggling
+vinegar
+steak
+lamb
+salad dressing
+bunch of grapes
+```
+
+---
+Date: 2022.12.18
+```
+principally
+cotton
+deprecated
+missionary
+perseverance
+indefatigable
+```
+
+---
+Date: 2022.12.19
+```
+cultivator
+prosperity
+bequeathed
+unimpaired
+heroism
+biography
+```
+
+---
+Date: 2022.12.20
+```
+scrutiny
+suspend
+dispute
+sanction
+sequel
+stunned
+```
+
+---
+Date: 2022.12.21
+```
+dander
+cabin
+awarness
+bin
+allergic
+```
+
+---
+Date: 2022.12.22
+```
+probe
+allegation
+disseminate
+referral
+incitement
+insurrection
+```
+
+---
+Date: 2022.12.23
+```
+cyclone
+unleash
+arctic
+blizzard
+respondent
+halt
+throng
+```
+
+---
+Date: 2022.12.24
+```
+workforce
+scrutiny
+dent
+soared
+stunning, stunned, shocking
+to slash, to cut
+```
+
+---
+Date: 2022.12.25
+```
+inspiration
+facility
+discipline
+injustice
+wholesome
+barrier
+```
+
+---
+Date: 2022.12.26
+```
+envelop
+snarling
+bitter
+retreat
+contract
+```
+
+---
+Date: 2022.12.27
+```
+annex
+aging
+artifact
+glamour
+harbour
+harbor
+maneuver
+```
+
+---
+Date: 2022.12.28
+```
+midday
+midmorning
+midweek
+midwinter
+minibus, minicab
+hostel
+```
+
+---
+Date: 2022.12.29
+```
+pasture
+fabric
+chandelier
+toads
+textile
+cellulose
+pond
+```
+
+---
+Date: 2022.12.30
+```
+dweller
+poverty
+frustration
+parachute
+reservoir
+dominance
+```
+
+---
+Date: 2022.12.31
+```
+overtake
+feat
+modest
+tally up
+lag
+prevail
+slump
+debate
+```

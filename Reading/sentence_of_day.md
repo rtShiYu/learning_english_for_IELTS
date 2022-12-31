@@ -1655,3 +1655,217 @@ Date: 2022.11.30
 Life is to be enjoyed, not endured.
 人生是用来享受的，不是忍受。
 ```
+
+---
+Date: 2022.12.01
+```
+The supreme happiness of life is the conviction that we are loved.
+生活中最大的幸福是坚信有人爱我们。
+```
+
+---
+Date: 2022.12.02
+```
+If you don't build your dreams, someone will hire you to build theirs.
+```
+
+---
+Date: 2022.12.03
+```
+Although the world is full of suffering, it is also full of the overcoming of it.
+世间多苦难，但苦难总是能战胜的。
+```
+
+---
+Date: 2022.12.04
+```
+You are so much more than how you look.
+你比你的外表更有魅力。
+```
+
+---
+Date: 2022.12.05
+```
+We don't stop playing because we grow old; we grow old because we stop playing.
+我们不是因为年老而停止玩乐，我们是因为停止玩乐才会变老。
+```
+
+---
+Date: 2022.12.06
+```
+The deepest and heaviest love must grow up with the time.
+最深最重的爱，须与时日共成长。
+```
+
+---
+Date: 2022.12.07
+```
+A timely snow promises a good harvest.
+瑞雪兆丰年。
+```
+
+---
+Date: 2022.12.08
+```
+Only by self-respect will you compel others to respect you.
+只有自尊才能迫使他人尊敬你。
+```
+
+---
+Date: 2022.12.09
+```
+Sometimes things go better when you just say no.
+有时候拒绝会让事情变得更好。
+```
+
+---
+Date: 2022.12.10
+```
+They tell me that I'm crazy, but I'll never let them change me.
+就算他们叫我疯子，我也不会因此改变分毫。
+```
+
+---
+Date: 2022.12.11
+```
+I am a great believer in luck, and I find that the harder I work, the more I have of it.
+我很相信运气，事实上我发现我越努力，我的运气越好。
+```
+
+---
+Date: 2022.12.12
+```
+You can't use up creativity. The more you use, the more you have.
+创造力是用之不竭的，你用的越多，拥有的就越多。
+```
+
+---
+Date: 2022.12.13
+```
+When people hurt you over and over, think of them like sandpaper. They may scratch and hurt you a bit, but in the end, you end up polished and they end up useless.
+他们可能会刮伤你，但最终你会变得更优秀，而他们变得一无是处。
+```
+
+---
+Date: 2022.12.14
+```
+It is better to be hated for what you are than to be loved for waht you are not.
+宁可做自己而被讨厌，也不要伪装自己而被爱。
+```
+
+---
+Date: 2022.12.15
+```
+Always to your best. What you plant now, you will harvest later.
+全力以赴吧。今日播下的种子，终会得到丰收。
+```
+
+---
+Date: 2022.12.16
+```
+Change does not roll in on the wheels of inevitability, but comes through continuous struggle.
+改变不是不可避免的轮子般滚滚前进，而是通过持续的挣扎奋斗才能到了。
+```
+
+---
+Date: 2022.12.17
+```
+The future is not our to see. What will be will.
+我们不能遇见未来，顺其自然吧。
+```
+
+---
+Date: 2022.12.18
+```
+If you want the rainbow, you've got to put up with the rain.
+如果你想看到彩虹，就要承受下雨。
+```
+
+---
+Date: 2022.12.19
+```
+You cannot swim for new horizons until you have courage to lose sight of the shore.
+除非有勇气离开岸边，否则你永远游不到彼岸。
+```
+
+---
+Date: 2022.12.20
+```
+However bad life may seem, there is always something you can do, and succeed at.
+无论生活多么艰辛，你总会有自己的方式发光。
+```
+
+---
+Date: 2022.12.21
+```
+Every challenge, every adversity, contains within it the seeds of opportunity and growth.
+每个挑战，每次逆境，里面都藏有机会与成长的种子。
+```
+
+---
+Date: 2022.12.22
+```
+The man who removes a mountain begins by carrying away small stones.
+移开山头的人总是从搬小石头开始。
+```
+
+---
+Date: 2022.12.23
+```
+Kept in a small bowl, the goldfish will remain small.
+```
+
+---
+Date: 2022.12.24
+```
+From error to error, one discovers the entire truth.
+经由一次次的犯错，我们方能得以发现整个真相。
+```
+
+---
+Date: 2022.12.25
+```
+Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family.
+```
+
+---
+Date: 2022.12.26
+```
+In every person who comes near you, look for what is good and strong.
+对遇见的每一个人，寻找他身上的优点及强项。
+```
+
+---
+Date: 2022.12.27
+```
+It's no use going back to yesterday, because I was a different person then.
+回顾昨天毫无用处，因为我已今非昔比。
+```
+
+---
+Date: 2022.12.28
+```
+A positive attitude will have positive results.
+积极的态度会带来积极的结果。
+```
+
+---
+Date: 2022.12.29
+```
+Don't argue with the people of strong determination, because they may change the fact.
+别和意志坚决的人争论，因为他们可能讲改变现实。
+```
+
+---
+Date: 2022.12.30
+```
+Everybody deserves to be loved.
+每个人都值得被爱。
+```
+
+---
+Date: 2022.12.31
+```
+May the chime of the New Year consolidate our confidence and re-ignite our aspiration for an even better tomorrow!
+让我们满怀信心和期待，一起迎接新年的钟声。
+```
