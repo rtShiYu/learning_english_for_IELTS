@@ -3318,3 +3318,16 @@ parachute
 reservoir
 dominance
 ```
+
+---
+Date: 2022.12.31
+```
+overtake
+feat
+modest
+tally up
+lag
+prevail
+slump
+debate
+```
