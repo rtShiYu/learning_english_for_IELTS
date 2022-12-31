@@ -1862,3 +1862,10 @@ Date: 2022.12.30
 Everybody deserves to be loved.
 每个人都值得被爱。
 ```
+
+---
+Date: 2022.12.31
+```
+May the chime of the New Year consolidate our confidence and re-ignite our aspiration for an even better tomorrow!
+让我们满怀信心和期待，一起迎接新年的钟声。
+```
