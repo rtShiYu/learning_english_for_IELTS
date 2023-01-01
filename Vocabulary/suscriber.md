@@ -3331,3 +3331,16 @@ prevail
 slump
 debate
 ```
+
+---
+Date: 2023.01.01
+```
+culprit
+reminiscent
+interlude
+detective
+rife
+aristocrat
+jutting
+scuffle
+```
