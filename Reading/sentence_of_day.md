@@ -1869,3 +1869,10 @@ Date: 2022.12.31
 May the chime of the New Year consolidate our confidence and re-ignite our aspiration for an even better tomorrow!
 让我们满怀信心和期待，一起迎接新年的钟声。
 ```
+
+---
+Date: 2023.01.01
+```
+There are far, far better things ahead than any we leave behind.
+比起任何过去发生的事，我们的未来有更加美好的事情会发生。
+```
