@@ -1876,3 +1876,10 @@ Date: 2023.01.01
 There are far, far better things ahead than any we leave behind.
 比起任何过去发生的事，我们的未来有更加美好的事情会发生。
 ```
+
+---
+Date: 2023.01.02
+```
+Life is like a game of cards. The hand you are dealt is determinism; the way you play it is free will.
+人生宛如一场牌局，拿到什么牌，那是命中注定，但如何出牌，却操之在己。
+```
