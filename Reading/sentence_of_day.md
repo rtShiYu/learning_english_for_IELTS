@@ -1883,3 +1883,10 @@ Date: 2023.01.02
 Life is like a game of cards. The hand you are dealt is determinism; the way you play it is free will.
 人生宛如一场牌局，拿到什么牌，那是命中注定，但如何出牌，却操之在己。
 ```
+
+---
+Date: 2023.01.03
+```
+When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+你跳舞的时候，不是为了在场上取得一席之地 ，而是享受每一个舞步。
+```
