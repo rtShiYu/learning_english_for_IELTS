@@ -1890,3 +1890,10 @@ Date: 2023.01.03
 When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
 你跳舞的时候，不是为了在场上取得一席之地 ，而是享受每一个舞步。
 ```
+
+---
+Date: 2023.01.04
+```
+Prejudices are what fools use for reason.
+愚人以偏见取代逻辑。
+```
