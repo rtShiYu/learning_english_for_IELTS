@@ -1897,3 +1897,10 @@ Date: 2023.01.04
 Prejudices are what fools use for reason.
 愚人以偏见取代逻辑。
 ```
+
+---
+Date: 2023.01.05
+```
+Whatever is worth doing is worth doing well.
+任何值得去做的事情，都值得把它做好。
+```
