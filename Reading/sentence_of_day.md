@@ -1904,3 +1904,10 @@ Date: 2023.01.05
 Whatever is worth doing is worth doing well.
 任何值得去做的事情，都值得把它做好。
 ```
+
+---
+Date: 2023.01.06
+```
+This is the mark of a really admirable man: steadfastness in the face of trouble.
+令人敬仰的人有一个特点：面对困难时仍不屈不挠。
+```
