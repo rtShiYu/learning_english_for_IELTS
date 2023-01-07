@@ -1911,3 +1911,10 @@ Date: 2023.01.06
 This is the mark of a really admirable man: steadfastness in the face of trouble.
 令人敬仰的人有一个特点：面对困难时仍不屈不挠。
 ```
+
+---
+Date: 2023.01.07
+```
+I love you not for who you are, but for who I am with you.
+我爱你不是因为你是谁，而是我在你面前可以是谁。
+```
