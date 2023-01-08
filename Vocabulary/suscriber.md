@@ -3410,3 +3410,15 @@ underappreciated
 drummer
 whiplash
 ```
+
+---
+Date: 2023.01.08
+```
+shiver
+sweat
+votex
+embodied
+boldly
+brutally
+companion
+```
