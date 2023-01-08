@@ -1918,3 +1918,10 @@ Date: 2023.01.07
 I love you not for who you are, but for who I am with you.
 我爱你不是因为你是谁，而是我在你面前可以是谁。
 ```
+
+---
+Date: 2023.01.08
+```
+All I've ever done in my life was making my way here to you.
+我今生的所做的一切都是为了找到你。
+```
