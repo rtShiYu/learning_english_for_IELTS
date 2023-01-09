@@ -1925,3 +1925,10 @@ Date: 2023.01.08
 All I've ever done in my life was making my way here to you.
 我今生的所做的一切都是为了找到你。
 ```
+
+---
+Date: 2023.01.09
+```
+Worrying gets you nowhere. Train hard, turn up, run your best, and the rest will take care of itself.
+担忧没有任何益处。努力训练、走上场、尽力而为，其余的问题将会自动解决。
+```
