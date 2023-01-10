@@ -1932,3 +1932,10 @@ Date: 2023.01.09
 Worrying gets you nowhere. Train hard, turn up, run your best, and the rest will take care of itself.
 担忧没有任何益处。努力训练、走上场、尽力而为，其余的问题将会自动解决。
 ```
+
+---
+Date: 2023.01.10
+```
+To handle yourself, use your head; to handle others, use your heart.
+用头脑来管理自己，用真心去对待他人。
+```
