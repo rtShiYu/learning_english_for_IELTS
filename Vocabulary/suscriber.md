@@ -3442,3 +3442,15 @@ before dawn
 logging, chopping down trees
 canopy
 ```
+
+---
+Date: 2023.01.11
+```
+velocity
+elevation
+fingertip
+vase
+refilling
+lurking
+habitable
+```

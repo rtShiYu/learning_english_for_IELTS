@@ -1939,3 +1939,10 @@ Date: 2023.01.10
 To handle yourself, use your head; to handle others, use your heart.
 用头脑来管理自己，用真心去对待他人。
 ```
+
+---
+Date: 2023.01.11
+```
+There are but two roads that lead to an important goal and to the doing of great things: strength and perseverance.
+世间只有两条路可以使人达到重大目标或完成伟业，那就是力量和坚持不懈。
+```
