@@ -1946,3 +1946,10 @@ Date: 2023.01.11
 There are but two roads that lead to an important goal and to the doing of great things: strength and perseverance.
 世间只有两条路可以使人达到重大目标或完成伟业，那就是力量和坚持不懈。
 ```
+
+---
+Date: 2023.01.12
+```
+To know what people really think, pay regard to what they do rather than what they say.
+要了解人们真正想什么，就得观其行，而非听其言。
+```
