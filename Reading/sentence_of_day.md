@@ -1953,3 +1953,10 @@ Date: 2023.01.12
 To know what people really think, pay regard to what they do rather than what they say.
 要了解人们真正想什么，就得观其行，而非听其言。
 ```
+
+---
+Date: 2023.01.13
+```
+However difficult life may seem, there is always something you can do and succeed at.
+不管生活多么艰难，总有你可以做到并取得成功的事。
+```
