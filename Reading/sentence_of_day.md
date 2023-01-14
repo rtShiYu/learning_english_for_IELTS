@@ -1960,3 +1960,10 @@ Date: 2023.01.13
 However difficult life may seem, there is always something you can do and succeed at.
 不管生活多么艰难，总有你可以做到并取得成功的事。
 ```
+
+---
+Date: 2023.01.14
+```
+What generally passes for 'thought' among the majority of mankind is the time one takes out to rearrange one's prejudices.
+大多数人所谓的“思考”，是花时间重新编排自己的偏见。
+```

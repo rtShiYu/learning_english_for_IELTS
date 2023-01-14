@@ -3475,3 +3475,13 @@ interchangeably
 archery
 fixate
 ```
+
+---
+Date: 2023.01.14
+```
+prejudices
+rearrange
+mankind
+hypothetical
+ingrained
+```
