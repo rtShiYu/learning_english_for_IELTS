@@ -3485,3 +3485,13 @@ mankind
 hypothetical
 ingrained
 ```
+
+---
+Date: 2023.01.15
+```
+bans, to ban, to no longer allow someting/someone
+eliminate
+pressure
+discarded
+roughly, approximately aroud
+```

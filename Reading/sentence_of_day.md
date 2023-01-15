@@ -1967,3 +1967,10 @@ Date: 2023.01.14
 What generally passes for 'thought' among the majority of mankind is the time one takes out to rearrange one's prejudices.
 大多数人所谓的“思考”，是花时间重新编排自己的偏见。
 ```
+
+---
+Date: 2023.01.15
+```
+It's not the size of the dog in the fight; it's the size of the fight in the dog.
+狗打斗的胜负不在于体型的大小，而是志气的大小。
+```
