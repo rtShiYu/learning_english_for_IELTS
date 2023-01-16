@@ -3495,3 +3495,13 @@ pressure
 discarded
 roughly, approximately aroud
 ```
+
+---
+Date: 2023.01.16
+```
+theatre
+refection
+inflatable
+depicting
+landmark
+```
