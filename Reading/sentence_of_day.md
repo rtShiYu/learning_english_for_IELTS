@@ -1981,3 +1981,10 @@ Date: 2023.01.16
 Only someone who is well-prepared has the opportunity to improvise.
 只有准备充分的人能够即兴表演。
 ```
+
+---
+Date: 2023.01.17
+```
+Perseverance is not a long race; it is many short races one after another.
+坚持不是一次长跑，而是很多一个接一个的短跑。
+```
