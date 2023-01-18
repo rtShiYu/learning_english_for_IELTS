@@ -3515,3 +3515,14 @@ cybersecurity
 federal
 lawmaker
 ```
+
+---
+Date: 2023.01.18
+```
+debate
+disaster
+enforcement
+patrol
+batter
+battle
+```

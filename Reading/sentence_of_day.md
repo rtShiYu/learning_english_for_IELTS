@@ -1988,3 +1988,10 @@ Date: 2023.01.17
 Perseverance is not a long race; it is many short races one after another.
 坚持不是一次长跑，而是很多一个接一个的短跑。
 ```
+
+---
+Date: 2023.01.18
+```
+Progress is the result of a bunch of failures.
+进步是不断失败的成果。
+```
