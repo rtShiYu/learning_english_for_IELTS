@@ -3526,3 +3526,14 @@ patrol
 batter
 battle
 ```
+
+---
+Date: 2023.01.19
+```
+facto
+investment zones
+naval
+vessels
+territorial disputes
+standoff
+```

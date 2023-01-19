@@ -1995,3 +1995,10 @@ Date: 2023.01.18
 Progress is the result of a bunch of failures.
 进步是不断失败的成果。
 ```
+
+---
+Date: 2023.01.19
+```
+Leadership is practiced not so much in words as in attitude and in actions.
+领导力不是通过言语，而是通过态度及行动所体现。
+```
