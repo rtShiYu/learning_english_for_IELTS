@@ -2002,3 +2002,10 @@ Date: 2023.01.19
 Leadership is practiced not so much in words as in attitude and in actions.
 领导力不是通过言语，而是通过态度及行动所体现。
 ```
+
+---
+Date: 2023.01.20
+```
+Health is the pillar of the soul, is an important foundation.
+健康是灵魂的支柱，重要的根基。
+```
