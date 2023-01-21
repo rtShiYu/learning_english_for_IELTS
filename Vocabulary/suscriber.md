@@ -3549,3 +3549,13 @@ compassion
 patience
 sip on hot tea
 ```
+
+---
+Date: 2023.01.22
+```
+vulnerable
+wellbeing
+willingness
+trump
+charade
+```
