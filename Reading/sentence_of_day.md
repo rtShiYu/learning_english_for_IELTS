@@ -2016,3 +2016,10 @@ Date: 2023.01.21
 May your new year be filled with abundance of smiles and happiness!
 新的一年，祝你笑口常开，幸福常在。
 ```
+
+---
+Date: 2023.01.22
+```
+A new year is like a blank book, and the pen is in your hands. Go write yourself a beautiful story.
+新年就像一本空白的书，而笔正在你手中。去为自己写一个美丽的故事吧。
+```

@@ -3559,3 +3559,14 @@ willingness
 trump
 charade
 ```
+
+---
+Date: 2023.01.23
+```
+vindicate
+vigorous
+inner
+emotional
+immunity
+retreat
+```
