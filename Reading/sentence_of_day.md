@@ -2023,3 +2023,10 @@ Date: 2023.01.22
 A new year is like a blank book, and the pen is in your hands. Go write yourself a beautiful story.
 新年就像一本空白的书，而笔正在你手中。去为自己写一个美丽的故事吧。
 ```
+
+---
+Date: 2023.01.23
+```
+The exuberant years of life will not return. The morning of the day does not repeat itself.
+盛年不重来，一日难再晨。
+```
