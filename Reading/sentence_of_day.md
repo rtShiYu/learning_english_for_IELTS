@@ -2030,3 +2030,10 @@ Date: 2023.01.23
 The exuberant years of life will not return. The morning of the day does not repeat itself.
 盛年不重来，一日难再晨。
 ```
+
+---
+Date: 2023.01.24
+```
+Adversity makes one stronger, just as polishing makes jade finer.
+艰难困苦，玉汝于成。
+```
