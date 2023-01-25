@@ -3591,3 +3591,14 @@ fluctuate
 hog, hogs
 distro
 ```
+
+---
+Date: 2023.01.25
+```
+articulate
+propellant
+grant
+sponsor
+cruise
+citizenship
+```

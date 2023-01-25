@@ -2037,3 +2037,10 @@ Date: 2023.01.24
 Adversity makes one stronger, just as polishing makes jade finer.
 艰难困苦，玉汝于成。
 ```
+
+---
+Date: 2023.01.26
+```
+In books lies the soul of the whole Past Time; the articulate audible voice of the Past.
+书里蕴藏着全部过去时代的精魂，古昔发出的朗朗之声。
+```
