@@ -2044,3 +2044,10 @@ Date: 2023.01.26
 In books lies the soul of the whole Past Time; the articulate audible voice of the Past.
 书里蕴藏着全部过去时代的精魂，古昔发出的朗朗之声。
 ```
+
+---
+Date: 2023.01.26
+```
+No amount of anxiety makes any difference to anything that is going to happen.
+再多的焦虑也不能改变即将要发生的事。
+```
