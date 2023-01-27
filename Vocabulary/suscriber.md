@@ -3613,3 +3613,14 @@ interplanetary
 animation
 fabric
 ```
+
+---
+Date: 2023.01.27
+```
+variant
+infrastructure
+reshap, reshaping
+urbanscapes
+stick
+trick
+```

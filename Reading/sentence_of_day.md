@@ -2051,3 +2051,10 @@ Date: 2023.01.26
 No amount of anxiety makes any difference to anything that is going to happen.
 再多的焦虑也不能改变即将要发生的事。
 ```
+
+---
+Date: 2023.01.27
+```
+Judge a man by his questions rather than his answers.
+根据一个人提出的问题评断他，而非他的答案。
+```
