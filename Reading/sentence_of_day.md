@@ -2065,3 +2065,10 @@ Date: 2023.01.28
 You will do foolish things, but do them with enthusiasm.
 你会做一些蠢事，但带着热忱去做吧。
 ```
+
+---
+Date: 2023.01.29
+```
+Some rise by sin, and some by virtue fall.
+有些人因罪恶而升迁，有些人因美德而没落。
+```
