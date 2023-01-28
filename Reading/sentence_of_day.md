@@ -2058,3 +2058,10 @@ Date: 2023.01.27
 Judge a man by his questions rather than his answers.
 根据一个人提出的问题评断他，而非他的答案。
 ```
+
+---
+Date: 2023.01.28
+```
+You will do foolish things, but do them with enthusiasm.
+你会做一些蠢事，但带着热忱去做吧。
+```
