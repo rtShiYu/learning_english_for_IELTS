@@ -2072,3 +2072,10 @@ Date: 2023.01.29
 Some rise by sin, and some by virtue fall.
 有些人因罪恶而升迁，有些人因美德而没落。
 ```
+
+---
+Date: 2023.01.30
+```
+Identify your problems, but give your power and energy to solutions.
+找到你的问题，但要把力量与精力放在解决办法上。
+```
