@@ -2079,3 +2079,10 @@ Date: 2023.01.30
 Identify your problems, but give your power and energy to solutions.
 找到你的问题，但要把力量与精力放在解决办法上。
 ```
+
+---
+Date: 2023.01.31
+```
+None can love freedom heartily, but good men; the rest love not freedom, but licence.
+除了善良的人，没有人会发自内心地热爱自由； 其余的人不喜欢自由，而是喜欢放纵。
+```
