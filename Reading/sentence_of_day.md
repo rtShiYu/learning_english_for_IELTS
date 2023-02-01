@@ -2086,3 +2086,10 @@ Date: 2023.01.31
 None can love freedom heartily, but good men; the rest love not freedom, but licence.
 除了善良的人，没有人会发自内心地热爱自由； 其余的人不喜欢自由，而是喜欢放纵。
 ```
+
+---
+Date: 2023.02.01
+```
+You can like the life you're living. You can live the life you like.
+你可以热爱已有的生活，也可以去追求想要的生活.
+```

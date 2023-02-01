@@ -3669,3 +3669,14 @@ formula
 breakthrough
 pioneer
 ```
+
+---
+Date: 2023.01.01
+```
+dedicate
+tenure
+accordance
+severance
+reliance
+headcount
+```
