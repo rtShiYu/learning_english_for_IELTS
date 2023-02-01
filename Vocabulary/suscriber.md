@@ -3331,3 +3331,341 @@ prevail
 slump
 debate
 ```
+
+---
+Date: 2023.01.01
+```
+culprit
+reminiscent
+interlude
+detective
+rife
+aristocrat
+jutting
+scuffle
+```
+
+---
+Date: 2023.01.02
+```
+grace
+chaos, chaotic
+milestone
+sequel
+innovative
+instalment
+```
+
+---
+Date: 2023.01.03
+```
+stun
+doctrinal
+oversee
+audit
+invasion
+drawing
+jackpot
+```
+
+---
+Date: 2023.01.04
+```
+dominance
+steel
+proofreading
+stripe
+balcony
+laundry
+```
+
+---
+Date: 2023.01.05
+```
+plough
+windmills
+hive
+cabin
+worms
+pyramid
+```
+
+---
+Date: 2023.01.06
+```
+admirable
+steadfastness
+diffuse
+elaborage
+emerge
+evade
+```
+
+---
+Date: 2023.01.07
+```
+polyrhythm
+lame
+underappreciated
+drummer
+whiplash
+```
+
+---
+Date: 2023.01.08
+```
+shiver
+sweat
+votex
+embodied
+boldly
+brutally
+companion
+```
+
+---
+Date: 2023.01.09
+```
+chilly
+reinvest
+pogo
+mobility
+pyramid
+```
+
+---
+Date: 2023.01.10
+```
+wolf warrior
+diplomatic
+before dawn
+logging, chopping down trees
+canopy
+```
+
+---
+Date: 2023.01.11
+```
+velocity
+elevation
+fingertip
+vase
+refilling
+lurking
+habitable
+```
+
+---
+Date: 2023.01.12
+```
+regard
+wickedly
+intimate
+bomb
+chemo
+condolent
+```
+
+---
+Date: 2023.01.13
+```
+artificial
+aiming
+interchangeably
+archery
+fixate
+```
+
+---
+Date: 2023.01.14
+```
+prejudices
+rearrange
+mankind
+hypothetical
+ingrained
+```
+
+---
+Date: 2023.01.15
+```
+bans, to ban, to no longer allow someting/someone
+eliminate
+pressure
+discarded
+roughly, approximately aroud
+```
+
+---
+Date: 2023.01.16
+```
+theatre
+refection
+inflatable
+depicting
+landmark
+```
+
+---
+Date: 2023.01.17
+```
+council
+utility
+cybersecurity
+federal
+lawmaker
+```
+
+---
+Date: 2023.01.18
+```
+debate
+disaster
+enforcement
+patrol
+batter
+battle
+```
+
+---
+Date: 2023.01.19
+```
+facto
+investment zones
+naval
+vessels
+territorial disputes
+standoff
+```
+
+---
+Date: 2023.01.20
+```
+commitment
+marriage vows
+sacrifice
+fulfil
+compassion
+patience
+sip on hot tea
+```
+
+---
+Date: 2023.01.22
+```
+vulnerable
+wellbeing
+willingness
+trump
+charade
+```
+
+---
+Date: 2023.01.23
+```
+vindicate
+vigorous
+inner
+emotional
+immunity
+retreat
+```
+
+---
+Date: 2023.01.23
+```
+exuberant
+vestibule
+cerebellum
+spinal
+tract
+rotational
+```
+
+---
+Date: 2023.01.24
+```
+distribution
+controversial
+fluctuate
+hog, hogs
+distro
+```
+
+---
+Date: 2023.01.25
+```
+articulate
+propellant
+grant
+sponsor
+cruise
+citizenship
+```
+
+---
+Date: 2023.01.26
+```
+award
+category
+detonation
+interplanetary
+animation
+fabric
+```
+
+---
+Date: 2023.01.27
+```
+variant
+infrastructure
+reshap, reshaping
+urbanscapes
+stick
+trick
+```
+
+---
+Date: 2023.01.28
+```
+robotic
+harvester
+perspective
+climactic
+spinning
+```
+
+---
+Date: 2023.01.29
+```
+swami
+ink
+cork
+wrapped
+cellophane
+bubblewrap
+```
+
+---
+Date: 2023.01.30
+```
+pasture
+bummer
+compliance
+gig
+honeymoon
+corporate
+dust
+dulcet
+```
+
+---
+Date: 2023.01.31
+```
+from scratch
+heartily
+prostate
+formula
+breakthrough
+pioneer
+```

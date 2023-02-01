@@ -1869,3 +1869,220 @@ Date: 2022.12.31
 May the chime of the New Year consolidate our confidence and re-ignite our aspiration for an even better tomorrow!
 让我们满怀信心和期待，一起迎接新年的钟声。
 ```
+
+---
+Date: 2023.01.01
+```
+There are far, far better things ahead than any we leave behind.
+比起任何过去发生的事，我们的未来有更加美好的事情会发生。
+```
+
+---
+Date: 2023.01.02
+```
+Life is like a game of cards. The hand you are dealt is determinism; the way you play it is free will.
+人生宛如一场牌局，拿到什么牌，那是命中注定，但如何出牌，却操之在己。
+```
+
+---
+Date: 2023.01.03
+```
+When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+你跳舞的时候，不是为了在场上取得一席之地 ，而是享受每一个舞步。
+```
+
+---
+Date: 2023.01.04
+```
+Prejudices are what fools use for reason.
+愚人以偏见取代逻辑。
+```
+
+---
+Date: 2023.01.05
+```
+Whatever is worth doing is worth doing well.
+任何值得去做的事情，都值得把它做好。
+```
+
+---
+Date: 2023.01.06
+```
+This is the mark of a really admirable man: steadfastness in the face of trouble.
+令人敬仰的人有一个特点：面对困难时仍不屈不挠。
+```
+
+---
+Date: 2023.01.07
+```
+I love you not for who you are, but for who I am with you.
+我爱你不是因为你是谁，而是我在你面前可以是谁。
+```
+
+---
+Date: 2023.01.08
+```
+All I've ever done in my life was making my way here to you.
+我今生的所做的一切都是为了找到你。
+```
+
+---
+Date: 2023.01.09
+```
+Worrying gets you nowhere. Train hard, turn up, run your best, and the rest will take care of itself.
+担忧没有任何益处。努力训练、走上场、尽力而为，其余的问题将会自动解决。
+```
+
+---
+Date: 2023.01.10
+```
+To handle yourself, use your head; to handle others, use your heart.
+用头脑来管理自己，用真心去对待他人。
+```
+
+---
+Date: 2023.01.11
+```
+There are but two roads that lead to an important goal and to the doing of great things: strength and perseverance.
+世间只有两条路可以使人达到重大目标或完成伟业，那就是力量和坚持不懈。
+```
+
+---
+Date: 2023.01.12
+```
+To know what people really think, pay regard to what they do rather than what they say.
+要了解人们真正想什么，就得观其行，而非听其言。
+```
+
+---
+Date: 2023.01.13
+```
+However difficult life may seem, there is always something you can do and succeed at.
+不管生活多么艰难，总有你可以做到并取得成功的事。
+```
+
+---
+Date: 2023.01.14
+```
+What generally passes for 'thought' among the majority of mankind is the time one takes out to rearrange one's prejudices.
+大多数人所谓的“思考”，是花时间重新编排自己的偏见。
+```
+
+---
+Date: 2023.01.15
+```
+It's not the size of the dog in the fight; it's the size of the fight in the dog.
+狗打斗的胜负不在于体型的大小，而是志气的大小。
+```
+
+---
+Date: 2023.01.16
+```
+Only someone who is well-prepared has the opportunity to improvise.
+只有准备充分的人能够即兴表演。
+```
+
+---
+Date: 2023.01.17
+```
+Perseverance is not a long race; it is many short races one after another.
+坚持不是一次长跑，而是很多一个接一个的短跑。
+```
+
+---
+Date: 2023.01.18
+```
+Progress is the result of a bunch of failures.
+进步是不断失败的成果。
+```
+
+---
+Date: 2023.01.19
+```
+Leadership is practiced not so much in words as in attitude and in actions.
+领导力不是通过言语，而是通过态度及行动所体现。
+```
+
+---
+Date: 2023.01.20
+```
+Health is the pillar of the soul, is an important foundation.
+健康是灵魂的支柱，重要的根基。
+```
+
+---
+Date: 2023.01.21
+```
+May your new year be filled with abundance of smiles and happiness!
+新的一年，祝你笑口常开，幸福常在。
+```
+
+---
+Date: 2023.01.22
+```
+A new year is like a blank book, and the pen is in your hands. Go write yourself a beautiful story.
+新年就像一本空白的书，而笔正在你手中。去为自己写一个美丽的故事吧。
+```
+
+---
+Date: 2023.01.23
+```
+The exuberant years of life will not return. The morning of the day does not repeat itself.
+盛年不重来，一日难再晨。
+```
+
+---
+Date: 2023.01.24
+```
+Adversity makes one stronger, just as polishing makes jade finer.
+艰难困苦，玉汝于成。
+```
+
+---
+Date: 2023.01.26
+```
+In books lies the soul of the whole Past Time; the articulate audible voice of the Past.
+书里蕴藏着全部过去时代的精魂，古昔发出的朗朗之声。
+```
+
+---
+Date: 2023.01.26
+```
+No amount of anxiety makes any difference to anything that is going to happen.
+再多的焦虑也不能改变即将要发生的事。
+```
+
+---
+Date: 2023.01.27
+```
+Judge a man by his questions rather than his answers.
+根据一个人提出的问题评断他，而非他的答案。
+```
+
+---
+Date: 2023.01.28
+```
+You will do foolish things, but do them with enthusiasm.
+你会做一些蠢事，但带着热忱去做吧。
+```
+
+---
+Date: 2023.01.29
+```
+Some rise by sin, and some by virtue fall.
+有些人因罪恶而升迁，有些人因美德而没落。
+```
+
+---
+Date: 2023.01.30
+```
+Identify your problems, but give your power and energy to solutions.
+找到你的问题，但要把力量与精力放在解决办法上。
+```
+
+---
+Date: 2023.01.31
+```
+None can love freedom heartily, but good men; the rest love not freedom, but licence.
+除了善良的人，没有人会发自内心地热爱自由； 其余的人不喜欢自由，而是喜欢放纵。
+```
