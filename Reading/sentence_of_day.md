@@ -2093,3 +2093,10 @@ Date: 2023.02.01
 You can like the life you're living. You can live the life you like.
 你可以热爱已有的生活，也可以去追求想要的生活.
 ```
+
+---
+Date: 2023.02.02
+```
+The longest way must have its close; the gloomiest night will wear on a morning.
+最长的路也有尽头，最黑暗的夜晚也会迎来清晨。
+```

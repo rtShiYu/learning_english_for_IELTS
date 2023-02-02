@@ -3671,7 +3671,7 @@ pioneer
 ```
 
 ---
-Date: 2023.01.01
+Date: 2023.02.01
 ```
 dedicate
 tenure
@@ -3679,4 +3679,14 @@ accordance
 severance
 reliance
 headcount
+```
+
+---
+Date: 2023.02.02
+```
+warehouse
+rumor
+telehealth
+sanction
+winding down
 ```
