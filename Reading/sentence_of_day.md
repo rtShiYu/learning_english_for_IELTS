@@ -2100,3 +2100,10 @@ Date: 2023.02.02
 The longest way must have its close; the gloomiest night will wear on a morning.
 最长的路也有尽头，最黑暗的夜晚也会迎来清晨。
 ```
+
+---
+Date: 2023.02.03
+```
+Sometimes we have the dream but we are not ourselves ready for the dream. We have to grow to meet it.
+有时候，我们虽有梦想，但却没有准备好，我们必须不断成才才能企及梦想。
+```
