@@ -3690,3 +3690,15 @@ telehealth
 sanction
 winding down
 ```
+
+---
+Date: 2023.02.03
+```
+default alive; default dead
+metrics
+terminology straight
+gross profit
+operating profit
+net profit
+gargin
+```
