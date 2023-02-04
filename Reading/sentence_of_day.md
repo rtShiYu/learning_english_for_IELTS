@@ -2107,3 +2107,10 @@ Date: 2023.02.03
 Sometimes we have the dream but we are not ourselves ready for the dream. We have to grow to meet it.
 有时候，我们虽有梦想，但却没有准备好，我们必须不断成才才能企及梦想。
 ```
+
+---
+Date: 2023.02.04
+```
+You don't love someone because they're perfect. You love thme in spite of the fact that they're not.
+爱一个人，并非因为他完美无暇，而是明知不完美，仍旧会爱上她。
+```

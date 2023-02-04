@@ -3702,3 +3702,14 @@ operating profit
 net profit
 gargin
 ```
+
+---
+Date: 2023.02.04
+```
+boom
+outright
+occupation
+earth-shaking
+patent
+emphasize
+```
