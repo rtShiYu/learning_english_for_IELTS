@@ -2121,3 +2121,10 @@ Date: 2023.02.05
 Home is not where you live but where they understand you.
 栖身之所不一定是你的家，有人懂你之处才是家。
 ```
+
+---
+Date: 2023.02.05
+```
+A bird is safe in its nest, but that is not what its wings are made for.
+小鸟在巢中最安全，但翅膀可不是为此而生的。
+```
