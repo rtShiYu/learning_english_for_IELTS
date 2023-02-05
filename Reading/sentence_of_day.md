@@ -2114,3 +2114,10 @@ Date: 2023.02.04
 You don't love someone because they're perfect. You love thme in spite of the fact that they're not.
 爱一个人，并非因为他完美无暇，而是明知不完美，仍旧会爱上她。
 ```
+
+---
+Date: 2023.02.05
+```
+Home is not where you live but where they understand you.
+栖身之所不一定是你的家，有人懂你之处才是家。
+```
