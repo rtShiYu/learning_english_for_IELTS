@@ -3713,3 +3713,15 @@ earth-shaking
 patent
 emphasize
 ```
+
+---
+Date: 2023.02.05
+```
+dirt bikes
+spy
+balloon
+accuse
+tragedy, drama
+jeopardize
+strike
+```
