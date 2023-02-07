@@ -2123,8 +2123,15 @@ Home is not where you live but where they understand you.
 ```
 
 ---
-Date: 2023.02.05
+Date: 2023.02.06
 ```
 A bird is safe in its nest, but that is not what its wings are made for.
 小鸟在巢中最安全，但翅膀可不是为此而生的。
+```
+
+---
+Date: 2023.02.07
+```
+I do not believe in taking the right decision. I take a decision and make it right.
+我不相信什么正确决定。我都是先做决定，然后把事情做好。
 ```
