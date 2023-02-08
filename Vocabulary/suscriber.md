@@ -3751,3 +3751,15 @@ crusader
 vortex
 meteorologist
 ```
+
+---
+Date: 2023.02.08
+```
+rescue
+beneath
+rubble
+wreck
+epicentre
+tectonic
+subsequent
+```

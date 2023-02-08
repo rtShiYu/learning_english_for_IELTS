@@ -2135,3 +2135,10 @@ Date: 2023.02.07
 I do not believe in taking the right decision. I take a decision and make it right.
 我不相信什么正确决定。我都是先做决定，然后把事情做好。
 ```
+
+---
+Date: 2023.02.08
+```
+Promise yourself to be so strong that nothing can disturb your peace of mind.
+答应自己要坚强，不让任何事物烦扰内心的平静。
+```
