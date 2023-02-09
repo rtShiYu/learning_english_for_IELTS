@@ -2142,3 +2142,10 @@ Date: 2023.02.08
 Promise yourself to be so strong that nothing can disturb your peace of mind.
 答应自己要坚强，不让任何事物烦扰内心的平静。
 ```
+
+---
+Date: 2023.02.09
+```
+The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+悲观者抱怨风向；乐观者期待风向改变；务实者调整船帆。
+```
