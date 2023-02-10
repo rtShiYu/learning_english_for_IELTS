@@ -2149,3 +2149,10 @@ Date: 2023.02.09
 The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
 悲观者抱怨风向；乐观者期待风向改变；务实者调整船帆。
 ```
+
+---
+Date: 2023.02.10
+```
+A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them.
+人要有足够的气度去承认自己的错误，足够的智慧来从中获得成长，足够的力量区改正它。
+```

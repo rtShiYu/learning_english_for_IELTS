@@ -3774,3 +3774,14 @@ salvaged
 council
 condemnation
 ```
+
+---
+Data: 2023.02.10
+```
+innocent
+exoneration
+preyed
+desperate
+rubble
+devastated
+```
