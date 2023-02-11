@@ -2163,3 +2163,10 @@ Date: 2023.02.11
 For what is friendship? If not a willingness to give laughter where there are tears, comfort when there are fears, and pleasure, fantasy and fun where there is none.
 何为友谊？是甘于给予，是在伤心落泪时让你破涕为笑，是恐惧时给予慰藉，是为平淡的生活平添盎然生机。
 ```
+
+---
+Date: 2023.02.12
+```
+Better to light one candle than to curse the darkness.
+诅咒黑暗不如点燃蜡烛。
+```
