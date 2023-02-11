@@ -3785,3 +3785,13 @@ desperate
 rubble
 devastated
 ```
+
+---
+Data: 2023.02.11
+```
+willingness
+comfort
+fears
+pleasure
+fantasy
+```
