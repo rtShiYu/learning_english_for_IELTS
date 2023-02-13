@@ -2170,3 +2170,10 @@ Date: 2023.02.12
 Better to light one candle than to curse the darkness.
 诅咒黑暗不如点燃蜡烛。
 ```
+
+---
+Date: 20223.02.13
+```
+No one saves us but ourselves, no one can and no one may. We ourselves must walk the path.
+除了自己，没人可以、也没人会拯救我们。我们的路必须由我们自己来走。
+```
