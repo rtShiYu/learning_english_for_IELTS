@@ -2172,8 +2172,15 @@ Better to light one candle than to curse the darkness.
 ```
 
 ---
-Date: 20223.02.13
+Date: 2023.02.13
 ```
 No one saves us but ourselves, no one can and no one may. We ourselves must walk the path.
 除了自己，没人可以、也没人会拯救我们。我们的路必须由我们自己来走。
+```
+
+---
+Date: 2023.02.14
+```
+Love is a choice. It is a conscious conmmitment. It is something you choose to make work every day with a person who has chosen the same thing.
+爱是种选择。爱是一种意识的承诺，是你选择和一个人日复一日维持系下去的一件事，而那个人也同样选择这么做。
 ```
