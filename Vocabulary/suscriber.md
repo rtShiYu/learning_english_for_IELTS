@@ -3827,3 +3827,14 @@ biased
 classification
 categorization
 ```
+
+---
+Date: 2023.02.15
+```
+bathtub
+looming
+struggle
+draconian
+dreaded
+buoy
+```

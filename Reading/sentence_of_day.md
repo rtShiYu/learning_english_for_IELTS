@@ -2184,3 +2184,10 @@ Date: 2023.02.14
 Love is a choice. It is a conscious conmmitment. It is something you choose to make work every day with a person who has chosen the same thing.
 爱是种选择。爱是一种意识的承诺，是你选择和一个人日复一日维持系下去的一件事，而那个人也同样选择这么做。
 ```
+
+---
+Date: 2023.02.15
+```
+Be happy with what you have and are, be generous with both, and you won't have to hunt for happiness.
+对你所拥有的和现在的自己感到快乐，对两者都慷慨，那么你就不必追求幸福。
+```
