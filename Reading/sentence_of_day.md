@@ -2191,3 +2191,10 @@ Date: 2023.02.15
 Be happy with what you have and are, be generous with both, and you won't have to hunt for happiness.
 对你所拥有的和现在的自己感到快乐，对两者都慷慨，那么你就不必追求幸福。
 ```
+
+---
+Date: 2023.02.16
+```
+The key is to keep company only with people who uplift you, whose presence calls forth your best.
+关键是只与那些能够提升你的人作伴，他们的出现会激发你最好的一面。
+```
