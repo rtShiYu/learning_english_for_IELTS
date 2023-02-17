@@ -3849,3 +3849,14 @@ apparent
 arrested
 vigilant
 ```
+
+---
+Date: 2023.02.17
+```
+brigade
+antitank
+ardent
+conduct
+defy
+staff
+```
