@@ -2198,3 +2198,10 @@ Date: 2023.02.16
 The key is to keep company only with people who uplift you, whose presence calls forth your best.
 关键是只与那些能够提升你的人作伴，他们的出现会激发你最好的一面。
 ```
+
+---
+Date: 2023.02.17
+```
+Once you replace negative thoughts with positive ones, you'll start having positive results.
+一旦你淘汰消极思想、选择积极思想，便会开始赢来积极的结果。
+```
