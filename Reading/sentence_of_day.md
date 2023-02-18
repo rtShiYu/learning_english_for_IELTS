@@ -2205,3 +2205,10 @@ Date: 2023.02.17
 Once you replace negative thoughts with positive ones, you'll start having positive results.
 一旦你淘汰消极思想、选择积极思想，便会开始赢来积极的结果。
 ```
+
+---
+Date: 2023.02.18
+```
+Living in the past is a dull and lonely business; looking back strains the neck muscles, causing you to bump into people not going your way.
+活在过去是一件乏味而孤独的事。向后看会使脖子蹦紧，使你碰上不按你方法做事的人。
+```

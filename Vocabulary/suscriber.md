@@ -3860,3 +3860,15 @@ conduct
 defy
 staff
 ```
+
+---
+Date: 2023.02.18
+```
+bloom
+bough
+lavish
+blossom
+horticulturist
+ballet
+mild
+```
