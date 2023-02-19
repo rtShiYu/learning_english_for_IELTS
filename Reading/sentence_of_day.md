@@ -2212,3 +2212,10 @@ Date: 2023.02.18
 Living in the past is a dull and lonely business; looking back strains the neck muscles, causing you to bump into people not going your way.
 活在过去是一件乏味而孤独的事。向后看会使脖子蹦紧，使你碰上不按你方法做事的人。
 ```
+
+---
+Date: 2023.02.19
+```
+A hero is someone who has given his or her life to something bigger than oneself.
+英雄是那些把自己的生命献给更伟大事业的人。
+```
