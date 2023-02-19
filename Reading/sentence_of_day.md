@@ -2219,3 +2219,10 @@ Date: 2023.02.19
 A hero is someone who has given his or her life to something bigger than oneself.
 英雄是那些把自己的生命献给更伟大事业的人。
 ```
+
+---
+Date: 2023.02.20
+```
+You don't choose your family. They are God's gift to you, as you are to them.
+你无法选择你的家人。他们是上天赐予你的礼物，正如你也是上天赐予他们的礼物一样。
+```

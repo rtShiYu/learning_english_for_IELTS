@@ -3883,3 +3883,13 @@ consent
 loophole
 cancellation
 ```
+
+---
+Date: 2023.02.20
+```
+chronic
+stacked
+dishwasher
+misfortune
+strike
+```
