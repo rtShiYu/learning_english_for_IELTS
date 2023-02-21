@@ -2226,3 +2226,10 @@ Date: 2023.02.20
 You don't choose your family. They are God's gift to you, as you are to them.
 你无法选择你的家人。他们是上天赐予你的礼物，正如你也是上天赐予他们的礼物一样。
 ```
+
+---
+Date: 2023.02.21
+```
+We all need people who will give us feedback. That's how we improve.
+我们都需要别人给自己反馈，那就是我们提升自己的方法。
+```

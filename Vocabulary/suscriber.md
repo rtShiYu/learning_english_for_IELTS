@@ -3893,3 +3893,14 @@ dishwasher
 misfortune
 strike
 ```
+
+---
+Date: 2023.02.21
+```
+portray
+czar
+strife
+elite
+desperately
+loyalty
+```
