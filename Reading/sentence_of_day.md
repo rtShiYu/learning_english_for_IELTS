@@ -2233,3 +2233,10 @@ Date: 2023.02.21
 We all need people who will give us feedback. That's how we improve.
 我们都需要别人给自己反馈，那就是我们提升自己的方法。
 ```
+
+---
+Date: 2023.02.22
+```
+People won't have time for you if you are always angry or complaining.
+如果你总是生气抱怨，那么人们不会在你身上花费时间。
+```
