@@ -2240,3 +2240,10 @@ Date: 2023.02.22
 People won't have time for you if you are always angry or complaining.
 如果你总是生气抱怨，那么人们不会在你身上花费时间。
 ```
+
+---
+Date: 2023.02.23
+```
+You make me want to be a better person.
+你让我想成为一个更好的人。
+```
