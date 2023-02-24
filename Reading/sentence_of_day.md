@@ -2247,3 +2247,10 @@ Date: 2023.02.23
 You make me want to be a better person.
 你让我想成为一个更好的人。
 ```
+
+---
+Date: 2023.02.24
+```
+You must take personal responsibility. You cannot change the circumstances, the seasons, or the wind, but you can change yourself.
+你得对自己负责，你无法改变环境、季节或风向，但你可以改变自己。
+```
