@@ -2254,3 +2254,10 @@ Date: 2023.02.24
 You must take personal responsibility. You cannot change the circumstances, the seasons, or the wind, but you can change yourself.
 你得对自己负责，你无法改变环境、季节或风向，但你可以改变自己。
 ```
+
+---
+Date: 2023.02.25
+```
+Age wrinkles the body. Quitting wrinkles the soul.
+岁月使皮肤起皱，放弃使灵魂起皱。
+```
