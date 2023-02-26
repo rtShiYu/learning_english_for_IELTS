@@ -2261,3 +2261,10 @@ Date: 2023.02.25
 Age wrinkles the body. Quitting wrinkles the soul.
 岁月使皮肤起皱，放弃使灵魂起皱。
 ```
+
+---
+Date: 2023.02.26
+```
+Those who think they have no time for bodily exercise will sooner or later have to find time for illness.
+那些觉得自己没时间运动的人，迟早要腾出时间来生病。
+```
