@@ -2268,3 +2268,10 @@ Date: 2023.02.26
 Those who think they have no time for bodily exercise will sooner or later have to find time for illness.
 那些觉得自己没时间运动的人，迟早要腾出时间来生病。
 ```
+
+---
+Date: 2023.02.27
+```
+The biggest communication problem is we do not listen to understand. We listen to reply.
+最大的沟通问题是，我们聆听不是为了了解，而只为了回答。
+```
