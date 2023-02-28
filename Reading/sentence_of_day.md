@@ -2275,3 +2275,10 @@ Date: 2023.02.27
 The biggest communication problem is we do not listen to understand. We listen to reply.
 最大的沟通问题是，我们聆听不是为了了解，而只为了回答。
 ```
+
+---
+Date: 2023.02.28
+```
+Many eyes go through the meadow, but few see the flowers.
+很多人眺望草地，但少数人看到花朵。
+```
