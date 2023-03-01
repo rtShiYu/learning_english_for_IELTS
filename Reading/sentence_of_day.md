@@ -2086,3 +2086,199 @@ Date: 2023.01.31
 None can love freedom heartily, but good men; the rest love not freedom, but licence.
 除了善良的人，没有人会发自内心地热爱自由； 其余的人不喜欢自由，而是喜欢放纵。
 ```
+
+---
+Date: 2023.02.01
+```
+You can like the life you're living. You can live the life you like.
+你可以热爱已有的生活，也可以去追求想要的生活.
+```
+
+---
+Date: 2023.02.02
+```
+The longest way must have its close; the gloomiest night will wear on a morning.
+最长的路也有尽头，最黑暗的夜晚也会迎来清晨。
+```
+
+---
+Date: 2023.02.03
+```
+Sometimes we have the dream but we are not ourselves ready for the dream. We have to grow to meet it.
+有时候，我们虽有梦想，但却没有准备好，我们必须不断成才才能企及梦想。
+```
+
+---
+Date: 2023.02.04
+```
+You don't love someone because they're perfect. You love thme in spite of the fact that they're not.
+爱一个人，并非因为他完美无暇，而是明知不完美，仍旧会爱上她。
+```
+
+---
+Date: 2023.02.05
+```
+Home is not where you live but where they understand you.
+栖身之所不一定是你的家，有人懂你之处才是家。
+```
+
+---
+Date: 2023.02.06
+```
+A bird is safe in its nest, but that is not what its wings are made for.
+小鸟在巢中最安全，但翅膀可不是为此而生的。
+```
+
+---
+Date: 2023.02.07
+```
+I do not believe in taking the right decision. I take a decision and make it right.
+我不相信什么正确决定。我都是先做决定，然后把事情做好。
+```
+
+---
+Date: 2023.02.08
+```
+Promise yourself to be so strong that nothing can disturb your peace of mind.
+答应自己要坚强，不让任何事物烦扰内心的平静。
+```
+
+---
+Date: 2023.02.09
+```
+The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+悲观者抱怨风向；乐观者期待风向改变；务实者调整船帆。
+```
+
+---
+Date: 2023.02.10
+```
+A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them.
+人要有足够的气度去承认自己的错误，足够的智慧来从中获得成长，足够的力量区改正它。
+```
+
+---
+Date: 2023.02.11
+```
+For what is friendship? If not a willingness to give laughter where there are tears, comfort when there are fears, and pleasure, fantasy and fun where there is none.
+何为友谊？是甘于给予，是在伤心落泪时让你破涕为笑，是恐惧时给予慰藉，是为平淡的生活平添盎然生机。
+```
+
+---
+Date: 2023.02.12
+```
+Better to light one candle than to curse the darkness.
+诅咒黑暗不如点燃蜡烛。
+```
+
+---
+Date: 2023.02.13
+```
+No one saves us but ourselves, no one can and no one may. We ourselves must walk the path.
+除了自己，没人可以、也没人会拯救我们。我们的路必须由我们自己来走。
+```
+
+---
+Date: 2023.02.14
+```
+Love is a choice. It is a conscious conmmitment. It is something you choose to make work every day with a person who has chosen the same thing.
+爱是种选择。爱是一种意识的承诺，是你选择和一个人日复一日维持系下去的一件事，而那个人也同样选择这么做。
+```
+
+---
+Date: 2023.02.15
+```
+Be happy with what you have and are, be generous with both, and you won't have to hunt for happiness.
+对你所拥有的和现在的自己感到快乐，对两者都慷慨，那么你就不必追求幸福。
+```
+
+---
+Date: 2023.02.16
+```
+The key is to keep company only with people who uplift you, whose presence calls forth your best.
+关键是只与那些能够提升你的人作伴，他们的出现会激发你最好的一面。
+```
+
+---
+Date: 2023.02.17
+```
+Once you replace negative thoughts with positive ones, you'll start having positive results.
+一旦你淘汰消极思想、选择积极思想，便会开始赢来积极的结果。
+```
+
+---
+Date: 2023.02.18
+```
+Living in the past is a dull and lonely business; looking back strains the neck muscles, causing you to bump into people not going your way.
+活在过去是一件乏味而孤独的事。向后看会使脖子蹦紧，使你碰上不按你方法做事的人。
+```
+
+---
+Date: 2023.02.19
+```
+A hero is someone who has given his or her life to something bigger than oneself.
+英雄是那些把自己的生命献给更伟大事业的人。
+```
+
+---
+Date: 2023.02.20
+```
+You don't choose your family. They are God's gift to you, as you are to them.
+你无法选择你的家人。他们是上天赐予你的礼物，正如你也是上天赐予他们的礼物一样。
+```
+
+---
+Date: 2023.02.21
+```
+We all need people who will give us feedback. That's how we improve.
+我们都需要别人给自己反馈，那就是我们提升自己的方法。
+```
+
+---
+Date: 2023.02.22
+```
+People won't have time for you if you are always angry or complaining.
+如果你总是生气抱怨，那么人们不会在你身上花费时间。
+```
+
+---
+Date: 2023.02.23
+```
+You make me want to be a better person.
+你让我想成为一个更好的人。
+```
+
+---
+Date: 2023.02.24
+```
+You must take personal responsibility. You cannot change the circumstances, the seasons, or the wind, but you can change yourself.
+你得对自己负责，你无法改变环境、季节或风向，但你可以改变自己。
+```
+
+---
+Date: 2023.02.25
+```
+Age wrinkles the body. Quitting wrinkles the soul.
+岁月使皮肤起皱，放弃使灵魂起皱。
+```
+
+---
+Date: 2023.02.26
+```
+Those who think they have no time for bodily exercise will sooner or later have to find time for illness.
+那些觉得自己没时间运动的人，迟早要腾出时间来生病。
+```
+
+---
+Date: 2023.02.27
+```
+The biggest communication problem is we do not listen to understand. We listen to reply.
+最大的沟通问题是，我们聆听不是为了了解，而只为了回答。
+```
+
+---
+Date: 2023.02.28
+```
+Many eyes go through the meadow, but few see the flowers.
+很多人眺望草地，但少数人看到花朵。
+```

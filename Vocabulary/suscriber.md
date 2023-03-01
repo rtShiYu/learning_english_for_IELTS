@@ -3669,3 +3669,315 @@ formula
 breakthrough
 pioneer
 ```
+
+---
+Date: 2023.02.01
+```
+dedicate
+tenure
+accordance
+severance
+reliance
+headcount
+```
+
+---
+Date: 2023.02.02
+```
+warehouse
+rumor
+telehealth
+sanction
+winding down
+```
+
+---
+Date: 2023.02.03
+```
+default alive; default dead
+metrics
+terminology straight
+gross profit
+operating profit
+net profit
+gargin
+```
+
+---
+Date: 2023.02.04
+```
+boom
+outright
+occupation
+earth-shaking
+patent
+emphasize
+```
+
+---
+Date: 2023.02.05
+```
+dirt bikes
+spy
+balloon
+accuse
+tragedy, drama
+jeopardize
+strike
+```
+
+---
+Date: 2023.02.06
+```
+jet
+Atlantic
+surveillance
+audacious
+the Pentagon
+compliment
+aviator
+raptor
+```
+
+---
+Date: 2023.02.07
+```
+blueprint
+presidency
+strike
+negotiate
+compromiser
+crusader
+vortex
+meteorologist
+```
+
+---
+Date: 2023.02.08
+```
+rescue
+beneath
+rubble
+wreck
+epicentre
+tectonic
+subsequent
+```
+
+---
+Date: 2023.02.09
+```
+criticism
+debris
+craft
+salvaged
+council
+condemnation
+```
+
+---
+Data: 2023.02.10
+```
+innocent
+exoneration
+preyed
+desperate
+rubble
+devastated
+```
+
+---
+Data: 2023.02.11
+```
+willingness
+comfort
+fears
+pleasure
+fantasy
+```
+
+
+---
+Date: 20223.02.13
+```
+broaden
+yielding
+incursion
+deliberate
+pilot
+```
+
+---
+Date: 20223.02.13
+```
+disclosed
+incident
+scrambled
+notion
+anonymity
+```
+
+---
+Date: 2023.02.14
+```
+conscious
+commitment
+quantum
+biased
+classification
+categorization
+```
+
+---
+Date: 2023.02.15
+```
+bathtub
+looming
+struggle
+draconian
+dreaded
+buoy
+```
+
+---
+Date: 2023.02.16
+```
+victim
+self-inflicted
+wound
+apparent
+arrested
+vigilant
+```
+
+---
+Date: 2023.02.17
+```
+brigade
+antitank
+ardent
+conduct
+defy
+staff
+```
+
+---
+Date: 2023.02.18
+```
+bloom
+bough
+lavish
+blossom
+horticulturist
+ballet
+mild
+```
+
+---
+Date: 2023.02.19
+```
+manic
+firewater
+justify
+consent
+loophole
+cancellation
+```
+
+---
+Date: 2023.02.20
+```
+chronic
+stacked
+dishwasher
+misfortune
+strike
+```
+
+---
+Date: 2023.02.21
+```
+portray
+czar
+strife
+elite
+desperately
+loyalty
+```
+
+---
+Date: 2023.02.22
+```
+zeal
+swaddle
+allegation
+atrocity
+grip
+```
+
+---
+Date: 2023.02.23
+```
+fragile
+ornament
+grieve
+bubble
+court
+```
+
+---
+Date: 2023.02.24
+```
+circumstance
+lawsuit
+liable
+promote
+culpability
+spotted
+```
+
+---
+Date: 2023.02.25
+```
+upon
+back
+grand talk
+evangelist
+tech advocate
+plausible
+```
+
+---
+Date: 2023.02.26
+```
+defiant
+war-torn
+rally
+ally
+territorial
+border
+involvement
+be poised to
+```
+
+---
+Date: 2023.02.27
+```
+overheated
+derailment
+bear
+preliminary
+standstill
+eastbound
+```
+
+---
+Date: 2023.02.28
+```
+meadow
+overran
+foothill
+wallop
+jobless
+squeeze
+```
