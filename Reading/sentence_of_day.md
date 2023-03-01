@@ -2282,3 +2282,10 @@ Date: 2023.02.28
 Many eyes go through the meadow, but few see the flowers.
 很多人眺望草地，但少数人看到花朵。
 ```
+
+---
+Date: 2023.03.01
+```
+We think caged birds sing, when indeed they cry.
+我们以为笼中的小鸟在唱歌，他们其实在哭泣。
+```
