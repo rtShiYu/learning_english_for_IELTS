@@ -3992,3 +3992,14 @@ hog
 twofold
 impetus
 ```
+
+---
+Date: 2023.03.02
+```
+pat
+sue
+plaintiff
+nominate
+prominent
+avert
+```
