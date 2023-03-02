@@ -2289,3 +2289,10 @@ Date: 2023.03.01
 We think caged birds sing, when indeed they cry.
 我们以为笼中的小鸟在唱歌，他们其实在哭泣。
 ```
+
+---
+Date: 2023.03.02
+```
+Our ideas must be as broad as Nature if they are to interpret Nature.
+要想解读大自然，他的思想领域就必须和大自然一样宽阔。
+```
