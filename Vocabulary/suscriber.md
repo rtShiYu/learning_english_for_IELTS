@@ -4003,3 +4003,13 @@ nominate
 prominent
 avert
 ```
+
+---
+Date: 2023.03.03
+```
+broad
+indemnity
+attorney
+franchise
+indemnification
+```
