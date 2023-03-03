@@ -2296,3 +2296,10 @@ Date: 2023.03.02
 Our ideas must be as broad as Nature if they are to interpret Nature.
 要想解读大自然，他的思想领域就必须和大自然一样宽阔。
 ```
+
+---
+Date: 2023.03.03
+```
+The whole point of getting things done is knowing what to leave undone.
+做成事情的原则，是知道什么事情不要去做。
+```
