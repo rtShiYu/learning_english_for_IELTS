@@ -2303,3 +2303,10 @@ Date: 2023.03.03
 The whole point of getting things done is knowing what to leave undone.
 做成事情的原则，是知道什么事情不要去做。
 ```
+
+---
+Date: 2023.03.04
+```
+There is no disgrace in honest failure; there is disgrace in fearing to fail.
+坦率的失败并不丢脸，害怕失败才会丢脸。
+```
