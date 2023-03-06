@@ -4023,3 +4023,14 @@ mortgage
 bellwether
 amid
 ```
+
+---
+Date: 2023.03.05
+```
+straightforward
+jack up
+surpass
+sideline
+trim
+rebound
+```
