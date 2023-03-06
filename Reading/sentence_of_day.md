@@ -2318,3 +2318,9 @@ The greater the ignorance, the greater the dogmatism.
 -个人愈忽视周遭，他就愈自以为是。
 ```
 
+---
+Date: 2023.03.06
+```
+The power of imagination makes us infinite.
+想象力让我们突破极限。
+```
