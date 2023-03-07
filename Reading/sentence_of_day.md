@@ -2324,3 +2324,10 @@ Date: 2023.03.06
 The power of imagination makes us infinite.
 想象力让我们突破极限。
 ```
+
+---
+Date: 2023.03.07
+```
+Good judgment comes from experience, and a lot of that comes from bad judgment.
+明智的判断来自经验，而经验往往积累错误的判断。
+```

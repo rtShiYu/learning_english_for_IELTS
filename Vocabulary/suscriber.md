@@ -4044,3 +4044,13 @@ stoke
 constrain
 hawkish
 ```
+
+---
+Date: 2023.03.07
+```
+prosecutor
+overturn
+alleged
+fraud
+jury
+```
