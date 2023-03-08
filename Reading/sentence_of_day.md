@@ -2331,3 +2331,10 @@ Date: 2023.03.07
 Good judgment comes from experience, and a lot of that comes from bad judgment.
 明智的判断来自经验，而经验往往积累错误的判断。
 ```
+
+---
+Date: 2023.03.08
+```
+Before finding the right person, the only thing you need to do is to make yourself good enough.
+在找到合适的人之前,你唯一需要做的,就是让自己足够优秀.
+```
