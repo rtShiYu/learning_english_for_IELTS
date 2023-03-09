@@ -2338,3 +2338,10 @@ Date: 2023.03.08
 Before finding the right person, the only thing you need to do is to make yourself good enough.
 在找到合适的人之前,你唯一需要做的,就是让自己足够优秀.
 ```
+
+---
+Date: 2023-03-09
+```
+The opinion which other people have of you is their problem, not yours.
+别人如何看待你是他们的问题，而不是你的。
+```
