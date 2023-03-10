@@ -4066,11 +4066,22 @@ wrest
 ```
 
 ---
-Date: 2023.03-09
+Date: 2023.03.09
 ```
 polyglot
 evasion
 intended
 datagram
 guarantee
+```
+
+---
+Date: 2023.03.10
+```
+overhaul
+sentence
+comprehensive
+historic
+autonomy
+statehood
 ```
