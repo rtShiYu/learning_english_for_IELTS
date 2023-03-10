@@ -2345,3 +2345,10 @@ Date: 2023-03-09
 The opinion which other people have of you is their problem, not yours.
 别人如何看待你是他们的问题，而不是你的。
 ```
+
+---
+Date: 2023.03.10
+```
+The secret of change is to focus all of your energy not on fighting the old, but on building the new.
+改变的秘密，是把所有的精力放在建造新的东西上，而非与过去抗衡。
+```
