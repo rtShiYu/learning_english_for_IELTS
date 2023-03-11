@@ -2352,3 +2352,10 @@ Date: 2023.03.10
 The secret of change is to focus all of your energy not on fighting the old, but on building the new.
 改变的秘密，是把所有的精力放在建造新的东西上，而非与过去抗衡。
 ```
+
+---
+Date: 2023.03.11
+```
+I try to make the light in others' eyes my sun, the music in others' ears my symphony, the smile on others' lips my happiness.
+我试着让别人眼中的光成为我的太阳，让别人耳边的音乐成为我的交响乐，让别人的微笑成为我的幸福。
+```
