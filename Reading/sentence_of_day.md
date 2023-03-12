@@ -2359,3 +2359,10 @@ Date: 2023.03.11
 I try to make the light in others' eyes my sun, the music in others' ears my symphony, the smile on others' lips my happiness.
 我试着让别人眼中的光成为我的太阳，让别人耳边的音乐成为我的交响乐，让别人的微笑成为我的幸福。
 ```
+
+---
+Date: 2023-03-12
+```
+Look deep into nature, and then you will understand everthing better.
+深入了解自然，方可更好的理解万事。
+```
