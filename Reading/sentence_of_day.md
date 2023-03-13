@@ -2361,8 +2361,15 @@ I try to make the light in others' eyes my sun, the music in others' ears my sym
 ```
 
 ---
-Date: 2023-03-12
+Date: 2023.03.12
 ```
 Look deep into nature, and then you will understand everthing better.
 深入了解自然，方可更好的理解万事。
+```
+
+---
+Date: 2023.03.13
+```
+People choose to read, and it takes effort. It's not one of those hobbies that asks nothing of the person who is doing it. It's more than a hobby.
+人们选择阅读, 这需要付出努力. 阅读不是对正在做这件事的人们一项毫无要求的爱好, 这不仅仅是一项爱好.
 ```
