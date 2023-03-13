@@ -4106,3 +4106,18 @@ vex, vexing
 backer
 torment
 ```
+
+---
+Date: 2023.03.13
+```
+vault
+disengage
+refocus
+derail
+averse
+genre
+dotcom
+premature
+suburb
+remedy
+```
