@@ -2373,3 +2373,10 @@ Date: 2023.03.13
 People choose to read, and it takes effort. It's not one of those hobbies that asks nothing of the person who is doing it. It's more than a hobby.
 人们选择阅读, 这需要付出努力. 阅读不是对正在做这件事的人们一项毫无要求的爱好, 这不仅仅是一项爱好.
 ```
+
+---
+Date: 2023.03.14
+```
+I now deserve love, romance, and joy - and all the good that life has to offer me.
+我现在值得得到爱, 浪漫和快乐, 以及生活中所有的美好.
+```
