@@ -2380,3 +2380,10 @@ Date: 2023.03.14
 I now deserve love, romance, and joy - and all the good that life has to offer me.
 我现在值得得到爱, 浪漫和快乐, 以及生活中所有的美好.
 ```
+
+---
+Date: 2023.03.15
+```
+I'm not going to limit myself just because people won't accept the fact that I can do something else.
+我不会因为人们不接受我可以做其它事而限制自己.
+```
