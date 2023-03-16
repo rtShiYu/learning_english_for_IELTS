@@ -2387,3 +2387,10 @@ Date: 2023.03.15
 I'm not going to limit myself just because people won't accept the fact that I can do something else.
 我不会因为人们不接受我可以做其它事而限制自己.
 ```
+
+---
+Date: 2023.03.16
+```
+Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.
+永远不要因为梦想需要太长时间才能实现而放弃. 时间总会逝去.
+```
