@@ -2394,3 +2394,10 @@ Date: 2023.03.16
 Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.
 永远不要因为梦想需要太长时间才能实现而放弃. 时间总会逝去.
 ```
+
+---
+Date: 2023.03.17
+```
+Life is like a fable. Its value lies not in its length, but in its content.
+生命如同寓言, 其价值在于长短, 而在于内容.
+```
