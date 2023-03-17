@@ -4152,3 +4152,13 @@ payroll
 diminish
 chronic
 ```
+
+---
+Date: 2023.03.17
+```
+taxable
+scheme
+deduct
+burden
+defiantly
+```
