@@ -4162,3 +4162,14 @@ deduct
 burden
 defiantly
 ```
+
+---
+Date: 2023.03.18
+```
+jumbo
+shortage
+shrunk
+surveillance
+legally
+bishop
+```
