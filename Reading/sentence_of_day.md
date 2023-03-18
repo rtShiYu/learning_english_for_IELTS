@@ -2401,3 +2401,10 @@ Date: 2023.03.17
 Life is like a fable. Its value lies not in its length, but in its content.
 生命如同寓言, 其价值在于长短, 而在于内容.
 ```
+
+---
+Date: 2023.3.18
+```
+Figure out what you're good at and start helping other people with it. Give it away. On a long enough timescale, you will attract what you project.
+找到你所擅长的并开始以此来帮助他人, 将其散播不去. 长此以后, 你就会得到你想要的结果.
+```
