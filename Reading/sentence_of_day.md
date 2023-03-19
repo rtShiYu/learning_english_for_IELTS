@@ -2408,3 +2408,10 @@ Date: 2023.3.18
 Figure out what you're good at and start helping other people with it. Give it away. On a long enough timescale, you will attract what you project.
 找到你所擅长的并开始以此来帮助他人, 将其散播不去. 长此以后, 你就会得到你想要的结果.
 ```
+
+---
+Date: 2023.03.19
+```
+We spend our time envying people whom we wouldn't wish to be.
+我们花时间羡慕着那些自己并不想成为的人.
+```
