@@ -2415,3 +2415,10 @@ Date: 2023.03.19
 We spend our time envying people whom we wouldn't wish to be.
 我们花时间羡慕着那些自己并不想成为的人.
 ```
+
+---
+Date: 2023.03.20
+```
+Confidence has nothing to do with what you look like. If you obsess over that, you'll end up being disappointed in yourself all the time.
+自信和外表无关, 如果你沉溺于此, 便会一直对自己失望.
+```
