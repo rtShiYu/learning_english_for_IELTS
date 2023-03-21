@@ -2422,3 +2422,10 @@ Date: 2023.03.20
 Confidence has nothing to do with what you look like. If you obsess over that, you'll end up being disappointed in yourself all the time.
 自信和外表无关, 如果你沉溺于此, 便会一直对自己失望.
 ```
+
+---
+Date: 2023.03.21
+```
+It is one of my sources of happiness never to desire a knowledge of other people's business.
+我的快乐源泉之一是从不去管别人的闲事.
+```
