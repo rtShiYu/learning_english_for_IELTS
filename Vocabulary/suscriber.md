@@ -4194,3 +4194,14 @@ fuselage
 narrowbody
 burden
 ```
+
+---
+Date: 2023.03.21
+```
+mental
+significant
+honor
+ambulance
+cyberattack
+outpatient
+```
