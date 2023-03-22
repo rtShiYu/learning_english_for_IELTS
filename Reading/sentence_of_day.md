@@ -2429,3 +2429,10 @@ Date: 2023.03.21
 It is one of my sources of happiness never to desire a knowledge of other people's business.
 我的快乐源泉之一是从不去管别人的闲事.
 ```
+
+---
+Date: 2023.03.22
+```
+An idealist is a person who helps other people to be prosperous.
+理想主义者是那些帮助他人获得他人获得成就的人.
+```
