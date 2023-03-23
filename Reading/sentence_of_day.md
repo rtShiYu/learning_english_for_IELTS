@@ -2436,3 +2436,10 @@ Date: 2023.03.22
 An idealist is a person who helps other people to be prosperous.
 理想主义者是那些帮助他人获得他人获得成就的人.
 ```
+
+---
+Date: 2023.03.23
+```
+Great minds discuss ideas. Average minds discuss events. Small minds discuss people.
+大智论道, 中智论事, 小智论人.
+```
