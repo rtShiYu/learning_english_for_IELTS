@@ -2443,3 +2443,10 @@ Date: 2023.03.23
 Great minds discuss ideas. Average minds discuss events. Small minds discuss people.
 大智论道, 中智论事, 小智论人.
 ```
+
+---
+Date: 2023.03.24
+```
+I am not what happened to me, I am what I choose to become.
+成全我的不是生活, 而是我自己的选择.
+```
