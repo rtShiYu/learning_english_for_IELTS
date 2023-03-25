@@ -2450,3 +2450,10 @@ Date: 2023.03.24
 I am not what happened to me, I am what I choose to become.
 成全我的不是生活, 而是我自己的选择.
 ```
+
+---
+Date: 2023.03.25
+```
+The real danger is that if we hear enough lies, then we no longer recognize the truth at all.
+真正的危险是, 我们听多了谎言, 便不能分辨出真相.
+```
