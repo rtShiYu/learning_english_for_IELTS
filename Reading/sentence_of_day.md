@@ -2471,3 +2471,10 @@ Date: 2023.03.27
 If you want to live a happy life, tie it to a goal, not to people or things.
 如果你想拥有幸福的生活, 指定一个目标, 而不要把希望寄托在别的人或事上.
 ```
+
+---
+Date: 2023.03.28
+```
+A year from now you may wish you had started today.
+明年今日, 你会希望此时此刻自己已经开始行动.
+```
