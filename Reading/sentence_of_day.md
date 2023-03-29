@@ -2478,3 +2478,10 @@ Date: 2023.03.28
 A year from now you may wish you had started today.
 明年今日, 你会希望此时此刻自己已经开始行动.
 ```
+
+---
+Date: 2023.03.29
+```
+The master has failed more times than the beginner has even tried.
+大师失败的次数比初学者尝试的次数还要多.
+```
