@@ -4277,3 +4277,14 @@ caffeine
 clinical
 pitfall
 ```
+
+---
+Date: 2023.03.29
+```
+tense
+grill
+play down
+upscale
+renovate
+expel
+```
