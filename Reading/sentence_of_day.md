@@ -2485,3 +2485,11 @@ Date: 2023.03.29
 The master has failed more times than the beginner has even tried.
 大师失败的次数比初学者尝试的次数还要多.
 ```
+
+
+---
+Date: 2023.03.30
+```
+The cure for boredom is curiosity. There is no cure for curiosity.
+无聊的解药是好奇心, 而好奇心没有解药.
+```
