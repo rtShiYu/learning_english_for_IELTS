@@ -2493,3 +2493,10 @@ Date: 2023.03.30
 The cure for boredom is curiosity. There is no cure for curiosity.
 无聊的解药是好奇心, 而好奇心没有解药.
 ```
+
+---
+Date: 2023.03.31
+```
+Never make fun of someone who speaks broken English. It means they know another language.
+不要取笑那些英语口语蹩脚的人, 这意味着他们懂得另外一种语言.
+```
