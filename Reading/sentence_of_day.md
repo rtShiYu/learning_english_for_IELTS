@@ -2500,3 +2500,10 @@ Date: 2023.03.31
 Never make fun of someone who speaks broken English. It means they know another language.
 不要取笑那些英语口语蹩脚的人, 这意味着他们懂得另外一种语言.
 ```
+
+---
+Date: 2023.04.01
+```
+Humor can be like a coat of armor when reality takes a stab at you.
+当现实矛你一击, 幽默就是你的盔甲.
+```
