@@ -4310,3 +4310,13 @@ significant
 eliminate
 fraction
 ```
+
+---
+Date: 2023.04.01
+```
+armor
+stab
+slash
+curtail
+oversight
+```
