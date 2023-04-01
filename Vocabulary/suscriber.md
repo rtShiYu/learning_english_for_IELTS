@@ -3981,3 +3981,332 @@ wallop
 jobless
 squeeze
 ```
+
+---
+Date: 2023.03.01
+```
+cage, caged
+balloon
+deprivation
+hog
+twofold
+impetus
+```
+
+---
+Date: 2023.03.02
+```
+pat
+sue
+plaintiff
+nominate
+prominent
+avert
+```
+
+---
+Date: 2023.03.03
+```
+broad
+indemnity
+attorney
+franchise
+indemnification
+```
+
+---
+Date: 2023.03.04
+```
+property
+reside
+mortgage
+bellwether
+amid
+```
+
+---
+Date: 2023.03.05
+```
+straightforward
+jack up
+surpass
+sideline
+trim
+rebound
+```
+
+---
+Date: 2023.03.06
+```
+prompt
+frenzy
+stoke
+constrain
+hawkish
+```
+
+---
+Date: 2023.03.07
+```
+prosecutor
+overturn
+alleged
+fraud
+jury
+```
+
+---
+Date: 2023.03.08
+```
+interweave
+insist
+claw
+initiative
+wrest
+```
+
+---
+Date: 2023.03.09
+```
+polyglot
+evasion
+intended
+datagram
+guarantee
+```
+
+---
+Date: 2023.03.10
+```
+overhaul
+sentence
+comprehensive
+historic
+autonomy
+statehood
+```
+
+---
+Date: 2023.03.11
+```
+alleviate
+remainder
+liquidate
+libility
+pertinent
+```
+
+---
+Date: 2023.03.12
+```
+waterlogged
+nickname
+ritual
+vex, vexing
+backer
+torment
+```
+
+---
+Date: 2023.03.13
+```
+vault
+disengage
+refocus
+derail
+averse
+genre
+dotcom
+premature
+suburb
+remedy
+```
+
+---
+Date: 2023.03.14
+```
+bomb
+paradox
+siren
+pedal
+divert
+```
+
+---
+Date: 2023.03.15
+```
+antigen
+receptor
+profoundly
+renown
+liquidity
+demise
+```
+
+---
+Date: 2023.03.16
+```
+comparable
+fiscal
+payroll
+diminish
+chronic
+```
+
+---
+Date: 2023.03.17
+```
+taxable
+scheme
+deduct
+burden
+defiantly
+```
+
+---
+Date: 2023.03.18
+```
+jumbo
+shortage
+shrunk
+surveillance
+legally
+bishop
+```
+
+---
+Date: 2023.03.19
+```
+tasty
+coronation
+commission
+nursery
+stitch
+```
+
+---
+Date: 2023.03.20
+```
+passenger
+commercial
+templating
+fuselage
+narrowbody
+burden
+```
+
+---
+Date: 2023.03.21
+```
+mental
+significant
+honor
+ambulance
+cyberattack
+outpatient
+```
+
+---
+Date: 2023.03.22
+```
+factor
+crafty
+impenetrable
+separate
+intricate
+```
+
+---
+Date: 2023.03.23
+```
+political
+mutual
+mortgage
+campaign
+reflect
+```
+
+---
+Date: 2023.03.24
+```
+fatal
+encounter
+fingerprint
+permaneently
+jug
+```
+
+---
+Date: 2023.03.25
+```
+ubiquitous
+supernova
+galaxy
+aptly
+eclipse
+```
+
+---
+Date: 2023.03.26
+```
+sober
+drunken
+principal
+protection
+legislature
+```
+
+---
+Date: 2023.03.27
+```
+multitask
+tangled
+hottest
+veteran
+recklessly
+collision
+```
+
+---
+Date: 2023.03.28
+```
+dominated
+proper
+adrenaline
+caffeine
+clinical
+pitfall
+```
+
+---
+Date: 2023.03.29
+```
+tense
+grill
+play down
+upscale
+renovate
+expel
+```
+
+---
+Date: 2023.03.30
+```
+cure
+curiosity
+assault
+rifle
+split
+separate
+```
+
+---
+Date: 2023.03.31
+```
+reveal
+ethical
+institutionalise
+significant
+eliminate
+fraction
+```

@@ -2282,3 +2282,221 @@ Date: 2023.02.28
 Many eyes go through the meadow, but few see the flowers.
 很多人眺望草地，但少数人看到花朵。
 ```
+
+---
+Date: 2023.03.01
+```
+We think caged birds sing, when indeed they cry.
+我们以为笼中的小鸟在唱歌，他们其实在哭泣。
+```
+
+---
+Date: 2023.03.02
+```
+Our ideas must be as broad as Nature if they are to interpret Nature.
+要想解读大自然，他的思想领域就必须和大自然一样宽阔。
+```
+
+---
+Date: 2023.03.03
+```
+The whole point of getting things done is knowing what to leave undone.
+做成事情的原则，是知道什么事情不要去做。
+```
+
+---
+Date: 2023.03.04
+```
+There is no disgrace in honest failure; there is disgrace in fearing to fail.
+坦率的失败并不丢脸，害怕失败才会丢脸。
+```
+
+---
+Date: 2023.03.05
+```
+The greater the ignorance, the greater the dogmatism.
+-个人愈忽视周遭，他就愈自以为是。
+```
+
+---
+Date: 2023.03.06
+```
+The power of imagination makes us infinite.
+想象力让我们突破极限。
+```
+
+---
+Date: 2023.03.07
+```
+Good judgment comes from experience, and a lot of that comes from bad judgment.
+明智的判断来自经验，而经验往往积累错误的判断。
+```
+
+---
+Date: 2023.03.08
+```
+Before finding the right person, the only thing you need to do is to make yourself good enough.
+在找到合适的人之前,你唯一需要做的,就是让自己足够优秀.
+```
+
+---
+Date: 2023-03-09
+```
+The opinion which other people have of you is their problem, not yours.
+别人如何看待你是他们的问题，而不是你的。
+```
+
+---
+Date: 2023.03.10
+```
+The secret of change is to focus all of your energy not on fighting the old, but on building the new.
+改变的秘密，是把所有的精力放在建造新的东西上，而非与过去抗衡。
+```
+
+---
+Date: 2023.03.11
+```
+I try to make the light in others' eyes my sun, the music in others' ears my symphony, the smile on others' lips my happiness.
+我试着让别人眼中的光成为我的太阳，让别人耳边的音乐成为我的交响乐，让别人的微笑成为我的幸福。
+```
+
+---
+Date: 2023.03.12
+```
+Look deep into nature, and then you will understand everthing better.
+深入了解自然，方可更好的理解万事。
+```
+
+---
+Date: 2023.03.13
+```
+People choose to read, and it takes effort. It's not one of those hobbies that asks nothing of the person who is doing it. It's more than a hobby.
+人们选择阅读, 这需要付出努力. 阅读不是对正在做这件事的人们一项毫无要求的爱好, 这不仅仅是一项爱好.
+```
+
+---
+Date: 2023.03.14
+```
+I now deserve love, romance, and joy - and all the good that life has to offer me.
+我现在值得得到爱, 浪漫和快乐, 以及生活中所有的美好.
+```
+
+---
+Date: 2023.03.15
+```
+I'm not going to limit myself just because people won't accept the fact that I can do something else.
+我不会因为人们不接受我可以做其它事而限制自己.
+```
+
+---
+Date: 2023.03.16
+```
+Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.
+永远不要因为梦想需要太长时间才能实现而放弃. 时间总会逝去.
+```
+
+---
+Date: 2023.03.17
+```
+Life is like a fable. Its value lies not in its length, but in its content.
+生命如同寓言, 其价值在于长短, 而在于内容.
+```
+
+---
+Date: 2023.3.18
+```
+Figure out what you're good at and start helping other people with it. Give it away. On a long enough timescale, you will attract what you project.
+找到你所擅长的并开始以此来帮助他人, 将其散播不去. 长此以后, 你就会得到你想要的结果.
+```
+
+---
+Date: 2023.03.19
+```
+We spend our time envying people whom we wouldn't wish to be.
+我们花时间羡慕着那些自己并不想成为的人.
+```
+
+---
+Date: 2023.03.20
+```
+Confidence has nothing to do with what you look like. If you obsess over that, you'll end up being disappointed in yourself all the time.
+自信和外表无关, 如果你沉溺于此, 便会一直对自己失望.
+```
+
+---
+Date: 2023.03.21
+```
+It is one of my sources of happiness never to desire a knowledge of other people's business.
+我的快乐源泉之一是从不去管别人的闲事.
+```
+
+---
+Date: 2023.03.22
+```
+An idealist is a person who helps other people to be prosperous.
+理想主义者是那些帮助他人获得他人获得成就的人.
+```
+
+---
+Date: 2023.03.23
+```
+Great minds discuss ideas. Average minds discuss events. Small minds discuss people.
+大智论道, 中智论事, 小智论人.
+```
+
+---
+Date: 2023.03.24
+```
+I am not what happened to me, I am what I choose to become.
+成全我的不是生活, 而是我自己的选择.
+```
+
+---
+Date: 2023.03.25
+```
+The real danger is that if we hear enough lies, then we no longer recognize the truth at all.
+真正的危险是, 我们听多了谎言, 便不能分辨出真相.
+```
+
+---
+Date: 2023.03.26
+```
+Hard work beats talent when talent doesn't work hard.
+有天赋不努力, 天赋也会被困难打败.
+```
+
+---
+Date: 2023.03.27
+```
+If you want to live a happy life, tie it to a goal, not to people or things.
+如果你想拥有幸福的生活, 指定一个目标, 而不要把希望寄托在别的人或事上.
+```
+
+---
+Date: 2023.03.28
+```
+A year from now you may wish you had started today.
+明年今日, 你会希望此时此刻自己已经开始行动.
+```
+
+---
+Date: 2023.03.29
+```
+The master has failed more times than the beginner has even tried.
+大师失败的次数比初学者尝试的次数还要多.
+```
+
+
+---
+Date: 2023.03.30
+```
+The cure for boredom is curiosity. There is no cure for curiosity.
+无聊的解药是好奇心, 而好奇心没有解药.
+```
+
+---
+Date: 2023.03.31
+```
+Never make fun of someone who speaks broken English. It means they know another language.
+不要取笑那些英语口语蹩脚的人, 这意味着他们懂得另外一种语言.
+```
