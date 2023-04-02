@@ -2507,3 +2507,10 @@ Date: 2023.04.01
 Humor can be like a coat of armor when reality takes a stab at you.
 当现实矛你一击, 幽默就是你的盔甲.
 ```
+
+---
+Date: 2023.04.02
+```
+I like criticism. It makes you strong.
+我喜欢别人的批评, 他使你强壮.
+```
