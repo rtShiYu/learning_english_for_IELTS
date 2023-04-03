@@ -2514,3 +2514,10 @@ Date: 2023.04.02
 I like criticism. It makes you strong.
 我喜欢别人的批评, 他使你强壮.
 ```
+
+---
+Date: 2023.04.03
+```
+Part of life is learning to let thing go.
+学会放手也是人生的一部分.
+```
