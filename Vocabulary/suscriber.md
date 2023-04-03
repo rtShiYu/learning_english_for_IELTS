@@ -4331,3 +4331,14 @@ flat tire
 babysit
 huddle
 ```
+
+---
+Date: 2023.04.03
+```
+rookie cop
+charismatic
+homicide
+abortion
+desperate
+drive-in car hop
+```
