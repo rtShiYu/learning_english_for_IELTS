@@ -2521,3 +2521,10 @@ Date: 2023.04.03
 Part of life is learning to let thing go.
 学会放手也是人生的一部分.
 ```
+
+---
+Date: 2023.04.04
+```
+The reading of all good books is like a conversation with the finest minds of past centuries.
+读好书, 如同与先哲们交谈.
+```
