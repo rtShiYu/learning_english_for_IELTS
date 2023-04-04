@@ -4342,3 +4342,14 @@ abortion
 desperate
 drive-in car hop
 ```
+
+---
+Date: 2023.04.04
+```
+century
+indictment
+nominee
+twister
+attoney
+disposal
+```
