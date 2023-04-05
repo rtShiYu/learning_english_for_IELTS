@@ -2528,3 +2528,10 @@ Date: 2023.04.04
 The reading of all good books is like a conversation with the finest minds of past centuries.
 读好书, 如同与先哲们交谈.
 ```
+
+---
+Date: 2023.04.05
+```
+Let life be beautiful like summer flowers and death like autumn leaves.
+生如夏花之绚烂, 死如秋叶之静美.
+```
