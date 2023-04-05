@@ -4353,3 +4353,15 @@ twister
 attoney
 disposal
 ```
+
+---
+Date: 2023.04.04
+```
+indict
+arraign
+hush money
+campaign
+recruitment
+decree
+degree
+```
