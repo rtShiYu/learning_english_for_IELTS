@@ -2535,3 +2535,10 @@ Date: 2023.04.05
 Let life be beautiful like summer flowers and death like autumn leaves.
 生如夏花之绚烂, 死如秋叶之静美.
 ```
+
+---
+Date: 2023.04.06
+```
+If you have the ability to love, love yourself first.
+如有你有爱的能力, 请先好好爱自己.
+```

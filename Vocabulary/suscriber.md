@@ -4365,3 +4365,13 @@ recruitment
 decree
 degree
 ```
+
+---
+Date: 2023.04.06
+```
+felony
+allege
+integrity
+plead
+tumultuous
+```
