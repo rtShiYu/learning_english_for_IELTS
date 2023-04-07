@@ -4375,3 +4375,16 @@ integrity
 plead
 tumultuous
 ```
+
+---
+Date: 2023.04.07
+```
+accountable
+forecast
+thorny
+coverup
+prosecutor
+defiant
+drought
+overwhelm
+```
