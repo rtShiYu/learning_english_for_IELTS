@@ -2562,3 +2562,10 @@ Date: 2023.04.09
 The future belongs to those who belive in the beauty of their dreams.
 未来属于哪些相信梦想之美的人.
 ```
+
+---
+Date: 2023.04.10
+```
+Once we accept our limits, we go beyond them.
+一旦我们接受了自己的局限性, 我们就超越它了.
+```
