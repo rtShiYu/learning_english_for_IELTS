@@ -4420,3 +4420,13 @@ relocate
 formulas
 midpoint
 ```
+
+---
+Date: 2023.04.11
+```
+incorporate
+constraint
+tangent
+polygon
+circumscribe
+```
