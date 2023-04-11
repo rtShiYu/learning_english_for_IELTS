@@ -2569,3 +2569,10 @@ Date: 2023.04.10
 Once we accept our limits, we go beyond them.
 一旦我们接受了自己的局限性, 我们就超越它了.
 ```
+
+---
+Date: 2023.04.11
+```
+Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
+乐观是实现成就的信念. 没有希望和信心, 什么都做不成.
+```
