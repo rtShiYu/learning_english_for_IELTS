@@ -2576,3 +2576,10 @@ Date: 2023.04.11
 Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
 乐观是实现成就的信念. 没有希望和信心, 什么都做不成.
 ```
+
+---
+Date: 2023.04.12
+```
+The best way to predict the future is to create it.
+预测未来最好的方式就是去创造它.
+```
