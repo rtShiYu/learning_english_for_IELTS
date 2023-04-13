@@ -2583,3 +2583,10 @@ Date: 2023.04.12
 The best way to predict the future is to create it.
 预测未来最好的方式就是去创造它.
 ```
+
+---
+Date: 2023.04.13
+```
+Success is not final, failure is not fatal: it is the courage to continue that counts.
+成功不是终点, 失败也不是致命; 继续前行的勇气才是最重要的.
+```
