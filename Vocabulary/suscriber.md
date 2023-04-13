@@ -4440,3 +4440,14 @@ propaganda
 imperial
 aggression
 ```
+
+---
+Date: 2023.04.13
+```
+prophet
+sociologist
+devout
+heirloom
+lethal
+supervision
+```
