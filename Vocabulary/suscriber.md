@@ -4451,3 +4451,14 @@ heirloom
 lethal
 supervision
 ```
+
+---
+Date: 2023.04.14
+```
+ensnare
+creepy
+shiny
+fetish, fetishists, fetishize
+blatant
+vocal
+```
