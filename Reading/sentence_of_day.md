@@ -2597,3 +2597,10 @@ Date: 2023.04.14
 I am no bird; and no net ensnares me: I am a free human being with an independent will.
 我不是鸟儿, 也没有任何网能困住我. 我是一个拥有独立意志的自由人.
 ```
+
+---
+Date: 2023.04.15
+```
+I know for usre that what we dwell on is who we become.
+我确信我们思考的东西会塑造我们的人生.
+```
