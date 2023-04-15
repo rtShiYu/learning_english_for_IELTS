@@ -4462,3 +4462,13 @@ fetish, fetishists, fetishize
 blatant
 vocal
 ```
+
+---
+Date: 2023.04.15
+```
+dwell
+reproduction
+pregnancy
+berbal
+sexism
+```
