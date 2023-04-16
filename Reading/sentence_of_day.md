@@ -2604,3 +2604,10 @@ Date: 2023.04.15
 I know for usre that what we dwell on is who we become.
 我确信我们思考的东西会塑造我们的人生.
 ```
+
+---
+Date: 2023.04.16
+```
+In the middle of every difficulty lies opportunity.
+每个困难中都隐藏着机会.
+```
