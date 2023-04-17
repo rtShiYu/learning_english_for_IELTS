@@ -2611,3 +2611,10 @@ Date: 2023.04.16
 In the middle of every difficulty lies opportunity.
 每个困难中都隐藏着机会.
 ```
+
+---
+Date: 2023.04.17
+```
+In three words I can sum up everything I've learned about life: it goes on.
+我对生活的感悟可总结为三个字: 会过去.
+```
