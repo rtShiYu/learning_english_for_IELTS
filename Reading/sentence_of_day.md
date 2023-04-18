@@ -2618,3 +2618,10 @@ Date: 2023.04.17
 In three words I can sum up everything I've learned about life: it goes on.
 我对生活的感悟可总结为三个字: 会过去.
 ```
+
+---
+Date: 2023.04.18
+```
+Not everything that is faced can be changed, but nothing can be changed until it is faced.
+有些事情, 并不是你面对了就能改变. 但如果你不肯面对, 那就什么也改变不了.
+```
