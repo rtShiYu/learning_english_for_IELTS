@@ -2625,3 +2625,10 @@ Date: 2023.04.18
 Not everything that is faced can be changed, but nothing can be changed until it is faced.
 有些事情, 并不是你面对了就能改变. 但如果你不肯面对, 那就什么也改变不了.
 ```
+
+---
+Date: 2023.04.19
+```
+You miss 100% of the shots you don't take.
+你不尝试就错过了100%的机会.
+```
