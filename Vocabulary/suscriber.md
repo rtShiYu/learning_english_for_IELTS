@@ -4507,3 +4507,13 @@ bun
 steamed
 flour
 ```
+
+---
+Date: 2023.04.19
+```
+activist
+enclosure
+treason
+sanction
+harsh
+```
