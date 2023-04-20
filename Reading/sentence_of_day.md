@@ -2632,3 +2632,10 @@ Date: 2023.04.19
 You miss 100% of the shots you don't take.
 你不尝试就错过了100%的机会.
 ```
+
+---
+Date: 2023.04.20
+```
+I have not failed. I've just found 10000 ways that won't work.
+我并没有失败, 只是找到了一万种行不通的方法.
+```
