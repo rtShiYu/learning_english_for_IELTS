@@ -2639,3 +2639,10 @@ Date: 2023.04.20
 I have not failed. I've just found 10000 ways that won't work.
 我并没有失败, 只是找到了一万种行不通的方法.
 ```
+
+---
+Date: 2023.04.21
+```
+Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.
+相信自己. 你内心深处的某些东西比任何障碍都要强大.
+```

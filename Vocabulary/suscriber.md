@@ -4519,11 +4519,21 @@ harsh
 ```
 
 ---
-Date:
+Date: 2023.04.20
 ```
 soup
 giant
 diabetes
 fragment
 disruption
+```
+
+---
+Date: 2023.04.21
+```
+liftoff
+scuttle
+countdown
+domestic
+trade
 ```
