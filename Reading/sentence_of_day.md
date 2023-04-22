@@ -2646,3 +2646,10 @@ Date: 2023.04.21
 Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.
 相信自己. 你内心深处的某些东西比任何障碍都要强大.
 ```
+
+---
+Date: 2023.04.22
+```
+The only thing necessary for the triumph of evil is for good men to do nothing.
+恶意要取得胜利唯一必须的原因, 就是善良之人无所作为.
+```
