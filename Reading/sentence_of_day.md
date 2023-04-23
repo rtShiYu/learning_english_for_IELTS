@@ -2653,3 +2653,10 @@ Date: 2023.04.22
 The only thing necessary for the triumph of evil is for good men to do nothing.
 恶意要取得胜利唯一必须的原因, 就是善良之人无所作为.
 ```
+
+---
+Date: 2023.04.23
+```
+If we just open the door a crack, the light comes pouring in.
+只要把门打开一丝缝隙，光就会倾泻而入。
+```
