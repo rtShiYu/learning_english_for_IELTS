@@ -4537,3 +4537,32 @@ countdown
 domestic
 trade
 ```
+
+---
+Date: 2023.04.22
+```
+remain
+agent
+inherently
+tireless
+lifetime
+```
+
+---
+Date: 2023.04.23
+```
+protect
+bonus
+recession
+suffer
+rank
+```
+
+Date: 2023.04.24
+```
+sacrifice
+dimension
+advisory
+struggle
+antislavery
+```
