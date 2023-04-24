@@ -2660,3 +2660,10 @@ Date: 2023.04.23
 If we just open the door a crack, the light comes pouring in.
 只要把门打开一丝缝隙，光就会倾泻而入。
 ```
+
+---
+Date: 2023.04.24
+```
+Don't watch the clock; do what it does.Keep going.
+不要盯着时钟看, 跟它一样行动, 继续前行.
+```
