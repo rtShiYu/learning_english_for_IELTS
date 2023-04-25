@@ -2667,3 +2667,10 @@ Date: 2023.04.24
 Don't watch the clock; do what it does.Keep going.
 不要盯着时钟看, 跟它一样行动, 继续前行.
 ```
+
+---
+Date: 2023.04.25
+```
+Life is 10% what happens to you and 90% how you react to it.
+生活中10%是你经历的事, 而剩下的90%是你如何去应对的过程.
+```
