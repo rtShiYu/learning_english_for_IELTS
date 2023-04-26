@@ -2674,3 +2674,10 @@ Date: 2023.04.25
 Life is 10% what happens to you and 90% how you react to it.
 生活中10%是你经历的事, 而剩下的90%是你如何去应对的过程.
 ```
+
+---
+Date: 2023.04.26
+```
+The only way to do great work is to love what you do.
+做出伟大的工作唯一的途径就是热爱你所做的事情.
+```
