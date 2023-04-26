@@ -4566,3 +4566,23 @@ advisory
 struggle
 antislavery
 ```
+
+---
+Date: 2023.04.25
+```
+consequence
+reelection
+bid
+battle
+soul
+```
+
+---
+Date: 2023.04.26
+```
+clinical
+gene
+therapy
+diagnosis
+criticism
+```
