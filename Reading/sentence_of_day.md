@@ -2681,3 +2681,10 @@ Date: 2023.04.26
 The only way to do great work is to love what you do.
 做出伟大的工作唯一的途径就是热爱你所做的事情.
 ```
+
+---
+Date: 2023.04.27
+```
+The greatest glory in living lies not in never failing, but in rising every time we fall.
+生命中最大的荣耀不在于从未跌倒, 而在于每次跌倒都能站起来.
+```
