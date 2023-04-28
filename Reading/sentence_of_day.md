@@ -2688,3 +2688,10 @@ Date: 2023.04.27
 The greatest glory in living lies not in never failing, but in rising every time we fall.
 生命中最大的荣耀不在于从未跌倒, 而在于每次跌倒都能站起来.
 ```
+
+---
+Date: 2023.04.28
+```
+Challenges are what make life interesting and overcoming them is what makes life meaningful.
+挑战使生活趣味盎然, 战胜挑战使生活意义非凡.
+```
