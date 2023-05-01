@@ -2709,3 +2709,10 @@ Date: 2023.04.30
 Actions speak louder than words.
 行胜于言.
 ```
+
+---
+Date: 2023.05.01
+```
+Few words, many deeds.
+少说话, 多做事.
+```
