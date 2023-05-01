@@ -2500,3 +2500,212 @@ Date: 2023.03.31
 Never make fun of someone who speaks broken English. It means they know another language.
 不要取笑那些英语口语蹩脚的人, 这意味着他们懂得另外一种语言.
 ```
+
+---
+Date: 2023.04.01
+```
+Humor can be like a coat of armor when reality takes a stab at you.
+当现实矛你一击, 幽默就是你的盔甲.
+```
+
+---
+Date: 2023.04.02
+```
+I like criticism. It makes you strong.
+我喜欢别人的批评, 他使你强壮.
+```
+
+---
+Date: 2023.04.03
+```
+Part of life is learning to let thing go.
+学会放手也是人生的一部分.
+```
+
+---
+Date: 2023.04.04
+```
+The reading of all good books is like a conversation with the finest minds of past centuries.
+读好书, 如同与先哲们交谈.
+```
+
+---
+Date: 2023.04.05
+```
+Let life be beautiful like summer flowers and death like autumn leaves.
+生如夏花之绚烂, 死如秋叶之静美.
+```
+
+---
+Date: 2023.04.06
+```
+If you have the ability to love, love yourself first.
+如有你有爱的能力, 请先好好爱自己.
+```
+
+---
+Date: 2023.04.07
+```
+The answer must be in the attempt.
+你所追寻的答案一定会在努力探索中展现.
+```
+
+---
+Date: 2023.04.08
+```
+Believe you can and you're halfway there.
+```
+
+---
+Date: 2023.04.09
+```
+The future belongs to those who belive in the beauty of their dreams.
+未来属于哪些相信梦想之美的人.
+```
+
+---
+Date: 2023.04.10
+```
+Once we accept our limits, we go beyond them.
+一旦我们接受了自己的局限性, 我们就超越它了.
+```
+
+---
+Date: 2023.04.11
+```
+Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
+乐观是实现成就的信念. 没有希望和信心, 什么都做不成.
+```
+
+---
+Date: 2023.04.12
+```
+The best way to predict the future is to create it.
+预测未来最好的方式就是去创造它.
+```
+
+---
+Date: 2023.04.13
+```
+Success is not final, failure is not fatal: it is the courage to continue that counts.
+成功不是终点, 失败也不是致命; 继续前行的勇气才是最重要的.
+```
+
+---
+Date: 2023.04.14
+```
+I am no bird; and no net ensnares me: I am a free human being with an independent will.
+我不是鸟儿, 也没有任何网能困住我. 我是一个拥有独立意志的自由人.
+```
+
+---
+Date: 2023.04.15
+```
+I know for usre that what we dwell on is who we become.
+我确信我们思考的东西会塑造我们的人生.
+```
+
+---
+Date: 2023.04.16
+```
+In the middle of every difficulty lies opportunity.
+每个困难中都隐藏着机会.
+```
+
+---
+Date: 2023.04.17
+```
+In three words I can sum up everything I've learned about life: it goes on.
+我对生活的感悟可总结为三个字: 会过去.
+```
+
+---
+Date: 2023.04.18
+```
+Not everything that is faced can be changed, but nothing can be changed until it is faced.
+有些事情, 并不是你面对了就能改变. 但如果你不肯面对, 那就什么也改变不了.
+```
+
+---
+Date: 2023.04.19
+```
+You miss 100% of the shots you don't take.
+你不尝试就错过了100%的机会.
+```
+
+---
+Date: 2023.04.20
+```
+I have not failed. I've just found 10000 ways that won't work.
+我并没有失败, 只是找到了一万种行不通的方法.
+```
+
+---
+Date: 2023.04.21
+```
+Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.
+相信自己. 你内心深处的某些东西比任何障碍都要强大.
+```
+
+---
+Date: 2023.04.22
+```
+The only thing necessary for the triumph of evil is for good men to do nothing.
+恶意要取得胜利唯一必须的原因, 就是善良之人无所作为.
+```
+
+---
+Date: 2023.04.23
+```
+If we just open the door a crack, the light comes pouring in.
+只要把门打开一丝缝隙，光就会倾泻而入。
+```
+
+---
+Date: 2023.04.24
+```
+Don't watch the clock; do what it does.Keep going.
+不要盯着时钟看, 跟它一样行动, 继续前行.
+```
+
+---
+Date: 2023.04.25
+```
+Life is 10% what happens to you and 90% how you react to it.
+生活中10%是你经历的事, 而剩下的90%是你如何去应对的过程.
+```
+
+---
+Date: 2023.04.26
+```
+The only way to do great work is to love what you do.
+做出伟大的工作唯一的途径就是热爱你所做的事情.
+```
+
+---
+Date: 2023.04.27
+```
+The greatest glory in living lies not in never failing, but in rising every time we fall.
+生命中最大的荣耀不在于从未跌倒, 而在于每次跌倒都能站起来.
+```
+
+---
+Date: 2023.04.28
+```
+Challenges are what make life interesting and overcoming them is what makes life meaningful.
+挑战使生活趣味盎然, 战胜挑战使生活意义非凡.
+```
+
+---
+Date: 2023.04.29
+```
+A penny saved is a penny earned.
+省一分几时赚一分.
+```
+
+---
+Date: 2023.04.30
+```
+Actions speak louder than words.
+行胜于言.
+```

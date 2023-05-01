@@ -4310,3 +4310,320 @@ significant
 eliminate
 fraction
 ```
+
+---
+Date: 2023.04.01
+```
+armor
+stab
+slash
+curtail
+oversight
+```
+
+---
+Date: 2023.04.02
+```
+compliment
+nowadays
+wisest
+flat tire
+babysit
+huddle
+```
+
+---
+Date: 2023.04.03
+```
+rookie cop
+charismatic
+homicide
+abortion
+desperate
+drive-in car hop
+```
+
+---
+Date: 2023.04.04
+```
+century
+indictment
+nominee
+twister
+attoney
+disposal
+```
+
+---
+Date: 2023.04.05
+```
+indict
+arraign
+hush money
+campaign
+recruitment
+decree
+degree
+```
+
+---
+Date: 2023.04.06
+```
+felony
+allege
+integrity
+plead
+tumultuous
+```
+
+---
+Date: 2023.04.07
+```
+accountable
+forecast
+thorny
+coverup
+prosecutor
+defiant
+drought
+overwhelm
+```
+
+---
+Date: 2023.04.08
+```
+crunch
+puny
+seemed
+flock to
+stagnate
+disillusionment
+```
+
+---
+Date: 2023.04.09
+```
+sketch
+sensor
+snap
+equation
+precision
+tedium
+```
+
+---
+Date: 2023.04.10
+```
+eyeball
+dimension
+relocate
+formulas
+midpoint
+```
+
+---
+Date: 2023.04.11
+```
+incorporate
+constraint
+tangent
+polygon
+circumscribe
+```
+
+---
+Date: 2023.04.12
+```
+emphasize
+prosperity
+propaganda
+imperial
+aggression
+```
+
+---
+Date: 2023.04.13
+```
+prophet
+sociologist
+devout
+heirloom
+lethal
+supervision
+```
+
+---
+Date: 2023.04.14
+```
+ensnare
+creepy
+shiny
+fetish, fetishists, fetishize
+blatant
+vocal
+```
+
+---
+Date: 2023.04.15
+```
+dwell
+reproduction
+pregnancy
+berbal
+sexism
+```
+
+---
+Date: 2023.04.16
+```
+dust
+stripe
+gloomy
+stunning
+innovative
+resilient
+```
+
+---
+Date: 2023.04.17
+```
+pole
+clockwise
+apart
+dramatic
+cram, crammed
+illustrated
+```
+
+---
+Date: 2023.04.18
+```
+whereas
+empire
+manner
+dignity
+yeast
+bun
+steamed
+flour
+```
+
+---
+Date: 2023.04.19
+```
+activist
+enclosure
+treason
+sanction
+harsh
+```
+
+---
+Date: 2023.04.20
+```
+soup
+giant
+diabetes
+fragment
+disruption
+```
+
+---
+Date: 2023.04.21
+```
+liftoff
+scuttle
+countdown
+domestic
+trade
+```
+
+---
+Date: 2023.04.22
+```
+remain
+agent
+inherently
+tireless
+lifetime
+```
+
+---
+Date: 2023.04.23
+```
+protect
+bonus
+recession
+suffer
+rank
+```
+
+Date: 2023.04.24
+```
+sacrifice
+dimension
+advisory
+struggle
+antislavery
+```
+
+---
+Date: 2023.04.25
+```
+consequence
+reelection
+bid
+battle
+soul
+```
+
+---
+Date: 2023.04.26
+```
+clinical
+gene
+therapy
+diagnosis
+criticism
+```
+
+---
+Date: 2023.04.27
+```
+part away
+defamation
+prime-time
+seperately
+bankruptcy
+```
+
+---
+Date: 2023.04.28
+```
+aspiration
+sustainability
+commitment
+innovative
+reasonable
+```
+
+---
+Date: 2023.04.29
+```
+evade
+greenback
+appetite
+surge
+alternative
+```
+
+---
+Date: 2023.04.30
+```
+boom
+imminent
+demise
+portfolios
+fractious
+geopolitics
+```
