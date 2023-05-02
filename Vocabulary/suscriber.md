@@ -4627,3 +4627,23 @@ portfolios
 fractious
 geopolitics
 ```
+
+---
+Date: 2023.05.01
+```
+strict
+coronation
+pledge
+diversity
+contractor
+```
+
+---
+Date: 2023.05.02
+```
+substantial
+detain
+vow
+guarantee
+scramble
+```
