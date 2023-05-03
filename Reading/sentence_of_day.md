@@ -2723,3 +2723,10 @@ Date: 2023.05.02
 You are never too old to set another goal or to dream a new dream.
 无论年纪多大, 你都可以设立新目标或拥有一个新的梦想.
 ```
+
+---
+Date: 2023.05.03
+```
+Today's mighty oak is just yesterday's nut, that held its ground.
+今日茂盛的橡树在昨日只是一颗橡子, 但昨日是今日不可或缺的基础.
+```
