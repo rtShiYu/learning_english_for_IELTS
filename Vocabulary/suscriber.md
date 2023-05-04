@@ -4647,3 +4647,23 @@ vow
 guarantee
 scramble
 ```
+
+---
+Date: 2023.05.03
+```
+fawning
+servilely
+attentive
+transparently
+nagging
+```
+
+---
+Date: 2023.05.04
+```
+noisily
+troublesome
+unmanageable
+harmless
+melancholy
+```
