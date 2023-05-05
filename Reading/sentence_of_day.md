@@ -2737,3 +2737,10 @@ Date: 2023.05.04
 Young people have changed the course of history time and time again.
 古往今来, 年轻人一次又一次地改变着历史的进程.
 ```
+
+---
+Date: 2023.05.05
+```
+The beautiful thing about learning is nobody can take it away from you.
+学习的美好之处在于没有人能把它从你身上夺走.
+```
