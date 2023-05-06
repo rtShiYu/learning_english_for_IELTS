@@ -2744,3 +2744,10 @@ Date: 2023.05.05
 The beautiful thing about learning is nobody can take it away from you.
 学习的美好之处在于没有人能把它从你身上夺走.
 ```
+
+---
+Date: 2023.05.06
+```
+A reader lives a thousand lives before he dies. The man who never reads lives only one.
+一个读者在死前会经历一千种人生.那些从不读书的人只能经历一种.
+```
