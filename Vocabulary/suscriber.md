@@ -4677,3 +4677,13 @@ sequel
 sequence
 cilium
 ```
+
+---
+Date: 2023.05.06
+```
+monomaniac
+dipsomania
+morbid
+irresistible
+incendiarism
+```
