@@ -2751,3 +2751,10 @@ Date: 2023.05.06
 A reader lives a thousand lives before he dies. The man who never reads lives only one.
 一个读者在死前会经历一千种人生.那些从不读书的人只能经历一种.
 ```
+
+---
+Date: 2023.05.07
+```
+A smooth sea never made a skilled sailor.
+平静的大海无法早就一个熟练的水手.
+```
