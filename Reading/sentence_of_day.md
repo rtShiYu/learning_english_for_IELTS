@@ -2758,3 +2758,10 @@ Date: 2023.05.07
 A smooth sea never made a skilled sailor.
 平静的大海无法早就一个熟练的水手.
 ```
+
+---
+Date: 2023.05.08
+```
+Laughing faces do not mean that there is absence of sorrow! But it means that they have the ability to deal with it.
+充满欢笑的脸, 并不是意味着没有悲伤, 那意味着他们有能力去处理悲伤.
+```
