@@ -4687,3 +4687,23 @@ morbid
 irresistible
 incendiarism
 ```
+
+---
+Date: 2023.05.07
+```
+introvert
+extrovert
+nauseous
+obnoxious
+boasful
+```
+
+---
+Date: 2023.05.08
+```
+amorous
+egotist
+morbid
+substantial
+fundamental
+```
