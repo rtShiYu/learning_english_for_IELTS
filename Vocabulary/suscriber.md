@@ -4707,3 +4707,13 @@ morbid
 substantial
 fundamental
 ```
+
+---
+Date: 2023.05.09
+```
+delicate
+sorrow
+ambidextrous
+dexterity
+ambivert
+```
