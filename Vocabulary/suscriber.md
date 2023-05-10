@@ -4717,3 +4717,13 @@ ambidextrous
 dexterity
 ambivert
 ```
+
+---
+Date: 2023.05.10
+```
+jury
+liable
+defamation
+verdict
+disgrace
+```
