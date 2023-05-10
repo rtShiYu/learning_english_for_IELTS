@@ -2772,3 +2772,10 @@ Date: 2023.05.09
 Everything you see exists together in a delicate balance.
 世间万物, 相互制衡.
 ```
+
+---
+Date: 2023.05.10
+```
+Quiet people have the loudest minds.
+安静之人有着最振聋发聩的思想.
+```
