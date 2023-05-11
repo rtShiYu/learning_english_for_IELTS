@@ -2779,3 +2779,10 @@ Date: 2023.05.10
 Quiet people have the loudest minds.
 安静之人有着最振聋发聩的思想.
 ```
+
+---
+Date: 2023.05.11
+```
+A person's value lies in his talent, not in his clothing.
+一个人的价值在于他的才华, 而不在他的衣饰.
+```
