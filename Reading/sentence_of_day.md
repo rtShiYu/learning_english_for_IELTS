@@ -2786,3 +2786,10 @@ Date: 2023.05.11
 A person's value lies in his talent, not in his clothing.
 一个人的价值在于他的才华, 而不在他的衣饰.
 ```
+
+---
+Date: 2023.05.12
+```
+The greatest heroes are those who do their duty in the daily grind of domestic affairs whilst the world whirls as a maddening dreidel.
+最伟大的英雄是那些在日常事务中尽职尽守的人, 尽管周围的世界像疯狂的陀螺一样旋转着.
+```
