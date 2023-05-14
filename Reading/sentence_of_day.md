@@ -2800,3 +2800,10 @@ Date: 2023.05.13
 We laughed and kept saying "see you soon", but inside we both know we'd never see each other again.
 我们笑着说再见, 却深知再见遥遥无期.
 ```
+
+---
+Date: 2023.05.14
+```
+To describe my mother would be to write about a hurricane in its perfect power. Or the climbing, falling colors of a rainbow.
+要形容我的母亲, 就如同描写一场威力无比的飓风. 或者彩虹攀升, 坠落时壮丽的颜色.
+```
