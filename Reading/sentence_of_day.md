@@ -2807,3 +2807,10 @@ Date: 2023.05.14
 To describe my mother would be to write about a hurricane in its perfect power. Or the climbing, falling colors of a rainbow.
 要形容我的母亲, 就如同描写一场威力无比的飓风. 或者彩虹攀升, 坠落时壮丽的颜色.
 ```
+
+---
+Date: 2023.05.15
+```
+It's not who I am underneath but what I do that defines me.
+定义你的, 不是身份, 而是行动.
+```
