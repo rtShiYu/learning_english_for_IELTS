@@ -2821,3 +2821,10 @@ Date: 2023.05.16
 It was a night so beautiful that your soul seemed hardly able to bear the prison of the body.
 那个夜晚这么美, 你的灵魂好像都无法忍受肉体的桎梏了.
 ```
+
+---
+Date: 2023.05.17
+```
+A man is not old as long as he is seeking something. A man is not old until regrets take the place of dreams.
+只要一个人有所追求, 他就没有老. 知道后悔取代了梦想, 一个人才算老.
+```
