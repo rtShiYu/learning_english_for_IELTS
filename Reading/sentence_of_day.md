@@ -2828,3 +2828,10 @@ Date: 2023.05.17
 A man is not old as long as he is seeking something. A man is not old until regrets take the place of dreams.
 只要一个人有所追求, 他就没有老. 知道后悔取代了梦想, 一个人才算老.
 ```
+
+---
+Date: 2023.05.18
+```
+Remember what should be remembered, and forget what should be forgotten. Alter what is changeable, and accept what is mutable.
+记住该记住的, 忘记该忘记的. 改变能改变的, 接受不能改变的.
+```
