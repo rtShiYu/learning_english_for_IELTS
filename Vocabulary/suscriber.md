@@ -4811,3 +4811,14 @@ swear
 hurdle
 bid
 ```
+
+---
+Date: 2023.05.19
+```
+maze
+stroke
+scrub
+negotiate
+dysfunction
+diplomatic
+```
