@@ -2835,3 +2835,9 @@ Date: 2023.05.18
 Remember what should be remembered, and forget what should be forgotten. Alter what is changeable, and accept what is mutable.
 记住该记住的, 忘记该忘记的. 改变能改变的, 接受不能改变的.
 ```
+
+---
+Date: 2023.05.19
+```
+Rob the average man of his life-illusion, and you rob him of his happiness at the same stroke.
+```
