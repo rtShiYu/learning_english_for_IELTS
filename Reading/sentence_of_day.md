@@ -2841,3 +2841,10 @@ Date: 2023.05.19
 ```
 Rob the average man of his life-illusion, and you rob him of his happiness at the same stroke.
 ```
+
+---
+Date: 2023.05.20
+```
+The quality of mercy is not strained.
+慈悲不是出于勉强.
+```
