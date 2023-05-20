@@ -4822,3 +4822,13 @@ negotiate
 dysfunction
 diplomatic
 ```
+
+---
+Date: 2023.05.20
+```
+descend
+stopped
+contemplate
+alliance
+flank
+```
