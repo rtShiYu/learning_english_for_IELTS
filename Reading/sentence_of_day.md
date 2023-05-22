@@ -2855,3 +2855,10 @@ Date: 2023.05.21
 Loving you is the most grand and joyful secret in my youth.
 爱你是我青春里最盛大且愉快的秘密.
 ```
+
+---
+Date: 2023.05.22
+```
+Do not let your emotions override your judgment.
+不要被情绪影响了你的判断力.
+```
