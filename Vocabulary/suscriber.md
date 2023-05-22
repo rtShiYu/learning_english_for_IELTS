@@ -4843,3 +4843,14 @@ squit
 epitomise
 epitome
 ```
+
+---
+Date: 2023.05.22
+```
+perilous
+joint
+regard
+amplify
+underwhelm
+consensus
+```
