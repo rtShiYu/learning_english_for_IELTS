@@ -2862,3 +2862,10 @@ Date: 2023.05.22
 Do not let your emotions override your judgment.
 不要被情绪影响了你的判断力.
 ```
+
+---
+Date: 2023.05.23
+```
+It is not enough to be industrious, so are the ants. What are you industrious about?
+光勤劳是不够的, 蚂蚁也是勤劳的. 要看你为什么而勤劳.
+```
