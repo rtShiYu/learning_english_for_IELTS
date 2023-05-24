@@ -2869,3 +2869,10 @@ Date: 2023.05.23
 It is not enough to be industrious, so are the ants. What are you industrious about?
 光勤劳是不够的, 蚂蚁也是勤劳的. 要看你为什么而勤劳.
 ```
+
+---
+Date: 2023.05.24
+```
+The day is short but the work is so much.
+工作多, 光阴追.
+```
