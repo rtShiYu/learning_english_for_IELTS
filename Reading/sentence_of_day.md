@@ -2876,3 +2876,10 @@ Date: 2023.05.24
 The day is short but the work is so much.
 工作多, 光阴追.
 ```
+
+---
+Date: 2023.05.25
+```
+When we strive to become better than we are, everything around us becomes better too.
+当我们努力让自己变得更好的时候, 我们周围的一切也会变得更美好.
+```
