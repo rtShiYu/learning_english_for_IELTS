@@ -4874,3 +4874,13 @@ profound
 adolescent
 safeguard
 ```
+
+---
+Date: 2023.05.25
+```
+strive
+resurgence, economic resurgence
+mitlitary
+chronic
+misery
+```
