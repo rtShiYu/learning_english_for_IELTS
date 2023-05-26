@@ -2883,3 +2883,9 @@ Date: 2023.05.25
 When we strive to become better than we are, everything around us becomes better too.
 当我们努力让自己变得更好的时候, 我们周围的一切也会变得更美好.
 ```
+
+---
+Date: 2023.05.26
+```
+Procrastination is like a credit card: it's a lot of fun until you get the bill.
+```
