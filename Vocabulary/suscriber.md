@@ -4905,3 +4905,13 @@ dilemma
 stormed
 nonviolent
 ```
+
+---
+Date: 2023.05.28
+```
+theater
+roofed
+breach
+fined
+penalty
+```
