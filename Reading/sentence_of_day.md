@@ -2889,3 +2889,10 @@ Date: 2023.05.26
 ```
 Procrastination is like a credit card: it's a lot of fun until you get the bill.
 ```
+
+---
+Date: 2023.05.29
+```
+A great ship asks for deep waters.
+大船寻深水而航行.
+```
