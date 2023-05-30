@@ -2896,3 +2896,11 @@ Date: 2023.05.29
 A great ship asks for deep waters.
 大船寻深水而航行.
 ```
+
+
+---
+Date: 2023.05.30
+```
+Food is worth more than gold.
+粮食比黄金更为珍贵。
+```
