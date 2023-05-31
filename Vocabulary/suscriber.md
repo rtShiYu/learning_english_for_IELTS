@@ -4627,3 +4627,321 @@ portfolios
 fractious
 geopolitics
 ```
+
+---
+Date: 2023.05.01
+```
+strict
+coronation
+pledge
+diversity
+contractor
+```
+
+---
+Date: 2023.05.02
+```
+substantial
+detain
+vow
+guarantee
+scramble
+```
+
+---
+Date: 2023.05.03
+```
+fawning
+servilely
+attentive
+transparently
+nagging
+```
+
+---
+Date: 2023.05.04
+```
+noisily
+troublesome
+unmanageable
+harmless
+melancholy
+```
+
+---
+Date: 2023.05.05
+```
+obsequies
+subsequent
+sequel
+sequence
+cilium
+```
+
+---
+Date: 2023.05.06
+```
+monomaniac
+dipsomania
+morbid
+irresistible
+incendiarism
+```
+
+---
+Date: 2023.05.07
+```
+introvert
+extrovert
+nauseous
+obnoxious
+boasful
+```
+
+---
+Date: 2023.05.08
+```
+amorous
+egotist
+morbid
+substantial
+fundamental
+```
+
+---
+Date: 2023.05.09
+```
+delicate
+sorrow
+ambidextrous
+dexterity
+ambivert
+```
+
+---
+Date: 2023.05.10
+```
+jury
+liable
+defamation
+verdict
+disgrace
+```
+
+---
+Date: 2023.05.11
+```
+inflection
+radically
+immersive
+semantic
+consistently
+mission
+```
+
+---
+Date: 2023.05.12
+```
+invested
+effectively
+primary
+excelled
+impact
+```
+
+---
+Date: 2023.05.13
+```
+imminent
+overstate
+barely
+industry
+fairly
+```
+
+---
+Date: 2023.05.14
+```
+straightforward
+uplift
+grantmaking
+infinite
+subsequent
+modest
+```
+
+---
+Date: 2023.05.15
+```
+usher
+papal
+cane
+promoter
+hiatus
+```
+
+---
+Date: 2023.05.16
+```
+psyche
+hip
+spine
+slipped
+skeletal
+myopia
+```
+
+---
+Date: 2023.05.17
+```
+transgender
+advocate
+inundate
+nonbinary
+scenario
+```
+
+---
+Date: 2023.05.18
+```
+mutable
+alter
+mayoral
+swear
+hurdle
+bid
+```
+
+---
+Date: 2023.05.19
+```
+maze
+stroke
+scrub
+negotiate
+dysfunction
+diplomatic
+```
+
+---
+Date: 2023.05.20
+```
+descend
+stopped
+contemplate
+alliance
+flank
+```
+
+---
+Date: 2023.05.21
+```
+neat
+grayish
+popped up
+squit
+epitomise
+epitome
+```
+
+---
+Date: 2023.05.22
+```
+perilous
+joint
+regard
+amplify
+underwhelm
+consensus
+```
+
+---
+Date: 2023.05.23
+```
+industrious
+industrial
+debt ceiling
+manipulation
+admittedly
+```
+
+---
+Date: 2023.05.24
+```
+surgeon
+advisory
+profound
+adolescent
+safeguard
+```
+
+---
+Date: 2023.05.25
+```
+strive
+resurgence, economic resurgence
+mitlitary
+chronic
+misery
+```
+
+---
+Date: 2023.05.26
+```
+stunning
+hardback
+seminal
+stranded
+conductor
+```
+
+
+---
+Date: 2023.05.27
+```
+despite
+crowd
+dilemma
+stormed
+nonviolent
+```
+
+---
+Date: 2023.05.28
+```
+theater
+roofed
+breach
+fined
+penalty
+```
+
+---
+Date: 2023.05.29
+```
+insurrection
+dilemma
+contender
+crinimal
+sequin
+```
+
+---
+Date: 2023.05.30
+```
+remarkably
+lucrative
+hype
+proliferate
+feud
+```
+
+---
+Date: 2023.05.31
+```
+jury
+injury
+mayor
+jammed
+clue
+```

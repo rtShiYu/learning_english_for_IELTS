@@ -2709,3 +2709,205 @@ Date: 2023.04.30
 Actions speak louder than words.
 行胜于言.
 ```
+
+---
+Date: 2023.05.01
+```
+Few words, many deeds.
+少说话, 多做事.
+```
+
+---
+Date: 2023.05.02
+```
+You are never too old to set another goal or to dream a new dream.
+无论年纪多大, 你都可以设立新目标或拥有一个新的梦想.
+```
+
+---
+Date: 2023.05.03
+```
+Today's mighty oak is just yesterday's nut, that held its ground.
+今日茂盛的橡树在昨日只是一颗橡子, 但昨日是今日不可或缺的基础.
+```
+
+---
+Date: 2023.05.04
+```
+Young people have changed the course of history time and time again.
+古往今来, 年轻人一次又一次地改变着历史的进程.
+```
+
+---
+Date: 2023.05.05
+```
+The beautiful thing about learning is nobody can take it away from you.
+学习的美好之处在于没有人能把它从你身上夺走.
+```
+
+---
+Date: 2023.05.06
+```
+A reader lives a thousand lives before he dies. The man who never reads lives only one.
+一个读者在死前会经历一千种人生.那些从不读书的人只能经历一种.
+```
+
+---
+Date: 2023.05.07
+```
+A smooth sea never made a skilled sailor.
+平静的大海无法早就一个熟练的水手.
+```
+
+---
+Date: 2023.05.08
+```
+Laughing faces do not mean that there is absence of sorrow! But it means that they have the ability to deal with it.
+充满欢笑的脸, 并不是意味着没有悲伤, 那意味着他们有能力去处理悲伤.
+```
+
+---
+Date: 2023.05.09
+```
+Everything you see exists together in a delicate balance.
+世间万物, 相互制衡.
+```
+
+---
+Date: 2023.05.10
+```
+Quiet people have the loudest minds.
+安静之人有着最振聋发聩的思想.
+```
+
+---
+Date: 2023.05.11
+```
+A person's value lies in his talent, not in his clothing.
+一个人的价值在于他的才华, 而不在他的衣饰.
+```
+
+---
+Date: 2023.05.12
+```
+The greatest heroes are those who do their duty in the daily grind of domestic affairs whilst the world whirls as a maddening dreidel.
+最伟大的英雄是那些在日常事务中尽职尽守的人, 尽管周围的世界像疯狂的陀螺一样旋转着.
+```
+
+---
+Date: 2023.05.13
+```
+We laughed and kept saying "see you soon", but inside we both know we'd never see each other again.
+我们笑着说再见, 却深知再见遥遥无期.
+```
+
+---
+Date: 2023.05.14
+```
+To describe my mother would be to write about a hurricane in its perfect power. Or the climbing, falling colors of a rainbow.
+要形容我的母亲, 就如同描写一场威力无比的飓风. 或者彩虹攀升, 坠落时壮丽的颜色.
+```
+
+---
+Date: 2023.05.15
+```
+It's not who I am underneath but what I do that defines me.
+定义你的, 不是身份, 而是行动.
+```
+
+---
+Date: 2023.05.16
+```
+It was a night so beautiful that your soul seemed hardly able to bear the prison of the body.
+那个夜晚这么美, 你的灵魂好像都无法忍受肉体的桎梏了.
+```
+
+---
+Date: 2023.05.17
+```
+A man is not old as long as he is seeking something. A man is not old until regrets take the place of dreams.
+只要一个人有所追求, 他就没有老. 知道后悔取代了梦想, 一个人才算老.
+```
+
+---
+Date: 2023.05.18
+```
+Remember what should be remembered, and forget what should be forgotten. Alter what is changeable, and accept what is mutable.
+记住该记住的, 忘记该忘记的. 改变能改变的, 接受不能改变的.
+```
+
+---
+Date: 2023.05.19
+```
+Rob the average man of his life-illusion, and you rob him of his happiness at the same stroke.
+```
+
+---
+Date: 2023.05.20
+```
+The quality of mercy is not strained.
+慈悲不是出于勉强.
+```
+
+---
+Date: 2023.05.21
+```
+Loving you is the most grand and joyful secret in my youth.
+爱你是我青春里最盛大且愉快的秘密.
+```
+
+---
+Date: 2023.05.22
+```
+Do not let your emotions override your judgment.
+不要被情绪影响了你的判断力.
+```
+
+---
+Date: 2023.05.23
+```
+It is not enough to be industrious, so are the ants. What are you industrious about?
+光勤劳是不够的, 蚂蚁也是勤劳的. 要看你为什么而勤劳.
+```
+
+---
+Date: 2023.05.24
+```
+The day is short but the work is so much.
+工作多, 光阴追.
+```
+
+---
+Date: 2023.05.25
+```
+When we strive to become better than we are, everything around us becomes better too.
+当我们努力让自己变得更好的时候, 我们周围的一切也会变得更美好.
+```
+
+---
+Date: 2023.05.26
+```
+Procrastination is like a credit card: it's a lot of fun until you get the bill.
+```
+
+---
+Date: 2023.05.29
+```
+A great ship asks for deep waters.
+大船寻深水而航行.
+```
+
+
+---
+Date: 2023.05.30
+```
+Food is worth more than gold.
+粮食比黄金更为珍贵。
+```
+
+---
+Date: 2023.05.31
+```
+Truth needs no colour; beauty, no pencil.
+真理不需色彩, 美丽不需要涂饰.
+```
