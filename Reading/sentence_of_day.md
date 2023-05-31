@@ -2904,3 +2904,10 @@ Date: 2023.05.30
 Food is worth more than gold.
 粮食比黄金更为珍贵。
 ```
+
+---
+Date: 2023.05.31
+```
+Truth needs no colour; beauty, no pencil.
+真理不需色彩, 美丽不需要涂饰.
+```
