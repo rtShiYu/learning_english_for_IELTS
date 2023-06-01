@@ -2911,3 +2911,10 @@ Date: 2023.05.31
 Truth needs no colour; beauty, no pencil.
 真理不需色彩, 美丽不需要涂饰.
 ```
+
+---
+Date: 2023.06.01
+```
+Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus.
+一如阳关必须聚焦方能生熟, 要全神贯注方能完成当下的工作.
+```
