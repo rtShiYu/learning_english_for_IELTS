@@ -2918,3 +2918,10 @@ Date: 2023.06.01
 Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus.
 一如阳关必须聚焦方能生熟, 要全神贯注方能完成当下的工作.
 ```
+
+---
+Date: 2023.06.02
+```
+Not all of us can do great things. But we can do small things with great love.
+并非每个人都能做出伟大的成就, 但我们可以全身心投入到小事中.
+```
