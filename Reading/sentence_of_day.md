@@ -2946,3 +2946,10 @@ Date: 2023.06.05
 All your efforts will pay off one day.
 你所有的努力终会有所回报.
 ```
+
+---
+Date: 2023.06.06
+```
+Friends and good manners will carry you where money won't go.
+朋友和教养带给你的世界, 是金钱所不能及的.
+```
