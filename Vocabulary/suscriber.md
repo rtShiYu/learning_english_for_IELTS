@@ -5005,3 +5005,13 @@ reelection
 yawn
 cortical
 ```
+
+---
+Date: 2023.06.07
+```
+uninsurable
+quadruple
+insurer
+restraint
+forge
+```
