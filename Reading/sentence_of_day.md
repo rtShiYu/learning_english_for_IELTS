@@ -2967,3 +2967,10 @@ Date: 2023.06.08
 Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
 耐心和毅力有神奇的力量, 在他们面前, 一切艰难困苦都能消失.
 ```
+
+---
+Date: 2023.06.09
+```
+What's a man's first duty? The answer's brief: to be himself.
+一个人首要职责是什么? 答案很简单: 做自己.
+```
