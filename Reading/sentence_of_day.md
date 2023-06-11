@@ -2974,3 +2974,10 @@ Date: 2023.06.09
 What's a man's first duty? The answer's brief: to be himself.
 一个人首要职责是什么? 答案很简单: 做自己.
 ```
+
+---
+Date: 2023.06.10
+```
+I am not afraid of storms, for I am learning how to sail my ship.
+我不惧怕风暴, 因为我正在学习如何乘风破浪.
+```
