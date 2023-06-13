@@ -2995,3 +2995,10 @@ Date: 2023.06.12
 Happiness can be found even in the darkest of times if one only remembers to turn on the light.
 即便在最黑暗的日子里, 我们也能找到幸福,只要记得点亮一盏灯.
 ```
+
+---
+Date: 2023.06.13
+```
+Life is either a daring adventure or nothing at all.
+人生要么是一次大胆的冒险, 要么什么都不是.
+```
