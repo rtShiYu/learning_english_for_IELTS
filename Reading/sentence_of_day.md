@@ -3002,3 +3002,10 @@ Date: 2023.06.13
 Life is either a daring adventure or nothing at all.
 人生要么是一次大胆的冒险, 要么什么都不是.
 ```
+
+---
+Date: 2023.06.14
+```
+Our greatest glory consists not in never falling, but in rising every time.
+我们最值得自豪的不是从未跌倒，而是每次跌倒后都能站起来.
+```
