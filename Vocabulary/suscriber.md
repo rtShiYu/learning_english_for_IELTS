@@ -5099,3 +5099,23 @@ polarizing
 prosecute
 outsized
 ```
+
+---
+Date: 2023.06.16
+```
+courage
+neutral
+borne
+slut
+droplet
+```
+
+---
+Date: 2023.06.17
+```
+slump
+pandemonium
+property
+marginal
+drag
+```
