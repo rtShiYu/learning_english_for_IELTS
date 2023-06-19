@@ -3037,3 +3037,10 @@ Date: 2023.06.18
 My father gave me the greatest gift anyone could give another person: he believed in me.
 我的父亲把世界上最好的礼物送给了我, 他给了我信任.
 ```
+
+---
+Date: 2023.06.19
+```
+No matter what anybody tells you, words and ideas can change the world.
+不管别人怎么说, 文字和思想的确能改变世界.
+```
