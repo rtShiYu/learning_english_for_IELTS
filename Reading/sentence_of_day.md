@@ -3051,3 +3051,10 @@ Date: 2023.06.20
 I am enough of an artist to draw freely upon my imagination.
 我可以像一个十足的艺术家一样自由地发挥我的想象.
 ```
+
+---
+Data: 2023.06.21
+```
+The best way out is always through.
+找到出口的最好方式就是一路走到底.
+```
