@@ -3058,3 +3058,10 @@ Data: 2023.06.21
 The best way out is always through.
 找到出口的最好方式就是一路走到底.
 ```
+
+---
+Date: 2023.06.22
+```
+After drinking realgar wine, all diseases are far away.
+喝了雄黄酒, 百病远远丢.
+```
