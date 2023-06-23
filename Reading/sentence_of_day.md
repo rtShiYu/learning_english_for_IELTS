@@ -3065,3 +3065,10 @@ Date: 2023.06.22
 After drinking realgar wine, all diseases are far away.
 喝了雄黄酒, 百病远远丢.
 ```
+
+---
+Date: 2023.06.23
+```
+The good seaman is known in bad weather.
+惊涛骇浪, 方显英雄本色.
+```
