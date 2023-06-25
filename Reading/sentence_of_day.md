@@ -3086,3 +3086,10 @@ Date: 2023.06.25
 Heavy hearts, like heavy clouds in the sky, are best relieved by the letting of a little water.
 沉重的心和天上的乌云一样, 最好的缓解方式就是下点雨.
 ```
+
+---
+Date: 2023.06....26
+```
+You have within you right now, everything you need to deal with whatever the  world can throw at you..
+你现在内心深处拥有的一切, 已足以应对世界可能带给你的任何考验.
+```
