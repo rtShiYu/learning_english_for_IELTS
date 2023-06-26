@@ -3088,8 +3088,15 @@ Heavy hearts, like heavy clouds in the sky, are best relieved by the letting of 
 ```
 
 ---
-Date: 2023.06....26
+Date: 2023.06.26
 ```
 You have within you right now, everything you need to deal with whatever the  world can throw at you..
 你现在内心深处拥有的一切, 已足以应对世界可能带给你的任何考验.
+```
+
+---
+Date: 2023.06.27
+```
+If you think the road is difficult, it must be uphill.
+如果你觉得路难走, 那它一定是上破路.
 ```
