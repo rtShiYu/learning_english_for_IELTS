@@ -5213,3 +5213,14 @@ compliment
 tribute
 synonym
 ```
+
+---
+Date: 2023.06.27
+```
+insurrection
+abate
+dramatically
+mercenary
+column
+war-hardened
+```
