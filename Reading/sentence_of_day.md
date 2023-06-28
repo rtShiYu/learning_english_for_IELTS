@@ -3100,3 +3100,10 @@ Date: 2023.06.27
 If you think the road is difficult, it must be uphill.
 如果你觉得路难走, 那它一定是上破路.
 ```
+
+---
+Date: 2023.06.28
+```
+If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.
+如果你想个了解一个人的为人, 那就好好看看他是怎么对待他的下级, 而非和他地位相等的人.
+```

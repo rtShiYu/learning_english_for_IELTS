@@ -5224,3 +5224,13 @@ mercenary
 column
 war-hardened
 ```
+
+---
+Date: 2023.06.28
+```
+debris
+sub
+wreckage
+implosion
+vessel
+```
