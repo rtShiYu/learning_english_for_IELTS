@@ -3107,3 +3107,10 @@ Date: 2023.06.28
 If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.
 如果你想个了解一个人的为人, 那就好好看看他是怎么对待他的下级, 而非和他地位相等的人.
 ```
+
+---
+Date: 2023.06.29
+```
+I may not have gone where I intended to go, but I think I have ended up where I needed to be.
+也许没走到最初的目的地, 但最终我认为自己还是到达了应该到的地方.
+```
