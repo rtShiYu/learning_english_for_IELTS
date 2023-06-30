@@ -3114,3 +3114,10 @@ Date: 2023.06.29
 I may not have gone where I intended to go, but I think I have ended up where I needed to be.
 也许没走到最初的目的地, 但最终我认为自己还是到达了应该到的地方.
 ```
+
+---
+Date: 2023.06.30
+```
+I can't go back to yesterday because I was a different person then.
+我无法重返昨日, 因为那已是不同的我.
+```
