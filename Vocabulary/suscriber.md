@@ -5244,3 +5244,13 @@ shift
 paramedic
 splitting
 ```
+
+---
+Date: 2023.06.30
+```
+affirmative
+ideological
+liberal
+semiautomatic
+parade
+```
