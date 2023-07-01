@@ -3121,3 +3121,10 @@ Date: 2023.06.30
 I can't go back to yesterday because I was a different person then.
 我无法重返昨日, 因为那已是不同的我.
 ```
+
+---
+Date: 2023.07.01
+```
+Home is not where you live but where they understand you.
+栖息之所不一定是家, 有人懂你之处才是家.
+```
