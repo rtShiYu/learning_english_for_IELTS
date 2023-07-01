@@ -2911,3 +2911,213 @@ Date: 2023.05.31
 Truth needs no colour; beauty, no pencil.
 真理不需色彩, 美丽不需要涂饰.
 ```
+
+---
+Date: 2023.06.01
+```
+Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus.
+一如阳关必须聚焦方能生熟, 要全神贯注方能完成当下的工作.
+```
+
+---
+Date: 2023.06.02
+```
+Not all of us can do great things. But we can do small things with great love.
+并非每个人都能做出伟大的成就, 但我们可以全身心投入到小事中.
+```
+
+---
+Date: 2023.06.03
+```
+So we beat on, boats against the current, borne back ceaselessly into the past.
+于是我们继续奋力向前, 逆水行舟, 被不断地向后推移, 直至回到往昔岁月.
+```
+
+---
+Date: 2023.06.04
+```
+The sun still shines, even when it's hiding.
+即使在云层之后, 太阳也仍在闪耀.
+```
+
+---
+Date: 2023.06.05
+```
+All your efforts will pay off one day.
+你所有的努力终会有所回报.
+```
+
+---
+Date: 2023.06.06
+```
+Friends and good manners will carry you where money won't go.
+朋友和教养带给你的世界, 是金钱所不能及的.
+```
+
+---
+Date: 2023.06.07
+```
+What seems to us as bitter trials are often blessings in disguise.
+看似痛苦的试炼往往是伪装起来的好运.
+```
+
+---
+Date: 2023.06.08
+```
+Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
+耐心和毅力有神奇的力量, 在他们面前, 一切艰难困苦都能消失.
+```
+
+---
+Date: 2023.06.09
+```
+What's a man's first duty? The answer's brief: to be himself.
+一个人首要职责是什么? 答案很简单: 做自己.
+```
+
+---
+Date: 2023.06.10
+```
+I am not afraid of storms, for I am learning how to sail my ship.
+我不惧怕风暴, 因为我正在学习如何乘风破浪.
+```
+
+---
+Date: 2023.06.11
+```
+Everything you can imagine is real.
+你能想象到的一切都是真实的.
+```
+
+---
+Date: 2023.06.12
+```
+Happiness can be found even in the darkest of times if one only remembers to turn on the light.
+即便在最黑暗的日子里, 我们也能找到幸福,只要记得点亮一盏灯.
+```
+
+---
+Date: 2023.06.13
+```
+Life is either a daring adventure or nothing at all.
+人生要么是一次大胆的冒险, 要么什么都不是.
+```
+
+---
+Date: 2023.06.14
+```
+Our greatest glory consists not in never falling, but in rising every time.
+我们最值得自豪的不是从未跌倒，而是每次跌倒后都能站起来.
+```
+
+---
+Date: 2023.06.15
+```
+In the midst of winter, I found there was, within me, an invincible summer.
+严冬之中我终于发现, 在我心中, 有着不可战胜的夏天.
+```
+
+---
+Date: 2023.06.16
+```
+The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.
+太阳刚升起时也是微弱的, 但随着时间的推移, 它集聚了力量与勇气.
+```
+
+---
+Date: 2023.06.17
+```
+Don't let the muggles get you down.
+别让麻瓜使你灰心丧气.
+```
+
+---
+Date: 2023.06.18
+```
+My father gave me the greatest gift anyone could give another person: he believed in me.
+我的父亲把世界上最好的礼物送给了我, 他给了我信任.
+```
+
+---
+Date: 2023.06.19
+```
+No matter what anybody tells you, words and ideas can change the world.
+不管别人怎么说, 文字和思想的确能改变世界.
+```
+
+---
+Date: 2023.06.20
+```
+I am enough of an artist to draw freely upon my imagination.
+我可以像一个十足的艺术家一样自由地发挥我的想象.
+```
+
+---
+Data: 2023.06.21
+```
+The best way out is always through.
+找到出口的最好方式就是一路走到底.
+```
+
+---
+Date: 2023.06.22
+```
+After drinking realgar wine, all diseases are far away.
+喝了雄黄酒, 百病远远丢.
+```
+
+---
+Date: 2023.06.23
+```
+The good seaman is known in bad weather.
+惊涛骇浪, 方显英雄本色.
+```
+
+---
+Date: 2023.06.24
+```
+All the world is made of faith, and trust, and pixie dust.
+世界是由信念, 信任, 和精灵仙尘构成的.
+```
+
+---
+Date: 2023.06.25
+```
+Heavy hearts, like heavy clouds in the sky, are best relieved by the letting of a little water.
+沉重的心和天上的乌云一样, 最好的缓解方式就是下点雨.
+```
+
+---
+Date: 2023.06.26
+```
+You have within you right now, everything you need to deal with whatever the  world can throw at you..
+你现在内心深处拥有的一切, 已足以应对世界可能带给你的任何考验.
+```
+
+---
+Date: 2023.06.27
+```
+If you think the road is difficult, it must be uphill.
+如果你觉得路难走, 那它一定是上破路.
+```
+
+---
+Date: 2023.06.28
+```
+If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.
+如果你想个了解一个人的为人, 那就好好看看他是怎么对待他的下级, 而非和他地位相等的人.
+```
+
+---
+Date: 2023.06.29
+```
+I may not have gone where I intended to go, but I think I have ended up where I needed to be.
+也许没走到最初的目的地, 但最终我认为自己还是到达了应该到的地方.
+```
+
+---
+Date: 2023.06.30
+```
+I can't go back to yesterday because I was a different person then.
+我无法重返昨日, 因为那已是不同的我.
+```
