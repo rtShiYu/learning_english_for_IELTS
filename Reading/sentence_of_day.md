@@ -3128,3 +3128,10 @@ Date: 2023.07.01
 Home is not where you live but where they understand you.
 栖息之所不一定是家, 有人懂你之处才是家.
 ```
+
+---
+Date: 2023.07.02
+```
+Self-discipline is the first condition of freedom.
+自律是自由的首要条件.
+```
