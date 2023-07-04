@@ -3142,3 +3142,10 @@ Date: 2023.07.03
 In every job that must be done, there's an element of fun. You find the fun, and snap! The job is a game.
 每一份必须完成的工作中都蕴藏着乐趣. 一旦找到其中的乐趣, 你就会发现, 工作其实就是个游戏.
 ```
+
+---
+Date: 2023.07.04
+```
+Always forgive your enemies; nothing annoys them so much.
+永远宽恕你的敌人, 没有什么能比这个更让他们恼怒的.
+```
