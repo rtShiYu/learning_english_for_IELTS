@@ -3149,3 +3149,10 @@ Date: 2023.07.04
 Always forgive your enemies; nothing annoys them so much.
 永远宽恕你的敌人, 没有什么能比这个更让他们恼怒的.
 ```
+
+---
+Date: 2023.07.05
+```
+If you don't learn from your mistakes, then they become regrets.
+如果你不从错误中吸取教训, 那么它们就会成为遗憾.
+```
