@@ -5295,3 +5295,13 @@ racial
 backlash
 relief
 ```
+
+---
+Date: 2023.07.05
+```
+voluntarily
+existence
+embarrass
+tactless
+clumsy
+```
