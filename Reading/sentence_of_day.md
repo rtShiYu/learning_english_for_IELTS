@@ -3156,3 +3156,10 @@ Date: 2023.07.05
 If you don't learn from your mistakes, then they become regrets.
 如果你不从错误中吸取教训, 那么它们就会成为遗憾.
 ```
+
+---
+Date: 2023.07.06
+```
+Don't stop. Don't hide. Follow the light, and you'll find tomorrow.
+不要停, 不要逃避, 沿着光明, 你会找到明天.
+```

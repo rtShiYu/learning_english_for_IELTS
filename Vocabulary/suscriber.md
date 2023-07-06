@@ -5305,3 +5305,13 @@ embarrass
 tactless
 clumsy
 ```
+
+---
+Date: 2023.07.06
+```
+preference
+provision
+tension
+intertwine
+decouple
+```
