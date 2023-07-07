@@ -5315,3 +5315,14 @@ tension
 intertwine
 decouple
 ```
+
+---
+Date: 2023.07.07
+```
+respectability
+strike
+amendment
+equity market
+rally
+crack down
+```
