@@ -3177,3 +3177,11 @@ Date: 2023.07.08
 When I think of you, I think of kindness, wisdom, and love. Thanks for being you.
 每次我想起你, 都会想起你的善良, 智慧和爱. 感谢你能做你自己.
 ```
+
+---
+Date: 2023.07.09
+```
+You may not control all the events that happen to you, but you can decide not to be reduced by them.
+你可能无法控制所有发生在你身上的事, 但是你可以决定不被它所累.
+```
+
