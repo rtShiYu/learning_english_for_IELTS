@@ -3185,3 +3185,9 @@ You may not control all the events that happen to you, but you can decide not to
 你可能无法控制所有发生在你身上的事, 但是你可以决定不被它所累.
 ```
 
+---
+Date: 2023.07.10
+```
+A man is not old until regrets take the place of dreams.
+当懊悔取代梦想时，人也就老了.
+```
