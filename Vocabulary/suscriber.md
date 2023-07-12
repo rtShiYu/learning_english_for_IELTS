@@ -5366,3 +5366,13 @@ ammunition
 grenade
 garner
 ```
+
+---
+Date: 2023.07.12
+```
+grudge
+deliberately
+essential
+despite
+litter
+```

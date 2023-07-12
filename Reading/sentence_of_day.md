@@ -3198,3 +3198,10 @@ Date: 2023.07.11
 There is light at the end of the tunnel.
 守得云开见月明.
 ```
+
+---
+Date: 2023.07.12
+```
+Life's too short to hold grudges.
+人生苦短，何必留仇.
+```
