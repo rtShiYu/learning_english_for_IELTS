@@ -3205,3 +3205,11 @@ Date: 2023.07.12
 Life's too short to hold grudges.
 人生苦短，何必留仇.
 ```
+
+
+---
+Date: 2023.07.14
+````
+Many people will walk in and out of your life, but only true friends will leave footprints in your heart.
+无数人走进和走出你的生活，但只有真正的朋友会在你的心里留下足迹.
+````
