@@ -3209,7 +3209,14 @@ Life's too short to hold grudges.
 
 ---
 Date: 2023.07.14
-````
+```
 Many people will walk in and out of your life, but only true friends will leave footprints in your heart.
 无数人走进和走出你的生活，但只有真正的朋友会在你的心里留下足迹.
-````
+```
+
+---
+Date: 2023.07.15
+```
+When I want to smile, I know exactly what to do, I just close my eyes and I think of you.
+当我想微笑的时候, 我知道该怎么做, 只要闭上眼镜, 想起你就好.
+```
