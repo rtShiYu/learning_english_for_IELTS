@@ -3220,3 +3220,10 @@ Date: 2023.07.15
 When I want to smile, I know exactly what to do, I just close my eyes and I think of you.
 当我想微笑的时候, 我知道该怎么做, 只要闭上眼镜, 想起你就好.
 ```
+
+---
+Date: 2023.07.16
+```
+Everything has cracks and that's where the light comes in.
+万物皆有裂痕，那是光照进来的地方。
+```
