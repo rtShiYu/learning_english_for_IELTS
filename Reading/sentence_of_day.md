@@ -3227,3 +3227,10 @@ Date: 2023.07.16
 Everything has cracks and that's where the light comes in.
 万物皆有裂痕，那是光照进来的地方。
 ```
+
+---
+Date: 2023.07.18
+```
+It's better to light a candle than curse the darkness.
+与其诅咒黑暗，不如点亮蜡烛。
+```
