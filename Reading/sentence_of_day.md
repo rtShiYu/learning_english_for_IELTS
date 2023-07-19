@@ -3234,3 +3234,10 @@ Date: 2023.07.18
 It's better to light a candle than curse the darkness.
 与其诅咒黑暗，不如点亮蜡烛。
 ```
+
+---
+Date: 2023.07.19
+```
+Money and success don't change people; they merely amplify what is already there.
+金钱和成功不会改变一个人, 它们只会放大一个人的本性.
+```
