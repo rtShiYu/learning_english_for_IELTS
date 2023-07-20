@@ -3241,3 +3241,10 @@ Date: 2023.07.19
 Money and success don't change people; they merely amplify what is already there.
 金钱和成功不会改变一个人, 它们只会放大一个人的本性.
 ```
+
+---
+Date: 2023.07.20
+```
+I believe that unarmed truth and unconditional love will have the final word in reality.
+我相信, 不靠武装的真理与无条件的爱, 将会在现实中拥有最终话语权.
+```
