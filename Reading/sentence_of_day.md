@@ -3248,3 +3248,10 @@ Date: 2023.07.20
 I believe that unarmed truth and unconditional love will have the final word in reality.
 我相信, 不靠武装的真理与无条件的爱, 将会在现实中拥有最终话语权.
 ```
+
+---
+Date: 2023.07.21
+```
+Never compromise. Not even in the face of armageddon.
+永不妥协，即便是在世界末日面前.
+```
