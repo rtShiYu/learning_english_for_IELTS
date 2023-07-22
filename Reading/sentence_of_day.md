@@ -3262,3 +3262,9 @@ Date: 2023.07.22
 Up the bright moon rises from the sea; I share the same moment though far from thee.
 海上生明月，天涯共此时.
 ```
+
+Date: 2023.07.23
+```
+There is no royal road to science, and only those who do not dread the fatiguing climb of its steep paths have a chance of gaining its luminous sunmists.
+在科学上没有平坦的大道, 只有不畏劳苦沿着崎岖之路攀登的人, 才有希望达到它光辉的顶点.
+```
