@@ -3268,3 +3268,10 @@ Date: 2023.07.23
 There is no royal road to science, and only those who do not dread the fatiguing climb of its steep paths have a chance of gaining its luminous sunmists.
 在科学上没有平坦的大道, 只有不畏劳苦沿着崎岖之路攀登的人, 才有希望达到它光辉的顶点.
 ```
+
+---
+Date: 2023.07.24
+```
+Turn your wounds into wisdom.
+将你受到的伤害化为智慧.
+```
