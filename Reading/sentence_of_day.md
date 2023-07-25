@@ -3282,3 +3282,10 @@ Date: 2023.07.25
 There is no charm equal to tenderness of heart.
 没有那种魅力能与内心的温柔相提并论.
 ```
+
+---
+Date: 2023.07.26
+```
+The only person you should try to be better than is the person you were yesterday.
+你唯一应该努力超越的人就是昨天的自己.
+```
