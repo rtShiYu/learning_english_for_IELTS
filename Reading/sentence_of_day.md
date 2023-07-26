@@ -3289,3 +3289,10 @@ Date: 2023.07.26
 The only person you should try to be better than is the person you were yesterday.
 你唯一应该努力超越的人就是昨天的自己.
 ```
+
+---
+Date: 2023.07.27
+```
+You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.
+你有头脑, 也有脚力, 想往哪儿走就能往哪儿走.
+```
