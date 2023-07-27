@@ -3296,3 +3296,10 @@ Date: 2023.07.27
 You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.
 你有头脑, 也有脚力, 想往哪儿走就能往哪儿走.
 ```
+
+---
+Date: 2023.07.28
+```
+The most common way people give up their power is by thinking they don't have any.
+人们最常放弃自身力量的方式, 就是觉得自己没有任何力量.
+```
