@@ -3303,3 +3303,10 @@ Date: 2023.07.28
 The most common way people give up their power is by thinking they don't have any.
 人们最常放弃自身力量的方式, 就是觉得自己没有任何力量.
 ```
+
+---
+Date: 2023.07.29
+```
+Behind the clouds is the sun still shining.
+乌云背后, 阳光依然辉煌灿烂.
+```

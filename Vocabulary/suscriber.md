@@ -5438,3 +5438,14 @@ gigantic
 relatively
 sentry
 ```
+
+---
+Date: 2023.07.29
+```
+backfire
+spawn
+clampdown
+tuition
+curb
+deem
+```
