@@ -5453,6 +5453,10 @@ deem
 ---
 Date: 2023.07.30
 ```
-Books must be read as deliberately and reservedly as they are written.
-读书和写作一样, 必须熟思熟虑, 有所保留.
+nebulous
+seaweed
+decay
+pickling
+groove
+deliberately
 ```

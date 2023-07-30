@@ -3310,3 +3310,10 @@ Date: 2023.07.29
 Behind the clouds is the sun still shining.
 乌云背后, 阳光依然辉煌灿烂.
 ```
+
+---
+Date: 2023.07.30
+```
+Books must be read as deliberately and reservedly as they are written.
+读书和写作一样, 必须熟思熟虑, 有所保留.
+```
