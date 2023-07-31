@@ -3317,3 +3317,10 @@ Date: 2023.07.30
 Books must be read as deliberately and reservedly as they are written.
 读书和写作一样, 必须熟思熟虑, 有所保留.
 ```
+
+---
+Date: 2023.07.31
+```
+You don't drown by failling in water; you drown by staying there.
+你不会因为掉进水里淹死, 除非你赖在水里不起来.
+```
