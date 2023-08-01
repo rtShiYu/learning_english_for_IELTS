@@ -5470,3 +5470,13 @@ oppress
 credence
 astrology
 ```
+
+---
+Date: 2023.08.01
+```
+revive
+stifle
+constract
+thrust
+escort
+```
