@@ -5254,3 +5254,219 @@ liberal
 semiautomatic
 parade
 ```
+
+---
+Date: 2023.07.01
+```
+panorama
+panoramic
+polysilicon
+juicy
+bezel
+chin
+```
+
+---
+Date: 2023.07.02
+```
+housekeeping
+outlet
+patron
+heinous
+subdue
+```
+
+---
+Date: 2023.07.03
+```
+snap
+struck
+authority
+amendment
+vulnerable
+```
+
+---
+Date: 2023.07.04
+```
+groom
+lick
+racial
+backlash
+relief
+```
+
+---
+Date: 2023.07.05
+```
+voluntarily
+existence
+embarrass
+tactless
+clumsy
+```
+
+---
+Date: 2023.07.06
+```
+preference
+provision
+tension
+intertwine
+decouple
+```
+
+---
+Date: 2023.07.07
+```
+respectability
+strike
+amendment
+equity market
+rally
+crack down
+```
+
+---
+Date: 2023.07.08
+```
+patio
+cushion
+amputation
+scooter
+scatter
+```
+
+---
+Date: 2023.07.09
+```
+riot
+irritant
+revive
+treasury
+bond
+```
+
+---
+Date: 2023.07.10
+```
+despite
+pledge
+galactic
+neutron
+depict
+```
+
+---
+Date: 2023.07.11
+```
+cluster
+munition
+ammunition
+grenade
+garner
+```
+
+---
+Date: 2023.07.12
+```
+grudge
+deliberately
+essential
+despite
+litter
+```
+
+---
+Date: 2023.07.14
+```
+footprint
+crunchy
+fryer
+submerge
+ingredient
+```
+
+---
+Date: 2023.07.24
+```
+affordable
+hint
+category
+harvest
+strip
+fabric
+```
+
+---
+Date: 2023.07.25
+```
+grip
+hemisphere
+consecutive
+nauseous
+comatose
+heat stroke
+```
+
+Date: 2023.07.26
+```
+blockbuster
+gingham
+facility
+fluorescent
+corral
+```
+
+---
+Date: 2023.07.27
+```
+dismissal
+fueled
+high-flying
+downfall
+compromising
+voluble
+```
+
+---
+Date: 2023.07.28
+```
+gargantuan
+columnist
+gigantic
+relatively
+sentry
+```
+
+---
+Date: 2023.07.29
+```
+backfire
+spawn
+clampdown
+tuition
+curb
+deem
+```
+
+---
+Date: 2023.07.30
+```
+nebulous
+seaweed
+decay
+pickling
+groove
+deliberately
+```
+
+---
+Date: 2023.07.31
+```
+cruelty
+grippped
+oppress
+credence
+astrology
+```

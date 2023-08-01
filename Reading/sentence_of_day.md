@@ -3121,3 +3121,206 @@ Date: 2023.06.30
 I can't go back to yesterday because I was a different person then.
 我无法重返昨日, 因为那已是不同的我.
 ```
+
+---
+Date: 2023.07.01
+```
+Home is not where you live but where they understand you.
+栖息之所不一定是家, 有人懂你之处才是家.
+```
+
+---
+Date: 2023.07.02
+```
+Self-discipline is the first condition of freedom.
+自律是自由的首要条件.
+```
+
+---
+Date: 2023.07.03
+```
+In every job that must be done, there's an element of fun. You find the fun, and snap! The job is a game.
+每一份必须完成的工作中都蕴藏着乐趣. 一旦找到其中的乐趣, 你就会发现, 工作其实就是个游戏.
+```
+
+---
+Date: 2023.07.04
+```
+Always forgive your enemies; nothing annoys them so much.
+永远宽恕你的敌人, 没有什么能比这个更让他们恼怒的.
+```
+
+---
+Date: 2023.07.05
+```
+If you don't learn from your mistakes, then they become regrets.
+如果你不从错误中吸取教训, 那么它们就会成为遗憾.
+```
+
+---
+Date: 2023.07.06
+```
+Don't stop. Don't hide. Follow the light, and you'll find tomorrow.
+不要停, 不要逃避, 沿着光明, 你会找到明天.
+```
+
+---
+Date: 2023.07.07
+```
+Deep summer is when laziness finds respectability.
+盛夏时节, 懒惰都变得体面起来.
+```
+
+---
+Date: 2023.07.08
+```
+When I think of you, I think of kindness, wisdom, and love. Thanks for being you.
+每次我想起你, 都会想起你的善良, 智慧和爱. 感谢你能做你自己.
+```
+
+---
+Date: 2023.07.09
+```
+You may not control all the events that happen to you, but you can decide not to be reduced by them.
+你可能无法控制所有发生在你身上的事, 但是你可以决定不被它所累.
+```
+
+---
+Date: 2023.07.10
+```
+A man is not old until regrets take the place of dreams.
+当懊悔取代梦想时，人也就老了.
+```
+
+---
+Date: 2023.07.11
+```
+There is light at the end of the tunnel.
+守得云开见月明.
+```
+
+---
+Date: 2023.07.12
+```
+Life's too short to hold grudges.
+人生苦短，何必留仇.
+```
+
+
+---
+Date: 2023.07.14
+```
+Many people will walk in and out of your life, but only true friends will leave footprints in your heart.
+无数人走进和走出你的生活，但只有真正的朋友会在你的心里留下足迹.
+```
+
+---
+Date: 2023.07.15
+```
+When I want to smile, I know exactly what to do, I just close my eyes and I think of you.
+当我想微笑的时候, 我知道该怎么做, 只要闭上眼镜, 想起你就好.
+```
+
+---
+Date: 2023.07.16
+```
+Everything has cracks and that's where the light comes in.
+万物皆有裂痕，那是光照进来的地方。
+```
+
+---
+Date: 2023.07.18
+```
+It's better to light a candle than curse the darkness.
+与其诅咒黑暗，不如点亮蜡烛。
+```
+
+---
+Date: 2023.07.19
+```
+Money and success don't change people; they merely amplify what is already there.
+金钱和成功不会改变一个人, 它们只会放大一个人的本性.
+```
+
+---
+Date: 2023.07.20
+```
+I believe that unarmed truth and unconditional love will have the final word in reality.
+我相信, 不靠武装的真理与无条件的爱, 将会在现实中拥有最终话语权.
+```
+
+---
+Date: 2023.07.21
+```
+Never compromise. Not even in the face of armageddon.
+永不妥协，即便是在世界末日面前.
+```
+
+---
+Date: 2023.07.22
+```
+Up the bright moon rises from the sea; I share the same moment though far from thee.
+海上生明月，天涯共此时.
+```
+
+Date: 2023.07.23
+```
+There is no royal road to science, and only those who do not dread the fatiguing climb of its steep paths have a chance of gaining its luminous sunmists.
+在科学上没有平坦的大道, 只有不畏劳苦沿着崎岖之路攀登的人, 才有希望达到它光辉的顶点.
+```
+
+---
+Date: 2023.07.24
+```
+Turn your wounds into wisdom.
+将你受到的伤害化为智慧.
+```
+
+---
+Date: 2023.07.25
+```
+There is no charm equal to tenderness of heart.
+没有那种魅力能与内心的温柔相提并论.
+```
+
+---
+Date: 2023.07.26
+```
+The only person you should try to be better than is the person you were yesterday.
+你唯一应该努力超越的人就是昨天的自己.
+```
+
+---
+Date: 2023.07.27
+```
+You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.
+你有头脑, 也有脚力, 想往哪儿走就能往哪儿走.
+```
+
+---
+Date: 2023.07.28
+```
+The most common way people give up their power is by thinking they don't have any.
+人们最常放弃自身力量的方式, 就是觉得自己没有任何力量.
+```
+
+---
+Date: 2023.07.29
+```
+Behind the clouds is the sun still shining.
+乌云背后, 阳光依然辉煌灿烂.
+```
+
+---
+Date: 2023.07.30
+```
+Books must be read as deliberately and reservedly as they are written.
+读书和写作一样, 必须熟思熟虑, 有所保留.
+```
+
+---
+Date: 2023.07.31
+```
+You don't drown by failling in water; you drown by staying there.
+你不会因为掉进水里淹死, 除非你赖在水里不起来.
+```
