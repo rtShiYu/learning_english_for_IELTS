@@ -3324,3 +3324,10 @@ Date: 2023.07.31
 You don't drown by failling in water; you drown by staying there.
 你不会因为掉进水里淹死, 除非你赖在水里不起来.
 ```
+
+---
+Date: 2023.08.01
+```
+If you can't handle failure, then you can't handle success either.
+驾驭不了失败的人也驾驭不了成功.
+```
