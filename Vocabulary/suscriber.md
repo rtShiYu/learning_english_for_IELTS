@@ -5480,3 +5480,13 @@ constract
 thrust
 escort
 ```
+
+---
+Date: 2023.08.02
+```
+proponent
+thef
+wary
+outlaw
+longstanding
+```

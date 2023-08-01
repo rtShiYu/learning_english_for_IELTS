@@ -3331,3 +3331,10 @@ Date: 2023.08.01
 If you can't handle failure, then you can't handle success either.
 驾驭不了失败的人也驾驭不了成功.
 ```
+
+---
+Date: 2023.08.02
+```
+You're only given a little spark of madness. You mustn't losse it.
+上天只给你了一丁点疯狂, 绝对不能丢掉.
+```
