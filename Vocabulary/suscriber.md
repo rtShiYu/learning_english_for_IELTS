@@ -5490,3 +5490,13 @@ wary
 outlaw
 longstanding
 ```
+
+---
+Date: 2023.08.03
+```
+nomination
+indicted
+widespread
+conspiracy
+defraud
+```
