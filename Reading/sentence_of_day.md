@@ -3345,3 +3345,10 @@ Date: 2023.08.03
 When a person really desires something, alll the universe conspires to help that person to realize his dream.
 当一个人真正渴望某样东西时, 整个宇宙都会来帮助他实现自己的梦想.
 ```
+
+---
+Date: 2023.08.04
+```
+Each man is the architect of his own fate.
+每个人都是自己命运的建筑师.
+```
