@@ -3354,8 +3354,15 @@ Each man is the architect of his own fate.
 ```
 
 ---
-Date: 2023.08.04
+Date: 2023.08.05
 ```
 Just living is not enough. One must have sunshine, freedom, and little flower.
 仅仅活着是不够的, 还需要阳光, 自由, 和一点点花的芬芳.
+```
+
+---
+Date: 2023.08.06
+```
+If we wait until we're ready, we'll be waiting for the rest of our lives.
+如果我们总是等着自己做好准备, 那可能这一生都在等待中度过了.
 ```
