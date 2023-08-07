@@ -3366,3 +3366,10 @@ Date: 2023.08.06
 If we wait until we're ready, we'll be waiting for the rest of our lives.
 如果我们总是等着自己做好准备, 那可能这一生都在等待中度过了.
 ```
+
+---
+Date: 2023.08.07
+```
+To be successful you must accept all challenges that come your way. You can't just accept the ones you like.
+想要成功, 你就要接受每个迎面而来的挑战, 不能只接受自己喜欢的.
+```
