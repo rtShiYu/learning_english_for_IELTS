@@ -3373,3 +3373,11 @@ Date: 2023.08.07
 To be successful you must accept all challenges that come your way. You can't just accept the ones you like.
 想要成功, 你就要接受每个迎面而来的挑战, 不能只接受自己喜欢的.
 ```
+
+
+---
+Date: 2023.08.08
+```
+The world is a book, and those who do not travel read only a page.
+世界是一本书, 不旅行的人只看到了其中的一页.
+```
