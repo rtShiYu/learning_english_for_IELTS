@@ -3381,3 +3381,10 @@ Date: 2023.08.08
 The world is a book, and those who do not travel read only a page.
 世界是一本书, 不旅行的人只看到了其中的一页.
 ```
+
+---
+Date: 2023.08.09
+```
+Each man is the architect of his own fate.
+每个人都是自己命运的建筑师.
+```
