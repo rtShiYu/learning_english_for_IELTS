@@ -3395,3 +3395,10 @@ Date: 2023.08.10
 What you do today can improve all your tomorrows.
 今天你做好的事情, 将改善你未来的每一天.
 ```
+
+---
+Date: 2023.08.11
+```
+We learn more by looking for the answer to a question and not finding it then we do from learning the answer itself.
+为了寻找一个问题的答案而没找到它的过程, 要比得到答案本身所学到的还要多.
+```

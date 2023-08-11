@@ -5571,3 +5571,14 @@ steadily
 fellowship
 mundane
 ```
+
+---
+Date: 2023.08.11
+```
+lidar
+radar
+captation
+compound
+dimension
+iteration
+```
