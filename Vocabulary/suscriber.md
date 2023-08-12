@@ -5582,3 +5582,13 @@ compound
 dimension
 iteration
 ```
+
+---
+Date: 2023.08.12
+```
+stagnation
+volatile
+stark
+slump
+nominal
+```

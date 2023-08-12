@@ -3402,3 +3402,10 @@ Date: 2023.08.11
 We learn more by looking for the answer to a question and not finding it then we do from learning the answer itself.
 为了寻找一个问题的答案而没找到它的过程, 要比得到答案本身所学到的还要多.
 ```
+
+---
+Date: 2023.08.12
+```
+Give me your best shot. I'm not gonna give up. I will never give in.
+你最好给我狠狠地一击, 但是我绝不会因此放弃, 也更可能屈服.
+```
