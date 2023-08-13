@@ -3409,3 +3409,10 @@ Date: 2023.08.12
 Give me your best shot. I'm not gonna give up. I will never give in.
 你最好给我狠狠地一击, 但是我绝不会因此放弃, 也更可能屈服.
 ```
+
+---
+Date: 2023.08.13
+```
+Excellence is not a skill. It's an attitude.
+优秀不是一项技能, 而是一种心态.
+```
