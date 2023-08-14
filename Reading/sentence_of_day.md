@@ -3423,3 +3423,10 @@ Date: 2023.08.14
 If you find a path with no obstacles, it probably doesn't lead anywhere.
 太容易的路, 可能根本就不能带你去任何地方.
 ```
+
+---
+Date: 2023.08.15
+```
+A drop of water in need, shall be returned with a spring in deed.
+滴水之恩, 当涌泉相报.
+```
