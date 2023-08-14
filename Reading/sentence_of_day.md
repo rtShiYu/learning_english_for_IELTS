@@ -3416,3 +3416,10 @@ Date: 2023.08.13
 Excellence is not a skill. It's an attitude.
 优秀不是一项技能, 而是一种心态.
 ```
+
+---
+Date: 2023.08.14
+```
+If you find a path with no obstacles, it probably doesn't lead anywhere.
+太容易的路, 可能根本就不能带你去任何地方.
+```
