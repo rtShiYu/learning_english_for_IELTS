@@ -3430,3 +3430,10 @@ Date: 2023.08.15
 A drop of water in need, shall be returned with a spring in deed.
 滴水之恩, 当涌泉相报.
 ```
+
+---
+Date: 2023.08.16
+```
+Shoot for the moon. Even if you miss, you'll land among the stars.
+奔赴月亮把, 即便错过, 你也将置身繁星之中.
+```
