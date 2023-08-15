@@ -5624,3 +5624,15 @@ microscope
 approach
 formulate
 ```
+
+---
+Date: 2023.08.16
+```
+go back
+go off
+go on
+go out
+go over
+go through
+go up
+```
