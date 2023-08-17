@@ -3437,3 +3437,10 @@ Date: 2023.08.16
 Shoot for the moon. Even if you miss, you'll land among the stars.
 奔赴月亮把, 即便错过, 你也将置身繁星之中.
 ```
+
+---
+Date: 2023.08.17
+```
+Every artist was first an amateur.
+每位艺术家一开始都是外行人.
+```
