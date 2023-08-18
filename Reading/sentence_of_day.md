@@ -3444,3 +3444,10 @@ Date: 2023.08.17
 Every artist was first an amateur.
 每位艺术家一开始都是外行人.
 ```
+
+---
+Date: 2023.08.18
+```
+Everyone you meet is fighting a battle you know nothing about.
+每个人都在经历你无法想象的困境.
+```
