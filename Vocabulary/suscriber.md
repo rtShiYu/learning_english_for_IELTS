@@ -5647,3 +5647,13 @@ approach
 woo
 compensation
 ```
+
+---
+Date: 2023.08.18
+```
+wipe out
+ignite
+snap
+roar
+flare up
+```
