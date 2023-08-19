@@ -3451,3 +3451,10 @@ Date: 2023.08.18
 Everyone you meet is fighting a battle you know nothing about.
 每个人都在经历你无法想象的困境.
 ```
+
+---
+Date: 2023.08.19
+```
+Understand yourself in order to better understand others.
+知己方能解人.
+```
