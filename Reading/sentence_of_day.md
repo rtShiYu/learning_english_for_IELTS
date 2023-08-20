@@ -3458,3 +3458,10 @@ Date: 2023.08.19
 Understand yourself in order to better understand others.
 知己方能解人.
 ```
+
+---
+Date: 2023.08.20
+```
+Life is not about waiting for the storm to pass, it's about learning to dance in the rain.
+生活不是等待风暴过去, 而是学会在雨中舞蹈.
+```
