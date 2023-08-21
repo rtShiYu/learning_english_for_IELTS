@@ -5679,3 +5679,13 @@ class-action
 negligent
 energize
 ```
+
+---
+Date: 2023.08.21
+```
+affiliate
+scrutiny
+tumbled
+state-owned
+privately-owned
+```

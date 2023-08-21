@@ -3465,3 +3465,10 @@ Date: 2023.08.20
 Life is not about waiting for the storm to pass, it's about learning to dance in the rain.
 生活不是等待风暴过去, 而是学会在雨中舞蹈.
 ```
+
+---
+Date: 2023.08.21
+```
+The roots of education are bitter, but the fruit is sweet.
+教育的根基是苦涩的, 但果实是甜蜜的.
+```
