@@ -3472,3 +3472,10 @@ Date: 2023.08.21
 The roots of education are bitter, but the fruit is sweet.
 教育的根基是苦涩的, 但果实是甜蜜的.
 ```
+
+---
+Date: 2023.08.22
+```
+Each man is the architect of his own fate.
+每个人都是自己命运的建筑师.
+```
