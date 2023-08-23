@@ -5699,3 +5699,13 @@ launder
 dust furniture
 mop
 ```
+
+---
+Date: 2023.08.23
+```
+property
+partake
+humane
+grief
+owe
+```

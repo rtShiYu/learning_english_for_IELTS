@@ -3479,3 +3479,10 @@ Date: 2023.08.22
 Each man is the architect of his own fate.
 每个人都是自己命运的建筑师.
 ```
+
+---
+Date: 2023.08.23
+```
+Who partakes in another's joys is a more humane character than he who partakes in his griefs.
+能分享他人的欢乐, 比能分担他人的忧愁更为高尚.
+```
