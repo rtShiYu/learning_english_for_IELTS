@@ -3486,3 +3486,10 @@ Date: 2023.08.23
 Who partakes in another's joys is a more humane character than he who partakes in his griefs.
 能分享他人的欢乐, 比能分担他人的忧愁更为高尚.
 ```
+
+---
+Date: 2023.08.24
+```
+Some people feel the rain. Others just get wet.
+有些人能感受雨, 其他人只是被淋湿.
+```
