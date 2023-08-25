@@ -5719,3 +5719,13 @@ fatal
 attorney
 surveillance
 ```
+
+---
+Date: 2023.08.25
+```
+prospect
+propriate
+resist
+league
+etiquette
+```

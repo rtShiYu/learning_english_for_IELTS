@@ -3493,3 +3493,10 @@ Date: 2023.08.24
 Some people feel the rain. Others just get wet.
 有些人能感受雨, 其他人只是被淋湿.
 ```
+
+---
+Date: 2023.08.25
+```
+You can't live your life according to maybes.
+你不能只靠如果来过自己的人生.
+```
