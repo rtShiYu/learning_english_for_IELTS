@@ -3500,3 +3500,10 @@ Date: 2023.08.25
 You can't live your life according to maybes.
 你不能只靠如果来过自己的人生.
 ```
+
+---
+Date: 2023.8.26
+```
+The smartest people understand that they are the most ignorant ones.
+最聪明的人明白自己是最无知的.
+```
