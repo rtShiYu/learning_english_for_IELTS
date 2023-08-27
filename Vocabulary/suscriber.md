@@ -5740,3 +5740,13 @@ stricken
 spark
 controversial
 ```
+
+---
+Date: 2023.08.27
+```
+concentration
+dilute
+opponent
+proponent
+prominent
+```

@@ -3507,3 +3507,10 @@ Date: 2023.8.26
 The smartest people understand that they are the most ignorant ones.
 最聪明的人明白自己是最无知的.
 ```
+
+---
+Date: 2023.08.27
+```
+Talent indeed makes a person shine, but hard work does too.
+天赋的确使人闪闪发光, 但努力也能使人熠熠生辉.
+```
