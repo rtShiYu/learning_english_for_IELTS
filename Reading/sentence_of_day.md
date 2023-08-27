@@ -3514,3 +3514,10 @@ Date: 2023.08.27
 Talent indeed makes a person shine, but hard work does too.
 天赋的确使人闪闪发光, 但努力也能使人熠熠生辉.
 ```
+
+---
+Date: 2023.08.28
+```
+The greatest thing a man can do in this world is to make the most possible out of the stuff that has been given him.
+在这个世界上, 一个人能做的伟大的事情就是, 充分利用他所拥有的一切.
+```
