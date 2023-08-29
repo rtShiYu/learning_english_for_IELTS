@@ -3521,3 +3521,10 @@ Date: 2023.08.28
 The greatest thing a man can do in this world is to make the most possible out of the stuff that has been given him.
 在这个世界上, 一个人能做的伟大的事情就是, 充分利用他所拥有的一切.
 ```
+
+---
+Date: 2023.08.29
+```
+He conquers twice, who upon victory overcomes himself.
+在获得胜利之后而能克制自己的人, 获得双重胜利.
+```

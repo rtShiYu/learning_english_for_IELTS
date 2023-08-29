@@ -5760,3 +5760,14 @@ maitain
 scorched
 coastal
 ```
+
+---
+Date: 2023.08.29
+```
+mercenary
+patron
+assertion
+demise
+abort
+mutineer
+```
