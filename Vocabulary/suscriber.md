@@ -5771,3 +5771,13 @@ demise
 abort
 mutineer
 ```
+
+---
+Date: 2023.08.30
+```
+struggle
+retrospect
+cotend
+brutal
+flail
+```

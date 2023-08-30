@@ -3528,3 +3528,10 @@ Date: 2023.08.29
 He conquers twice, who upon victory overcomes himself.
 在获得胜利之后而能克制自己的人, 获得双重胜利.
 ```
+
+---
+Date: 2023.08.30
+```
+One day, in retrospect, the years of struggle will strike you as the most beautiful.
+当你某天再后首时, 你会发现那些奋斗的日子最美好.
+```
