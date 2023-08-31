@@ -3535,3 +3535,10 @@ Date: 2023.08.30
 One day, in retrospect, the years of struggle will strike you as the most beautiful.
 当你某天再后首时, 你会发现那些奋斗的日子最美好.
 ```
+
+---
+Date: 2023.08.31
+```
+Time is a great teacher, but unfortunately it kills all its pupils.
+时间是位伟大的导师, 但不幸的是它消饰每一个学生的生命.
+```
