@@ -3542,3 +3542,10 @@ Date: 2023.08.31
 Time is a great teacher, but unfortunately it kills all its pupils.
 时间是位伟大的导师, 但不幸的是它消饰每一个学生的生命.
 ```
+
+---
+Date: 2023.09.01
+```
+It is so nice when you can sit with someone and not have to talk.
+能和一个人坐在一起而不必交谈真好.
+```
