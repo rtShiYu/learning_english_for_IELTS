@@ -3324,3 +3324,221 @@ Date: 2023.07.31
 You don't drown by failling in water; you drown by staying there.
 你不会因为掉进水里淹死, 除非你赖在水里不起来.
 ```
+
+---
+Date: 2023.08.01
+```
+If you can't handle failure, then you can't handle success either.
+驾驭不了失败的人也驾驭不了成功.
+```
+
+---
+Date: 2023.08.02
+```
+You're only given a little spark of madness. You mustn't losse it.
+上天只给你了一丁点疯狂, 绝对不能丢掉.
+```
+
+---
+Date: 2023.08.03
+```
+When a person really desires something, alll the universe conspires to help that person to realize his dream.
+当一个人真正渴望某样东西时, 整个宇宙都会来帮助他实现自己的梦想.
+```
+
+---
+Date: 2023.08.04
+```
+Each man is the architect of his own fate.
+每个人都是自己命运的建筑师.
+```
+
+---
+Date: 2023.08.05
+```
+Just living is not enough. One must have sunshine, freedom, and little flower.
+仅仅活着是不够的, 还需要阳光, 自由, 和一点点花的芬芳.
+```
+
+---
+Date: 2023.08.06
+```
+If we wait until we're ready, we'll be waiting for the rest of our lives.
+如果我们总是等着自己做好准备, 那可能这一生都在等待中度过了.
+```
+
+---
+Date: 2023.08.07
+```
+To be successful you must accept all challenges that come your way. You can't just accept the ones you like.
+想要成功, 你就要接受每个迎面而来的挑战, 不能只接受自己喜欢的.
+```
+
+
+---
+Date: 2023.08.08
+```
+The world is a book, and those who do not travel read only a page.
+世界是一本书, 不旅行的人只看到了其中的一页.
+```
+
+---
+Date: 2023.08.09
+```
+Each man is the architect of his own fate.
+每个人都是自己命运的建筑师.
+```
+
+---
+Date: 2023.08.10
+```
+What you do today can improve all your tomorrows.
+今天你做好的事情, 将改善你未来的每一天.
+```
+
+---
+Date: 2023.08.11
+```
+We learn more by looking for the answer to a question and not finding it then we do from learning the answer itself.
+为了寻找一个问题的答案而没找到它的过程, 要比得到答案本身所学到的还要多.
+```
+
+---
+Date: 2023.08.12
+```
+Give me your best shot. I'm not gonna give up. I will never give in.
+你最好给我狠狠地一击, 但是我绝不会因此放弃, 也更可能屈服.
+```
+
+---
+Date: 2023.08.13
+```
+Excellence is not a skill. It's an attitude.
+优秀不是一项技能, 而是一种心态.
+```
+
+---
+Date: 2023.08.14
+```
+If you find a path with no obstacles, it probably doesn't lead anywhere.
+太容易的路, 可能根本就不能带你去任何地方.
+```
+
+---
+Date: 2023.08.15
+```
+A drop of water in need, shall be returned with a spring in deed.
+滴水之恩, 当涌泉相报.
+```
+
+---
+Date: 2023.08.16
+```
+Shoot for the moon. Even if you miss, you'll land among the stars.
+奔赴月亮把, 即便错过, 你也将置身繁星之中.
+```
+
+---
+Date: 2023.08.17
+```
+Every artist was first an amateur.
+每位艺术家一开始都是外行人.
+```
+
+---
+Date: 2023.08.18
+```
+Everyone you meet is fighting a battle you know nothing about.
+每个人都在经历你无法想象的困境.
+```
+
+---
+Date: 2023.08.19
+```
+Understand yourself in order to better understand others.
+知己方能解人.
+```
+
+---
+Date: 2023.08.20
+```
+Life is not about waiting for the storm to pass, it's about learning to dance in the rain.
+生活不是等待风暴过去, 而是学会在雨中舞蹈.
+```
+
+---
+Date: 2023.08.21
+```
+The roots of education are bitter, but the fruit is sweet.
+教育的根基是苦涩的, 但果实是甜蜜的.
+```
+
+---
+Date: 2023.08.22
+```
+Each man is the architect of his own fate.
+每个人都是自己命运的建筑师.
+```
+
+---
+Date: 2023.08.23
+```
+Who partakes in another's joys is a more humane character than he who partakes in his griefs.
+能分享他人的欢乐, 比能分担他人的忧愁更为高尚.
+```
+
+---
+Date: 2023.08.24
+```
+Some people feel the rain. Others just get wet.
+有些人能感受雨, 其他人只是被淋湿.
+```
+
+---
+Date: 2023.08.25
+```
+You can't live your life according to maybes.
+你不能只靠如果来过自己的人生.
+```
+
+---
+Date: 2023.8.26
+```
+The smartest people understand that they are the most ignorant ones.
+最聪明的人明白自己是最无知的.
+```
+
+---
+Date: 2023.08.27
+```
+Talent indeed makes a person shine, but hard work does too.
+天赋的确使人闪闪发光, 但努力也能使人熠熠生辉.
+```
+
+---
+Date: 2023.08.28
+```
+The greatest thing a man can do in this world is to make the most possible out of the stuff that has been given him.
+在这个世界上, 一个人能做的伟大的事情就是, 充分利用他所拥有的一切.
+```
+
+---
+Date: 2023.08.29
+```
+He conquers twice, who upon victory overcomes himself.
+在获得胜利之后而能克制自己的人, 获得双重胜利.
+```
+
+---
+Date: 2023.08.30
+```
+One day, in retrospect, the years of struggle will strike you as the most beautiful.
+当你某天再后首时, 你会发现那些奋斗的日子最美好.
+```
+
+---
+Date: 2023.08.31
+```
+Time is a great teacher, but unfortunately it kills all its pupils.
+时间是位伟大的导师, 但不幸的是它消饰每一个学生的生命.
+```
