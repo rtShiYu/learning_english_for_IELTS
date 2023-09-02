@@ -3549,3 +3549,10 @@ Date: 2023.09.01
 It is so nice when you can sit with someone and not have to talk.
 能和一个人坐在一起而不必交谈真好.
 ```
+
+---
+Date: 2023.09.02
+```
+It's easy to straighten a tree when it's small, but it's difficult to stretch a tree when it's big.
+树小扶直易, 树大扳伸难.
+```
