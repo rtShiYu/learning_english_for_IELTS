@@ -3556,3 +3556,10 @@ Date: 2023.09.02
 It's easy to straighten a tree when it's small, but it's difficult to stretch a tree when it's big.
 树小扶直易, 树大扳伸难.
 ```
+
+---
+Date: 2023.09.03
+```
+A person who won't read has no advantage over one who can't read.
+识字却不愿阅读人, 比起不识字的人也没有任何优势.
+```

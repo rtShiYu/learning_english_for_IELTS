@@ -5811,3 +5811,14 @@ blowback
 spare
 straighten
 ```
+
+---
+Date: 2023.09.03
+```
+vow
+notwithstanding
+follow-through
+racism
+expat
+upend
+```
