@@ -5822,3 +5822,13 @@ racism
 expat
 upend
 ```
+
+---
+Date: 2023.09.04
+```
+storeroom
+resign
+proposal
+intern
+transgender
+```

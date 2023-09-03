@@ -3563,3 +3563,10 @@ Date: 2023.09.03
 A person who won't read has no advantage over one who can't read.
 识字却不愿阅读人, 比起不识字的人也没有任何优势.
 ```
+
+---
+Date: 2023.09.04
+```
+Change in all things is sweet.
+最甜美的事就是改变.
+```
