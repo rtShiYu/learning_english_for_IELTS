@@ -3570,3 +3570,11 @@ Date: 2023.09.04
 Change in all things is sweet.
 最甜美的事就是改变.
 ```
+
+
+---
+Date: 2023.09.05
+```
+The greatest of follies is to sacrifice health for any other kind of happiness.
+为其他任何形式的幸福牺牲健康是最大的愚行.
+```
