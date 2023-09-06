@@ -3578,3 +3578,10 @@ Date: 2023.09.05
 The greatest of follies is to sacrifice health for any other kind of happiness.
 为其他任何形式的幸福牺牲健康是最大的愚行.
 ```
+
+---
+Date: 2023.09.06
+```
+The foolish man seeks happiness in the distance, the wise grows under his feet.
+愚者在未来寻找快乐, 智者在自己脚下种植快乐.
+```
