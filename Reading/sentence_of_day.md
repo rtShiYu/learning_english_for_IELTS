@@ -3585,3 +3585,10 @@ Date: 2023.09.06
 The foolish man seeks happiness in the distance, the wise grows under his feet.
 愚者在未来寻找快乐, 智者在自己脚下种植快乐.
 ```
+
+---
+Date: 2023.09.07
+```
+Do not fear mistakes. You will know failure. Continue to reach out.
+别害怕犯错, 你将会遇见失败, 持续把手伸出去.
+```
