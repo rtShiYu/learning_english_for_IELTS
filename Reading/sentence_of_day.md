@@ -3592,3 +3592,10 @@ Date: 2023.09.07
 Do not fear mistakes. You will know failure. Continue to reach out.
 别害怕犯错, 你将会遇见失败, 持续把手伸出去.
 ```
+
+---
+Date: 2023.09.08
+```
+No matter how hard the past, you can always begin again.
+无论过去多么艰难, 你总是可以重新开始.
+```

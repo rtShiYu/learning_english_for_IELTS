@@ -5863,3 +5863,13 @@ devotion
 capsule
 exacerbate
 ```
+
+---
+Date: 2023.09.08
+```
+sedition
+rioter
+dilapidated
+settlement
+squatter
+```
