@@ -3599,3 +3599,10 @@ Date: 2023.09.08
 No matter how hard the past, you can always begin again.
 无论过去多么艰难, 你总是可以重新开始.
 ```
+
+---
+Date: 2023.09.09
+```
+I never dreamed about success, I worked for it.
+我从不幻想成功, 我为成功奋斗.
+```
