@@ -5883,3 +5883,14 @@ customary
 discord
 perspective
 ```
+
+---
+Date: 2023.09.10
+```
+chuck up
+pattern
+frustrate/frustration
+backward
+motivation
+struggle
+```

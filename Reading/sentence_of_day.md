@@ -3606,3 +3606,10 @@ Date: 2023.09.09
 I never dreamed about success, I worked for it.
 我从不幻想成功, 我为成功奋斗.
 ```
+
+---
+Date: 2023.09.10
+```
+The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
+智者不积蓄自己的财宝。 他为别人付出的越多，他为自己拥有的也就越多.
+```
