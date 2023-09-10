@@ -5894,3 +5894,14 @@ backward
 motivation
 struggle
 ```
+
+---
+Date: 2023.09.11
+
+```
+selloff
+mull
+spur
+sanction
+magnitude
+```

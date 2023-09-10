@@ -3613,3 +3613,10 @@ Date: 2023.09.10
 The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
 智者不积蓄自己的财宝。 他为别人付出的越多，他为自己拥有的也就越多.
 ```
+
+---
+Date: 2023.09.11
+```
+The difficult thing isn't living wiht other people, it''s understanding them.
+最难的不是相处, 而是理解.
+```
