@@ -3617,6 +3617,13 @@ The wise man does not lay up his own treasures. The more he gives to others, the
 ---
 Date: 2023.09.11
 ```
-The difficult thing isn't living wiht other people, it''s understanding them.
+The difficult thing isn't living with other people, it's understanding them.
 最难的不是相处, 而是理解.
+```
+
+---
+Date: 2023.09.12
+```
+A very small man can cast a very large shadow.
+再渺小的人也能投射出巨大的影子.
 ```
