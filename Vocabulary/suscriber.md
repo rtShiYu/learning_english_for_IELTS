@@ -5905,3 +5905,13 @@ spur
 sanction
 magnitude
 ```
+
+---
+Date: 2023.09.13
+```
+residential
+landloard
+compensate
+reclusive
+armoured
+```

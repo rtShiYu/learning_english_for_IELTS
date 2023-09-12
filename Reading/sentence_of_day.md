@@ -3627,3 +3627,10 @@ Date: 2023.09.12
 A very small man can cast a very large shadow.
 再渺小的人也能投射出巨大的影子.
 ```
+
+---
+Date: 2023.09.13
+```
+Don't criticize what you can't understand.
+无法理解的事情, 不要评判.
+```
