@@ -3634,3 +3634,10 @@ Date: 2023.09.13
 Don't criticize what you can't understand.
 无法理解的事情, 不要评判.
 ```
+
+---
+Date: 2023.09.20
+```
+Logic will get you from A to B. Imagination will take you everywhere.
+逻辑思考能把你从A带到B, 而想象力能把你带到任何地方.
+```
