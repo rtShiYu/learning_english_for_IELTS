@@ -3641,3 +3641,10 @@ Date: 2023.09.20
 Logic will get you from A to B. Imagination will take you everywhere.
 逻辑思考能把你从A带到B, 而想象力能把你带到任何地方.
 ```
+
+---
+Date: 2023.09.22
+```
+It is better to be hated for what you are than to be loved for what you are not.
+宁可因做自己而招人憎恨, 也不要因伪装而博人喜欢.
+```
