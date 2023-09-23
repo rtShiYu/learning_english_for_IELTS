@@ -3648,3 +3648,10 @@ Date: 2023.09.22
 It is better to be hated for what you are than to be loved for what you are not.
 宁可因做自己而招人憎恨, 也不要因伪装而博人喜欢.
 ```
+
+---
+Date: 2023.09.23
+```
+Believe in yourself. Do what you love. And most importantly, be kind to others, even if you don't like them.
+相信自己, 追随内心所爱. 更重要的事, 善待他人, 即使你并不喜欢他们.
+```
