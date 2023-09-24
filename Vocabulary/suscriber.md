@@ -5935,3 +5935,13 @@ compound
 slip
 flagship
 ```
+
+---
+Date: 2023.09.24
+```
+underlie
+stand out
+tone
+pitch
+lexicon
+```

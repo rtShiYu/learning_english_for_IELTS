@@ -3655,3 +3655,10 @@ Date: 2023.09.23
 Believe in yourself. Do what you love. And most importantly, be kind to others, even if you don't like them.
 相信自己, 追随内心所爱. 更重要的事, 善待他人, 即使你并不喜欢他们.
 ```
+
+---
+Date: 2023.09.24
+```
+Roads in the mountains teach you a very important lesson in life: what seems like an end is very often just a bend.
+山间公路教会你人生中非常重要的一课, 看似到了尽头, 实际上通常只是个弯道.
+```
