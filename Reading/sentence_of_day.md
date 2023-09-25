@@ -3662,3 +3662,10 @@ Date: 2023.09.24
 Roads in the mountains teach you a very important lesson in life: what seems like an end is very often just a bend.
 山间公路教会你人生中非常重要的一课, 看似到了尽头, 实际上通常只是个弯道.
 ```
+
+---
+Date: 2023.09.25
+```
+Sometimes the heart sees what is invisible to the eye.
+有时候肉眼看不见的, 心能看见.
+```
