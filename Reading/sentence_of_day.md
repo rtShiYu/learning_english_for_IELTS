@@ -3669,3 +3669,10 @@ Date: 2023.09.25
 Sometimes the heart sees what is invisible to the eye.
 有时候肉眼看不见的, 心能看见.
 ```
+
+---
+Date: 2023.09.26
+```
+Think like a queen. A queen is not afraid to fail. Failure is another steppingstone to greatness.
+要像女王一样思考, 女王不惧怕失败, 失败是通往卓越之路的踏脚石.
+```
