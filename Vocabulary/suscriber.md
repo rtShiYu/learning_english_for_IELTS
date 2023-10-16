@@ -5791,3 +5791,177 @@ evacuation
 landfall
 sparsely
 ```
+
+---
+Date: 2023.09.01
+```
+picket
+amateur
+hippo
+premature
+attribute
+```
+
+---
+Date: 2023.09.02
+```
+spunky
+rapist
+blowback
+spare
+straighten
+```
+
+---
+Date: 2023.09.03
+```
+vow
+notwithstanding
+follow-through
+racism
+expat
+upend
+```
+
+---
+Date: 2023.09.04
+```
+storeroom
+resign
+proposal
+intern
+transgender
+```
+
+---
+Date: 2023.09.05
+```
+scarf
+skyline
+stadium
+halftime
+receipt
+```
+
+---
+Date: 2023.09.06
+```
+retraction
+slowdown
+allegedly
+poles
+hydroelectric
+gorge
+```
+
+---
+Date: 2023.09.07
+```
+platinum
+tape
+devotion
+capsule
+exacerbate
+```
+
+---
+Date: 2023.09.08
+```
+sedition
+rioter
+dilapidated
+settlement
+squatter
+```
+
+---
+Date: 2023.09.09
+```
+resounding
+consensus
+customary
+discord
+perspective
+```
+
+---
+Date: 2023.09.10
+```
+chuck up
+pattern
+frustrate/frustration
+backward
+motivation
+struggle
+```
+
+---
+Date: 2023.09.11
+
+```
+selloff
+mull
+spur
+sanction
+magnitude
+```
+
+---
+Date: 2023.09.13
+```
+residential
+landloard
+compensate
+reclusive
+armoured
+```
+
+---
+Date: 2023.09.20
+```
+stealth
+upward
+allegation
+orchestrate
+absurd
+```
+
+---
+Date: 2023.09.23
+```
+walkout
+unwind
+compound
+slip
+flagship
+```
+
+---
+Date: 2023.09.24
+```
+underlie
+stand out
+tone
+pitch
+lexicon
+```
+
+---
+Date: 2023.09.25
+```
+anonymity
+reveal
+booster
+lawful
+awful
+```
+
+---
+Date: 2023.09.26
+```
+kayaking
+whitewater
+limestone
+cave
+passion
+```

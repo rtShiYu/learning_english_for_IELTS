@@ -3542,3 +3542,144 @@ Date: 2023.08.31
 Time is a great teacher, but unfortunately it kills all its pupils.
 时间是位伟大的导师, 但不幸的是它消饰每一个学生的生命.
 ```
+
+---
+Date: 2023.09.01
+```
+It is so nice when you can sit with someone and not have to talk.
+能和一个人坐在一起而不必交谈真好.
+```
+
+---
+Date: 2023.09.02
+```
+It's easy to straighten a tree when it's small, but it's difficult to stretch a tree when it's big.
+树小扶直易, 树大扳伸难.
+```
+
+---
+Date: 2023.09.03
+```
+A person who won't read has no advantage over one who can't read.
+识字却不愿阅读人, 比起不识字的人也没有任何优势.
+```
+
+---
+Date: 2023.09.04
+```
+Change in all things is sweet.
+最甜美的事就是改变.
+```
+
+
+---
+Date: 2023.09.05
+```
+The greatest of follies is to sacrifice health for any other kind of happiness.
+为其他任何形式的幸福牺牲健康是最大的愚行.
+```
+
+---
+Date: 2023.09.06
+```
+The foolish man seeks happiness in the distance, the wise grows under his feet.
+愚者在未来寻找快乐, 智者在自己脚下种植快乐.
+```
+
+---
+Date: 2023.09.07
+```
+Do not fear mistakes. You will know failure. Continue to reach out.
+别害怕犯错, 你将会遇见失败, 持续把手伸出去.
+```
+
+---
+Date: 2023.09.08
+```
+No matter how hard the past, you can always begin again.
+无论过去多么艰难, 你总是可以重新开始.
+```
+
+---
+Date: 2023.09.09
+```
+I never dreamed about success, I worked for it.
+我从不幻想成功, 我为成功奋斗.
+```
+
+---
+Date: 2023.09.10
+```
+The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
+智者不积蓄自己的财宝。 他为别人付出的越多，他为自己拥有的也就越多.
+```
+
+---
+Date: 2023.09.11
+```
+The difficult thing isn't living with other people, it's understanding them.
+最难的不是相处, 而是理解.
+```
+
+---
+Date: 2023.09.12
+```
+A very small man can cast a very large shadow.
+再渺小的人也能投射出巨大的影子.
+```
+
+---
+Date: 2023.09.13
+```
+Don't criticize what you can't understand.
+无法理解的事情, 不要评判.
+```
+
+---
+Date: 2023.09.20
+```
+Logic will get you from A to B. Imagination will take you everywhere.
+逻辑思考能把你从A带到B, 而想象力能把你带到任何地方.
+```
+
+---
+Date: 2023.09.22
+```
+It is better to be hated for what you are than to be loved for what you are not.
+宁可因做自己而招人憎恨, 也不要因伪装而博人喜欢.
+```
+
+---
+Date: 2023.09.23
+```
+Believe in yourself. Do what you love. And most importantly, be kind to others, even if you don't like them.
+相信自己, 追随内心所爱. 更重要的事, 善待他人, 即使你并不喜欢他们.
+```
+
+---
+Date: 2023.09.24
+```
+Roads in the mountains teach you a very important lesson in life: what seems like an end is very often just a bend.
+山间公路教会你人生中非常重要的一课, 看似到了尽头, 实际上通常只是个弯道.
+```
+
+---
+Date: 2023.09.25
+```
+Sometimes the heart sees what is invisible to the eye.
+有时候肉眼看不见的, 心能看见.
+```
+
+---
+Date: 2023.09.26
+```
+Think like a queen. A queen is not afraid to fail. Failure is another steppingstone to greatness.
+要像女王一样思考, 女王不惧怕失败, 失败是通往卓越之路的踏脚石.
+```
+
+----
+Date: 2023.09.27
+```
+My sun sets to rise again.
+我的太阳西沉是为了再度升起.
+```
