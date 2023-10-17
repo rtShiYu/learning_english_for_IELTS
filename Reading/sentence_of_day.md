@@ -3690,3 +3690,11 @@ Date: 2023.10.17
 Always aim for achievement and forget about success.
 永远要争取做出成就, 别多考虑成功.
 ```
+
+
+---
+Date: 2023.10.18
+```
+Luck and opportunity also play an important role in success.
+运气和机遇也在成功中起着重要作用.
+```
