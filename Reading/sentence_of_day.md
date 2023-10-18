@@ -3698,3 +3698,10 @@ Date: 2023.10.18
 Luck and opportunity also play an important role in success.
 运气和机遇也在成功中起着重要作用.
 ```
+
+---
+Date: 2023.10.19
+```
+In prosperity our friends known us; in adversity we known our friends.
+得意时,朋友识我; 失意时, 我识朋友.
+```
