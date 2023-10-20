@@ -3705,3 +3705,10 @@ Date: 2023.10.19
 In prosperity our friends known us; in adversity we known our friends.
 得意时,朋友识我; 失意时, 我识朋友.
 ```
+
+---
+Date: 2023.10.20
+```
+Not ignorance, but the ignorance of ignorance, is the death of knowledge.
+不是无知本身, 而是对无知的无知, 才是知识的死亡.
+```
