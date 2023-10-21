@@ -3712,3 +3712,10 @@ Date: 2023.10.20
 Not ignorance, but the ignorance of ignorance, is the death of knowledge.
 不是无知本身, 而是对无知的无知, 才是知识的死亡.
 ```
+
+---
+Date: 2023.10.21
+```
+Beauty is how you feel inside, and it reflects in your eyes.
+美是一种内心感觉, 它会反映在你的眼睛里.
+```
