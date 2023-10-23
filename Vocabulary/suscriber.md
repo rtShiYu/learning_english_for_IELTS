@@ -5986,3 +5986,14 @@ faculty
 alphabetically
 lustre
 ```
+
+---
+Date: 2023.10.24
+```
+trim
+recede
+monetary
+interest rate
+captive
+kidnap
+```
