@@ -3726,3 +3726,10 @@ Date: 2023.10.22
 Kindness is a language which the deaf can hear and the blind can see.
 友善是一种语言, 失聪的人和失明的人也能感受.
 ```
+
+---
+Date: 2023.10.23
+```
+Old age is not a disease - it is strength and survivorship, triumph over all kinds of vicissitudes and disappointments, trials and illnesses.
+年老并非一种疾病, 而是一种坚韧与生存的力量, 是面对各种风风雨雨, 失望与困难, 考验与疾病的胜利.
+```
