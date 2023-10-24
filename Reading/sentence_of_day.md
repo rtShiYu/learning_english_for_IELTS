@@ -3733,3 +3733,10 @@ Date: 2023.10.23
 Old age is not a disease - it is strength and survivorship, triumph over all kinds of vicissitudes and disappointments, trials and illnesses.
 年老并非一种疾病, 而是一种坚韧与生存的力量, 是面对各种风风雨雨, 失望与困难, 考验与疾病的胜利.
 ```
+
+---
+Date: 2023.10.24
+```
+Have no fear of perfection, you'll never reach it.
+不要为十全十美担心, 你永远也做不到十全十美.
+```
