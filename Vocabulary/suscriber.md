@@ -5997,3 +5997,14 @@ interest rate
 captive
 kidnap
 ```
+
+---
+Date: 2023.10.25
+```
+off-duty
+attempt
+allegedly
+cockpit
+jump seat
+disrupt
+```

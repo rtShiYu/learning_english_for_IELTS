@@ -3740,3 +3740,11 @@ Date: 2023.10.24
 Have no fear of perfection, you'll never reach it.
 不要为十全十美担心, 你永远也做不到十全十美.
 ```
+
+
+---
+Date: 2023.10.25
+```
+Celebrate what you've accomplished, but raise the bar a little higher each time you succeed.
+庆祝你所取得的成就, 但在每次成功过后, 要把标准再拉高一点.
+```
