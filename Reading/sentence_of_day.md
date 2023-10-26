@@ -3748,3 +3748,10 @@ Date: 2023.10.25
 Celebrate what you've accomplished, but raise the bar a little higher each time you succeed.
 庆祝你所取得的成就, 但在每次成功过后, 要把标准再拉高一点.
 ```
+
+---
+Date: 2023.10.26
+```
+It matters not what you are thought to be, but what you are.
+重要的不是别人怎么看你, 而是你是怎样的人.
+```
