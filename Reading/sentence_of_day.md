@@ -3755,3 +3755,10 @@ Date: 2023.10.26
 It matters not what you are thought to be, but what you are.
 重要的不是别人怎么看你, 而是你是怎样的人.
 ```
+
+---
+Date: 2023.10.27
+```
+Our destiny offers not the cup of despair, but the chalice of opportunity.
+命运给予我们的不是失望之杯, 而是机会之杯.
+```
