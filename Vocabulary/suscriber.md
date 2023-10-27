@@ -6018,3 +6018,13 @@ tone
 comma
 contraction
 ```
+
+---
+Date: 2023.10.27
+```
+accuse
+involvement
+bombard
+victim
+kidnapping
+```
