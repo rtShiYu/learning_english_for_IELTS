@@ -3762,3 +3762,10 @@ Date: 2023.10.27
 Our destiny offers not the cup of despair, but the chalice of opportunity.
 命运给予我们的不是失望之杯, 而是机会之杯.
 ```
+
+---
+Date: 2023.10.28
+```
+It's only when you're pursued that you become swift.
+只有在被追赶时, 你才能真正的奔跑.
+```
