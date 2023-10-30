@@ -6048,3 +6048,14 @@ relief
 enclave
 coincide
 ```
+
+---
+Date: 2023.10.30
+```
+chiefly
+broaden
+horizon
+track
+collapse
+discorder
+```
