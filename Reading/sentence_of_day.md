@@ -3783,3 +3783,10 @@ Date: 2023.10.30
 The horizon of life is broadened chiefly by the enlargement of the heart.
 生活在地平线是随着心灵的开阔而变得宽广的.
 ```
+
+---
+Date: 2023.10.31
+```
+I would rather sit on a pumpkin, and have it all to myself, than be crowded on a valvet cushion.
+我宁愿坐在一只大南瓜上, 独享那片宁静, 也不愿拥挤地坐在天鹅电子上.
+```
