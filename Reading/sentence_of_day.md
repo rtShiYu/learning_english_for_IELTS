@@ -3683,3 +3683,110 @@ Date: 2023.09.27
 My sun sets to rise again.
 我的太阳西沉是为了再度升起.
 ```
+
+---
+Date: 2023.10.17
+```
+Always aim for achievement and forget about success.
+永远要争取做出成就, 别多考虑成功.
+```
+
+
+---
+Date: 2023.10.18
+```
+Luck and opportunity also play an important role in success.
+运气和机遇也在成功中起着重要作用.
+```
+
+---
+Date: 2023.10.19
+```
+In prosperity our friends known us; in adversity we known our friends.
+得意时,朋友识我; 失意时, 我识朋友.
+```
+
+---
+Date: 2023.10.20
+```
+Not ignorance, but the ignorance of ignorance, is the death of knowledge.
+不是无知本身, 而是对无知的无知, 才是知识的死亡.
+```
+
+---
+Date: 2023.10.21
+```
+Beauty is how you feel inside, and it reflects in your eyes.
+美是一种内心感觉, 它会反映在你的眼睛里.
+```
+
+---
+Date: 2023.10.22
+```
+Kindness is a language which the deaf can hear and the blind can see.
+友善是一种语言, 失聪的人和失明的人也能感受.
+```
+
+---
+Date: 2023.10.23
+```
+Old age is not a disease - it is strength and survivorship, triumph over all kinds of vicissitudes and disappointments, trials and illnesses.
+年老并非一种疾病, 而是一种坚韧与生存的力量, 是面对各种风风雨雨, 失望与困难, 考验与疾病的胜利.
+```
+
+---
+Date: 2023.10.24
+```
+Have no fear of perfection, you'll never reach it.
+不要为十全十美担心, 你永远也做不到十全十美.
+```
+
+
+---
+Date: 2023.10.25
+```
+Celebrate what you've accomplished, but raise the bar a little higher each time you succeed.
+庆祝你所取得的成就, 但在每次成功过后, 要把标准再拉高一点.
+```
+
+---
+Date: 2023.10.26
+```
+It matters not what you are thought to be, but what you are.
+重要的不是别人怎么看你, 而是你是怎样的人.
+```
+
+---
+Date: 2023.10.27
+```
+Our destiny offers not the cup of despair, but the chalice of opportunity.
+命运给予我们的不是失望之杯, 而是机会之杯.
+```
+
+---
+Date: 2023.10.28
+```
+It's only when you're pursued that you become swift.
+只有在被追赶时, 你才能真正的奔跑.
+```
+
+---
+Date: 2023.10.29
+```
+Today is a beautiful day. Whatever you want to do, seize the good time to do it.
+今天是个美好的日子, 无论你想做什么, 抓住这个好时光去做吧.
+```
+
+---
+Date: 2023.10.30
+```
+The horizon of life is broadened chiefly by the enlargement of the heart.
+生活在地平线是随着心灵的开阔而变得宽广的.
+```
+
+---
+Date: 2023.10.31
+```
+I would rather sit on a pumpkin, and have it all to myself, than be crowded on a valvet cushion.
+我宁愿坐在一只大南瓜上, 独享那片宁静, 也不愿拥挤地坐在天鹅电子上.
+```

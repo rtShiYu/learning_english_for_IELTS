@@ -5965,3 +5965,107 @@ limestone
 cave
 passion
 ```
+
+---
+Date: 2023.10.21
+```
+womb
+ovarian
+lottery
+pays off
+way-station
+ethnic
+```
+
+---
+Date: 2023.10.22
+```
+rationalmind
+tenure-track
+faculty
+alphabetically
+lustre
+```
+
+---
+Date: 2023.10.24
+```
+trim
+recede
+monetary
+interest rate
+captive
+kidnap
+```
+
+---
+Date: 2023.10.25
+```
+off-duty
+attempt
+allegedly
+cockpit
+jump seat
+disrupt
+```
+
+---
+Date: 2023.10.26
+```
+conclusion
+extensive
+tone
+comma
+contraction
+```
+
+---
+Date: 2023.10.27
+```
+accuse
+involvement
+bombard
+victim
+kidnapping
+```
+
+---
+Date: 2023.10.28
+```
+swift
+scary
+dramatically
+dispersed
+diverse
+```
+
+---
+Date: 2023.10.29
+```
+daunt
+rampage
+relief
+enclave
+coincide
+```
+
+---
+Date: 2023.10.30
+```
+chiefly
+broaden
+horizon
+track
+collapse
+discorder
+```
+
+---
+Date: 2023.10.31
+```
+pumpkin
+velvet
+cushion
+deficit
+struggle
+```
