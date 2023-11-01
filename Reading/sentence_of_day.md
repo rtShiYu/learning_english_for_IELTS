@@ -3790,3 +3790,10 @@ Date: 2023.10.31
 I would rather sit on a pumpkin, and have it all to myself, than be crowded on a valvet cushion.
 我宁愿坐在一只大南瓜上, 独享那片宁静, 也不愿拥挤地坐在天鹅电子上.
 ```
+
+---
+Date: 2023.11.01
+```
+I am a slow walker, but I never walk back.
+我走得很慢, 但是我从来不后退.
+```
