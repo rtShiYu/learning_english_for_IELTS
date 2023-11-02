@@ -3797,3 +3797,10 @@ Date: 2023.11.01
 I am a slow walker, but I never walk back.
 我走得很慢, 但是我从来不后退.
 ```
+
+---
+Date: 2023.11.02
+```
+You are not in charge of the universe; you are in charge of yourself.
+你并不掌管整个宇宙, 但掌管着自己.
+```

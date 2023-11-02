@@ -6080,3 +6080,13 @@ regular
 attendant
 grab
 ```
+
+---
+Date: 2023.11.02
+```
+proven
+accent
+apostrophe
+plural
+homophone
+```
