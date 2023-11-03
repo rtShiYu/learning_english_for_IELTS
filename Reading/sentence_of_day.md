@@ -3804,3 +3804,10 @@ Date: 2023.11.02
 You are not in charge of the universe; you are in charge of yourself.
 你并不掌管整个宇宙, 但掌管着自己.
 ```
+
+---
+Date: 2023.11.03
+```
+Better to light one candle than to curse the darness.
+与其诅咒黑暗, 不如燃起蜡烛.
+```

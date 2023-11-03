@@ -6090,3 +6090,13 @@ apostrophe
 plural
 homophone
 ```
+
+---
+Date: 2023.11.03
+```
+nascent
+offshore
+setback
+contract
+tunnel
+```
