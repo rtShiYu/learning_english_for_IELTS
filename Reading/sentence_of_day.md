@@ -3811,3 +3811,10 @@ Date: 2023.11.03
 Better to light one candle than to curse the darness.
 与其诅咒黑暗, 不如燃起蜡烛.
 ```
+
+---
+Date: 2023.11.04
+```
+Man cannot discover new oceans unless he has courage to lose sight of the shore.
+人只有鼓起勇气告别海岸, 才能发现新的海洋.
+```
