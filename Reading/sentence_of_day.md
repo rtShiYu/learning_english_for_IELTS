@@ -3818,3 +3818,10 @@ Date: 2023.11.04
 Man cannot discover new oceans unless he has courage to lose sight of the shore.
 人只有鼓起勇气告别海岸, 才能发现新的海洋.
 ```
+
+---
+Date: 2023.11.05
+```
+Beauty is when you can appreciate yourself. When you love yourself, that's when you are most beautiful.
+美就是欣赏自己. 你爱着自己的时候, 就是你最美丽的时候.
+```
