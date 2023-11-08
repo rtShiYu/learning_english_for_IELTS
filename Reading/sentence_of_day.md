@@ -3839,3 +3839,10 @@ Date: 2023.11.07
 Everybody is ignorant, only on different subjects.
 所有的人都是无知的, 只是对不同题材无知而已.
 ```
+
+---
+Date: 2023.11.08
+```
+Anything one man can imagine, other men can make real.
+人能想到的事物, 必定有人能将它实现.
+```
