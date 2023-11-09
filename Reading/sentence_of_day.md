@@ -3846,3 +3846,10 @@ Date: 2023.11.08
 Anything one man can imagine, other men can make real.
 人能想到的事物, 必定有人能将它实现.
 ```
+
+---
+Date: 2023.11.09
+```
+When I was young, I uesed to admire intelligent people; as I grow older, I admire kind people.
+年轻时, 我常常羡慕聪明的人; 随着年龄的增长, 我开始钦佩善良的人.
+```
