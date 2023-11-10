@@ -3853,3 +3853,10 @@ Date: 2023.11.09
 When I was young, I uesed to admire intelligent people; as I grow older, I admire kind people.
 年轻时, 我常常羡慕聪明的人; 随着年龄的增长, 我开始钦佩善良的人.
 ```
+
+---
+Date: 2023.11.10
+```
+A bird in the hand is worth two in the bush.
+一鸟在手胜过双鸟在林.
+```
