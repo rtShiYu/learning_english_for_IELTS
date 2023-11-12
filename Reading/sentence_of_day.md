@@ -3867,3 +3867,10 @@ Date: 2023.11.11
 Grow old along with me! The best is yet to be.
 和我一起慢慢变老吧! 最好的日子还在后头.
 ```
+
+---
+Date: 2023.11.12
+```
+You don't persuade people through intellect. You do it through emotion.
+说服别人靠的不是理智, 而是情感.
+```
