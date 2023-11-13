@@ -3874,3 +3874,10 @@ Date: 2023.11.12
 You don't persuade people through intellect. You do it through emotion.
 说服别人靠的不是理智, 而是情感.
 ```
+
+---
+Date: 2023.11.13
+```
+Civility costs nothing, and buys everything.
+礼貌无需代价, 却能买到一切.
+```
