@@ -3881,3 +3881,10 @@ Date: 2023.11.13
 Civility costs nothing, and buys everything.
 礼貌无需代价, 却能买到一切.
 ```
+
+---
+Date: 2023.11.14
+```
+Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.
+要有一颗永不变硬的心, 一副永不厌倦的脾气, 以及一种永不伤人的风格.
+```
