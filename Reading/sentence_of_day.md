@@ -3888,3 +3888,10 @@ Date: 2023.11.14
 Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.
 要有一颗永不变硬的心, 一副永不厌倦的脾气, 以及一种永不伤人的风格.
 ```
+
+---
+Date: 2023.11.15
+```
+Practical wisdom is only to be learned in the school of experience.
+实用知识只是只有通过亲身体验才能学到.
+```
