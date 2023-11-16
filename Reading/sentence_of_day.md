@@ -3895,3 +3895,10 @@ Date: 2023.11.15
 Practical wisdom is only to be learned in the school of experience.
 实用知识只是只有通过亲身体验才能学到.
 ```
+
+---
+Date: 2023.11.16
+```
+Books are the ever-burning lamps of accumulated wisdom.
+书籍是积累智慧的明灯.
+```
