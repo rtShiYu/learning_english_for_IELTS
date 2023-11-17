@@ -3902,3 +3902,10 @@ Date: 2023.11.16
 Books are the ever-burning lamps of accumulated wisdom.
 书籍是积累智慧的明灯.
 ```
+
+---
+Date: 2023.11.17
+```
+Civility is not a sign of weakness, and sincerity is always subject to proof.
+礼貌不是软弱的表现, 真诚总是有待证明.
+```
