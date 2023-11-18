@@ -3909,3 +3909,11 @@ Date: 2023.11.17
 Civility is not a sign of weakness, and sincerity is always subject to proof.
 礼貌不是软弱的表现, 真诚总是有待证明.
 ```
+
+
+--
+Date: 2023.11.18
+```
+Eat to live, but do not live to eat.
+吃饭是为了活着, 但活着不是为了吃饭.
+```
