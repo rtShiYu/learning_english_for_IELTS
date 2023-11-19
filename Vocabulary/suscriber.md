@@ -6242,3 +6242,14 @@ starship
 integrated
 membership
 ```
+
+---
+Date: 2023.11.19
+```
+permanent
+rug
+cape
+spot
+crap
+rehab
+```

@@ -3917,3 +3917,10 @@ Date: 2023.11.18
 Eat to live, but do not live to eat.
 吃饭是为了活着, 但活着不是为了吃饭.
 ```
+
+---
+Date: 2023.11.19
+```
+Every man is the master of his own fortune.
+每个人都主宰着自己的命运.
+```
