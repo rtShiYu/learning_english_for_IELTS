@@ -3924,3 +3924,10 @@ Date: 2023.11.19
 Every man is the master of his own fortune.
 每个人都主宰着自己的命运.
 ```
+
+---
+Date: 2023.11.20
+```
+Talking mush about oneself can also be a means to conceal oneself.
+过多地谈论自己也可能是隐藏自己的一种手段.
+```
