@@ -3931,3 +3931,10 @@ Date: 2023.11.20
 Talking mush about oneself can also be a means to conceal oneself.
 过多地谈论自己也可能是隐藏自己的一种手段.
 ```
+
+---
+Date: 2023.11.21
+```
+Nothing in all the world is more dangerous than sincere ignorance and conscientious stupidity.
+世界上再也没有比纯粹的无知和认真的愚蠢更危险的了.
+```
