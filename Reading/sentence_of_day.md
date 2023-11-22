@@ -3938,3 +3938,10 @@ Date: 2023.11.21
 Nothing in all the world is more dangerous than sincere ignorance and conscientious stupidity.
 世界上再也没有比纯粹的无知和认真的愚蠢更危险的了.
 ```
+
+---
+Date: 2023.11.22
+```
+Winter forms our character and brings out our best.
+冬天锤炼我们的品格, 激发我们的潜能.
+```
