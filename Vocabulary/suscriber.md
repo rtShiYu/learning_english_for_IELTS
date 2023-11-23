@@ -6284,3 +6284,14 @@ ease
 tunnel
 tier
 ```
+
+---
+Date: 2023.11.23
+```
+blossom
+go up to
+fortune
+participle
+dangling
+pursuit
+```
