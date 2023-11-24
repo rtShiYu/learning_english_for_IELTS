@@ -3952,3 +3952,10 @@ Date: 2023.11.23
 Gratitude is the fairest blossom which springs from the soul.
 感恩是从灵魂中发芽的最美丽的花朵.
 ```
+
+---
+Date: 2023.11.24
+```
+It is better to waste one's youth than to do nothing with it at all.
+年轻时做一点儿事要比什么事也不做好.
+```

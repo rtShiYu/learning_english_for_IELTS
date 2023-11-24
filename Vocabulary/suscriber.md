@@ -6295,3 +6295,14 @@ participle
 dangling
 pursuit
 ```
+
+---
+Date: 2023.11.24
+```
+clash
+fallout
+endorsement
+candid
+slam
+antisemitic
+```
