@@ -3959,3 +3959,10 @@ Date: 2023.11.24
 It is better to waste one's youth than to do nothing with it at all.
 年轻时做一点儿事要比什么事也不做好.
 ```
+
+---
+Date: 2023.11.25
+```
+Courage is resistance to fear, mastery of fear not absence of feat.
+勇敢并非没有恐惧, 而是克服恐惧, 战胜恐惧.
+```
