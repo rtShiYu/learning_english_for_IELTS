@@ -6306,3 +6306,24 @@ candid
 slam
 antisemitic
 ```
+
+---
+Date: 2023.11.25
+```
+top brass
+frantic
+shenanigans
+startup
+catapult
+glory
+```
+
+---
+Date: 2023.11.26
+```
+weirdness
+episode
+disturbing
+weird
+conspirator
+```

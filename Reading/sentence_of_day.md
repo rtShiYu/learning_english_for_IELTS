@@ -3966,3 +3966,9 @@ Date: 2023.11.25
 Courage is resistance to fear, mastery of fear not absence of feat.
 勇敢并非没有恐惧, 而是克服恐惧, 战胜恐惧.
 ```
+
+---
+Date: 2023.11.26
+```
+Snowflakes are one of nature's most fragile things, but just look at what they can do when they stick together.
+```
