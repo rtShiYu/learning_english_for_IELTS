@@ -3972,3 +3972,10 @@ Date: 2023.11.26
 ```
 Snowflakes are one of nature's most fragile things, but just look at what they can do when they stick together.
 ```
+
+---
+Date: 2023.11.27
+```
+We have no more right to consume happiness without producing it than to consume wealth without producing it.
+正像我们无权只享受财富而不创造财富一样, 不创造幸福的人无权想用幸福.
+```
