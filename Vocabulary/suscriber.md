@@ -6337,3 +6337,10 @@ stick
 wealth
 chamfer
 ```
+
+---
+Date: 2023.11.28
+```
+Almost anything is easier to get into than to get out of.
+几乎所有的事情都是进去容易退出难.
+```
