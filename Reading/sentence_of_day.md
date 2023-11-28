@@ -3979,3 +3979,10 @@ Date: 2023.11.27
 We have no more right to consume happiness without producing it than to consume wealth without producing it.
 正像我们无权只享受财富而不创造财富一样, 不创造幸福的人无权想用幸福.
 ```
+
+---
+Date: 2023.11.28
+```
+Almost anything is easier to get into than to get out of.
+几乎所有的事情都是进去容易退出难.
+```
