@@ -6347,3 +6347,10 @@ curtail
 gallery
 concert
 ```
+
+---
+Date: 2023.11.29
+```
+You could cover the whole earth with asphalt, but sooner or later green grass would break through.
+哪怕沥青覆盖了整个地球, 绿草迟早会冲破障碍茁壮成长.
+```
