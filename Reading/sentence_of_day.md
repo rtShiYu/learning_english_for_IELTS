@@ -3986,3 +3986,10 @@ Date: 2023.11.28
 Almost anything is easier to get into than to get out of.
 几乎所有的事情都是进去容易退出难.
 ```
+
+---
+Date: 2023.11.29
+```
+You could cover the whole earth with asphalt, but sooner or later green grass would break through.
+哪怕沥青覆盖了整个地球, 绿草迟早会冲破障碍茁壮成长.
+```
