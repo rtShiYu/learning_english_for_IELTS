@@ -3993,3 +3993,10 @@ Date: 2023.11.29
 You could cover the whole earth with asphalt, but sooner or later green grass would break through.
 哪怕沥青覆盖了整个地球, 绿草迟早会冲破障碍茁壮成长.
 ```
+
+---
+Date: 2023.11.30
+```
+We may give advice, but we can't give conduct.
+我们可以给忠告, 但是我们不能给指挥.
+```
