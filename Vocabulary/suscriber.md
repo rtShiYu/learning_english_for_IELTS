@@ -6368,3 +6368,13 @@ pace
 sidekick
 foil
 ```
+
+---
+Date: 2023.12.01
+```
+superior
+inferior
+conscience
+depleted
+sustainable
+```

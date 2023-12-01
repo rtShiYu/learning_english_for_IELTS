@@ -4000,3 +4000,10 @@ Date: 2023.11.30
 We may give advice, but we can't give conduct.
 我们可以给忠告, 但是我们不能给指挥.
 ```
+
+---
+Date: 2023.12.01
+```
+I think you can leave the arts, superior or inferior, to the conscience of mankind.
+我认为艺术作品, 无论是优秀还是平庸, 都可以交给人类的良知去评判.
+```
