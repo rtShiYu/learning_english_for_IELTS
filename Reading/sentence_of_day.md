@@ -3790,3 +3790,213 @@ Date: 2023.10.31
 I would rather sit on a pumpkin, and have it all to myself, than be crowded on a valvet cushion.
 我宁愿坐在一只大南瓜上, 独享那片宁静, 也不愿拥挤地坐在天鹅电子上.
 ```
+
+---
+Date: 2023.11.01
+```
+I am a slow walker, but I never walk back.
+我走得很慢, 但是我从来不后退.
+```
+
+---
+Date: 2023.11.02
+```
+You are not in charge of the universe; you are in charge of yourself.
+你并不掌管整个宇宙, 但掌管着自己.
+```
+
+---
+Date: 2023.11.03
+```
+Better to light one candle than to curse the darness.
+与其诅咒黑暗, 不如燃起蜡烛.
+```
+
+---
+Date: 2023.11.04
+```
+Man cannot discover new oceans unless he has courage to lose sight of the shore.
+人只有鼓起勇气告别海岸, 才能发现新的海洋.
+```
+
+---
+Date: 2023.11.05
+```
+Beauty is when you can appreciate yourself. When you love yourself, that's when you are most beautiful.
+美就是欣赏自己. 你爱着自己的时候, 就是你最美丽的时候.
+```
+
+---
+Date: 2023.11.06
+```
+Magic is believing in yourself. If you can make that happen, you can make anything happen.
+魔法就是相信自己, 如果你能做到这一点, 你就能让任何事情发生.
+```
+
+---
+Date: 2023.11.07
+```
+Everybody is ignorant, only on different subjects.
+所有的人都是无知的, 只是对不同题材无知而已.
+```
+
+---
+Date: 2023.11.08
+```
+Anything one man can imagine, other men can make real.
+人能想到的事物, 必定有人能将它实现.
+```
+
+---
+Date: 2023.11.09
+```
+When I was young, I uesed to admire intelligent people; as I grow older, I admire kind people.
+年轻时, 我常常羡慕聪明的人; 随着年龄的增长, 我开始钦佩善良的人.
+```
+
+---
+Date: 2023.11.10
+```
+A bird in the hand is worth two in the bush.
+一鸟在手胜过双鸟在林.
+```
+
+---
+Date: 2023.11.11
+```
+Grow old along with me! The best is yet to be.
+和我一起慢慢变老吧! 最好的日子还在后头.
+```
+
+---
+Date: 2023.11.12
+```
+You don't persuade people through intellect. You do it through emotion.
+说服别人靠的不是理智, 而是情感.
+```
+
+---
+Date: 2023.11.13
+```
+Civility costs nothing, and buys everything.
+礼貌无需代价, 却能买到一切.
+```
+
+---
+Date: 2023.11.14
+```
+Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.
+要有一颗永不变硬的心, 一副永不厌倦的脾气, 以及一种永不伤人的风格.
+```
+
+---
+Date: 2023.11.15
+```
+Practical wisdom is only to be learned in the school of experience.
+实用知识只是只有通过亲身体验才能学到.
+```
+
+---
+Date: 2023.11.16
+```
+Books are the ever-burning lamps of accumulated wisdom.
+书籍是积累智慧的明灯.
+```
+
+---
+Date: 2023.11.17
+```
+Civility is not a sign of weakness, and sincerity is always subject to proof.
+礼貌不是软弱的表现, 真诚总是有待证明.
+```
+
+
+--
+Date: 2023.11.18
+```
+Eat to live, but do not live to eat.
+吃饭是为了活着, 但活着不是为了吃饭.
+```
+
+---
+Date: 2023.11.19
+```
+Every man is the master of his own fortune.
+每个人都主宰着自己的命运.
+```
+
+---
+Date: 2023.11.20
+```
+Talking mush about oneself can also be a means to conceal oneself.
+过多地谈论自己也可能是隐藏自己的一种手段.
+```
+
+---
+Date: 2023.11.21
+```
+Nothing in all the world is more dangerous than sincere ignorance and conscientious stupidity.
+世界上再也没有比纯粹的无知和认真的愚蠢更危险的了.
+```
+
+---
+Date: 2023.11.22
+```
+Winter forms our character and brings out our best.
+冬天锤炼我们的品格, 激发我们的潜能.
+```
+
+---
+Date: 2023.11.23
+```
+Gratitude is the fairest blossom which springs from the soul.
+感恩是从灵魂中发芽的最美丽的花朵.
+```
+
+---
+Date: 2023.11.24
+```
+It is better to waste one's youth than to do nothing with it at all.
+年轻时做一点儿事要比什么事也不做好.
+```
+
+---
+Date: 2023.11.25
+```
+Courage is resistance to fear, mastery of fear not absence of feat.
+勇敢并非没有恐惧, 而是克服恐惧, 战胜恐惧.
+```
+
+---
+Date: 2023.11.26
+```
+Snowflakes are one of nature's most fragile things, but just look at what they can do when they stick together.
+```
+
+---
+Date: 2023.11.27
+```
+We have no more right to consume happiness without producing it than to consume wealth without producing it.
+正像我们无权只享受财富而不创造财富一样, 不创造幸福的人无权想用幸福.
+```
+
+---
+Date: 2023.11.28
+```
+Almost anything is easier to get into than to get out of.
+几乎所有的事情都是进去容易退出难.
+```
+
+---
+Date: 2023.11.29
+```
+You could cover the whole earth with asphalt, but sooner or later green grass would break through.
+哪怕沥青覆盖了整个地球, 绿草迟早会冲破障碍茁壮成长.
+```
+
+---
+Date: 2023.11.30
+```
+We may give advice, but we can't give conduct.
+我们可以给忠告, 但是我们不能给指挥.
+```

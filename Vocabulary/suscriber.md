@@ -6069,3 +6069,302 @@ cushion
 deficit
 struggle
 ```
+
+---
+Date: 2023.11.01
+```
+escalator
+departure
+tunnel
+regular
+attendant
+grab
+```
+
+---
+Date: 2023.11.02
+```
+proven
+accent
+apostrophe
+plural
+homophone
+```
+
+---
+Date: 2023.11.03
+```
+nascent
+offshore
+setback
+contract
+tunnel
+```
+
+---
+Date: 2023.11.04
+```
+continental
+bankruptcy
+radical
+optimal
+commodity
+```
+
+---
+Date: 2023.11.05
+```
+weigh
+convict
+inner
+inherently
+rogue
+woe
+```
+
+---
+Date: 2023.11.06
+```
+bickering
+belt
+crow
+grind
+gnaw
+```
+
+---
+Date: 2023.11.07
+```
+upright
+vertical
+nap
+unveil
+alertness
+```
+
+---
+Date: 2023.11.08
+```
+reveal
+bizarre
+shuteye(sleep)
+grab
+mattress
+healthcare
+```
+
+---
+Date: 2023.11.09
+```
+testify
+testimony
+courtroom
+oversee
+fraudulently
+```
+
+---
+Date: 2023.11.11
+```
+household
+census
+roof
+glut
+strait
+```
+
+---
+Date: 2023.11.12
+```
+reunified
+substantial
+sizable
+desperate
+bloody
+```
+
+Date: 2023.11.13
+```
+restore
+rejection
+merge
+criticize
+stealth
+```
+
+---
+Date: 2023.11.14
+```
+cog
+steel
+forge
+polish
+countless
+```
+
+---
+Date: 2023.11.15
+```
+trick
+spider
+intricate
+woven
+masterpiece
+```
+
+---
+Date: 2023.11.16
+````
+thaw
+sentiment
+beaten-down
+asset
+synthetic
+```
+
+---
+Date: 2023.11.17
+```
+first-ever
+conduct
+ethical
+diminish
+dispel
+unrestricted
+```
+
+---
+Date: 2023.11.18
+```
+hype
+methane
+starship
+integrated
+membership
+```
+
+---
+Date: 2023.11.19
+```
+permanent
+rug
+cape
+spot
+crap
+rehab
+```
+
+---
+Date: 2023.11.20
+```
+strike a deal
+combat
+underscore
+repprochement
+pleasantry
+```
+
+---
+Date: 2023.11.21
+```
+sincere
+conscientious
+ignorance
+scotch
+upended
+turmoil
+```
+
+---
+Date: 2023.11.22
+```
+false start
+congestion
+ease
+tunnel
+tier
+```
+
+---
+Date: 2023.11.23
+```
+blossom
+go up to
+fortune
+participle
+dangling
+pursuit
+```
+
+---
+Date: 2023.11.24
+```
+clash
+fallout
+endorsement
+candid
+slam
+antisemitic
+```
+
+---
+Date: 2023.11.25
+```
+top brass
+frantic
+shenanigans
+startup
+catapult
+glory
+```
+
+---
+Date: 2023.11.26
+```
+weirdness
+episode
+disturbing
+weird
+conspirator
+```
+
+---
+Date: 2023.11.27
+```
+trim
+fragile
+stick
+wealth
+chamfer
+```
+
+---
+Date: 2023.11.28
+```
+frugal
+hang tough
+curtail
+gallery
+concert
+```
+
+---
+Date: 2023.11.29
+```
+asphalt
+lauder
+dean
+enlist
+homemaker
+corporate
+```
+
+---
+Date: 2023.11.30
+```
+alter
+ego
+pace
+sidekick
+foil
+```
