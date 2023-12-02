@@ -4007,3 +4007,10 @@ Date: 2023.12.01
 I think you can leave the arts, superior or inferior, to the conscience of mankind.
 我认为艺术作品, 无论是优秀还是平庸, 都可以交给人类的良知去评判.
 ```
+
+---
+Date: 2023.12.02
+```
+What's important is trying to be the best and working to get there. And that's how you fulfill your potential.
+企图成为最好的并往那个方向努力才是最重要的, 那是发挥你潜力的方法.
+```
