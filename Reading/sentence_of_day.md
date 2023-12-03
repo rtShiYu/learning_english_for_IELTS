@@ -4014,3 +4014,10 @@ Date: 2023.12.02
 What's important is trying to be the best and working to get there. And that's how you fulfill your potential.
 企图成为最好的并往那个方向努力才是最重要的, 那是发挥你潜力的方法.
 ```
+
+---
+Date: 2023.12.03
+```
+I can resist everything except temptation.
+我能抵制一切, 除了诱惑.
+```
