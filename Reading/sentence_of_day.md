@@ -4028,3 +4028,10 @@ Date: 2023.12.04
 There is but one step from the sublime to the rediculous.
 崇高与荒谬仅一步之遥.
 ```
+
+---
+Date: 2023.12.04
+```
+Chance favours the minds that are prepared.
+机会只愿惠顾做好准备的人.
+```
