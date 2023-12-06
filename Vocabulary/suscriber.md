@@ -6419,3 +6419,13 @@ rally
 constitute
 setback
 ```
+
+---
+Date: 2023.12.06
+```
+collapses
+scandal
+high-profile
+frenzied
+speculation
+```
