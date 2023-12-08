@@ -4049,3 +4049,10 @@ Date: 2023.12.07
 Snow provokes responses that reach right back to childhood.
 雪总勾起儿时记忆和情感.
 ```
+
+---
+Date: 2023.12.08
+```
+The secret of staying young is to live honestly, eat slowly, and lie about your age.
+保持年轻的秘诀就是诚实生活, 慢慢享受美食, 还有谎报年龄.
+```
