@@ -4056,3 +4056,10 @@ Date: 2023.12.08
 The secret of staying young is to live honestly, eat slowly, and lie about your age.
 保持年轻的秘诀就是诚实生活, 慢慢享受美食, 还有谎报年龄.
 ```
+
+---
+Date: 2023.12.09
+```
+Be it ever so humble, there is no place like home.
+金窝, 银窝, 不如自家的草窝.
+```
