@@ -4063,3 +4063,10 @@ Date: 2023.12.09
 Be it ever so humble, there is no place like home.
 金窝, 银窝, 不如自家的草窝.
 ```
+
+---
+Date: 2023.12.10
+```
+A little of everything, and nothing at all.
+每事浅尝辄止, 结果将一事无成.
+```
