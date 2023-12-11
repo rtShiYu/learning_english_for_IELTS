@@ -4070,3 +4070,14 @@ Date: 2023.12.10
 A little of everything, and nothing at all.
 每事浅尝辄止, 结果将一事无成.
 ```
+
+---
+Date: 2023.12.11
+```
+savor
+laying
+groundwork
+affirmative
+mortgage
+all but
+```
