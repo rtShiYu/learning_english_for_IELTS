@@ -4074,10 +4074,6 @@ A little of everything, and nothing at all.
 ---
 Date: 2023.12.11
 ```
-savor
-laying
-groundwork
-affirmative
-mortgage
-all but
+Dare and world always yields. If it beats you sometimes, dare it again and again and it will succumb.
+你勇敢, 世界就会让步. 如果你战胜了你, 你不断地勇敢在勇敢, 它就会屈服.
 ```
