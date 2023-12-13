@@ -4084,3 +4084,10 @@ Date: 2023.12.12
 All the beautiful sentiments in the world weigh less than a single lovely action.
 世间所有美丽的情感抵不过一次实际行动.
 ```
+
+---
+Date: 2023.12.13
+```
+Believe you can and you’re halfway there.
+相信你可以, 你则成功了一半.
+```

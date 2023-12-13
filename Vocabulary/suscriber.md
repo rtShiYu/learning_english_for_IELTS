@@ -6481,3 +6481,15 @@ longstanding
 pregnancy
 sustain
 ```
+
+---
+Date: 2023.12.13
+```
+canonical
+supreme
+ceasefire
+diplomat
+relent
+relentless
+hostage
+```
