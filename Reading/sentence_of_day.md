@@ -4091,3 +4091,10 @@ Date: 2023.12.13
 Believe you can and you’re halfway there.
 相信你可以, 你则成功了一半.
 ```
+
+---
+Date: 2023.12.14
+```
+Every production of an artist should be the expression of an adventure of his soul.
+艺术家的每一个作品都是他灵魂冒险的表现.
+```

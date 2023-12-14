@@ -6493,3 +6493,14 @@ relent
 relentless
 hostage
 ```
+
+---
+Date: 2023.12.14
+```
+improper
+cropped
+fraud
+defraud
+conspiracy
+bribery
+```
