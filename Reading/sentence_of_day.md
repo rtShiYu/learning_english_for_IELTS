@@ -4098,3 +4098,10 @@ Date: 2023.12.14
 Every production of an artist should be the expression of an adventure of his soul.
 艺术家的每一个作品都是他灵魂冒险的表现.
 ```
+
+---
+Date: 2023.12.15
+```
+Seeing much, suffering much, and studying much, are the three pillars of learning.
+多观察, 多吃苦, 多研究是求学的三大支柱.
+```
