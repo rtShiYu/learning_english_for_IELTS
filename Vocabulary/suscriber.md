@@ -6514,3 +6514,15 @@ cease
 wrap
 continue
 ```
+
+---
+Date: 2023.12.16
+```
+delagation
+entrust
+subordinate
+six-pack
+hand off
+all round
+autonomy
+```

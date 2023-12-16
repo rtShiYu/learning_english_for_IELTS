@@ -4105,3 +4105,9 @@ Date: 2023.12.15
 Seeing much, suffering much, and studying much, are the three pillars of learning.
 多观察, 多吃苦, 多研究是求学的三大支柱.
 ```
+
+Date: 2023.12.16
+```
+If I have seen further, it is by standing on the shoulders of gaiants.
+如果我能看得更远, 是因为站在巨人的肩膀上.
+```
