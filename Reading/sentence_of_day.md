@@ -4111,3 +4111,10 @@ Date: 2023.12.16
 If I have seen further, it is by standing on the shoulders of gaiants.
 如果我能看得更远, 是因为站在巨人的肩膀上.
 ```
+
+---
+Date: 2023.12.17
+```
+If you want to kill any idea in the world, get a committee working on it.
+想要扼杀世界上任何一个创意, 那就组织一个委员会来研究它吧.
+```
