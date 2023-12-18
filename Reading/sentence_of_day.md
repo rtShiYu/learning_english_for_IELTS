@@ -4118,3 +4118,10 @@ Date: 2023.12.17
 If you want to kill any idea in the world, get a committee working on it.
 想要扼杀世界上任何一个创意, 那就组织一个委员会来研究它吧.
 ```
+
+---
+Date: 2023.12.18
+```
+We don't see things as they are, we see them as we are.
+我们所看见的不是实物的本质, 而是以自己的方式在看待它.
+```
