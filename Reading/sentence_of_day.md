@@ -4125,3 +4125,10 @@ Date: 2023.12.18
 We don't see things as they are, we see them as we are.
 我们所看见的不是实物的本质, 而是以自己的方式在看待它.
 ```
+
+---
+Date: 2023.12.19
+```
+Love should be a tree whose roots are deep in the earth, but whose branches extend into heaven.
+爱应该像一颗树, 根植与沃土, 枝条伸向无限苍穹.
+```
