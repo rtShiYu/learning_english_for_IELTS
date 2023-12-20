@@ -4132,3 +4132,10 @@ Date: 2023.12.19
 Love should be a tree whose roots are deep in the earth, but whose branches extend into heaven.
 爱应该像一颗树, 根植与沃土, 枝条伸向无限苍穹.
 ```
+
+---
+Date: 2023.12.20
+```
+You shall judge a man by his foes as well as by his friends.
+你要判断一个的为人, 可以通过他的朋友, 也可以通过他的敌人.
+```
