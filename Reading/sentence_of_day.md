@@ -4139,3 +4139,10 @@ Date: 2023.12.20
 You shall judge a man by his foes as well as by his friends.
 你要判断一个的为人, 可以通过他的朋友, 也可以通过他的敌人.
 ```
+
+---
+Date: 2023.12.21
+```
+For every minute you are angry you lose sixty seconds of happiness.
+你每发怒一分钟, 也就失去了六十秒的幸福.
+```
