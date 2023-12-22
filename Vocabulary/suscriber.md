@@ -6566,3 +6566,13 @@ escalation
 arrest
 ballot
 ```
+
+---
+Date: 2023.12.22
+```
+militia
+merchant
+vessel
+warship
+snarl
+```
