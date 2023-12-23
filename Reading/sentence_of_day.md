@@ -4153,3 +4153,10 @@ Date: 2023.12.22
 Silently, like thoughts that come and go, the snowflakes fall, each one a gem.
 无声地, 就像流转的思绪, 雪花纷纷落下, 每一片都是珍宝.
 ```
+
+---
+Date: 2023.12.23
+```
+Optimists are right. Pessimists are right. It's up to you to choose which you will be.
+乐观者是对的, 悲观者也是对的. 你自己决定你想成为怎样的人.
+```
