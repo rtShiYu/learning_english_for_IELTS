@@ -4179,3 +4179,10 @@ Date: 2023.12.26
 If you want to go fast, go alone. If you want to go far, go together.
 一个人可以走很快, 一群人可以走很远.
 ```
+
+---
+Date: 2023.12.27
+```
+When the great thinker despises mankind, he despises its laziness.
+伟大的思想家蔑视人类时, 它所蔑视的是人类的懒惰.
+```
