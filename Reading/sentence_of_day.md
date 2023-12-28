@@ -4186,3 +4186,10 @@ Date: 2023.12.27
 When the great thinker despises mankind, he despises its laziness.
 伟大的思想家蔑视人类时, 它所蔑视的是人类的懒惰.
 ```
+
+---
+Date: 2023.12.28
+```
+Today, the New Year's money is put into a red envelope called the red package.
+现在, 人们把压岁钱放入信封, 称之为红包.
+```
