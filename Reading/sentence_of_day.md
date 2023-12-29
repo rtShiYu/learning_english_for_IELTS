@@ -4193,3 +4193,10 @@ Date: 2023.12.28
 Today, the New Year's money is put into a red envelope called the red package.
 现在, 人们把压岁钱放入信封, 称之为红包.
 ```
+
+---
+Date: 2023.12.29
+```
+What I've really learned over time is that optimism is a very, very important part of leadership.
+我在过去真正学到的是, 乐观是领导非常, 非常重要的一环.
+```
