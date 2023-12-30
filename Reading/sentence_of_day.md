@@ -4200,3 +4200,10 @@ Date: 2023.12.29
 What I've really learned over time is that optimism is a very, very important part of leadership.
 我在过去真正学到的是, 乐观是领导非常, 非常重要的一环.
 ```
+
+---
+Date: 2023.12.30
+```
+Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
+勇气是能站起来侃侃而谈, 勇气也是能坐下来静静倾听.
+```
