@@ -4207,3 +4207,10 @@ Date: 2023.12.30
 Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
 勇气是能站起来侃侃而谈, 勇气也是能坐下来静静倾听.
 ```
+
+---
+Date: 2023.12.31
+```
+Satisfaction lies in the effort, not in the attainment.
+满足感的源头在于不断努力, 而不是现有的成就.
+```
