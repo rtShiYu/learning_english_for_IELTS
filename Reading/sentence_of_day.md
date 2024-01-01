@@ -4021,3 +4021,196 @@ Date: 2023.12.03
 I can resist everything except temptation.
 我能抵制一切, 除了诱惑.
 ```
+
+---
+Date: 2023.12.04
+```
+There is but one step from the sublime to the rediculous.
+崇高与荒谬仅一步之遥.
+```
+
+---
+Date: 2023.12.05
+```
+Chance favours the minds that are prepared.
+机会只愿惠顾做好准备的人.
+```
+
+---
+Date: 2023.12.06
+```
+Together for a Shared Future!
+一起向未来！
+```
+
+---
+Date: 2023.12.07
+```
+Snow provokes responses that reach right back to childhood.
+雪总勾起儿时记忆和情感.
+```
+
+---
+Date: 2023.12.08
+```
+The secret of staying young is to live honestly, eat slowly, and lie about your age.
+保持年轻的秘诀就是诚实生活, 慢慢享受美食, 还有谎报年龄.
+```
+
+---
+Date: 2023.12.09
+```
+Be it ever so humble, there is no place like home.
+金窝, 银窝, 不如自家的草窝.
+```
+
+---
+Date: 2023.12.10
+```
+A little of everything, and nothing at all.
+每事浅尝辄止, 结果将一事无成.
+```
+
+---
+Date: 2023.12.11
+```
+Dare and world always yields. If it beats you sometimes, dare it again and again and it will succumb.
+你勇敢, 世界就会让步. 如果你战胜了你, 你不断地勇敢在勇敢, 它就会屈服.
+```
+
+---
+Date: 2023.12.12
+```
+All the beautiful sentiments in the world weigh less than a single lovely action.
+世间所有美丽的情感抵不过一次实际行动.
+```
+
+---
+Date: 2023.12.13
+```
+Believe you can and you’re halfway there.
+相信你可以, 你则成功了一半.
+```
+
+---
+Date: 2023.12.14
+```
+Every production of an artist should be the expression of an adventure of his soul.
+艺术家的每一个作品都是他灵魂冒险的表现.
+```
+
+---
+Date: 2023.12.15
+```
+Seeing much, suffering much, and studying much, are the three pillars of learning.
+多观察, 多吃苦, 多研究是求学的三大支柱.
+```
+
+Date: 2023.12.16
+```
+If I have seen further, it is by standing on the shoulders of gaiants.
+如果我能看得更远, 是因为站在巨人的肩膀上.
+```
+
+---
+Date: 2023.12.17
+```
+If you want to kill any idea in the world, get a committee working on it.
+想要扼杀世界上任何一个创意, 那就组织一个委员会来研究它吧.
+```
+
+---
+Date: 2023.12.18
+```
+We don't see things as they are, we see them as we are.
+我们所看见的不是实物的本质, 而是以自己的方式在看待它.
+```
+
+---
+Date: 2023.12.19
+```
+Love should be a tree whose roots are deep in the earth, but whose branches extend into heaven.
+爱应该像一颗树, 根植与沃土, 枝条伸向无限苍穹.
+```
+
+---
+Date: 2023.12.20
+```
+You shall judge a man by his foes as well as by his friends.
+你要判断一个的为人, 可以通过他的朋友, 也可以通过他的敌人.
+```
+
+---
+Date: 2023.12.21
+```
+For every minute you are angry you lose sixty seconds of happiness.
+你每发怒一分钟, 也就失去了六十秒的幸福.
+```
+
+---
+Date: 2023.12.22
+```
+Silently, like thoughts that come and go, the snowflakes fall, each one a gem.
+无声地, 就像流转的思绪, 雪花纷纷落下, 每一片都是珍宝.
+```
+
+---
+Date: 2023.12.23
+```
+Optimists are right. Pessimists are right. It's up to you to choose which you will be.
+乐观者是对的, 悲观者也是对的. 你自己决定你想成为怎样的人.
+```
+
+Date: 2023.12.24
+```
+Chrismas eve blessing, for you around.
+平安夜的祝福, 为你围绕.
+```
+
+Date: 2023.12.25
+```
+Christmas waves a magic wand over this world, and behold, everything is softer and more beautiful.
+圣诞节对着这个世界挥舞了一下魔杖, 看呐, 一切都变得柔软而美丽.
+```
+
+---
+Date: 2023.12.26
+```
+If you want to go fast, go alone. If you want to go far, go together.
+一个人可以走很快, 一群人可以走很远.
+```
+
+---
+Date: 2023.12.27
+```
+When the great thinker despises mankind, he despises its laziness.
+伟大的思想家蔑视人类时, 它所蔑视的是人类的懒惰.
+```
+
+---
+Date: 2023.12.28
+```
+Today, the New Year's money is put into a red envelope called the red package.
+现在, 人们把压岁钱放入信封, 称之为红包.
+```
+
+---
+Date: 2023.12.29
+```
+What I've really learned over time is that optimism is a very, very important part of leadership.
+我在过去真正学到的是, 乐观是领导非常, 非常重要的一环.
+```
+
+---
+Date: 2023.12.30
+```
+Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
+勇气是能站起来侃侃而谈, 勇气也是能坐下来静静倾听.
+```
+
+---
+Date: 2023.12.31
+```
+Satisfaction lies in the effort, not in the attainment.
+满足感的源头在于不断努力, 而不是现有的成就.
+```

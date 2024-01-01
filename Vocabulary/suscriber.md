@@ -6398,3 +6398,275 @@ fibrous
 fur
 snowcapped
 ```
+
+---
+Date: 2023.12.04
+```
+haptics
+wage
+scroll
+manhunt
+meadow
+```
+
+---
+Date: 2023.12.05
+```
+rebound
+defeat
+comprehensive
+rally
+constitute
+setback
+```
+
+---
+Date: 2023.12.06
+```
+collapses
+scandal
+high-profile
+frenzied
+speculation
+```
+
+---
+Date: 2023.12.07
+```
+soared
+blockbuster
+obesity
+biotech
+vie
+```
+
+---
+Date: 2023.12.08
+```
+sober
+cicada
+sugarcane
+twig
+vultivation
+```
+
+---
+Date: 2023.12.10
+```
+contest
+walkover
+steadily
+poll
+unassailable
+```
+
+---
+Date: 2023.12.11
+```
+savor
+laying
+groundwork
+affirmative
+mortgage
+all but
+```
+
+---
+Date: 2023.12.12
+```
+ego
+contract
+contact
+longstanding
+pregnancy
+sustain
+```
+
+---
+Date: 2023.12.13
+```
+canonical
+supreme
+ceasefire
+diplomat
+relent
+relentless
+hostage
+```
+
+---
+Date: 2023.12.14
+```
+improper
+cropped
+fraud
+defraud
+conspiracy
+bribery
+```
+
+---
+Date: 2023.12.15
+```
+pillar
+wicked
+cease
+wrap
+continue
+```
+
+---
+Date: 2023.12.16
+```
+delagation
+entrust
+subordinate
+six-pack
+hand off
+all round
+autonomy
+```
+
+---
+Date: 2023.12.17
+```
+committee
+ties
+tariffs
+sever
+grant
+```
+
+---
+Date: 2023.12.19
+```
+jerrycan
+pier
+whister
+allegation
+endgame
+```
+
+---
+Date: 2023.12.20
+```
+foes
+estimated
+sketchy, sketch
+bicker
+disclose
+```
+
+---
+Date: 2023.12.21
+```
+disqualification
+deportation
+escalation
+arrest
+ballot
+```
+
+---
+Date: 2023.12.22
+```
+militia
+merchant
+vessel
+warship
+snarl
+```
+
+---
+Date: 2023.12.23
+```
+innate
+reindeer
+runner
+pillow
+doormat
+```
+
+---
+Date: 2023.12.24
+```
+worthwhile
+revolutionary
+get along with
+supposed
+stress outg
+```
+
+---
+Date: 2023.12.25
+```
+satin
+wand
+delicate
+rend
+garment
+rend
+```
+
+---
+Date: 2023.12.26
+```
+crew
+watchdog
+audit
+malware
+spam
+rent
+```
+
+---
+Date: 2023.12.27
+```
+prime
+contender
+tariff
+revoke
+levy
+```
+
+---
+Date: 2023.12.28
+```
+cozy
+conclusion
+eliminate
+shade
+moreover
+venture
+```
+
+---
+Date: 2023.12.29
+```
+disorder
+microbes
+outrage
+syncytial
+resiratory
+```
+
+---
+Date: 2023.12.30
+```
+dominant
+brace
+brics
+prospect
+whereas
+drawback
+```
+
+---
+Date: 2023.12.31
+```
+confetti
+tiara
+champagne
+banner
+penny
+```
