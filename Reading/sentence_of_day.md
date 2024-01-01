@@ -4214,3 +4214,9 @@ Date: 2023.12.31
 Satisfaction lies in the effort, not in the attainment.
 满足感的源头在于不断努力, 而不是现有的成就.
 ```
+
+---
+Date: 2024.01.01
+```
+It's been quite a journey this year, full of surprises and unexpected events. Let's leave the past behind and move on
+```
