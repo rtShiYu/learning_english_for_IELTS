@@ -4241,3 +4241,10 @@ Date: 2024.01.07
 Choose what you like and love what you choose.
 选择你所喜欢的，爱你所选择的.
 ```
+
+---
+Date: 2024.01.08
+```
+Everyone is a moon, and has a dark side which he never shows to anybody.
+人人都是月亮, 都有不愿展示给他人的阴暗面.
+```
