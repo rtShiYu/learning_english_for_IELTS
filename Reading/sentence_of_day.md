@@ -4248,3 +4248,10 @@ Date: 2024.01.08
 Everyone is a moon, and has a dark side which he never shows to anybody.
 人人都是月亮, 都有不愿展示给他人的阴暗面.
 ```
+
+---
+Date: 2024.01.09
+```
+The brain can be developed just the same as the muscles can be developed, if one will only take the pains to train the mind to think.
+一个人的头脑可以像肌肉一样得到发展, 只要你肯不辞辛苦地训练你的心智去思考.
+```
