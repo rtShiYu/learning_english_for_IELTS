@@ -4255,3 +4255,10 @@ Date: 2024.01.09
 The brain can be developed just the same as the muscles can be developed, if one will only take the pains to train the mind to think.
 一个人的头脑可以像肌肉一样得到发展, 只要你肯不辞辛苦地训练你的心智去思考.
 ```
+
+---
+Date: 2024.01.10
+```
+Books are the quietest and most constant of friends; they are the most accessible and wisest of counselors, and the most patient of teachers.
+书籍是人类最宁静和永恒的朋友, 也是最易接近和最具智慧的顾问.
+```
