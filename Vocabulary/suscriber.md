@@ -6735,3 +6735,13 @@ cruise
 hover
 autonomous
 ```
+
+---
+Date: 2024.01.12
+```
+archetype
+decarbonisation
+collaborative
+agnostic
+coexist
+```
