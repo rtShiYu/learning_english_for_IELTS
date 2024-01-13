@@ -4276,3 +4276,10 @@ Date: 2024.01.12
 The steeper the mountain the harder the climb the better the view from the finishing line.
 山越陡峭，攀登越困难，终点线的视野就越好.
 ```
+
+---
+Date: 2024.01.13
+```
+We do not remember days, we remember moments.
+我们往往记住的不是某一天, 而是某个时刻.
+```
