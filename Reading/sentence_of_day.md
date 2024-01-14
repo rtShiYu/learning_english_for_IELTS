@@ -4283,3 +4283,10 @@ Date: 2024.01.13
 We do not remember days, we remember moments.
 我们往往记住的不是某一天, 而是某个时刻.
 ```
+
+---
+Date: 2024.01.14
+```
+Man is created for thinking.
+人是为了思考才被创造出来的.
+```
