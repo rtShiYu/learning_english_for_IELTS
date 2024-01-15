@@ -4290,3 +4290,10 @@ Date: 2024.01.14
 Man is created for thinking.
 人是为了思考才被创造出来的.
 ```
+
+---
+Date: 2024.01.15
+```
+The secret of joy in work is contained in one word — excellence. To know how to do something well is to enjoy it.
+工作中的快乐秘诀就一个词——卓越。 知道如何做好某件事就是享受它.
+```
