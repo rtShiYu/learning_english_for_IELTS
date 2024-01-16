@@ -4297,3 +4297,10 @@ Date: 2024.01.15
 The secret of joy in work is contained in one word — excellence. To know how to do something well is to enjoy it.
 工作中的快乐秘诀就一个词——卓越。 知道如何做好某件事就是享受它.
 ```
+
+---
+Date: 2023.01.16
+```
+We can do more good by being good, than in any other way.
+若想要做好事，成为好的人胜过所有方法.
+```
