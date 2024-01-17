@@ -4304,3 +4304,10 @@ Date: 2023.01.16
 We can do more good by being good, than in any other way.
 若想要做好事，成为好的人胜过所有方法.
 ```
+
+---
+Date: 2024.01.17
+```
+Life is really simple, but we insist on making it complicated. 
+世上本无事，庸人自扰之.
+```
