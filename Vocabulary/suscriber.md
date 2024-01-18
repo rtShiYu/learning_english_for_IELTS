@@ -6796,3 +6796,13 @@ wealth
 antitrust
 repel
 ```
+
+---
+Date: 2024.01.18
+```
+sobriety
+stint
+adolescent
+liquor
+fentanyl
+```
