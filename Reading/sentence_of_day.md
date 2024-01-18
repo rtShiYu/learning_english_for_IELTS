@@ -4311,3 +4311,10 @@ Date: 2024.01.17
 Life is really simple, but we insist on making it complicated. 
 世上本无事，庸人自扰之.
 ```
+
+---
+Date: 2024.01.18
+```
+We cannot solve our problems with the same thinking we used when we created them.
+我们不能用我们制造问题的思维来解决问题.
+```
