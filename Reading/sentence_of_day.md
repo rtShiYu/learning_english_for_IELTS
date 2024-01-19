@@ -4318,3 +4318,10 @@ Date: 2024.01.18
 We cannot solve our problems with the same thinking we used when we created them.
 我们不能用我们制造问题的思维来解决问题.
 ```
+
+---
+Date: 2024.01.19
+```
+I don't think of all the misery, but of the beauty that still remains.
+我想的不是所有的痛苦, 而是依然留存的美好.
+```
