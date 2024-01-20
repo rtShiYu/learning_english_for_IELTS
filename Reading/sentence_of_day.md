@@ -4325,3 +4325,9 @@ Date: 2024.01.19
 I don't think of all the misery, but of the beauty that still remains.
 我想的不是所有的痛苦, 而是依然留存的美好.
 ```
+
+Date: 2024.01.20
+```
+Beautiful things don't ask for attention.
+草木有本心，何求美人折.
+```
