@@ -6816,3 +6816,14 @@ fire pit
 spring up
 encircle
 ```
+
+---
+Date: 2024.01.21
+```
+amount
+refund
+surcharge
+insufficient
+lodged
+statement
+```

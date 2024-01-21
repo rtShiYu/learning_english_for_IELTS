@@ -4331,3 +4331,10 @@ Date: 2024.01.20
 Beautiful things don't ask for attention.
 草木有本心，何求美人折.
 ```
+
+---
+Date: 20234.01.21
+```
+I don't like work, but I like what is in work - the chance to find yourself.
+我不喜欢工作, 但是我喜欢在所从事的工作中找到发现子的机会.
+```
