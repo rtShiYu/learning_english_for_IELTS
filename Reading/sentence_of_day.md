@@ -4333,8 +4333,15 @@ Beautiful things don't ask for attention.
 ```
 
 ---
-Date: 20234.01.21
+Date: 2024.01.21
 ```
 I don't like work, but I like what is in work - the chance to find yourself.
 我不喜欢工作, 但是我喜欢在所从事的工作中找到发现子的机会.
+```
+
+---
+Date: 2024.01.22
+```
+If a man unknown, can focus on.
+人若无名，便可专心.
 ```
