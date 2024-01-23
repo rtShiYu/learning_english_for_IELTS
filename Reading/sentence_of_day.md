@@ -4345,3 +4345,10 @@ Date: 2024.01.22
 If a man unknown, can focus on.
 人若无名，便可专心.
 ```
+
+---
+Date: 2024.01.23
+```
+There are two kinds of failures: those who thought and never did, and those who did and never thought.
+有两种失败：一种是那些有想法但从未付诸实践的人，另一种是那些付诸实践但从未深思熟虑的人.
+```
