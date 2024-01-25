@@ -4359,3 +4359,10 @@ Date: 2024.01.24
 Happiness is about having each tiny wish come true.
 幸福是每一个微小愿望的达成.
 ```
+
+---
+Date: 2024.01.25
+```
+The heavier with great power comes great responsibility.
+能力越大, 责任越大.
+```
