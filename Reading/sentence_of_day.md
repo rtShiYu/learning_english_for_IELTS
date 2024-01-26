@@ -4366,3 +4366,10 @@ Date: 2024.01.25
 The heavier with great power comes great responsibility.
 能力越大, 责任越大.
 ```
+
+---
+Date: 2024.01.26
+```
+You leave, or I go with you.
+你留下, 或者我跟你走.
+```
