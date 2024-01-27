@@ -4373,3 +4373,10 @@ Date: 2024.01.26
 You leave, or I go with you.
 你留下, 或者我跟你走.
 ```
+
+---
+Date: 2024.01.27
+```
+Hard work beats talent when talent tails to work hard.
+当天才不努力时, 努力可以击倒天才.
+```
