@@ -4380,3 +4380,10 @@ Date: 2024.01.27
 Hard work beats talent when talent tails to work hard.
 当天才不努力时, 努力可以击倒天才.
 ```
+
+---
+Date: 2024.01.28
+```
+Don't try, or miss the event.
+千万不要假戏真做, 误了大事.
+```
