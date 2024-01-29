@@ -4387,3 +4387,10 @@ Date: 2024.01.28
 Don't try, or miss the event.
 千万不要假戏真做, 误了大事.
 ```
+
+---
+Date: 2024.01.29
+```
+A soul preoccupied with great ideas best performs small duties.
+心系伟大想法的人，把小事做到最好.
+```
