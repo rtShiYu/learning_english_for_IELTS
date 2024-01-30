@@ -4394,3 +4394,10 @@ Date: 2024.01.29
 A soul preoccupied with great ideas best performs small duties.
 心系伟大想法的人，把小事做到最好.
 ```
+
+---
+Date: 2024.01.30
+```
+Reading is to the mind what exercise is to the body.
+阅读之于心灵，犹如运动之于身体.
+```
