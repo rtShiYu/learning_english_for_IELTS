@@ -4214,3 +4214,190 @@ Date: 2023.12.31
 Satisfaction lies in the effort, not in the attainment.
 满足感的源头在于不断努力, 而不是现有的成就.
 ```
+
+---
+Date: 2024.01.01
+```
+It's been quite a journey this year, full of surprises and unexpected events. Let's leave the past behind and move on
+```
+
+---
+Date: 2024.01.02
+```
+There's no place like home.
+没有一个地方可以和家乡相提并论.
+```
+
+---
+Date: 2024.01.03
+```
+It's time to turn the page and look to the future.
+是时候翻开新的一页，去展望未来了.
+```
+
+---
+Date: 2024.01.07
+```
+Choose what you like and love what you choose.
+选择你所喜欢的，爱你所选择的.
+```
+
+---
+Date: 2024.01.08
+```
+Everyone is a moon, and has a dark side which he never shows to anybody.
+人人都是月亮, 都有不愿展示给他人的阴暗面.
+```
+
+---
+Date: 2024.01.09
+```
+The brain can be developed just the same as the muscles can be developed, if one will only take the pains to train the mind to think.
+一个人的头脑可以像肌肉一样得到发展, 只要你肯不辞辛苦地训练你的心智去思考.
+```
+
+---
+Date: 2024.01.10
+```
+Books are the quietest and most constant of friends; they are the most accessible and wisest of counselors, and the most patient of teachers.
+书籍是人类最宁静和永恒的朋友, 也是最易接近和最具智慧的顾问.
+```
+
+---
+Date: 2024.01.11
+```
+To me the meanest flower that blows can give thoughts that do often lie too deep for tears.
+我看最卑微的花都有思想, 深藏在眼泪达不到的地方.
+```
+
+---
+Date: 2024.01.12
+```
+The steeper the mountain the harder the climb the better the view from the finishing line.
+山越陡峭，攀登越困难，终点线的视野就越好.
+```
+
+---
+Date: 2024.01.13
+```
+We do not remember days, we remember moments.
+我们往往记住的不是某一天, 而是某个时刻.
+```
+
+---
+Date: 2024.01.14
+```
+Man is created for thinking.
+人是为了思考才被创造出来的.
+```
+
+---
+Date: 2024.01.15
+```
+The secret of joy in work is contained in one word — excellence. To know how to do something well is to enjoy it.
+工作中的快乐秘诀就一个词——卓越。 知道如何做好某件事就是享受它.
+```
+
+---
+Date: 2023.01.16
+```
+We can do more good by being good, than in any other way.
+若想要做好事，成为好的人胜过所有方法.
+```
+
+---
+Date: 2024.01.17
+```
+Life is really simple, but we insist on making it complicated. 
+世上本无事，庸人自扰之.
+```
+
+---
+Date: 2024.01.18
+```
+We cannot solve our problems with the same thinking we used when we created them.
+我们不能用我们制造问题的思维来解决问题.
+```
+
+---
+Date: 2024.01.19
+```
+I don't think of all the misery, but of the beauty that still remains.
+我想的不是所有的痛苦, 而是依然留存的美好.
+```
+
+Date: 2024.01.20
+```
+Beautiful things don't ask for attention.
+草木有本心，何求美人折.
+```
+
+---
+Date: 2024.01.21
+```
+I don't like work, but I like what is in work - the chance to find yourself.
+我不喜欢工作, 但是我喜欢在所从事的工作中找到发现子的机会.
+```
+
+---
+Date: 2024.01.22
+```
+If a man unknown, can focus on.
+人若无名，便可专心.
+```
+
+---
+Date: 2024.01.23
+```
+There are two kinds of failures: those who thought and never did, and those who did and never thought.
+有两种失败：一种是那些有想法但从未付诸实践的人，另一种是那些付诸实践但从未深思熟虑的人.
+```
+
+---
+Date: 2024.01.24
+```
+Happiness is about having each tiny wish come true.
+幸福是每一个微小愿望的达成.
+```
+
+---
+Date: 2024.01.25
+```
+The heavier with great power comes great responsibility.
+能力越大, 责任越大.
+```
+
+---
+Date: 2024.01.26
+```
+You leave, or I go with you.
+你留下, 或者我跟你走.
+```
+
+---
+Date: 2024.01.27
+```
+Hard work beats talent when talent tails to work hard.
+当天才不努力时, 努力可以击倒天才.
+```
+
+---
+Date: 2024.01.28
+```
+Don't try, or miss the event.
+千万不要假戏真做, 误了大事.
+```
+
+---
+Date: 2024.01.29
+```
+A soul preoccupied with great ideas best performs small duties.
+心系伟大想法的人，把小事做到最好.
+```
+
+---
+Date: 2024.01.30
+```
+Reading is to the mind what exercise is to the body.
+阅读之于心灵，犹如运动之于身体.
+```
