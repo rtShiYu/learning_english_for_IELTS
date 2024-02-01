@@ -4401,3 +4401,10 @@ Date: 2024.01.30
 Reading is to the mind what exercise is to the body.
 阅读之于心灵，犹如运动之于身体.
 ```
+
+---
+Date: 2024.02.01
+```
+The only person you are destined to become is the person you decide to be.
+你注定成为你决定成为的人.
+```
