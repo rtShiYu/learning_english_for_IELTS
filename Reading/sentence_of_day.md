@@ -4436,3 +4436,10 @@ Date: 2024.02.18
 You can go as far as you want to.
 心有多远, 你可以走多远.
 ```
+
+---
+Date: 2023.02.20
+```
+It's only those who do nothing that make no mistakes.
+只有那些没有行动的人不会犯错.
+```
