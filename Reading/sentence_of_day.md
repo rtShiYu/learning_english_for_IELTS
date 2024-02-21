@@ -4438,8 +4438,15 @@ You can go as far as you want to.
 ```
 
 ---
-Date: 2023.02.20
+Date: 2024.02.20
 ```
 It's only those who do nothing that make no mistakes.
 只有那些没有行动的人不会犯错.
+```
+
+---
+Date: 2024.02.21
+```
+A goal is a dream with a deadline.
+目标就是给梦想一个期限.
 ```
