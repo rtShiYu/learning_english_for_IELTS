@@ -6933,3 +6933,13 @@ convict
 deteriorate
 scrutinize
 ```
+
+---
+Date: 2024.02.22
+```
+outpace
+retiree
+spike
+dub
+spectacle
+```
