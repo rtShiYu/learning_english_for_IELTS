@@ -4471,3 +4471,10 @@ Date: 2024.02.24
 When the moon was on the willow's top, we'd met after dusk.
 月上柳梢头, 人约黄昏后.
 ```
+
+---
+Date: 2024.02.25
+```
+Wisdom is not wisdom when it is derived from books alone.
+只是从书中获得的智慧不算是智慧.
+```
