@@ -4478,3 +4478,10 @@ Date: 2024.02.25
 Wisdom is not wisdom when it is derived from books alone.
 只是从书中获得的智慧不算是智慧.
 ```
+
+---
+Date: 2024.02.26
+```
+The most efficient way to live reasonably is every morning to make a plan of one's day and every night to examine the results obtained.
+合理生活最有效的方法是每天早上指定一天的计划, 每天晚上检查结果.
+```
