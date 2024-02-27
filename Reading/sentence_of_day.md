@@ -4485,3 +4485,10 @@ Date: 2024.02.26
 The most efficient way to live reasonably is every morning to make a plan of one's day and every night to examine the results obtained.
 合理生活最有效的方法是每天早上指定一天的计划, 每天晚上检查结果.
 ```
+
+---
+Date: 2024.02.27
+```
+Our anxiety does not come from thinking about the future, but from wanting to control it.
+我们的焦虑不是来自于对未来的思考, 而是来自于想要控制它.
+```
