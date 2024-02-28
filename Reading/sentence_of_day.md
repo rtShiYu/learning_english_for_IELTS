@@ -4492,3 +4492,9 @@ Date: 2024.02.27
 Our anxiety does not come from thinking about the future, but from wanting to control it.
 我们的焦虑不是来自于对未来的思考, 而是来自于想要控制它.
 ```
+
+---
+Date: 2024.02.28
+```
+When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.
+```
