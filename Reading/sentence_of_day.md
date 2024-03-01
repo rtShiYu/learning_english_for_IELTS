@@ -4401,3 +4401,107 @@ Date: 2024.01.30
 Reading is to the mind what exercise is to the body.
 阅读之于心灵，犹如运动之于身体.
 ```
+
+---
+Date: 2024.02.01
+```
+The only person you are destined to become is the person you decide to be.
+你注定成为你决定成为的人.
+```
+
+---
+Date: 2024.02.15
+```
+Happiness resides not in possessions, and not in gold, happiness dwells in the soul.
+快乐不取决于拥有什么，或手上的金子，快乐取决于心灵.
+```
+
+----
+Date: 2024.02.16
+```
+Dreaming, after all, is a form of planning.
+梦想，就是一种计划形式.
+```
+
+---
+Date: 2024.02.17
+```
+Forget your troubles and just get happy.
+忘掉烦恼, 高兴起来.
+```
+
+---
+Date: 2024.02.18
+```
+You can go as far as you want to.
+心有多远, 你可以走多远.
+```
+
+---
+Date: 2024.02.20
+```
+It's only those who do nothing that make no mistakes.
+只有那些没有行动的人不会犯错.
+```
+
+---
+Date: 2024.02.21
+```
+A goal is a dream with a deadline.
+目标就是给梦想一个期限.
+```
+
+---
+Date: 2024.02.22
+```
+Don't try to win a friend by presenting gifts.
+不要靠馈赠去获取朋友.
+```
+
+---
+Date: 2024.02.23
+```
+Love is what makes life worth living.
+爱，让生命有了意义.
+```
+
+---
+Date: 2024.02.24
+```
+When the moon was on the willow's top, we'd met after dusk.
+月上柳梢头, 人约黄昏后.
+```
+
+---
+Date: 2024.02.25
+```
+Wisdom is not wisdom when it is derived from books alone.
+只是从书中获得的智慧不算是智慧.
+```
+
+---
+Date: 2024.02.26
+```
+The most efficient way to live reasonably is every morning to make a plan of one's day and every night to examine the results obtained.
+合理生活最有效的方法是每天早上指定一天的计划, 每天晚上检查结果.
+```
+
+---
+Date: 2024.02.27
+```
+Our anxiety does not come from thinking about the future, but from wanting to control it.
+我们的焦虑不是来自于对未来的思考, 而是来自于想要控制它.
+```
+
+---
+Date: 2024.02.28
+```
+When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.
+```
+
+---
+Date: 2024.02.29
+```
+The time for action is now. It's never too late to do something.
+现在就行动, 采取行动永远不嫌太晚.
+```
