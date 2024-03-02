@@ -7015,3 +7015,13 @@ debut
 arsenal
 ditch
 ```
+
+---
+Date: 2024.03.02
+```
+expansionism
+disengagement
+dominate
+parallel
+chunk
+```
