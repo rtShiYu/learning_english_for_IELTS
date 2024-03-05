@@ -4534,3 +4534,10 @@ Date: 2024.03.04
 Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
 小伙子, 科学是由错误组成的, 但是犯这些错误是有用的, 因为它们一点一点地导向了真理.
 ```
+
+---
+Date: 2024.03.05
+```
+The best thing to hold onto in life is each other.
+生命中最值得珍惜的便是彼此.
+```
