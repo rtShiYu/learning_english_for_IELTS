@@ -4568,3 +4568,10 @@ Date: 2024.03.09
 Don't be afraid to be yourself. Follow your own path.
 不要害怕做与众不同的自己，走自己的路.
 ```
+
+---
+Date: 2024.03.10
+```
+We first make our habits, and then our habits make us.
+我们先养成习惯, 然后习惯造就我们.
+```
