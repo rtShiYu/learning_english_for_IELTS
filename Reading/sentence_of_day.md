@@ -4588,3 +4588,10 @@ Date: 2024.03.12
 Arbor Day is not like other holidays. Each of those reposes on the past, while Arbor Day proposes for the future.
 植树节则呼吁为未来而努力.
 ```
+
+---
+Date: 2024.03.13
+```
+All the art of living lies in a fine mingling of letting go and holding on.
+生活的全部要义, 在于放手和坚持的完美结合.
+```
