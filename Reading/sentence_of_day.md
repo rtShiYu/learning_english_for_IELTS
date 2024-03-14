@@ -4595,3 +4595,10 @@ Date: 2024.03.13
 All the art of living lies in a fine mingling of letting go and holding on.
 生活的全部要义, 在于放手和坚持的完美结合.
 ```
+
+---
+Date: 2024.03.14
+```
+Be slow to promise and be quick to perform.
+勿轻诺，诺必果.
+```
