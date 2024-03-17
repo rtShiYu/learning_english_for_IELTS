@@ -4616,3 +4616,10 @@ Date: 2024.03.16
 Care and diligence bring luck.
 谨慎和勤奋, 带来好运气.
 ```
+
+---
+Date: 2024.03.17
+```
+A wise head makes a close mouth.
+真人不露相，露相非真人.
+```
