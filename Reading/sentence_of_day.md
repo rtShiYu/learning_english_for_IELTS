@@ -4630,3 +4630,10 @@ Date: 2024.03.18
 Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.
 成功绝非偶然, 而意味着努力工作, 持之以恒, 学习求知, 忘我付出, 最重要的是, 它需要你对自己正在做或正在学习的事情拥有无比的热爱.
 ```
+
+---
+Date: 2024.03.19
+```
+Modern stupidity means not ignorance but the nonthought of received ideas.
+现代人的愚蠢并不意味着无知, 而是对公认的想法不假思索.
+```
