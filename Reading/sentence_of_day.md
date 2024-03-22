@@ -4651,3 +4651,10 @@ Date: 2024.03.21
 Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.
 二十年后, 比起做过的事, 你会更失望没有做过的事.
 ```
+
+---
+Date: 2024.03.22
+```
+Every cloud has a silver lining.
+天无绝人之路.
+```
