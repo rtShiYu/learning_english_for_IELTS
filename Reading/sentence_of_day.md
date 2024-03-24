@@ -4665,3 +4665,10 @@ Date: 2024.03.23
 Time is a bird flying into eternity.
 时间是一只永远在飞翔的鸟.
 ```
+
+---
+Date: 2024.03.24
+```
+I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.
+我明白了勇气并不代表没有恐惧，而是战胜恐惧。勇敢的人不是不会恐惧的人，而是战胜了恐惧的人.
+```
