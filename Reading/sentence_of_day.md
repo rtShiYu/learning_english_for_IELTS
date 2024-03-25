@@ -4672,3 +4672,10 @@ Date: 2024.03.24
 I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.
 我明白了勇气并不代表没有恐惧，而是战胜恐惧。勇敢的人不是不会恐惧的人，而是战胜了恐惧的人.
 ```
+
+---
+Date: 2024.03.25
+```
+Don't let yesterday take up too much of today.
+别让昨日之事占据今日太多时间.
+```
