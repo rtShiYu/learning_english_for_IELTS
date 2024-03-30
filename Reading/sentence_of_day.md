@@ -4707,3 +4707,10 @@ Date: 2024.03.29
 Travel imparts new vigor to the mind.
 旅行给思想带来新的活力.
 ```
+
+---
+Date: 2024.03.30
+```
+He was still too young to know that the heart's memory eliminates the bad and magnifies the good.
+当时他还太年轻, 不知道人的内心会删除糟糕的记忆,放大美好的记忆.
+```
