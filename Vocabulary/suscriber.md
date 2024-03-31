@@ -7005,3 +7005,322 @@ incapable
 rife
 knell
 ```
+
+---
+Date: 2024.03.01
+```
+foray
+disclusure
+debut
+arsenal
+ditch
+```
+
+---
+Date: 2024.03.02
+```
+expansionism
+disengagement
+dominate
+parallel
+chunk
+```
+
+---
+Date: 2024.03.03
+```
+etch
+panel
+extent
+grape vine
+petroglyphy
+drywash
+jumble
+```
+
+---
+Date: 2024.03.04
+```
+concede
+gracious
+balloon
+rein
+reship
+hinder
+```
+
+---
+Date: 2024.03.05
+```
+asylum
+limbo
+underfunded
+outdated
+backlog
+to no avail
+```
+
+---
+Date: 2024.03.06
+```
+collectively
+bipedal
+dexterous
+dispense
+abortion
+```
+
+---
+Date: 2024.03.07
+```
+din
+patch, dispatch
+coalition
+encrypt
+breach
+missile
+```
+
+---
+Date: 2024.03.08
+```
+cap
+mainstream
+volatile
+collapse
+unanimous
+ballot
+```
+
+---
+Date: 2024.03.09
+```
+place on hold
+insurrection
+territory
+late fee
+junk fee
+severance
+```
+
+---
+Date: 2024.03.10
+```
+impact
+rugby
+pastime
+therapy
+unpredictable
+drudgery
+```
+
+---
+Date: 2024.03.11
+```
+detached
+experimental
+tangerine
+mandarin
+Mandarin
+```
+
+---
+Date: 2024.03.12
+```
+brim
+bounty
+chrysanthemum
+edible
+din
+```
+
+---
+Date: 2024.03.13
+```
+allegedly
+newsletter
+scattered
+paperwork
+frivolous
+```
+
+---
+Date: 2024.03.14
+```
+skeptical
+landmark
+strike
+chase
+harassment
+```
+
+---
+Date: 2024.03.15
+```
+tune in
+biographical
+thriller
+indie
+apeal
+```
+
+---
+Date: 2024.03.16
+```
+doctor
+manipulate
+chalk up
+quell
+rumor
+abdominal
+```
+
+---
+Date: 2024.03.17
+```
+persist
+tough times
+workforce
+immensely
+slash
+dash
+latter
+```
+
+---
+Date: 2024.03.18
+```
+tucked
+banknote
+heady
+semantic
+overstate
+formula
+```
+
+---
+Date: 2024.03.19
+```
+nowhere
+aisle
+ban
+nationwide
+settlement
+claim
+```
+
+---
+Date: 2024.03.20
+```
+go into effect
+deport
+conduct
+set the stage
+boon
+shake up
+```
+
+---
+Date: 2024.03.21
+```
+showdown
+tee up
+sail through
+comply
+in talks
+set the stage
+```
+
+---
+Date: 2024.03.23
+```
+showman
+mission
+adulation
+heady
+whoop
+```
+
+---
+Date: 2024.03.24
+```
+competition
+jail
+impersonating
+gets
+intermediate
+```
+
+---
+Date: 2024.03.25
+```
+premature
+estimate
+steadily
+deteriorate
+camouflage
+venue
+```
+
+---
+Date: 2024.03.26
+```
+ballerina
+specimen
+literally
+authentic
+stun
+stunning
+```
+
+---
+Date: 2024.03.27
+```
+containership
+propulsion
+collision
+pothole
+slash
+merchant
+```
+
+---
+Date: 2024.03.28
+```
+collapse
+remain
+span
+frigid
+vessel
+crew
+```
+
+---
+Date: 2024.03.29
+```
+camouflage
+venue
+diagnose
+specify
+premature
+```
+
+---
+Date: 2024.03.30
+```
+adage
+pundit
+grim
+clutch
+buckle
+```
+
+---
+Date: 2024.03.31
+```
+mercy
+aviation
+insane
+uncanny
+remainder
+```

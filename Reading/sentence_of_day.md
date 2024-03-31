@@ -4505,3 +4505,219 @@ Date: 2024.02.29
 The time for action is now. It's never too late to do something.
 现在就行动, 采取行动永远不嫌太晚.
 ```
+
+
+---
+Date: 2024.03.01
+```
+when life gets you down, just keep moving.
+当生活遇到瓶颈，继续向前就对了。——《料理鼠王》
+```
+
+---
+Date: 2024.03.02
+```
+The very best thing in all this world that can befall a man is to be born lucky.
+世界上最好的事情是生来走运.
+```
+
+---
+Date: 2024.03.03
+```
+Fearless is having fears but jumping anyway.
+无畏是心有所畏惧, 但仍勇往直前.
+```
+
+---
+Date: 2024.03.04
+```
+Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.
+小伙子, 科学是由错误组成的, 但是犯这些错误是有用的, 因为它们一点一点地导向了真理.
+```
+
+---
+Date: 2024.03.05
+```
+The best thing to hold onto in life is each other.
+生命中最值得珍惜的便是彼此.
+```
+
+---
+Date: 2024.03.06
+```
+I still find each day too short for all the thoughts I want to think, all the walks I want to take, all the books I want to read, and all the friends I want to see.
+```
+
+---
+Date: 2024.03.07
+```
+Sometimes things have to fall apart to make way for better things.
+有时候要到达谷底，才会慢慢变好.
+```
+
+---
+Date: 2024.03.08
+```
+You are beautiful just as you are.
+你本来就很美.
+```
+
+---
+Date: 2024.03.09
+```
+Don't be afraid to be yourself. Follow your own path.
+不要害怕做与众不同的自己，走自己的路.
+```
+
+---
+Date: 2024.03.10
+```
+We first make our habits, and then our habits make us.
+我们先养成习惯, 然后习惯造就我们.
+```
+
+---
+Date: 2024.03.11
+```
+Either you run the day or the day runs you.
+```
+
+---
+Date: 2024.03.12
+```
+Arbor Day is not like other holidays. Each of those reposes on the past, while Arbor Day proposes for the future.
+植树节则呼吁为未来而努力.
+```
+
+---
+Date: 2024.03.13
+```
+All the art of living lies in a fine mingling of letting go and holding on.
+生活的全部要义, 在于放手和坚持的完美结合.
+```
+
+---
+Date: 2024.03.14
+```
+Be slow to promise and be quick to perform.
+勿轻诺，诺必果.
+```
+
+---
+Date: 2024.03.15
+```
+To be a happy man.
+做一个幸福的人.
+```
+
+---
+Date: 2024.03.16
+```
+Care and diligence bring luck.
+谨慎和勤奋, 带来好运气.
+```
+
+---
+Date: 2024.03.17
+```
+A wise head makes a close mouth.
+真人不露相，露相非真人.
+```
+
+---
+Date: 2024.03.18
+```
+Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.
+成功绝非偶然, 而意味着努力工作, 持之以恒, 学习求知, 忘我付出, 最重要的是, 它需要你对自己正在做或正在学习的事情拥有无比的热爱.
+```
+
+---
+Date: 2024.03.19
+```
+Modern stupidity means not ignorance but the nonthought of received ideas.
+现代人的愚蠢并不意味着无知, 而是对公认的想法不假思索.
+```
+
+---
+Date: 2024.03.20
+```
+Spring is when life's alive in everything.
+春天是万物复苏的时节.
+```
+
+---
+Date: 2024.03.21
+```
+Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.
+二十年后, 比起做过的事, 你会更失望没有做过的事.
+```
+
+---
+Date: 2024.03.22
+```
+Every cloud has a silver lining.
+天无绝人之路.
+```
+
+---
+Date: 2024.03.23
+```
+Time is a bird flying into eternity.
+时间是一只永远在飞翔的鸟.
+```
+
+---
+Date: 2024.03.24
+```
+I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.
+我明白了勇气并不代表没有恐惧，而是战胜恐惧。勇敢的人不是不会恐惧的人，而是战胜了恐惧的人.
+```
+
+---
+Date: 2024.03.25
+```
+Don't let yesterday take up too much of today.
+别让昨日之事占据今日太多时间.
+```
+
+---
+Date: 2024.03.26
+```
+Enjoy it while it lasts.
+尽情享受当下吧.
+```
+
+---
+Date: 2024.03.27
+```
+Elegance is the only beauty that never fades.
+优雅是唯一不会褪色的美.
+```
+
+---
+Date: 2024.03.28
+```
+Anyone who has never made a mistake has never tried anything new.
+从来没有犯过错误的人, 也就从来没有尝试过新的东西.
+```
+
+---
+Date: 2024.03.29
+```
+Travel imparts new vigor to the mind.
+旅行给思想带来新的活力.
+```
+
+---
+Date: 2024.03.30
+```
+He was still too young to know that the heart's memory eliminates the bad and magnifies the good.
+当时他还太年轻, 不知道人的内心会删除糟糕的记忆,放大美好的记忆.
+```
+
+---
+Date: 2024.03.31
+```
+Happy life lies in a peaceful mind.
+幸福的生活存在于心绪的宁静之中.
+```
