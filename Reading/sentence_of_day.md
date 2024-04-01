@@ -4728,3 +4728,10 @@ Date: 2024.04.01
 Humor can be like a coat of armor when reality takes a stab at you.
 当现实予你一击, 幽默就是你的盔甲.
 ```
+
+---
+Date: 2024.04.02
+```
+A friend is easier lost than found.
+得朋友难，失朋友易.
+```
