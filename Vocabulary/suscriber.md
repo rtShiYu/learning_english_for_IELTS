@@ -7346,3 +7346,15 @@ spate
 doctor
 arrest
 ```
+
+---
+Date: 2024.04.03
+```
+slump
+lineup
+rival
+dual
+alleviate
+looming
+famine
+```
