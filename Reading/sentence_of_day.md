@@ -4742,3 +4742,10 @@ Date: 2024.04.03
 Patience is the best remedy.
 忍耐是最好的药物.
 ```
+
+---
+Date: 2024.04.04
+```
+Death is not the opposite of life, but the part of it.
+死亡并不是生命的对立面, 而是它的一部分.
+```
