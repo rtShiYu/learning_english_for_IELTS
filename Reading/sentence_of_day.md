@@ -4749,3 +4749,10 @@ Date: 2024.04.04
 Death is not the opposite of life, but the part of it.
 死亡并不是生命的对立面, 而是它的一部分.
 ```
+
+---
+Date: 2024.04.05
+```
+The best way to achieve a goal is to devote 100% of your time and energy to it.
+达到目标的最好办法就是投入百分之百的时间和精力.
+```
