@@ -4756,3 +4756,10 @@ Date: 2024.04.05
 The best way to achieve a goal is to devote 100% of your time and energy to it.
 达到目标的最好办法就是投入百分之百的时间和精力.
 ```
+
+---
+Date: 2024.04.06
+```
+Looking up, I find the moon bright; bowing, in homesickness I'm drowned.
+举头望明月, 低头思故乡.
+```
