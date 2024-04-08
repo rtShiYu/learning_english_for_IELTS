@@ -4770,3 +4770,10 @@ Date: 2024.04.07
 Don’t lose hope.You never know what tomorrow brings.
 别灰心，谁又知道明天会有怎样的惊喜.
 ```
+
+---
+Date: 2024.04.08
+```
+Think less of gain and loss as long as you go all out and have a clear mind.
+得失成败置之度外, 只求竭尽所能, 无愧于心.
+```
