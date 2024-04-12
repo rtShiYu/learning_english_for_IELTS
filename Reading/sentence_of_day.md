@@ -4798,3 +4798,10 @@ Date: 2024.04.11
 The best of prophets of the future is the past.
 对未来的最好预言是过去.
 ```
+
+---
+Date: 2024.04.12
+```
+No man is born wise or learned.
+人非生而知之.
+```
