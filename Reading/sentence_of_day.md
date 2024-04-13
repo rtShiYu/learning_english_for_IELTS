@@ -4805,3 +4805,10 @@ Date: 2024.04.12
 No man is born wise or learned.
 人非生而知之.
 ```
+
+---
+Date: 2024.04.13
+```
+Beauty lies in the love's eyes.
+情人眼里出西施.
+```
