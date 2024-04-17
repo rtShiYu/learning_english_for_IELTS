@@ -7484,3 +7484,14 @@ escalation
 missile
 retaliation
 ```
+
+---
+Date: 2024.04.17
+```
+homicide
+criminal
+resume
+lay off
+workforce
+autonomous
+```

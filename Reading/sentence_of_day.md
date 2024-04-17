@@ -4833,3 +4833,10 @@ Date: 2024.04.16
 The best physicians are Dr. Diet, Dr. Quiet and Dr. Merryman.
 最好的医生是规定饮食,安宁和快乐.
 ```
+
+---
+Date: 2024.04.17
+```
+Winners are simply willing to do what losers won't.
+胜者注重实践, 败者光说不练.
+```
