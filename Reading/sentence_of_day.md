@@ -4840,3 +4840,10 @@ Date: 2024.04.17
 Winners are simply willing to do what losers won't.
 胜者注重实践, 败者光说不练.
 ```
+
+---
+Date: 2024.04.18
+```
+Life is short. Kiss slowly, laugh insanely, love truly and forgive quickly.
+既然生命如此短暂, 那么慢慢亲吻, 尽情地欢笑, 真心去爱, 快快地原谅把.
+```
