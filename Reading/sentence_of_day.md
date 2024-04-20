@@ -4854,3 +4854,10 @@ Date: 2024.04.19
 Jack of all trades, master of none.
 门门精通, 样样稀松.
 ```
+
+---
+Date: 2024.04.20
+```
+You get in life what you have the courage tot ask for.
+勇敢去争取想要的生活, 你终能得偿所愿.
+```
