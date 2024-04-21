@@ -7528,3 +7528,14 @@ cohort
 remnant
 detest
 ```
+
+---
+Date: 2024.04.21
+```
+withstand
+hostilities
+revise
+jury
+fate
+oral
+```
