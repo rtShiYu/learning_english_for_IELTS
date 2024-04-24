@@ -4882,3 +4882,10 @@ Date: 2024.04.23
 All the splendor in the world is not worth a good friend.
 人世间所有的荣华富贵不如一个好朋友.
 ```
+
+---
+Date: 2024.04.24
+```
+Don't judge each day by the harvest you reap but by the seeds that you plant.
+不要以你的收获来评判每一天, 而要以你播下的种子来评判.
+```
