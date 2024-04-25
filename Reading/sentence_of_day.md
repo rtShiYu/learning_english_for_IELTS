@@ -4889,3 +4889,10 @@ Date: 2024.04.24
 Don't judge each day by the harvest you reap but by the seeds that you plant.
 不要以你的收获来评判每一天, 而要以你播下的种子来评判.
 ```
+
+---
+Date: 2024.04.25
+```
+A friend without faults will never be found.
+没有十全十美的朋友.
+```
