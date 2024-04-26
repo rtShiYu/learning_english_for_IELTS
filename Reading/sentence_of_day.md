@@ -4896,3 +4896,10 @@ Date: 2024.04.25
 A friend without faults will never be found.
 没有十全十美的朋友.
 ```
+
+---
+Date: 2024.04.26
+```
+Never judge a book by its cover.
+不要以貌取人.
+```
