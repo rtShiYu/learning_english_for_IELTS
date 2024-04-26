@@ -4903,3 +4903,10 @@ Date: 2024.04.26
 Never judge a book by its cover.
 不要以貌取人.
 ```
+
+---
+Date: 2024.04.27
+```
+Chirdren are what the mothers are.
+耳濡目染, 言传身教.
+```
