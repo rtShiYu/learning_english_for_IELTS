@@ -7592,3 +7592,14 @@ promotion
 takeaway
 guarantee
 ```
+
+---
+Date: 2024.04.28
+```
+hang out
+grab
+let me find out
+let me look inot this(I will I'll)
+I'm not sure off hand
+have a good X(day, morning, afternoon, evening, night, one)
+```

@@ -4910,3 +4910,10 @@ Date: 2024.04.27
 Chirdren are what the mothers are.
 耳濡目染, 言传身教.
 ```
+
+---
+Date: 2024.04.28
+```
+Speech is the image of actions.
+语言是行动的反应.
+```
