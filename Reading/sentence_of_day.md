@@ -4917,3 +4917,10 @@ Date: 2024.04.28
 Speech is the image of actions.
 语言是行动的反应.
 ```
+
+---
+Date: 2024.04.30
+```
+A cat may look at a king.
+人人平等.
+```
