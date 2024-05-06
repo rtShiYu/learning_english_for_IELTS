@@ -4924,3 +4924,10 @@ Date: 2024.04.30
 A cat may look at a king.
 人人平等.
 ```
+
+---
+Date: 2024.05.06
+```
+We're all islands shouting lies to each other across seas of misunderstanding.
+我们都是岛屿, 与误解的海洋中向彼此撒着慌.
+```
