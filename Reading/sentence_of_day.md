@@ -4721,3 +4721,206 @@ Date: 2024.03.31
 Happy life lies in a peaceful mind.
 幸福的生活存在于心绪的宁静之中.
 ```
+
+---
+Date: 2024.04.01
+```
+Humor can be like a coat of armor when reality takes a stab at you.
+当现实予你一击, 幽默就是你的盔甲.
+```
+
+---
+Date: 2024.04.02
+```
+A friend is easier lost than found.
+得朋友难，失朋友易.
+```
+
+---
+Date: 2024.04.03
+```
+Patience is the best remedy.
+忍耐是最好的药物.
+```
+
+---
+Date: 2024.04.04
+```
+Death is not the opposite of life, but the part of it.
+死亡并不是生命的对立面, 而是它的一部分.
+```
+
+---
+Date: 2024.04.05
+```
+The best way to achieve a goal is to devote 100% of your time and energy to it.
+达到目标的最好办法就是投入百分之百的时间和精力.
+```
+
+---
+Date: 2024.04.06
+```
+Looking up, I find the moon bright; bowing, in homesickness I'm drowned.
+举头望明月, 低头思故乡.
+```
+
+---
+Date: 2024.04.07
+```
+Don’t lose hope.You never know what tomorrow brings.
+别灰心，谁又知道明天会有怎样的惊喜.
+```
+
+---
+Date: 2024.04.08
+```
+Think less of gain and loss as long as you go all out and have a clear mind.
+得失成败置之度外, 只求竭尽所能, 无愧于心.
+```
+
+---
+Date: 2024.04.09
+```
+The task will be hard. There may be dark days ahead.
+任务将会困难重重，前路可能乌云密布.
+```
+
+---
+Date: 2024.04.10
+```
+You can't obtain something for nothing.
+没有付出就没有收获.
+```
+
+---
+Date: 2024.04.11
+```
+The best of prophets of the future is the past.
+对未来的最好预言是过去.
+```
+
+---
+Date: 2024.04.12
+```
+No man is born wise or learned.
+人非生而知之.
+```
+
+---
+Date: 2024.04.13
+```
+Beauty lies in the love's eyes.
+情人眼里出西施.
+```
+
+---
+Date: 2024.04.14
+```
+In its endless line eternity men obtains, and year after year just the same the moon remains.
+人生代代无穷尽, 江月年年只相似.
+```
+
+---
+Date: 2024.04.15
+```
+If you correct your mind, the rest of your life will into place.
+如果你摆正了心态，你的余生就会步入正轨.
+```
+
+---
+Date: 2024.04.16
+```
+The best physicians are Dr. Diet, Dr. Quiet and Dr. Merryman.
+最好的医生是规定饮食,安宁和快乐.
+```
+
+---
+Date: 2024.04.17
+```
+Winners are simply willing to do what losers won't.
+胜者注重实践, 败者光说不练.
+```
+
+---
+Date: 2024.04.18
+```
+Life is short. Kiss slowly, laugh insanely, love truly and forgive quickly.
+既然生命如此短暂, 那么慢慢亲吻, 尽情地欢笑, 真心去爱, 快快地原谅把.
+```
+
+---
+Date: 2024.04.19
+```
+Jack of all trades, master of none.
+门门精通, 样样稀松.
+```
+
+---
+Date: 2024.04.20
+```
+You get in life what you have the courage tot ask for.
+勇敢去争取想要的生活, 你终能得偿所愿.
+```
+
+---
+Date: 2024.04.21
+```
+A lonely fisherman afloat, is fishing snow in lonely boat.
+孤舟蓑笠翁, 独钓寒江雪.
+```
+
+---
+Date: 2024.04.22
+```
+Fortune knocks once at least at every man's gate.
+风水轮流转.
+```
+
+---
+Date: 2024.04.23
+```
+All the splendor in the world is not worth a good friend.
+人世间所有的荣华富贵不如一个好朋友.
+```
+
+---
+Date: 2024.04.24
+```
+Don't judge each day by the harvest you reap but by the seeds that you plant.
+不要以你的收获来评判每一天, 而要以你播下的种子来评判.
+```
+
+---
+Date: 2024.04.25
+```
+A friend without faults will never be found.
+没有十全十美的朋友.
+```
+
+---
+Date: 2024.04.26
+```
+Never judge a book by its cover.
+不要以貌取人.
+```
+
+---
+Date: 2024.04.27
+```
+Chirdren are what the mothers are.
+耳濡目染, 言传身教.
+```
+
+---
+Date: 2024.04.28
+```
+Speech is the image of actions.
+语言是行动的反应.
+```
+
+---
+Date: 2024.04.30
+```
+A cat may look at a king.
+人人平等.
+```

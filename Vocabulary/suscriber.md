@@ -7324,3 +7324,292 @@ insane
 uncanny
 remainder
 ```
+
+---
+Date: 2024.04.01
+```
+thunderstorm
+pope
+ailment
+slvage
+veto
+Diversity
+```
+
+---
+Date: 2024.04.02
+```
+creep
+sentiment
+nascent
+spate
+doctor
+arrest
+```
+
+---
+Date: 2024.04.03
+```
+slump
+lineup
+rival
+dual
+alleviate
+looming
+famine
+```
+
+---
+Date: 2024.04.04
+```
+syllable
+vowel
+schwa
+eternal
+pudding
+```
+
+---
+Date: 2024.04.05
+```
+weigh
+numerous
+endanger
+overwhelming
+diverst
+bipartisan
+```
+
+---
+Date: 2024.04.06
+```
+topple
+cusp
+dearth
+surge
+malfeasance
+set the tone
+```
+
+---
+Date: 2024.04.07
+```
+rekindle
+fervent
+ashore
+single-plank
+akin
+gallop
+```
+
+---
+Date: 2024.04.08
+```
+twist
+perspective
+arbitrary
+calibration
+partition
+```
+
+---
+Date: 2024.04.09
+```
+insane
+freak
+hint
+pillow
+eternal
+```
+
+---
+Date: 2024.04.10
+```
+eclipse
+throng
+spectator
+occasion
+emission
+```
+
+---
+Date: 2024.04.11
+```
+outlaw
+sheriff
+intimidation
+jar
+jelly
+```
+
+---
+Date: 2024.04.13
+```
+permutation
+immortality
+utopia
+afterlife
+ficklness
+```
+
+---
+Date: 2024.04.14
+```
+affordability
+slam
+stickiest
+infamous
+fixture
+priest
+```
+
+---
+Date: 2024.04.15
+```
+decent
+sophisticate
+formula
+falsehood
+brace
+```
+
+---
+Date: 2024.04.16
+```
+inedible
+broaden
+assault
+involved
+escalation
+missile
+retaliation
+```
+
+---
+Date: 2024.04.17
+```
+homicide
+criminal
+resume
+lay off
+workforce
+autonomous
+```
+
+---
+Date: 2024.04.18
+```
+fraction
+unilaterally
+institute
+spin
+rotate
+```
+
+---
+Date: 2024.04.19
+```
+fixture
+priest
+piecemeal
+enviable
+scrap
+parade
+```
+
+---
+Date: 2024.04.20
+```
+slog
+protagonist
+pundit
+fluff
+cohort
+remnant
+detest
+```
+
+---
+Date: 2024.04.21
+```
+withstand
+hostilities
+revise
+jury
+fate
+oral
+```
+
+---
+Date: 2024.04.22
+```
+mortgage
+commission
+album
+torture
+ubiquitous
+```
+
+---
+Date: 2024.04.23
+```
+eggplant
+zucchini
+pepper
+pea
+ginger
+leek
+```
+
+---
+Date: 2024.04.24
+```
+discontent
+grapple
+alumni
+flare
+tent
+lodge
+```
+
+---
+Date: 2024.04.25
+```
+repressed
+patriot
+oligarch
+puppet
+noncompete
+sweeping
+```
+
+---
+Date: 2024.04.26
+```
+dialogue
+jeez
+promotion
+takeaway
+guarantee
+```
+
+---
+Date: 2024.04.28
+```
+hang out
+grab
+let me find out
+let me look inot this(I will I'll)
+I'm not sure off hand
+have a good X(day, morning, afternoon, evening, night, one)
+```
+
+---
+Date: 2024.04.30
+```
+reaper
+consit
+aviator
+crew
+lag
+```
