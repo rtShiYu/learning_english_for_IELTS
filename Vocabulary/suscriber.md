@@ -7623,3 +7623,13 @@ hood
 canvas
 audience
 ```
+
+---
+Date: 2024.05.07
+```
+encampment
+takeover
+disperse
+dissent
+harass
+```
