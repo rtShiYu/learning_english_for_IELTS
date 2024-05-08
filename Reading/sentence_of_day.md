@@ -4945,3 +4945,10 @@ Date: 2024.05.08
 Don't judge each day by the harvest you reap but by the seeds that you plant.
 不要以你的收获来评判每一天, 而要以你播下的种子来评判.
 ```
+
+---
+Date: 2024.05.09
+```
+Because the road is rough and long, shall we despise the skylark's song?
+只因道路崎岖而漫长, 难道就可以无视云雀的歌唱?
+```
