@@ -4952,3 +4952,10 @@ Date: 2024.05.09
 Because the road is rough and long, shall we despise the skylark's song?
 只因道路崎岖而漫长, 难道就可以无视云雀的歌唱?
 ```
+
+---
+Date: 2024.05.10
+```
+There is always a better way.
+总有更好的办法.
+```

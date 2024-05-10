@@ -7654,3 +7654,13 @@ in charge
 in the bud
 new dress code
 ```
+
+---
+Date: 2024.05.10
+```
+gear
+drunken-driving
+sunk
+nuisance
+tortilla
+```
