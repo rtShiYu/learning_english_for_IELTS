@@ -4966,3 +4966,10 @@ Date: 2024.05.11
 Beware; for I am fearless, and therefore powerful.
 小心, 因为我是无所畏惧的, 因此很强大.
 ```
+
+---
+Date: 2024.05.13
+```
+Inside of every problem lies an opportunity.
+每个问题里都藏着一个机会.
+```
