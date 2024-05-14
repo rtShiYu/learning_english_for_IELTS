@@ -4973,3 +4973,10 @@ Date: 2024.05.13
 Inside of every problem lies an opportunity.
 每个问题里都藏着一个机会.
 ```
+
+---
+Date: 2024.05.14
+```
+Children must be taught how to think, not what to think.
+必须教孩子如何思考, 而不是思考什么.
+```
