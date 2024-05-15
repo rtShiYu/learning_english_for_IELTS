@@ -4980,3 +4980,10 @@ Date: 2024.05.14
 Children must be taught how to think, not what to think.
 必须教孩子如何思考, 而不是思考什么.
 ```
+
+---
+Date: 2024.05.15
+```
+If you are ever in trouble, don't try to be brave, just run, just run away.
+你若遇上麻烦, 不要逞强, 你就跑, 远远跑开.
+```
