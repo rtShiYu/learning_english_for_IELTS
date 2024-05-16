@@ -7706,3 +7706,14 @@ query
 inflection
 mimic
 ```
+
+---
+Date: 2024.05.16
+```
+sensation
+hotly
+eagerly
+anticipated
+frenzy
+megastar
+```
