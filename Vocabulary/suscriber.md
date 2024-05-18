@@ -7727,3 +7727,14 @@ prompt
 blackout
 tariff
 ```
+
+---
+Date: 2024.05.18
+```
+rebel
+backlash
+grumble
+gruelling
+regret
+went viral
+```
