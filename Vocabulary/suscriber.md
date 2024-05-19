@@ -7738,3 +7738,13 @@ gruelling
 regret
 went viral
 ```
+
+---
+Date: 2024.05.19
+```
+To break the ice
+To close the deal
+In the pipeline
+To call it a day
+To be on the same page
+```

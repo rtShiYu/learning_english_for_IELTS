@@ -5008,3 +5008,10 @@ Date: 2024.05.18
 There are only the pursued, the pursuing, the busy and the tired.
 世界上只有被追求者和追求者, 忙碌者和疲惫者.
 ```
+
+---
+Date: 2024.05.19
+```
+Whatever is worth doing is worth doing well.
+任何值得去做的事情对值得把它做好.
+```
