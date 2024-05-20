@@ -7748,3 +7748,13 @@ In the pipeline
 To call it a day
 To be on the same page
 ```
+
+---
+Date: 2024.05.20
+```
+stick, stick with, stick in
+barter
+malicious
+wardrobe
+debate
+```

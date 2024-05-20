@@ -5015,3 +5015,10 @@ Date: 2024.05.19
 Whatever is worth doing is worth doing well.
 任何值得去做的事情对值得把它做好.
 ```
+
+---
+Date: 2024.05.20
+```
+The day a blind man sees. The first thing he throws away is the stick that has helped him all his life.
+盲人重见光明的那一天, 他扔掉的都一样东西就是一生中帮助他的拐杖.
+```
