@@ -5022,3 +5022,10 @@ Date: 2024.05.20
 The day a blind man sees. The first thing he throws away is the stick that has helped him all his life.
 盲人重见光明的那一天, 他扔掉的都一样东西就是一生中帮助他的拐杖.
 ```
+
+---
+Date: 2024.05.21
+```
+People who truly loved once are far more likely to love again.
+真正爱过的人很难再恋爱.
+```
