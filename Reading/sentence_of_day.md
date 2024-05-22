@@ -5029,3 +5029,10 @@ Date: 2024.05.21
 People who truly loved once are far more likely to love again.
 真正爱过的人很难再恋爱.
 ```
+
+---
+Date: 2024.05.22
+```
+It is easier to get than to keep it.
+创业容易守成难.
+```
