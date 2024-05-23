@@ -5036,3 +5036,10 @@ Date: 2024.05.22
 It is easier to get than to keep it.
 创业容易守成难.
 ```
+
+---
+Date: 2024.05.23
+```
+By appreciation, we make excellence in others our own property.
+通过赞美, 别人身上的优点就成为了自己的财富.
+```

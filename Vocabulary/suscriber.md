@@ -7780,3 +7780,14 @@ cardiac arrest
 funeral
 sanction
 ```
+
+---
+Date: 2024.05.23
+```
+what do you do for a living
+retired
+supervisor
+off-season
+fall roll
+barista
+```
