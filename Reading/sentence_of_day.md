@@ -5043,3 +5043,10 @@ Date: 2024.05.23
 By appreciation, we make excellence in others our own property.
 通过赞美, 别人身上的优点就成为了自己的财富.
 ```
+
+---
+Date: 2024.05.24
+```
+It is much more difficult to judge oneself than to judge others.
+判断自己比判断别人要难得多.
+```
