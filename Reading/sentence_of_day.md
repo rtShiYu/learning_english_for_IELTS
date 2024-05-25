@@ -5050,3 +5050,10 @@ Date: 2024.05.24
 It is much more difficult to judge oneself than to judge others.
 判断自己比判断别人要难得多.
 ```
+
+---
+Date: 2024.05.25
+```
+For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never lone.
+要想拥有优美的姿态，请记住一点，你走的时候别人也在走.
+```
