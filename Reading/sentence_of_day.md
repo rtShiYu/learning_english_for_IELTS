@@ -5057,3 +5057,10 @@ Date: 2024.05.25
 For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never lone.
 要想拥有优美的姿态，请记住一点，你走的时候别人也在走.
 ```
+
+---
+Date: 2024.05.26
+```
+If the path be beautiful, let us not ask where it leads.
+如果道路本身很美, 不要问它通向何方.
+```

@@ -7813,3 +7813,14 @@ I'm washing my face
 I'm getting dressed.
 I'm eating a cookie.
 ```
+
+---
+Date: 2024.05.26
+```
+uncoordinated
+take away gravity
+woozy
+dizzy
+unsteady/unstable
+mircrogravity
+```
