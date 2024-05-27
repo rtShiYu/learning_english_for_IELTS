@@ -7835,3 +7835,14 @@ nominee
 blueprint
 pitch
 ```
+
+---
+Date: 2024.05.28
+```
+party
+appetizer: a small dish served before the main meal
+entree: the main course of a meal
+beverage: a drink, like water, juice, or soda
+shrimp
+allergic: a medical condition where you body reacts badly to certain ingredients.
+```

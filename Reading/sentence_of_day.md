@@ -5071,3 +5071,10 @@ Date: 2024.05.27
 If you don't try, you'll never know.
 如果不尝试, 你永远不会知道结果.
 ```
+
+---
+Date: 2024.05.28
+```
+He vaguely knows that the secret of a happy life is nothing else, but to sign a decent agreement with loneliness.
+他隐约知道, 幸福生活的秘诀不是别的, 而是孤独签一个体面的协定.
+```
