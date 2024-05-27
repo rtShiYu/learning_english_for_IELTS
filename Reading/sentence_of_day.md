@@ -5064,3 +5064,10 @@ Date: 2024.05.26
 If the path be beautiful, let us not ask where it leads.
 如果道路本身很美, 不要问它通向何方.
 ```
+
+---
+Date: 2024.05.27
+```
+If you don't try, you'll never know.
+如果不尝试, 你永远不会知道结果.
+```
