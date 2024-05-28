@@ -7846,3 +7846,17 @@ beverage: a drink, like water, juice, or soda
 shrimp
 allergic: a medical condition where you body reacts badly to certain ingredients.
 ```
+
+---
+Date: 2024.05.29
+```
+filet
+mignon
+salmon
+napkin
+well-done
+medium-well
+medium
+medium-rare
+rere
+```
