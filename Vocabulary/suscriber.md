@@ -7860,3 +7860,15 @@ medium
 medium-rare
 rere
 ```
+
+---
+Date: 2024.05.30
+```
+leftover
+tipping
+bartender
+barback
+gent
+busgirl
+busboy
+```
