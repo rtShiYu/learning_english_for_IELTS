@@ -5092,3 +5092,10 @@ Date: 2024.05.30
 You can't be perfect, but you can be unique.
 你不能十全十美, 但你能独一无二.
 ```
+
+---
+Date: 2024.05.31
+```
+Only you can control your future.
+只有你自己可以掌控你的未来.
+```
