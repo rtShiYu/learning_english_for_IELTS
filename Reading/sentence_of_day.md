@@ -4924,3 +4924,178 @@ Date: 2024.04.30
 A cat may look at a king.
 人人平等.
 ```
+
+---
+Date: 2024.05.06
+```
+We're all islands shouting lies to each other across seas of misunderstanding.
+我们都是岛屿, 与误解的海洋中向彼此撒着慌.
+```
+
+---
+Date: 2024.05.07
+```
+Great hopes make great men.
+伟大的理想造就伟大的人.
+```
+
+---
+Date: 2024.05.08
+```
+Don't judge each day by the harvest you reap but by the seeds that you plant.
+不要以你的收获来评判每一天, 而要以你播下的种子来评判.
+```
+
+---
+Date: 2024.05.09
+```
+Because the road is rough and long, shall we despise the skylark's song?
+只因道路崎岖而漫长, 难道就可以无视云雀的歌唱?
+```
+
+---
+Date: 2024.05.10
+```
+There is always a better way.
+总有更好的办法.
+```
+
+---
+Date: 2024.05.11
+```
+Beware; for I am fearless, and therefore powerful.
+小心, 因为我是无所畏惧的, 因此很强大.
+```
+
+---
+Date: 2024.05.13
+```
+Inside of every problem lies an opportunity.
+每个问题里都藏着一个机会.
+```
+
+---
+Date: 2024.05.14
+```
+Children must be taught how to think, not what to think.
+必须教孩子如何思考, 而不是思考什么.
+```
+
+---
+Date: 2024.05.15
+```
+If you are ever in trouble, don't try to be brave, just run, just run away.
+你若遇上麻烦, 不要逞强, 你就跑, 远远跑开.
+```
+
+---
+Date: 2024.05.16
+```
+Love is the one thing that transcends time and space.
+只有爱可以穿越时空.
+```
+
+---
+Date: 2024.05.17
+```
+Death is just a part of life, something we're all destined to do.
+死亡是生命的一部分, 是我们注定要面对的一件事.
+```
+
+---
+Date: 2024.05.18
+```
+There are only the pursued, the pursuing, the busy and the tired.
+世界上只有被追求者和追求者, 忙碌者和疲惫者.
+```
+
+---
+Date: 2024.05.19
+```
+Whatever is worth doing is worth doing well.
+任何值得去做的事情对值得把它做好.
+```
+
+---
+Date: 2024.05.20
+```
+The day a blind man sees. The first thing he throws away is the stick that has helped him all his life.
+盲人重见光明的那一天, 他扔掉的都一样东西就是一生中帮助他的拐杖.
+```
+
+---
+Date: 2024.05.21
+```
+People who truly loved once are far more likely to love again.
+真正爱过的人很难再恋爱.
+```
+
+---
+Date: 2024.05.22
+```
+It is easier to get than to keep it.
+创业容易守成难.
+```
+
+---
+Date: 2024.05.23
+```
+By appreciation, we make excellence in others our own property.
+通过赞美, 别人身上的优点就成为了自己的财富.
+```
+
+---
+Date: 2024.05.24
+```
+It is much more difficult to judge oneself than to judge others.
+判断自己比判断别人要难得多.
+```
+
+---
+Date: 2024.05.25
+```
+For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never lone.
+要想拥有优美的姿态，请记住一点，你走的时候别人也在走.
+```
+
+---
+Date: 2024.05.26
+```
+If the path be beautiful, let us not ask where it leads.
+如果道路本身很美, 不要问它通向何方.
+```
+
+---
+Date: 2024.05.27
+```
+If you don't try, you'll never know.
+如果不尝试, 你永远不会知道结果.
+```
+
+---
+Date: 2024.05.28
+```
+He vaguely knows that the secret of a happy life is nothing else, but to sign a decent agreement with loneliness.
+他隐约知道, 幸福生活的秘诀不是别的, 而是孤独签一个体面的协定.
+```
+
+---
+Date: 2024.05.29
+```
+No fear of words, no fear of years.
+不惧人言, 不畏岁月.
+```
+
+---
+Date: 2024.05.30
+```
+You can't be perfect, but you can be unique.
+你不能十全十美, 但你能独一无二.
+```
+
+---
+Date: 2024.05.31
+```
+Only you can control your future.
+只有你自己可以掌控你的未来.
+```

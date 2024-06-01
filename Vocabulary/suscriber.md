@@ -7613,3 +7613,275 @@ aviator
 crew
 lag
 ```
+
+---
+Date: 2024.05.06
+```
+tight
+puzzle
+hood
+canvas
+audience
+```
+
+---
+Date: 2024.05.07
+```
+encampment
+takeover
+disperse
+dissent
+harass
+```
+
+---
+Date: 2024.05.08
+```
+sue
+genetic
+designation
+therapy
+cicada
+```
+
+---
+Date: 2024.05.09
+```
+regarding
+imperative
+campaign
+in charge
+in the bud
+new dress code
+```
+
+---
+Date: 2024.05.10
+```
+gear
+drunken-driving
+sunk
+nuisance
+tortilla
+```
+
+---
+Date: 2024.05.11
+```
+basket
+strategy
+pipeline
+expectation
+To raise the bar
+diligence
+```
+
+---
+Date: 2024.05.13
+```
+fiction
+drama
+balcony
+promote
+household
+```
+
+---
+Date: 2024.05.14
+```
+consulate
+trapped
+embassy
+authority
+cherish
+```
+
+---
+Date: 2024.05.15
+```
+chide
+blush
+sprightly
+query
+inflection
+mimic
+```
+
+---
+Date: 2024.05.16
+```
+sensation
+hotly
+eagerly
+anticipated
+frenzy
+megastar
+```
+
+---
+Date: 2024.05.17
+```
+dramatic
+blast
+prompt
+blackout
+tariff
+```
+
+---
+Date: 2024.05.18
+```
+rebel
+backlash
+grumble
+gruelling
+regret
+went viral
+```
+
+---
+Date: 2024.05.19
+```
+To break the ice
+To close the deal
+In the pipeline
+To call it a day
+To be on the same page
+```
+
+---
+Date: 2024.05.20
+```
+stick, stick with, stick in
+barter
+malicious
+wardrobe
+debate
+```
+
+---
+Date: 2024.05.21
+```
+bomb
+pond
+shingle
+ruin
+fitted
+tempted
+```
+
+---
+Date: 2024.05.22
+```
+turbulence
+en route
+divert
+cardiac arrest
+funeral
+sanction
+```
+
+---
+Date: 2024.05.23
+```
+what do you do for a living
+retired
+supervisor
+off-season
+fall roll
+barista
+```
+
+---
+Date: 2024.05.24
+```
+soothe
+gender
+gruel
+demise
+flinch
+```
+
+---
+Date: 2024.05.25
+```
+energetic
+what a beautiful day
+the weather is good
+I'm brushing mhy teeth
+I'm washing my face
+I'm getting dressed.
+I'm eating a cookie.
+```
+
+---
+Date: 2024.05.26
+```
+uncoordinated
+take away gravity
+woozy
+dizzy
+unsteady/unstable
+mircrogravity
+```
+
+---
+Date: 2024.05.27
+```
+barrage
+portray
+mantra
+nominee
+blueprint
+pitch
+```
+
+---
+Date: 2024.05.28
+```
+party
+appetizer: a small dish served before the main meal
+entree: the main course of a meal
+beverage: a drink, like water, juice, or soda
+shrimp
+allergic: a medical condition where you body reacts badly to certain ingredients.
+```
+
+---
+Date: 2024.05.29
+```
+filet
+mignon
+salmon
+napkin
+well-done
+medium-well
+medium
+medium-rare
+rere
+```
+
+---
+Date: 2024.05.30
+```
+leftover
+tipping
+bartender
+barback
+gent
+busgirl
+busboy
+```
+
+
+---
+Date: 2024.05.31
+```
+asylum
+settle
+fate
+logistical
+close-quarters
+fierece
+criticism
+```
