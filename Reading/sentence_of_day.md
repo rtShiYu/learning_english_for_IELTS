@@ -5113,3 +5113,10 @@ Date: 2024.06.02
 Time cures all things.
 时间可抚平一切创伤.
 ```
+
+---
+Date: 2024.06.03
+```
+You miss 100% of the shots you don't take.
+你不尝试,就不可能成功.
+```

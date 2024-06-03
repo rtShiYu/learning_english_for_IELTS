@@ -7906,3 +7906,15 @@ decade
 protein
 unveil
 ```
+
+---
+Date: 2024.06.03
+```
+modify
+precise
+somewhat, a little / a bit
+fairly
+pretty
+very / quite / so / really
+extremely
+```
