@@ -7918,3 +7918,16 @@ pretty
 very / quite / so / really
 extremely
 ```
+
+---
+Date: 2024.06.04
+```
+felony
+felon
+hush-money
+unseat
+grim
+falsify
+conceal
+impeach
+```
