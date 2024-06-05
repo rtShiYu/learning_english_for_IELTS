@@ -7931,3 +7931,14 @@ falsify
 conceal
 impeach
 ```
+
+---
+Date: 2024.06.05
+```
+asylum
+encounter
+threshold
+outright
+setback
+concede
+```
