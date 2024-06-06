@@ -7942,3 +7942,13 @@ outright
 setback
 concede
 ```
+
+---
+Date: 2024.06.06
+```
+kick in
+kick off
+set out
+go ahead anyway
+rolling-out
+```
