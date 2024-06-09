@@ -7976,3 +7976,15 @@ milestone
 boast
 joint
 ```
+
+---
+Date: 2024.06.09
+```
+initial public offering
+forgo
+trade down
+firewater
+boozy
+homegrown
+megalopolises
+```
