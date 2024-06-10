@@ -5162,3 +5162,10 @@ Date: 2024.06.09
 Remember to bring a little smile every day in this messy life.
 记得在这杂乱的生活里每天带点笑意.
 ```
+
+---
+Date: 2024.09.10
+```
+When the Cang-lang's waters are clean, I can wash my hat-strings in them.
+沧浪之水清兮, 可以濯吾缨.
+```
