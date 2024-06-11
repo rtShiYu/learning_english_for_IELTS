@@ -5169,3 +5169,10 @@ Date: 2024.09.10
 When the Cang-lang's waters are clean, I can wash my hat-strings in them.
 沧浪之水清兮, 可以濯吾缨.
 ```
+
+---
+Date: 2024.09.11
+```
+It is worthwhile to travel all over the world.
+遍历河山, 人间值得.
+```
