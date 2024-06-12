@@ -5164,15 +5164,22 @@ Remember to bring a little smile every day in this messy life.
 ```
 
 ---
-Date: 2024.09.10
+Date: 2024.06.10
 ```
 When the Cang-lang's waters are clean, I can wash my hat-strings in them.
 沧浪之水清兮, 可以濯吾缨.
 ```
 
 ---
-Date: 2024.09.11
+Date: 2024.06.11
 ```
 It is worthwhile to travel all over the world.
 遍历河山, 人间值得.
+```
+
+---
+Date: 2024.06.12
+```
+Image a new story for your life and start living it.
+为你的生命想一个全新的剧本, 并去倾情出演吧.
 ```

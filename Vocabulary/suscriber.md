@@ -7990,7 +7990,7 @@ megalopolises
 ```
 
 ---
-Date: 2024.09.10
+Date: 2024.06.10
 ```
 tank
 truck
@@ -7998,4 +7998,16 @@ hop
 jettison
 twist
 tire
+```
+
+---
+Date: 2024.06.12
+```
+convict
+felony
+offender
+outdated
+formulae
+retrieve
+unveil
 ```
