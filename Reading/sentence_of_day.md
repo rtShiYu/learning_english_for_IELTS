@@ -5197,3 +5197,10 @@ Date: 2024.06.14
 Do you love life? Then do not squander time; for that's the stuff life is made of.
 你热爱生命么? 那么别浪费时间, 因为生命是由时间组成的.
 ```
+
+---
+Date: 2024.06.15
+```
+If not now, when? If not me, who?
+若非现在, 待何时? 若非是我, 能是谁?
+```
