@@ -5204,3 +5204,10 @@ Date: 2024.06.15
 If not now, when? If not me, who?
 若非现在, 待何时? 若非是我, 能是谁?
 ```
+
+---
+Date: 2024.06.16
+```
+Follow your heart, but take your brain with you.
+跟随自己的心, 但要保持清醒的头脑.
+```
