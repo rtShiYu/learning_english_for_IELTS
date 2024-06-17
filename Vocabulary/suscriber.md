@@ -8058,3 +8058,15 @@ slander
 withdraw
 surge
 ```
+
+---
+Date: 2024.06.18
+```
+sttike down
+bump stock
+rifle
+shareholder
+thrown out
+have the final say
+reinstate
+```
