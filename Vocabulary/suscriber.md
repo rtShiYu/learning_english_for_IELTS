@@ -8046,3 +8046,15 @@ bald eagle
 rescued
 clipped
 ```
+
+---
+Date: 2024.06.17
+```
+sentence
+practical
+flatmate
+jailed
+slander
+withdraw
+surge
+```
