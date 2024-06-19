@@ -5225,3 +5225,10 @@ Date: 2024.06.18
 In nature there are no rewards or punishments; there are consequences.
 自然界中没有奖赏和惩罚, 只有因果.
 ```
+
+---
+Date: 2024.06.19
+```
+Happiness grows at our own firesides, and is not to be picked in strangers' garden.
+幸福生长在我们自己的火炉边, 而不能从别人的花园中采得.
+```
