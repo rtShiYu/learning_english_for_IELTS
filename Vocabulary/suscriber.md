@@ -8081,3 +8081,14 @@ anecdotal
 convoy
 hoist
 ```
+
+---
+Date: 2024.06.20
+```
+sweeping
+illegally
+shield
+spouse
+deportation
+asylum
+```
