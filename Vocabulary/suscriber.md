@@ -8092,3 +8092,14 @@ spouse
 deportation
 asylum
 ```
+
+---
+Date: 2024.06.21
+```
+hit
+massive
+box office
+debut
+dethrone
+revenue
+```
