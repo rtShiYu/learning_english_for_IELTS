@@ -8156,3 +8156,14 @@ hierarchy
 obesity
 tumor
 ```
+
+---
+Date: 2024.06.27
+```
+plea deal
+extradition
+censor
+plaintiff
+allege
+censorship
+```
