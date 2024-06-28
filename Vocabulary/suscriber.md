@@ -8167,3 +8167,13 @@ plaintiff
 allege
 censorship
 ```
+
+---
+Date: 2024.06.28
+```
+dismiss
+bar
+emission
+fossil fuel
+fraud
+```
