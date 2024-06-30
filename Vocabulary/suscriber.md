@@ -7885,3 +7885,319 @@ close-quarters
 fierece
 criticism
 ```
+
+---
+Date: 2024.06.01
+```
+molded
+unfolded
+gent
+unique
+whirlwind
+twister
+```
+
+---
+Date: 2024.06.02
+```
+cubit
+vibrate
+decade
+protein
+unveil
+```
+
+---
+Date: 2024.06.03
+```
+modify
+precise
+somewhat, a little / a bit
+fairly
+pretty
+very / quite / so / really
+extremely
+```
+
+---
+Date: 2024.06.04
+```
+felony
+felon
+hush-money
+unseat
+grim
+falsify
+conceal
+impeach
+```
+
+---
+Date: 2024.06.05
+```
+asylum
+encounter
+threshold
+outright
+setback
+concede
+```
+
+---
+Date: 2024.06.06
+```
+kick in
+kick off
+set out
+go ahead anyway
+rolling-out
+```
+
+---
+Date: 2024.06.07
+```
+vehicle
+rumble
+uphill
+gulf
+hot stage
+maneuver
+splash
+```
+
+---
+Date: 2024.06.08
+```
+insurgent
+pain off
+cachet
+dominate
+milestone
+boast
+joint
+```
+
+---
+Date: 2024.06.09
+```
+initial public offering
+forgo
+trade down
+firewater
+boozy
+homegrown
+megalopolises
+```
+
+---
+Date: 2024.06.10
+```
+tank
+truck
+hop
+jettison
+twist
+tire
+```
+
+---
+Date: 2024.06.12
+```
+convict
+felony
+offender
+outdated
+formulae
+retrieve
+unveil
+```
+
+---
+Date: 2024.06.14
+```
+paradies
+firewood
+forest
+snatch
+struggling
+suck
+```
+
+---
+Date: 2024.06.15
+```
+pril
+promise
+extol
+counterpart
+aspiring
+corporate
+snooze
+```
+
+---
+Date: 2024.06.16
+```
+cougar
+tortoise
+gorilla
+hippopotamus
+bald eagle
+rescued
+clipped
+```
+
+---
+Date: 2024.06.17
+```
+sentence
+practical
+flatmate
+jailed
+slander
+withdraw
+surge
+```
+
+---
+Date: 2024.06.18
+```
+sttike down
+bump stock
+rifle
+shareholder
+thrown out
+have the final say
+reinstate
+```
+
+---
+Date: 2024.06.19
+```
+catcher, catch
+predator
+symptom
+anecdotal
+convoy
+hoist
+```
+
+---
+Date: 2024.06.20
+```
+sweeping
+illegally
+shield
+spouse
+deportation
+asylum
+```
+
+---
+Date: 2024.06.21
+```
+hit
+massive
+box office
+debut
+dethrone
+revenue
+```
+
+---
+Date: 2024.06.22
+```
+glimse
+episode
+trail
+multiple
+underneath
+impenetrable
+```
+
+---
+Date: 2024.06.23
+```
+trough
+rules of thumb
+derive
+proper
+resilience
+```
+
+Date: 2024.06.24
+```
+rhetoric
+proposal
+vet
+undercut
+dismiss
+bar
+```
+
+---
+```
+Date: 2024.06.25
+gerund
+hypothetical
+clause
+fairytale
+tie
+schloss
+```
+
+---
+Date: 2024.06.26
+```
+ability
+stretch
+indicator
+hierarchy
+obesity
+tumor
+```
+
+---
+Date: 2024.06.27
+```
+plea deal
+extradition
+censor
+plaintiff
+allege
+censorship
+```
+
+---
+Date: 2024.06.28
+```
+dismiss
+bar
+emission
+fossil fuel
+fraud
+```
+
+---
+Date: 2024.06.29
+```
+viral
+till
+fraction
+churn out
+outsourcing
+widget
+embrace
+```
+
+---
+Date: 2024.06.30
+```
+suspense
+slide
+defeat
+leftist
+alliance
+uphill
+```
+ 

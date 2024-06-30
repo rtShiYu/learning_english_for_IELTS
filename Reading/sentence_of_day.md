@@ -5099,3 +5099,213 @@ Date: 2024.05.31
 Only you can control your future.
 只有你自己可以掌控你的未来.
 ```
+
+---
+Date: 2024.06.01
+```
+Children see magic because they look for it.
+孩子之所以能看到魔法, 是因为他们在寻找.
+```
+
+---
+Date: 2024.06.02
+```
+Time cures all things.
+时间可抚平一切创伤.
+```
+
+---
+Date: 2024.06.03
+```
+You miss 100% of the shots you don't take.
+你不尝试,就不可能成功.
+```
+
+---
+Date: 2024.06.04
+```
+Joy shared with others are more enjoyed.
+与人同乐, 其乐无穷.
+```
+
+---
+Date: 2024.06.05
+```
+It takes all sorts to make a world.
+世界之大, 无奇不有.
+```
+
+---
+Date: 2024.06.06
+```
+Be bold. You don't have so many audiences.
+大胆点生活, 其实你没有那么多观众.
+```
+
+---
+Date: 2024.06.07
+```
+Successful, faster runs my horse in vernal breeze; I've seen within one day all flowers on the trees.
+春风得意马蹄疾, 一日看尽长安花.
+```
+
+---
+Date: 2024.06.08
+```
+It is never too late to fall in love.
+爱永远不会嫌晚.
+```
+
+---
+Date: 2024.06.09
+```
+Remember to bring a little smile every day in this messy life.
+记得在这杂乱的生活里每天带点笑意.
+```
+
+---
+Date: 2024.06.10
+```
+When the Cang-lang's waters are clean, I can wash my hat-strings in them.
+沧浪之水清兮, 可以濯吾缨.
+```
+
+---
+Date: 2024.06.11
+```
+It is worthwhile to travel all over the world.
+遍历河山, 人间值得.
+```
+
+---
+Date: 2024.06.12
+```
+Image a new story for your life and start living it.
+为你的生命想一个全新的剧本, 并去倾情出演吧.
+```
+
+---
+Date: 2024.06.13
+```
+No man is rich enough to buy back his own past.
+没有人富到可以赎回自己的过去.
+```
+
+---
+Date: 2024.06.14
+```
+Do you love life? Then do not squander time; for that's the stuff life is made of.
+你热爱生命么? 那么别浪费时间, 因为生命是由时间组成的.
+```
+
+---
+Date: 2024.06.15
+```
+If not now, when? If not me, who?
+若非现在, 待何时? 若非是我, 能是谁?
+```
+
+---
+Date: 2024.06.16
+```
+Follow your heart, but take your brain with you.
+跟随自己的心, 但要保持清醒的头脑.
+```
+
+---
+Date: 2024.06.17
+```
+The warmest heart from the best loved ones.
+最暖心的温情来自最爱的人.
+```
+
+---
+Date: 2024.06.18
+```
+In nature there are no rewards or punishments; there are consequences.
+自然界中没有奖赏和惩罚, 只有因果.
+```
+
+---
+Date: 2024.06.19
+```
+Happiness grows at our own firesides, and is not to be picked in strangers' garden.
+幸福生长在我们自己的火炉边, 而不能从别人的花园中采得.
+```
+
+---
+Date: 2024.06.20
+```
+I hope we can all be as brave as each other.
+希望我们都能像对方一样勇敢.
+```
+
+---
+Date: 2024.06.21
+```
+Shall I compare you to a summer's day?
+我能否将你比作夏天?
+```
+
+---
+Date: 2024.06.22
+```
+There are always people with intentions and romance.
+总有人用心, 总有人浪漫.
+```
+
+---
+Date: 2024.06.23
+```
+The course of true love never did run smooth.
+通向真爱的路从无坦途.
+```
+
+---
+Date: 2024.06.24
+```
+Grasp all, lose all.
+贪得无厌, 终将一无所获.
+```
+
+---
+```
+Date: 2024.06.25
+A novel is a mirror walking along a main road.
+一部小说犹如一面在大街上走的镜子.
+```
+
+---
+Date: 2024.06.26
+```
+Happiness is a journey, not a destination.
+幸福是一段旅程, 而不是终点.
+```
+
+---
+Date: 2024.06.27
+```
+A loyal friend is a rare treasure.
+挚友难寻.
+```
+
+---
+Date: 2024.06.28
+```
+Live a good life and meet slowly.
+好好生活, 慢慢相遇.
+```
+
+---
+Date: 2024.06.29
+```
+Cross the stars over the moon to meet your better self.
+跨过星河迈过月亮去迎接更好的自己.
+```
+
+---
+Date: 2024.06.30
+```
+If it happens, it happens.
+既来之, 则安之.
+```
