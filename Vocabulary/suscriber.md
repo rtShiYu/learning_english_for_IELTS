@@ -8201,3 +8201,17 @@ alliance
 uphill
 ```
  
+---
+Date: 2024.07.01
+```
+durian 榴莲
+mangosteen duku 山竹
+rambutan 红毛丹
+jackfruit 菠萝蜜
+dragon fruit 火龙果
+papaya 木瓜
+pineapple 菠萝
+pomele 柚子
+passion fruit
+pomegranate 石榴
+```
