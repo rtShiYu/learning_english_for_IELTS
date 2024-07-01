@@ -5309,3 +5309,10 @@ Date: 2024.06.30
 If it happens, it happens.
 既来之, 则安之.
 ```
+
+---
+Date: 2024.07.01
+```
+Remember that no matter how cool you think you may be, you're not cool enough to look down on anyone...ever.
+记住, 无论你觉得自己多优秀, 你也永远没有资格轻视任何人, 永远如此.
+```
