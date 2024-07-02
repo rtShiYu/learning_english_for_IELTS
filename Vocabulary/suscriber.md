@@ -8215,3 +8215,14 @@ pomele 柚子
 passion fruit
 pomegranate 石榴
 ```
+
+---
+Date: 2024.07.02
+```
+debate
+befuddle, befuddled
+agonize, agonising
+incoherent
+infirm
+vengeful
+```
