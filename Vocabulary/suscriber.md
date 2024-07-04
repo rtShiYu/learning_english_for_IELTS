@@ -8226,3 +8226,13 @@ incoherent
 infirm
 vengeful
 ```
+
+---
+Date: 2024.07.04
+```
+outweigh
+arthritis
+infusion
+impairment
+cognitive
+```
