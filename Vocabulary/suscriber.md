@@ -8236,3 +8236,16 @@ infusion
 impairment
 cognitive
 ```
+
+---
+Date: 2024.07.05
+```
+vowel
+refect
+diphthong
+consonant
+lemonade
+exercise
+episode
+dispute
+```
