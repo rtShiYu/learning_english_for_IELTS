@@ -8249,3 +8249,14 @@ exercise
 episode
 dispute
 ```
+
+---
+Date: 2024.07.06
+```
+threshold
+hold dear
+consensus
+intervention
+tackle
+chronic
+```
