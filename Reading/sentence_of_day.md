@@ -5357,3 +5357,10 @@ Date: 2024.07.8
 To laugh at yourself is to love yourself.
 学会自嘲也是爱自己的一种表现.
 ```
+
+---
+Date: 2024.07.09
+```
+The only limit is your soul.
+唯一限制的就是你的灵魂
+```
