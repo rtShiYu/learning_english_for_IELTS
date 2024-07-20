@@ -5391,3 +5391,10 @@ Date: 2024.07.18
 Time and tide wait for no man.
 时光如逝水, 岁月不待人.
 ```
+
+---
+Date: 2024.07.20
+```
+There is no royal road to learning.
+学习没有捷径.
+```
