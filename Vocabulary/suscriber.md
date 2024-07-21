@@ -8307,3 +8307,13 @@ overlooked
 working-class
 renowned
 ```
+
+---
+Date: 2024.07.21
+```
+knackered
+lucid
+accurate
+tricky
+hygiene
+```
