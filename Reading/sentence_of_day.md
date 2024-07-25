@@ -5426,3 +5426,10 @@ Date: 2024.07.24
 The best way of keeping fit is to keep a heart young.
 保持健康的最好办法就是保持年轻的心态.
 ```
+
+---
+Date: 2024.07.25
+```
+I don't want to survive, I want to live.
+我不要只是生存, 我要活得有意义.
+```
