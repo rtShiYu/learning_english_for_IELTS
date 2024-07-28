@@ -5447,3 +5447,10 @@ Date: 2024.07.27
 I feel the need - the need for speed.
 我感觉到一种需要-速度的需要.
 ```
+
+---
+Date: 2024.07.28
+```
+Life consists not in holding good cards, but in playing well those you hold.
+生活不在于有一手好牌, 而在于你把你手中的牌打好.
+```

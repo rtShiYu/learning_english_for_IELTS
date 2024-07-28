@@ -8384,3 +8384,15 @@ glimpse
 horsepower
 intact
 ```
+
+---
+Date: 2024.07.28
+```
+revolt
+sky-high immigration
+moderate, radical
+deport
+reliant
+pledge
+populist
+```
