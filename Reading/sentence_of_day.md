@@ -5460,3 +5460,10 @@ Date: 2024.07.29
 ```
 Being yourself is an honor, because nobody else can be you.
 ```
+
+---
+Date: 2024.07.30
+```
+It's better to light a candle than to curse the darkness.
+与其诅咒黑暗, 不如点燃一根蜡烛.
+```
