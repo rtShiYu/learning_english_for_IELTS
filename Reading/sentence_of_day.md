@@ -5467,3 +5467,9 @@ Date: 2024.07.30
 It's better to light a candle than to curse the darkness.
 与其诅咒黑暗, 不如点燃一根蜡烛.
 ```
+
+---
+Date: 2024.08.01
+```
+If you have great talents, industry will improve them; if you have but moderate abilities, industry will supply their deficiency.
+```
