@@ -5309,3 +5309,161 @@ Date: 2024.06.30
 If it happens, it happens.
 既来之, 则安之.
 ```
+
+---
+Date: 2024.07.01
+```
+Remember that no matter how cool you think you may be, you're not cool enough to look down on anyone...ever.
+记住, 无论你觉得自己多优秀, 你也永远没有资格轻视任何人, 永远如此.
+```
+
+---
+Date: 2024.07.02
+```
+There's nothing easy about grown-up life.
+成年人的生活里没有容易二字.
+```
+
+---
+Date: 2024.07.04
+```
+There will be generations because of what you did.
+因为你的善行, 生命才得以传承下去.
+```
+
+---
+Date: 2024.07.05
+```
+Life is the flower for which love is the honey.
+生命如花, 爱情是密.
+```
+
+---
+Date: 2024.07.06
+```
+Every man is a poet when he is in love.
+每个恋爱中的人都是诗人.
+```
+
+---
+Date: 2024.07.07
+```
+Summer has filled her veins with light and her heart is washed with noon.
+```
+
+---
+Date: 2024.07.8
+```
+To laugh at yourself is to love yourself.
+学会自嘲也是爱自己的一种表现.
+```
+
+---
+Date: 2024.07.09
+```
+The only limit is your soul.
+唯一限制的就是你的灵魂
+```
+
+---
+Date: 2024.07.10
+```
+The very things that hold you down are going to lift you up.
+让你跌倒谷底的事情, 往往也是让你重新站起的原因.
+```
+
+---
+Date: 2024.07.11
+```
+Who says my dreams have to stay dreams?
+```
+
+---
+Date: 2024.07.17
+```
+May the force be with you.
+愿力量与你同在. -星球大战
+```
+
+---
+Date: 2024.07.18
+```
+Time and tide wait for no man.
+时光如逝水, 岁月不待人.
+```
+
+---
+Date: 2024.07.20
+```
+There is no royal road to learning.
+学习没有捷径.
+```
+
+---
+Date: 2024.07.21
+```
+I laugh in the face of danger.
+越危险就越合我心意.
+```
+
+---
+Date: 2024.07.22
+```
+Deep summer is when laziness finds respectability.
+盛夏时节, 慵懒都变得体面起来.
+```
+
+---
+Date: 2024.07.23
+```
+Do not seat your love upon a precipice because it is high.
+不要因为峭壁是高的, 而让你的爱情坐在峭壁上.
+```
+
+---
+Date: 2024.07.24
+```
+The best way of keeping fit is to keep a heart young.
+保持健康的最好办法就是保持年轻的心态.
+```
+
+---
+Date: 2024.07.25
+```
+I don't want to survive, I want to live.
+我不要只是生存, 我要活得有意义.
+```
+
+---
+Date: 2024.07.26
+```
+A loving heart was better and stronger than wisdom.
+一颗仁爱的心比智慧更好, 更有力量.
+```
+
+---
+Date: 2024.07.27
+```
+I feel the need - the need for speed.
+我感觉到一种需要-速度的需要.
+```
+
+---
+Date: 2024.07.28
+```
+Life consists not in holding good cards, but in playing well those you hold.
+生活不在于有一手好牌, 而在于你把你手中的牌打好.
+```
+
+---
+Date: 2024.07.29
+```
+Being yourself is an honor, because nobody else can be you.
+```
+
+---
+Date: 2024.07.30
+```
+It's better to light a candle than to curse the darkness.
+与其诅咒黑暗, 不如点燃一根蜡烛.
+```

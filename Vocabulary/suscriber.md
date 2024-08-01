@@ -8201,3 +8201,221 @@ alliance
 uphill
 ```
  
+---
+Date: 2024.07.01
+```
+durian 榴莲
+mangosteen duku 山竹
+rambutan 红毛丹
+jackfruit 菠萝蜜
+dragon fruit 火龙果
+papaya 木瓜
+pineapple 菠萝
+pomele 柚子
+passion fruit
+pomegranate 石榴
+```
+
+---
+Date: 2024.07.02
+```
+debate
+befuddle, befuddled
+agonize, agonising
+incoherent
+infirm
+vengeful
+```
+
+---
+Date: 2024.07.04
+```
+outweigh
+arthritis
+infusion
+impairment
+cognitive
+```
+
+---
+Date: 2024.07.05
+```
+vowel
+refect
+diphthong
+consonant
+lemonade
+exercise
+episode
+dispute
+```
+
+---
+Date: 2024.07.06
+```
+threshold
+hold dear
+consensus
+intervention
+tackle
+chronic
+```
+
+---
+Date: 2024.07.8
+```
+snorkeling
+snorkeling tour
+coral reef
+dive
+swim cap
+swimsuit
+breaststroke
+lifeguard
+```
+
+---
+Date: 2024.07.09
+```
+romcom, romantic comedy
+comedy
+sitcom
+calibrated
+calibre
+titillate
+surmountable
+```
+
+---
+Date: 2024.07.10
+```
+okra
+carrot
+chili
+lettuce
+ginger
+cucumber
+```
+
+---
+Date: 2024.07.17
+```
+venture
+hillbilly elegy
+upbringing
+overlooked
+working-class
+renowned
+```
+
+---
+Date: 2024.07.21
+```
+knackered
+lucid
+accurate
+tricky
+hygiene
+```
+
+---
+Date: 2024.07.22
+```
+drop
+reelection
+campaign
+routine
+marijuana
+chaotic
+```
+
+---
+Date: 2024.07.23
+```
+grilled
+resign
+lapse
+pray
+fizzle
+endorsement
+mineral
+```
+
+---
+Date: 2024.07.24
+```
+taboo
+unbiased
+soapbox
+abstinence
+consequently
+kink
+```
+
+---
+Date: 2024.07.25
+```
+instill
+cruise
+fjord
+slab
+resemblance
+seabird
+```
+
+---
+Date: 2024.07.26
+```
+crew
+lounge
+mossy
+coastline
+shame
+humpback
+```
+
+---
+Date: 2024.07.27
+```
+boundless
+historic
+miraculous
+glimpse
+horsepower
+intact
+```
+
+---
+Date: 2024.07.28
+```
+revolt
+sky-high immigration
+moderate, radical
+deport
+reliant
+pledge
+populist
+```
+
+---
+Date: 2024.07.29
+```
+delegation
+extravagant
+kick off
+poured
+triumphant return
+showcase
+arson
+```
+
+---
+Date: 2024.07.30
+```
+brewery
+cohort
+mindset
+rural
+memoir
+devastate
+```
