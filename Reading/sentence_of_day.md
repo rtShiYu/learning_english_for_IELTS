@@ -5473,3 +5473,10 @@ Date: 2024.08.01
 ```
 If you have great talents, industry will improve them; if you have but moderate abilities, industry will supply their deficiency.
 ```
+
+---
+Date: 2024.08.02
+```
+The only real failure in life is not to be true to the best one knows.
+生命中唯一真正的失败就是没有忠于自己所知道的最好的事物.
+```
