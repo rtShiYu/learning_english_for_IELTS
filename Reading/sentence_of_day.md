@@ -5480,3 +5480,9 @@ Date: 2024.08.02
 The only real failure in life is not to be true to the best one knows.
 生命中唯一真正的失败就是没有忠于自己所知道的最好的事物.
 ```
+
+---
+Date: 2024.08.03
+```
+Our deeds detemine us, much as we detemine our deeds.
+```
