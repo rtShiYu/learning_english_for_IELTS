@@ -5486,3 +5486,10 @@ Date: 2024.08.03
 ```
 Our deeds detemine us, much as we detemine our deeds.
 ```
+
+---
+Date: 2024.08.04
+```
+A wise man is impartial, not neutral. A fool is neutral but not in impartial.
+君子周而不比, 小人比而不周.
+```
