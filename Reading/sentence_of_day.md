@@ -5493,3 +5493,10 @@ Date: 2024.08.04
 A wise man is impartial, not neutral. A fool is neutral but not in impartial.
 君子周而不比, 小人比而不周.
 ```
+
+---
+Date: 2024.08.05
+```
+A goal without a plan is just a wish.
+没有计划的目标只是一个愿望.
+```
