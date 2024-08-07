@@ -5507,3 +5507,10 @@ Date: 2024.08.06
 Music has charms to soothe a savage breast, to soften rocks or bend a knotted oak.
 音乐有着抚慰粗野的胸怀,软化顽石或使千年老树弯腰的魅力.
 ```
+
+---
+Date: 2024.08.07
+```
+Modesty is to merit what shadows are to a picture, which give it force and relife.
+谦虚之人的美德, 犹如阴影之于图画, 会使人更加有力和显著.
+```
