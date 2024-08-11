@@ -8463,3 +8463,14 @@ trot
 plunge
 gimp
 ```
+
+---
+Date: 2024.08.11
+```
+breaking, break dancing
+spin
+pose
+glide
+charisma
+debut
+```
