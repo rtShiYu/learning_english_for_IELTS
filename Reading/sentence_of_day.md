@@ -5556,3 +5556,10 @@ Date: 2024.08.16
 To love and be loved is to feel the sun from toth sides.
 爱与被爱是感受到两边的阳光.
 ```
+
+---
+Date: 2024.08.17
+```
+You never know what you can do till you try.
+除非亲自尝试, 否则你永远不知道你能做什么.
+```
