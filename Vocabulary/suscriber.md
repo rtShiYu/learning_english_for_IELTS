@@ -8535,7 +8535,7 @@ be at the end of one's rope
 ---
 Date: 2024.08.17
 ```
-fummox
+flummox
 welsh
 glitch
 breakthrough
@@ -8543,4 +8543,15 @@ linguistic
 combination
 twist
 fictional
+```
+
+---
+Date: 2024.08.17
+```
+popularity
+proportion
+disruption
+decline
+enrolement
+consecutive
 ```
