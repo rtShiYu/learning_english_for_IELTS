@@ -5565,15 +5565,22 @@ You never know what you can do till you try.
 ```
 
 ---
-Date: 2024.08.17
+Date: 2024.08.18
 ```
 The bird wishes it were a cloud. The cloud wishes it were a bird.
 鸟儿愿为云朵, 云儿愿为一只鸟.
 ```
 
 ---
-Date: 2024.08.18
+Date: 2024.08.19
 ```
 Difficult roads often lead to beautiful destinations.
 艰难的道路常常通向美丽的目的地.
+```
+
+---
+Date: 2024.08.20
+```
+The best revenge is massive success.
+最好的报复是巨大的成功.
 ```
