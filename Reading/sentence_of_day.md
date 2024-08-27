@@ -5625,3 +5625,10 @@ Date: 2024.08.26
 Dream as if you'll live forever. Live as if you'll die today.
 如永生般逐梦, 如末日般生活.
 ```
+
+---
+Date: 2024.08.27
+```
+Success usually comes to those who are too busy to be looking for it.
+成功通常降临在那些忙得没时间找它的人身上.
+```
