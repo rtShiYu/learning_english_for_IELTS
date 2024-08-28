@@ -5632,3 +5632,10 @@ Date: 2024.08.27
 Success usually comes to those who are too busy to be looking for it.
 成功通常降临在那些忙得没时间找它的人身上.
 ```
+
+---
+Date: 2024.08.28
+```
+Don't wait. The time will never be just right.
+不要等待。时机永远不会完全合适.
+```
