@@ -5639,3 +5639,10 @@ Date: 2024.08.28
 Don't wait. The time will never be just right.
 不要等待。时机永远不会完全合适.
 ```
+
+---
+Date: 2024.08.29
+```
+You only live once, but if you do it right, once is enough.
+你只活一次, 但如果你做得好, 一次足够.
+```
