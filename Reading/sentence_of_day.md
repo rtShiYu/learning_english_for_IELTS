@@ -5660,3 +5660,10 @@ Date: 2024.08.31
 Turn your wounds into wisdom.
 把伤口变成智慧.
 ```
+
+---
+Date: 2024.09.01
+```
+To avoid criticism, do nothing, say nothing and be nothing.
+躲避批评的唯一办法是: 什么也不做, 什么也不说, 做个无足轻重的人.
+```

@@ -8676,3 +8676,14 @@ inability
 thrilling
 respectively
 ```
+
+---
+Date: 2024.09.01
+```
+withdrawn
+tattoo
+infection
+parlour
+temporary
+heritage
+```
