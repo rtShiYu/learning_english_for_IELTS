@@ -8419,3 +8419,260 @@ rural
 memoir
 devastate
 ```
+
+---
+Date: 2024.08.04
+```
+glorious
+odd
+jaded
+embraced
+shrugging
+glumness
+tabloid
+```
+
+---
+Date: 2024.08.05
+```
+tailspin
+debate
+tidy
+purse
+forge
+forgo
+eligible
+```
+
+---
+Date: 2024.08.06
+```
+imperial
+expat
+awry
+household
+debut
+```
+
+---
+Date: 2024.08.07
+```
+lurk
+parlance
+trot
+plunge
+gimp
+```
+
+---
+Date: 2024.08.11
+```
+breaking, break dancing
+spin
+pose
+glide
+charisma
+debut
+```
+
+---
+Date: 2024.08.12
+```
+hotly
+debate
+hydraulic
+convinced
+ingenious
+```
+
+---
+Date: 2024.08.13
+```
+ramps
+consumption
+irrigation
+transportation
+prior
+```
+
+---
+Date: 2024.08.14
+```
+tangibly
+struck
+colonial
+semina
+gesture
+grab
+```
+
+---
+Date: 2024.08.15
+```
+fiscal
+federal
+eligible
+permanent
+endorse
+glitch
+```
+
+---
+Date: 2024.08.16
+```
+for a moment
+cable
+cord
+wire
+string
+thread the needle
+rope
+tie
+lift
+be at the end of one's rope
+```
+
+---
+Date: 2024.08.17
+```
+flummox
+welsh
+glitch
+breakthrough
+linguistic
+combination
+twist
+fictional
+```
+
+---
+Date: 2024.08.18
+```
+popularity
+proportion
+disruption
+decline
+enrolement
+consecutive
+```
+
+---
+Date: 2024.08.19
+```
+dignity
+subsidize
+proposed
+tariff
+swarming
+cricket
+```
+
+---
+Date: 2024.08.20
+```
+clan
+indile
+beetle
+foodways
+embrace
+```
+
+---
+Date: 2024.08.21
+```
+acquit
+fraudulently
+inflate
+violent storm
+backbone
+chant
+```
+
+---
+Date: 2024.08.22
+```
+decided
+condolence
+inquire
+engagement
+ceremony
+```
+
+---
+Date: 2024.08.24
+```
+miner
+ore
+chile
+wafer
+ramp
+squeeze
+```
+
+---
+Date: 2024.08.25
+```
+kidult
+hamster
+consult
+speakerphone
+tearful
+vignette
+childsh
+```
+
+---
+Date: 2024.08.26
+```
+combat
+lung cancer
+tumour
+jab
+on track
+precipitous
+```
+
+---
+Date: 2024.08.27
+```
+popcorn brain
+span
+concentrate
+ruining
+destroying
+excessive
+dubbed
+```
+
+---
+Date: 2024.08.29
+```
+condition
+remedy
+crucial
+essential
+critical
+pivotal
+imperative
+```
+
+---
+Date: 2024.08.30
+```
+prosecutor
+money laundering
+complicity
+distribution
+hoax
+abduct
+```
+
+---
+Date: 2024.08.31
+```
+lingo
+denote
+inability
+thrilling
+respectively
+```

@@ -5467,3 +5467,196 @@ Date: 2024.07.30
 It's better to light a candle than to curse the darkness.
 与其诅咒黑暗, 不如点燃一根蜡烛.
 ```
+
+---
+Date: 2024.08.01
+```
+If you have great talents, industry will improve them; if you have but moderate abilities, industry will supply their deficiency.
+```
+
+---
+Date: 2024.08.02
+```
+The only real failure in life is not to be true to the best one knows.
+生命中唯一真正的失败就是没有忠于自己所知道的最好的事物.
+```
+
+---
+Date: 2024.08.03
+```
+Our deeds detemine us, much as we detemine our deeds.
+```
+
+---
+Date: 2024.08.04
+```
+A wise man is impartial, not neutral. A fool is neutral but not in impartial.
+君子周而不比, 小人比而不周.
+```
+
+---
+Date: 2024.08.05
+```
+A goal without a plan is just a wish.
+没有计划的目标只是一个愿望.
+```
+
+---
+Date: 2024.08.06
+```
+Music has charms to soothe a savage breast, to soften rocks or bend a knotted oak.
+音乐有着抚慰粗野的胸怀,软化顽石或使千年老树弯腰的魅力.
+```
+
+---
+Date: 2024.08.07
+```
+Modesty is to merit what shadows are to a picture, which give it force and relife.
+谦虚之人的美德, 犹如阴影之于图画, 会使人更加有力和显著.
+```
+
+---
+Date: 2024.08.11
+```
+Do what you can, with what you have, where you are.
+尽力而为, 随遇而安.
+```
+
+---
+Date: 2024.08.12
+```
+When work is pleasure, life is a joy!
+当工作是一种乐趣时, 生活才是一种享受.
+```
+
+---
+Date: 2024.08.13
+```
+I think this is the beginning of a beautiful friendship.
+我认为这是美好友谊的开始.
+```
+
+---
+Date: 2024.08.14
+```
+I have loved the stars too fondly to be fearful of the night.
+我如此深爱繁星, 以致不惧黑夜.
+```
+
+---
+Date: 2024.08.15
+```
+Love is passion, obsession, someone you can't live without.
+爱是激情, 痴迷, 是你无法离开的人.
+```
+
+---
+Date: 2024.08.16
+```
+To love and be loved is to feel the sun from toth sides.
+爱与被爱是感受到两边的阳光.
+```
+
+---
+Date: 2024.08.17
+```
+You never know what you can do till you try.
+除非亲自尝试, 否则你永远不知道你能做什么.
+```
+
+---
+Date: 2024.08.18
+```
+The bird wishes it were a cloud. The cloud wishes it were a bird.
+鸟儿愿为云朵, 云儿愿为一只鸟.
+```
+
+---
+Date: 2024.08.19
+```
+Difficult roads often lead to beautiful destinations.
+艰难的道路常常通向美丽的目的地.
+```
+
+---
+Date: 2024.08.20
+```
+The best revenge is massive success.
+最好的报复是巨大的成功.
+```
+
+---
+Date: 2024.08.21
+```
+You complete me, and I will always cherish that.
+你使我完整, 我将永远珍惜.
+```
+
+---
+Date: 2024.08.22
+```
+You're the only one who can save us now.
+```
+
+---
+Date: 2024.08.23
+```
+A certain amount of care or pain or trouble is necessary for every man at all times. A ship without a ballast is unstable and will not go straight.
+一定的忧愁, 痛苦或烦恼, 对每个人都是时时必须的.
+```
+
+---
+Date: 2024.08.24
+```
+Winter is coming, and we must be prepared.— Game of Thrones
+寒冬将至，我们必须做好准备.
+```
+
+---
+Date: 2024.08.25
+```
+Life is to talk after a respite and not to act ahead of schedule.
+生命就是缓一口气再讲, 明天再说明天的.
+```
+
+---
+Date: 2024.08.26
+```
+Dream as if you'll live forever. Live as if you'll die today.
+如永生般逐梦, 如末日般生活.
+```
+
+---
+Date: 2024.08.27
+```
+Success usually comes to those who are too busy to be looking for it.
+成功通常降临在那些忙得没时间找它的人身上.
+```
+
+---
+Date: 2024.08.28
+```
+Don't wait. The time will never be just right.
+不要等待。时机永远不会完全合适.
+```
+
+---
+Date: 2024.08.29
+```
+You only live once, but if you do it right, once is enough.
+你只活一次, 但如果你做得好, 一次足够.
+```
+
+---
+Date: 2024.08.30
+```
+The only limit to our realization of tomorrow is our doubts today.
+对明天实现的唯一限制是我们今天的怀疑.
+```
+
+---
+Date: 2024.08.31
+```
+Turn your wounds into wisdom.
+把伤口变成智慧.
+```
