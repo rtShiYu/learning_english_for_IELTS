@@ -5667,3 +5667,10 @@ Date: 2024.09.01
 To avoid criticism, do nothing, say nothing and be nothing.
 躲避批评的唯一办法是: 什么也不做, 什么也不说, 做个无足轻重的人.
 ```
+
+---
+Date: 2024.09.02
+```
+When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.
+当阳光明媚时, 我可以做任何事情; 没有一座山无法逾越, 没有一件事难以克服.
+```
