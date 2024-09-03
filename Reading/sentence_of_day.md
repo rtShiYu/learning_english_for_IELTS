@@ -5674,3 +5674,10 @@ Date: 2024.09.02
 When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.
 当阳光明媚时, 我可以做任何事情; 没有一座山无法逾越, 没有一件事难以克服.
 ```
+
+---
+Date: 2024.09.03
+```
+Deeds are better things than words are, actions mightier than boastings.
+有所作为才能胜过空言, 行动才能压倒大言不惭.
+```
