@@ -8721,3 +8721,15 @@ savor
 itinerary, intinerary map
 prefecture
 ```
+
+---
+Date: 2024.09.05
+```
+clinician
+erode
+telehealth
+primary care
+urgent care
+career-ladder
+gridlock
+```
