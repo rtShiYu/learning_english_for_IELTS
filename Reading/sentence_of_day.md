@@ -5695,3 +5695,10 @@ Date: 2024.09.05
 Don't brood. Get on with living and loving. You don't have forever.
 无沉溺于优思, 莫辜负生命与爱. 时光若逝, 永不再来.
 ```
+
+---
+Date: 2024.09.06
+```
+Great things are not done by impulse, but by a series of small things brought together.
+伟大的事不是靠一时冲动做成的, 而是一连串小事联合起来做成的.
+```
