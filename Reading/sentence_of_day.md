@@ -5702,3 +5702,10 @@ Date: 2024.09.06
 Great things are not done by impulse, but by a series of small things brought together.
 伟大的事不是靠一时冲动做成的, 而是一连串小事联合起来做成的.
 ```
+
+---
+Date: 2024.09.07
+```
+Problems are not stop sign; they are guidelines.
+问题不是止步不前的标志, 而是前进的指引.
+```
