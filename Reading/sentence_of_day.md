@@ -5716,3 +5716,10 @@ Date: 2024.09.08
 Not everybody could sail the ocean, but still we could share this dream.
 不是每个人都能成为销魂的船长, 但都可以让梦想远航.
 ```
+
+---
+Date: 2024.09.09
+```
+I will take fate by the throat, never let fate overwhelmed.
+我要扼住命运的咽喉, 绝不为命运所压倒.
+```
