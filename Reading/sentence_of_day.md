@@ -5723,3 +5723,10 @@ Date: 2024.09.09
 I will take fate by the throat, never let fate overwhelmed.
 我要扼住命运的咽喉, 绝不为命运所压倒.
 ```
+
+---
+Date: 2024.09.10
+```
+Teaching is the one profession that creates all other professions.
+教育是一切职业之母.
+```
