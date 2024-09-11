@@ -5730,3 +5730,10 @@ Date: 2024.09.10
 Teaching is the one profession that creates all other professions.
 教育是一切职业之母.
 ```
+
+---
+Date: 2024.09.11
+```
+The greatest weapon against stress is our ability to choose one thought over another.
+战胜压力最强大的武器, 就是转换想法的能力.
+```
