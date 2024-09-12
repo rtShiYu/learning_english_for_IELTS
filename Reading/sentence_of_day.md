@@ -5737,3 +5737,10 @@ Date: 2024.09.11
 The greatest weapon against stress is our ability to choose one thought over another.
 战胜压力最强大的武器, 就是转换想法的能力.
 ```
+
+---
+Date: 2024.09.23
+```
+Fall seven times and stand up eight.
+跌倒七次, 站起来八次.
+```
