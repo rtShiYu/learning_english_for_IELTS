@@ -5739,8 +5739,15 @@ The greatest weapon against stress is our ability to choose one thought over ano
 ```
 
 ---
-Date: 2024.09.23
+Date: 2024.09.12
 ```
 Fall seven times and stand up eight.
 跌倒七次, 站起来八次.
+```
+
+---
+Date: 2024.09.13
+```
+I always wanted to be somebody, but now I realize I should have been more specific.
+我一直想成为某个人, 但现在我意识到我应该更具体一些.
 ```
