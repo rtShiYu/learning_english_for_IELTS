@@ -8853,3 +8853,14 @@ barroom
 guarantee
 horrible
 ```
+
+---
+Date: 2024.09.19
+```
+retire
+squeezed
+downturn, upturn
+took a step
+put off
+pushback
+```
