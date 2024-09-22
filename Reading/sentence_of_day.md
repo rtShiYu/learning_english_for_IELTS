@@ -5799,3 +5799,10 @@ Date: 2024.09.21
 Yesterday is history; tomorrow is a mystery; But today is a gift.
 昨天已是历史，明天还是一个谜，而今天是一份礼物。
 ```
+
+---
+Date: 2024.09.22
+```
+A lie can travel halfway around the world while the truth is still putting on its shoes.
+当真理还在穿鞋的时候, 谎言就能走遍世界.
+```
