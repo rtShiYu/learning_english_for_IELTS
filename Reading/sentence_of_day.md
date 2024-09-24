@@ -5813,3 +5813,10 @@ Date: 2024.09.23
 Thoughts feeds itself with its own words and grows.
 思想以它自己的言语喂养它自己而成长起来.
 ```
+
+---
+Date: 2024.09.24
+```
+What we fear doing most is usually what we most need to do.
+我们最害怕去做的事，往往正是我门最需要去做的。
+```
