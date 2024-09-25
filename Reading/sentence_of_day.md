@@ -5820,3 +5820,11 @@ Date: 2024.09.24
 What we fear doing most is usually what we most need to do.
 我们最害怕去做的事，往往正是我门最需要去做的。
 ```
+
+
+---
+Date: 2024.09.25
+```
+All the world's a stage, and all the men and women merely players.
+世界是个大舞台, 男人女人皆为演员.
+```
