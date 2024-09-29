@@ -5842,3 +5842,10 @@ Date: 2024.09.27
 I like the night. Without the dark, we'd never see the stars.
 我喜欢夜晚,没有黑暗, 我们永远无法欣赏星辰.
 ```
+
+---
+Date: 2024.09.29
+```
+Don't let the noise of other's opinions drown out your own inner voice.
+不要让别人的意见淹没了你自己内心的声音。
+```
