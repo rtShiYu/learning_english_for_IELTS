@@ -5849,3 +5849,10 @@ Date: 2024.09.29
 Don't let the noise of other's opinions drown out your own inner voice.
 不要让别人的意见淹没了你自己内心的声音。
 ```
+
+---
+Date: 2024.09.30
+```
+Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
+困难是用来激励人心，而不是使人气馁。人的心灵将因挫折而茁壮成长。
+```
