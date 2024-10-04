@@ -5877,3 +5877,10 @@ Date: 2024.10.03
 Young people have changed the course of history time and time again.
 古往今来，年轻人一次一次地改变着历史的进程。
 ```
+
+---
+Date: 2024.10.04
+```
+No matter what label is thrown your way, only you can define yourself.
+不管你被贴上什么标签，只有你才能定义你自己。
+```
