@@ -5660,3 +5660,241 @@ Date: 2024.08.31
 Turn your wounds into wisdom.
 把伤口变成智慧.
 ```
+
+---
+Date: 2024.09.01
+```
+To avoid criticism, do nothing, say nothing and be nothing.
+躲避批评的唯一办法是: 什么也不做, 什么也不说, 做个无足轻重的人.
+```
+
+---
+Date: 2024.09.02
+```
+When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.
+当阳光明媚时, 我可以做任何事情; 没有一座山无法逾越, 没有一件事难以克服.
+```
+
+---
+Date: 2024.09.03
+```
+Deeds are better things than words are, actions mightier than boastings.
+有所作为才能胜过空言, 行动才能压倒大言不惭.
+```
+
+---
+Date: 2024.09.04
+```
+Good artists copy, great artists steal.
+好艺术家复制, 伟大艺术家偷窃.
+```
+
+---
+Date: 2024.09.05
+```
+Don't brood. Get on with living and loving. You don't have forever.
+无沉溺于优思, 莫辜负生命与爱. 时光若逝, 永不再来.
+```
+
+---
+Date: 2024.09.06
+```
+Great things are not done by impulse, but by a series of small things brought together.
+伟大的事不是靠一时冲动做成的, 而是一连串小事联合起来做成的.
+```
+
+---
+Date: 2024.09.07
+```
+Problems are not stop sign; they are guidelines.
+问题不是止步不前的标志, 而是前进的指引.
+```
+
+---
+Date: 2024.09.08
+```
+Not everybody could sail the ocean, but still we could share this dream.
+不是每个人都能成为销魂的船长, 但都可以让梦想远航.
+```
+
+---
+Date: 2024.09.09
+```
+I will take fate by the throat, never let fate overwhelmed.
+我要扼住命运的咽喉, 绝不为命运所压倒.
+```
+
+---
+Date: 2024.09.10
+```
+Teaching is the one profession that creates all other professions.
+教育是一切职业之母.
+```
+
+---
+Date: 2024.09.11
+```
+The greatest weapon against stress is our ability to choose one thought over another.
+战胜压力最强大的武器, 就是转换想法的能力.
+```
+
+---
+Date: 2024.09.12
+```
+Fall seven times and stand up eight.
+跌倒七次, 站起来八次.
+```
+
+---
+Date: 2024.09.13
+```
+I always wanted to be somebody, but now I realize I should have been more specific.
+我一直想成为某个人, 但现在我意识到我应该更具体一些.
+```
+
+---
+Date: 2024.09.15
+```
+Westward, the mountain light dips out; a pond moon rise slowly in the east.
+山光忽奚落, 池月渐东上.
+```
+
+---
+Date: 2024.09.16
+```
+The stuff that dreams are made of.
+梦想的原料.
+```
+
+---
+Date: 2024.09.17
+```
+I always like walking in the rain, so no one can see me crying.
+我总喜欢在雨中散步, 这样就没人看到我哭.
+```
+
+---
+Date: 2024.09.18
+```
+To ensure good health: eat lightly, breathe deeply, live moderately, cultivate cheerfulness, and maintain an interest in life.
+```
+
+---
+Date: 2024.09.19
+```
+Life is what happens when you're busy making other plans.
+生活是在你忙着制定其它计划的时候发生的.
+```
+
+---
+Date: 2024.09.20
+```
+I am not afraid of storms, for I am learning how to sail my ship.
+我不怕暴风雨，因为我正在学习如何驾驶我的船。
+```
+
+---
+Date: 2024.09.21
+```
+Yesterday is history; tomorrow is a mystery; But today is a gift.
+昨天已是历史，明天还是一个谜，而今天是一份礼物。
+```
+
+---
+Date: 2024.09.22
+```
+A lie can travel halfway around the world while the truth is still putting on its shoes.
+当真理还在穿鞋的时候, 谎言就能走遍世界.
+```
+
+---
+Date: 2024.09.23
+```
+Thoughts feeds itself with its own words and grows.
+思想以它自己的言语喂养它自己而成长起来.
+```
+
+---
+Date: 2024.09.24
+```
+What we fear doing most is usually what we most need to do.
+我们最害怕去做的事，往往正是我门最需要去做的。
+```
+
+
+---
+Date: 2024.09.25
+```
+All the world's a stage, and all the men and women merely players.
+世界是个大舞台, 男人女人皆为演员.
+```
+
+---
+Date: 2024.09.26
+```
+Keep calm and carry on.
+保持冷静，继续前行。
+```
+
+---
+Date: 2024.09.27
+```
+I like the night. Without the dark, we'd never see the stars.
+我喜欢夜晚,没有黑暗, 我们永远无法欣赏星辰.
+```
+
+---
+Date: 2024.09.29
+```
+Don't let the noise of other's opinions drown out your own inner voice.
+不要让别人的意见淹没了你自己内心的声音。
+```
+
+---
+Date: 2024.09.30
+```
+Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
+困难是用来激励人心，而不是使人气馁。人的心灵将因挫折而茁壮成长。
+```
+
+---
+Date: 2024.10.01
+```
+The only real mistake is the one from which we learn nothing.
+唯一真正的错误是我们没有从中学到任何东西.
+```
+
+---
+Date: 2024.10.02
+```
+Real strength doesn't come from pushing other people down. It's from lifting them up.
+真正的力量不是推倒别人，而是将摔倒的人扶起来。
+```
+
+---
+Date: 2024.10.03
+```
+Young people have changed the course of history time and time again.
+古往今来，年轻人一次一次地改变着历史的进程。
+```
+
+---
+Date: 2024.10.04
+```
+No matter what label is thrown your way, only you can define yourself.
+不管你被贴上什么标签，只有你才能定义你自己。
+```
+
+---
+Date: 2024.10.05
+```
+Don't watch the clock, do what it does, keep going.
+不要看时间，做自己该做的，继续向前。
+```
+
+---
+Date: 2024.10.06
+```
+The best way to predict the future to invent it.
+预测未来最好的方法是创造它。
+```

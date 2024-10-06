@@ -8676,3 +8676,269 @@ inability
 thrilling
 respectively
 ```
+
+---
+Date: 2024.09.01
+```
+withdrawn
+tattoo
+infection
+parlour
+temporary
+heritage
+```
+
+---
+Date: 2024.09.02
+```
+obesity
+srutinise
+ponder
+portfolio
+dismal
+provoke
+```
+
+---
+Date: 2024.09.03
+```
+columnist
+naked
+flab
+exude
+vibe
+formality
+garment
+```
+
+---
+Date: 2024.09.04
+```
+stick
+dining, dine
+assort, assortment
+savor
+itinerary, intinerary map
+prefecture
+```
+
+---
+Date: 2024.09.05
+```
+clinician
+erode
+telehealth
+primary care
+urgent care
+career-ladder
+gridlock
+```
+
+---
+Date: 2024.09.07
+```
+cocoon
+collision
+exacerbating
+sucker
+pedestrian
+```
+
+---
+Date: 2024.09.08
+```
+absorb
+pleaded
+aggravated
+daughter-in-law
+suspicion
+intimate
+```
+
+---
+Date: 2024.09.09
+```
+suspect
+felony
+involuntary manslaughert
+child cruelty
+death penalty
+sleeve
+```
+
+---
+Date: 2024.09.10
+```
+inclusion
+paralympics
+virtue
+diversity
+tricky
+ethos
+```
+
+---
+Date: 2024.09.11
+```
+square off
+coverage
+debate
+fretted
+custody
+```
+
+---
+Date: 2024.09.12
+```
+contrast
+advocate
+reassure
+debate
+pinning
+fade
+```
+
+---
+Date: 2024.09.13
+```
+gress
+coverage
+largely
+loopholes
+eligible
+versus
+```
+
+---
+Date: 2024.09.15
+```
+hit it off
+fiery
+rattled
+dig
+rally
+rival
+```
+
+---
+Date: 2024.09.16
+```
+spacewalk
+spacesuit
+off-world
+colonizastion
+endorse
+celebrity
+```
+
+---
+Date: 2024.09.17
+```
+moose
+campsite
+camper
+trail
+lookout
+grassy
+elk
+```
+
+---
+Date: 2024.09.18
+```
+conspiracy
+miracle
+tariff
+barroom
+guarantee
+horrible
+```
+
+---
+Date: 2024.09.19
+```
+retire
+squeezed
+downturn, upturn
+took a step
+put off
+pushback
+```
+
+---
+Date: 2024.09.20
+```
+sore
+check up
+referral
+dizzy
+redundant
+```
+
+---
+Date: 2024.09.21
+```
+jet lag
+assume
+hilarious
+grab
+catwalk
+deck
+```
+
+---
+Date: 2024.09.22
+```
+maneuvers go
+as far as
+whip-smart
+resorted to
+bribery
+graphic
+novel
+```
+
+---
+Date: 2024.09.23
+```
+landed
+zillion
+parental
+baked in
+gregarious
+squeal
+post-phone
+monosyllabic
+```
+
+---
+Date: 2024.09.24
+```
+stifle
+society
+sustainable
+consciousness
+emerged
+systematically
+invent
+```
+
+---
+Date: 2024.09.25
+```
+inflation
+potential
+struggle
+aggressive
+perceptions
+```
+
+---
+Date: 2024.09.26
+```
+savory
+taurant
+plentiful
+affidavit
+innocence
+```
