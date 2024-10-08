@@ -5905,3 +5905,10 @@ Date: 2024.10.07
 Go big or go home.
 要么出众,要么出局.
 ```
+
+---
+Date: 2024.10.08
+```
+Do one thing every day that scares you.
+每天做一件让你害怕的事情.
+```
