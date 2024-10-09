@@ -8973,3 +8973,14 @@ opponent
 whine
 moderator
 ```
+
+---
+Date: 2024.10.09
+```
+is about to become, happening very soon
+was about to leave when my boss came into my office
+I'm about to improve my English
+to stick around
+stay around
+ephemeral
+```
