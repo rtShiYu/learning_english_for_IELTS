@@ -9033,3 +9033,15 @@ deliberation
 known as weight
 equivalent
 ```
+
+---
+Date: 2024.10.14
+```
+clout
+confront
+gripped
+anglophone
+quarrel
+erotic
+rebellion
+```
