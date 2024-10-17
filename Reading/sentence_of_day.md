@@ -5966,3 +5966,10 @@ Date: 2024.10.16
 The promised land always lies on the other side of a wilderness.
 理想的幸福国度与我们之间，总隔着一片荒野。
 ```
+
+---
+Date: 2024.10.17
+```
+The only impossible journey is the one you never begin.
+唯一不可能的旅程是你从未开始的旅程。
+```
