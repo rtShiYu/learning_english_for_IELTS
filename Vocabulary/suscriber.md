@@ -9092,3 +9092,14 @@ emphasis
 sensation
 jewl
 ```
+
+---
+Date: 2024.10.20
+```
+stick, stuck
+lounge
+pactful
+reluctant
+resonate
+impressionable
+```
