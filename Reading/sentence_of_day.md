@@ -5994,3 +5994,10 @@ Date: 2024.10.20
 Success is the sum of small efforts, repeated day in and day out.
 成功是日复一日重复的微小的总和。
 ```
+
+---
+Date: 2024.10.21
+```
+Life is either a daring adventure or nothing at all.
+生活要么是一场大胆的冒险, 要么毫无意义.
+```
