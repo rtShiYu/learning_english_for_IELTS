@@ -6001,3 +6001,10 @@ Date: 2024.10.21
 Life is either a daring adventure or nothing at all.
 生活要么是一场大胆的冒险, 要么毫无意义.
 ```
+
+---
+Date: 2024.10.22
+```
+Success is not in what you have, but who you are.
+成功不在于你拥有什么，而在于你是谁
+```
