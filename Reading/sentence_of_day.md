@@ -6008,3 +6008,10 @@ Date: 2024.10.22
 Success is not in what you have, but who you are.
 成功不在于你拥有什么，而在于你是谁
 ```
+
+---
+Date: 2024.10.27
+```
+Life is short, and it is here to be lived.
+生命是短暂的,是用来生活的.
+```
