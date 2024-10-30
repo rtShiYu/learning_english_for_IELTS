@@ -6029,3 +6029,10 @@ Date: 2024.10.29
 If life were predictable, it would cease to be life.
 如果生活是可预测的,它就不是生活了.
 ```
+
+---
+Date: 2024.10.30
+```
+The only true wisdom is in knowing you knw nothing.
+唯一真正的智慧在于知道你一无所知.
+```
