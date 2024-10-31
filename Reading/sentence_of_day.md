@@ -6036,3 +6036,10 @@ Date: 2024.10.30
 The only true wisdom is in knowing you knw nothing.
 唯一真正的智慧在于知道你一无所知.
 ```
+
+---
+Date: 2024.10.31
+```
+That man is the richest whose pleasures are the cheapest.
+能处处寻求快乐的人才是富有的人.
+```
