@@ -8942,3 +8942,231 @@ plentiful
 affidavit
 innocence
 ```
+
+---
+Date: 2024.10.06
+```
+proper
+tremendous
+deadlock
+escalate
+coalesce
+```
+
+---
+Date: 2024.10.07
+```
+breakthrough
+disrupt
+chunk
+vineyard
+permanent
+harvest
+```
+
+---
+Date: 2024.10.08
+```
+trajectory
+cordial
+opponent
+whine
+moderator
+```
+
+---
+Date: 2024.10.09
+```
+is about to become, happening very soon
+was about to leave when my boss came into my office
+I'm about to improve my English
+to stick around
+stay around
+ephemeral
+```
+
+
+---
+Date: 2024.10.10
+```
+Nobel prize
+stretches
+physiology
+noteworthy
+come along
+fit into
+pioneer
+shoehorned
+```
+
+---
+Date: 2024.10.11
+```
+kettle
+ingredient
+recipe
+knead
+bake
+pan
+raw
+pepper
+```
+
+---
+Date: 2024.10.12
+```
+litigate
+biography
+noticeably
+settled
+cast
+unfavorable
+```
+
+---
+Date: 2024.10.13
+```
+neural
+crucial
+timeliness
+deliberation
+known as weight
+equivalent
+```
+
+---
+Date: 2024.10.14
+```
+clout
+confront
+gripped
+anglophone
+quarrel
+erotic
+rebellion
+```
+
+---
+Date: 2024.10.15
+```
+prohibit
+enroll
+vocab
+steal
+malware
+spam
+moderator
+```
+
+---
+Date: 2024.10.16
+```
+mandate
+longish
+margin
+afloat
+advocate
+league
+```
+
+
+---
+Date: 2024.10.17
+```
+drank
+sip
+inbound
+complicated
+chaser
+palatable
+regional
+```
+
+---
+Date: 2024.10.19
+```
+machination
+massacre
+military coup
+emphasis
+sensation
+jewl
+```
+
+---
+Date: 2024.10.20
+```
+stick, stuck
+lounge
+pactful
+reluctant
+resonate
+impressionable
+```
+
+---
+Date: 2024.10.21
+```
+adoption
+yell
+glitch
+plunge
+ensue
+tirade
+rookie
+```
+
+
+---
+Date: 2024.10.27
+```
+theatrical
+adaptation
+satirical
+beloved
+doomsday
+resonate
+```
+
+---
+Date: 2024.10.28
+```
+bracket
+deduction
+filer
+renovation
+resurgence
+```
+
+
+---
+Date: 2024.10.29
+```
+stymie
+contest
+dominance
+corporate
+behemoth
+nudged
+```
+
+---
+Date: 2024.10.30
+```
+strive
+predictable
+idealism
+proportion
+adventure
+```
+
+---
+Date: 2024.10.31
+```
+throng
+flock to
+embrace
+macabre
+conrnerstone
+sweepstake
+```

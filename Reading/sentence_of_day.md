@@ -5898,3 +5898,148 @@ Date: 2024.10.06
 The best way to predict the future to invent it.
 预测未来最好的方法是创造它。
 ```
+
+---
+Date: 2024.10.07
+```
+Go big or go home.
+要么出众,要么出局.
+```
+
+---
+Date: 2024.10.08
+```
+Do one thing every day that scares you.
+每天做一件让你害怕的事情.
+```
+
+---
+Date: 2024.10.09
+```
+I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.
+我不断的寻求改善自己的举止和风度，因为它们是吸引所有人的糖。
+```
+
+---
+Date: 2024.10.10
+```
+Happiness is not something ready-made. It comes from your own actions.
+```
+
+---
+Date: 2024.10.11
+```
+Cherish the moments with family, for they are fleeting.
+珍惜与家人在一起的时光，因为他们稍纵即逝。
+```
+
+---
+Date: 2024.10.12
+```
+Freedom is never given; it is won.
+自由从未被赋予；它是赢得的。
+```
+
+---
+Date: 2024.10.13
+```
+The only way to have a friend is to be one.
+拥有朋友的唯一方式就是成为朋友.
+```
+
+---
+Date: 2024.10.14
+```
+Every moment is a fresh beginning.
+```
+
+---
+Date: 2024.10.15
+```
+If you want to live a happy life, tie it to a goal.
+如果你想过上幸福的生活,把它与目标联系起来.
+```
+
+---
+Date: 2024.10.16
+```
+The promised land always lies on the other side of a wilderness.
+理想的幸福国度与我们之间，总隔着一片荒野。
+```
+
+---
+Date: 2024.10.17
+```
+The only impossible journey is the one you never begin.
+唯一不可能的旅程是你从未开始的旅程。
+```
+
+---
+Date: 2024.10.18
+```
+A person who never made a mistake never tried anything new.
+从未犯错的人从未尝试过任何新事物。
+```
+
+---
+Date: 2024.10.19
+```
+In every hardship lies opportunity.
+每个困难都蕴藏着机会.
+```
+
+---
+Date: 2024.10.20
+```
+Success is the sum of small efforts, repeated day in and day out.
+成功是日复一日重复的微小的总和。
+```
+
+---
+Date: 2024.10.21
+```
+Life is either a daring adventure or nothing at all.
+生活要么是一场大胆的冒险, 要么毫无意义.
+```
+
+---
+Date: 2024.10.22
+```
+Success is not in what you have, but who you are.
+成功不在于你拥有什么，而在于你是谁
+```
+
+---
+Date: 2024.10.27
+```
+Life is short, and it is here to be lived.
+生命是短暂的,是用来生活的.
+```
+
+---
+Date: 2024.10.28
+```
+Don't count the days, make the days count.
+不要数日子, 让日子有意义.
+```
+
+---
+Date: 2024.10.29
+```
+If life were predictable, it would cease to be life.
+如果生活是可预测的,它就不是生活了.
+```
+
+---
+Date: 2024.10.30
+```
+The only true wisdom is in knowing you knw nothing.
+唯一真正的智慧在于知道你一无所知.
+```
+
+---
+Date: 2024.10.31
+```
+That man is the richest whose pleasures are the cheapest.
+能处处寻求快乐的人才是富有的人.
+```
