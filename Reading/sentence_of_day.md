@@ -6043,3 +6043,10 @@ Date: 2024.10.31
 That man is the richest whose pleasures are the cheapest.
 能处处寻求快乐的人才是富有的人.
 ```
+
+---
+Date: 2024.11.01
+```
+More dreams are lost to self-doubt than to failure.
+因自我怀疑而失去的梦想比因失败而失去的更多.
+```
