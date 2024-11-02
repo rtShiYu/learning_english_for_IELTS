@@ -6050,3 +6050,10 @@ Date: 2024.11.01
 More dreams are lost to self-doubt than to failure.
 因自我怀疑而失去的梦想比因失败而失去的更多.
 ```
+
+---
+Date: 2024.11.01
+```
+Life is short, live it.
+人生苦短，活出精彩.
+```
