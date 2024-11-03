@@ -9180,3 +9180,14 @@ deputy
 stumble
 jailed
 ```
+
+---
+Date: 2024.11.03
+```
+reputable
+fame
+fortune
+comediam
+wares
+hand over
+```
