@@ -9205,6 +9205,22 @@ equate
 ---
 Date: 2024.11.05
 ```
-Take in courage and left fear fade away.
-吸入勇气,呼出恐惧.
+mirage
+pounced
+ballot
+fraudulent
+exploit
+tally
+```
+
+---
+Date: 2024.11.06
+```
+cast
+dizzy
+nonconsecutive
+contentious
+senate
+struggle
+congress
 ```
