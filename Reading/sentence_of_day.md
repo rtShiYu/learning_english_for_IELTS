@@ -6106,3 +6106,10 @@ Date: 2024.11.10
 Happiness is not by chance, but by choice.
 幸福不是偶然,而是选择.
 ```
+
+---
+Date: 2024.11.11
+```
+In the first 30 years of your life, you make your habits. For the last 30 years of your life, your habits make you.
+在人生前30年里, 你养成了自己的习惯. 在人生的最后30年, 习惯造就了你.
+```
