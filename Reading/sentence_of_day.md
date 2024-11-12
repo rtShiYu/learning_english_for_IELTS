@@ -6113,3 +6113,10 @@ Date: 2024.11.11
 In the first 30 years of your life, you make your habits. For the last 30 years of your life, your habits make you.
 在人生前30年里, 你养成了自己的习惯. 在人生的最后30年, 习惯造就了你.
 ```
+
+---
+Date: 2024.11.12
+```
+The choice of books, like that of friends, is a serious duty.
+选书如同挑选朋友, 是一项严肃的任务.
+```
