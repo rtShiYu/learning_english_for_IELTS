@@ -6120,3 +6120,10 @@ Date: 2024.11.12
 The choice of books, like that of friends, is a serious duty.
 选书如同挑选朋友, 是一项严肃的任务.
 ```
+
+---
+Date: 2024.11.13
+```
+Time flies over us, but leaves its shadow behind.
+时间飞逝, 但他的影子留下了.
+```
