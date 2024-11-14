@@ -9293,3 +9293,14 @@ mountaintop
 plush-but-not-too-plush
 census
 ```
+
+---
+Date: 2024.11.14
+```
+sympathy
+surplus
+comfortable
+termed
+attorney
+motor
+```
