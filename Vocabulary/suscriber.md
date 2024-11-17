@@ -9328,3 +9328,15 @@ groom
 groomsmen
 buffet
 ```
+
+---
+Date: 2024.11.17
+```
+reception
+soybean
+field
+beantalk
+sickle
+wicker
+courtyard
+```
