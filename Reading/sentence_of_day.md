@@ -6162,3 +6162,10 @@ Date: 2024.11.18
 It is the peculiarity of knowledge that those who really thirst for it always get it.
 凡是真正追求知识的人,都能得到知识. 这是知识的特性.
 ```
+
+---
+Date: 2024.11.19
+```
+Be the hero of your own story.
+做你自己故事里的英雄.
+```
