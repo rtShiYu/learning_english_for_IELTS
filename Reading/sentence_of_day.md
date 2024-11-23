@@ -6190,3 +6190,10 @@ Date: 2024.11.22
 No snowflake ever falls in the wrong place,
 没有一片雪花会落在错误的地方.
 ```
+
+---
+Date: 2024.11.23
+```
+You net worth to the world is usually determined by what remains after your bad habits are subtracted from you good ones.
+你对世界的净价值通常取决于你的坏习惯从好习惯减去后剩余的东西.
+```
