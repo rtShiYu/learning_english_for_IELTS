@@ -6197,3 +6197,10 @@ Date: 2024.11.23
 You net worth to the world is usually determined by what remains after your bad habits are subtracted from you good ones.
 你对世界的净价值通常取决于你的坏习惯从好习惯减去后剩余的东西.
 ```
+
+---
+Date: 2024.11.24
+```
+Since olden days there's never been a man but dies; I'd leave a loyalist's name in history only"
+人生自古谁无死, 留取丹心照汗青.
+```
