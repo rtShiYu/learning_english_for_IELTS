@@ -6204,3 +6204,10 @@ Date: 2024.11.24
 Since olden days there's never been a man but dies; I'd leave a loyalist's name in history only"
 人生自古谁无死, 留取丹心照汗青.
 ```
+
+---
+Date: 2024.11.25
+```
+Do small things with great love.
+以爱做小事.
+```
