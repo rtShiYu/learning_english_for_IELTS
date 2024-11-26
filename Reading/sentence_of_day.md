@@ -6211,3 +6211,10 @@ Date: 2024.11.25
 Do small things with great love.
 以爱做小事.
 ```
+
+---
+Date: 2024.11.26
+```
+Courage is knowing what not to fear.
+勇气是知道什么不该害怕.
+```
