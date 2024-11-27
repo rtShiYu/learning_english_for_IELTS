@@ -6218,3 +6218,10 @@ Date: 2024.11.26
 Courage is knowing what not to fear.
 勇气是知道什么不该害怕.
 ```
+
+---
+Date: 2024.11.27
+```
+We may encounter many defeats but we must not be defeated.
+我们可能会遇到很多失败, 但我们不能被打败.
+```
