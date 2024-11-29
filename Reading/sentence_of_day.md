@@ -6232,3 +6232,10 @@ Date: 2024.11.28
 Thanksgiving is a time of togetherness and gratitude.
 感恩节是团聚与感恩的时刻.
 ```
+
+---
+Date: 2024.11.29
+```
+Life is thickly sown with thorns, and I know no other remedy than to pass quickly through them. The longer we dwell on our misfortunes, the greater is their power to harm us.
+生活中布满了荆棘，我知道的唯一 remedy（解决方法）就是快速穿越它们。我们在不幸中停留得越久，它们对我们的伤害就越大.
+```
