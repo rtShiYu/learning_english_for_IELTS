@@ -9170,3 +9170,293 @@ macabre
 conrnerstone
 sweepstake
 ```
+
+---
+Date: 2024.11.02
+```
+turmoil
+insurer
+deputy
+stumble
+jailed
+```
+
+---
+Date: 2024.11.03
+```
+reputable
+fame
+fortune
+comediam
+wares
+hand over
+```
+
+---
+Date: 2024.11.04
+```
+in decades
+etched into
+barren
+experience
+equate
+```
+
+---
+Date: 2024.11.05
+```
+mirage
+pounced
+ballot
+fraudulent
+exploit
+tally
+```
+
+---
+Date: 2024.11.06
+```
+cast
+dizzy
+nonconsecutive
+contentious
+senate
+struggle
+congress
+```
+
+---
+Date: 2024.11.07
+```
+battleground
+congregant
+bend
+invoking
+slumped
+subdued
+```
+
+---
+Date: 2024.11.09
+```
+hailed
+swell
+worship
+unity
+dominant
+expansive
+```
+
+
+---
+Date: 2024.11.10
+```
+mantra
+competition
+yesterday's story
+shaping up
+of sort
+duo
+scandal
+ignited
+brew
+```
+
+---
+Date: 2024.11.11
+```
+gauntlet
+prominence
+rival
+follow suit
+guzzle
+canal
+```
+
+---
+Date: 2024.11.12
+```
+fraction
+fuzzy
+devil
+instant
+cater
+```
+
+---
+Date: 2024.11.13
+```
+free of financial stress
+picket fence
+proverbial
+mountaintop
+plush-but-not-too-plush
+census
+```
+
+---
+Date: 2024.11.14
+```
+sympathy
+surplus
+comfortable
+termed
+attorney
+motor
+```
+
+---
+Date: 2024.11.15
+```
+scale up
+hesitate
+curve
+recklessly
+reassurance
+red hot
+```
+
+---
+Date: 2024.11.16
+```
+get around
+foggy
+scary
+downhill
+bride
+groom
+groomsmen
+buffet
+```
+
+---
+Date: 2024.11.17
+```
+reception
+soybean
+field
+beantalk
+sickle
+wicker
+courtyard
+```
+
+---
+Date: 2024.11.18
+```
+empire
+magnate
+conglomerate
+outreach
+loner
+ensnar
+limelight
+```
+
+---
+Date: 2024.11.19
+```
+quelled
+consolidated
+speacheaded
+surrendered
+divested
+on the ground
+```
+
+---
+Date: 2024.11.20
+```
+corney
+evolving
+deterioration
+stranded
+crewmate
+gaunt
+```
+
+---
+Date: 2024.11.21
+```
+sunken
+thinner
+mitochondria
+cardiovascular
+disruption
+cellular
+```
+
+---
+Date: 2024.11.23
+```
+curtain
+cordon off
+affluent
+stealth wealth
+camouflage
+suede
+yank
+```
+
+---
+Date: 2024.11.24
+```
+no biggie
+wrangle
+tub
+caviar
+confer
+conflagration
+topple
+```
+
+---
+Date: 2024.11.25
+```
+celebratory
+masses
+resurrected
+anticipation
+manifest
+```
+
+---
+Date: 2024.11.26
+```
+congest
+bizarre
+weird
+ordinary
+wacky
+```
+
+---
+Date: 2024.11.28
+```
+servo
+rotate
+propeller
+blade
+interference
+```
+
+---
+Date: 2024.11.29
+```
+thron
+thickly
+remedy
+dwell
+misfortune
+```
+
+---
+Date: 2024.11.30
+```
+inferior
+consent
+content
+chassis
+spudger
+underneath
+```

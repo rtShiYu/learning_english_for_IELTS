@@ -6043,3 +6043,206 @@ Date: 2024.10.31
 That man is the richest whose pleasures are the cheapest.
 能处处寻求快乐的人才是富有的人.
 ```
+
+---
+Date: 2024.11.01
+```
+More dreams are lost to self-doubt than to failure.
+因自我怀疑而失去的梦想比因失败而失去的更多.
+```
+
+---
+Date: 2024.11.02
+```
+Life is short, live it.
+人生苦短，活出精彩.
+```
+
+---
+Date: 2024.11.03
+```
+Happiness depends on your mindset.
+幸福取决于你的心态.
+```
+
+---
+Date: 2024.11.04
+```
+Every accomplishment starts with the decision to try.
+每一项成就都诗雨尝试的决定.
+```
+
+---
+Date: 2024.11.05
+```
+Take in courage and left fear fade away.
+吸入勇气,呼出恐惧.
+```
+
+---
+Date: 2024.11.06
+```
+The future depends on what you do today.
+未来取决于你今天的所做所为.
+```
+
+---
+Date: 2024.11.07
+```
+Winter is the time for comfort, for good food and warmth, for the touch of a friendly hand and for a talk beside the fire: it is the time for home.
+冬天是享受舒适,美食和温暖的时光,是与友人握手, 在火炉旁交谈的时光,这个是家的时光.
+```
+
+---
+Date: 2024.11.09
+```
+The greatest risk is not taking one.
+最大的风险是不冒风险.
+```
+
+---
+Date: 2024.11.10
+```
+Happiness is not by chance, but by choice.
+幸福不是偶然,而是选择.
+```
+
+---
+Date: 2024.11.11
+```
+In the first 30 years of your life, you make your habits. For the last 30 years of your life, your habits make you.
+在人生前30年里, 你养成了自己的习惯. 在人生的最后30年, 习惯造就了你.
+```
+
+---
+Date: 2024.11.12
+```
+The choice of books, like that of friends, is a serious duty.
+选书如同挑选朋友, 是一项严肃的任务.
+```
+
+---
+Date: 2024.11.13
+```
+Time flies over us, but leaves its shadow behind.
+时间飞逝, 但他的影子留下了.
+```
+
+---
+Date: 2024.11.14
+```
+Keep going. Be all in.
+继续前行, 全力以赴.
+```
+
+---
+Date: 2024.11.15
+```
+We must be willing to get rid of the life we've planned, so as to have the life that is waiting for us. The old skin has to be shed before the new one can come.
+正如只有蜕皮去旧皮,才能换来新的皮肤一样,我们必须愿意摆脱已经计划好的生活,才能迎来新的生活.
+```
+
+---
+Date: 2024.11.16
+```
+Dreams are the touchstones of our character.
+梦想是我们性格的基石.
+```
+
+---
+Date: 2024.11.17
+```
+Courage is grace under pressure.
+勇气是在压力下保持优雅.
+```
+
+---
+Date: 2024.11.18
+```
+It is the peculiarity of knowledge that those who really thirst for it always get it.
+凡是真正追求知识的人,都能得到知识. 这是知识的特性.
+```
+
+---
+Date: 2024.11.19
+```
+Be the hero of your own story.
+做你自己故事里的英雄.
+```
+
+---
+Date: 2024.11.20
+```
+Be yourself, but always your better self.
+做你自己, 但永远要成为更好的自己.
+```
+
+---
+Date: 2024.11.21
+```
+A smooth sea never made a skilled sailor.
+一帆风顺的大海造就不了熟练的水手.
+```
+
+---
+Date: 2024.11.22
+```
+No snowflake ever falls in the wrong place,
+没有一片雪花会落在错误的地方.
+```
+
+---
+Date: 2024.11.23
+```
+You net worth to the world is usually determined by what remains after your bad habits are subtracted from you good ones.
+你对世界的净价值通常取决于你的坏习惯从好习惯减去后剩余的东西.
+```
+
+---
+Date: 2024.11.24
+```
+Since olden days there's never been a man but dies; I'd leave a loyalist's name in history only"
+人生自古谁无死, 留取丹心照汗青.
+```
+
+---
+Date: 2024.11.25
+```
+Do small things with great love.
+以爱做小事.
+```
+
+---
+Date: 2024.11.26
+```
+Courage is knowing what not to fear.
+勇气是知道什么不该害怕.
+```
+
+---
+Date: 2024.11.27
+```
+We may encounter many defeats but we must not be defeated.
+我们可能会遇到很多失败, 但我们不能被打败.
+```
+
+---
+Date: 2024.11.28
+```
+Thanksgiving is a time of togetherness and gratitude.
+感恩节是团聚与感恩的时刻.
+```
+
+---
+Date: 2024.11.29
+```
+Life is thickly sown with thorns, and I know no other remedy than to pass quickly through them. The longer we dwell on our misfortunes, the greater is their power to harm us.
+生活中布满了荆棘，我知道的唯一 remedy（解决方法）就是快速穿越它们。我们在不幸中停留得越久，它们对我们的伤害就越大.
+```
+
+---
+Date: 2024.11.30
+```
+No one can make you feel inferior without your consent.
+没有人能在取得你的同意前让你自己感到自卑.
+```
