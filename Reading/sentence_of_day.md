@@ -6260,3 +6260,10 @@ Date: 2024.12.02
 Working hard is important, but there is something that matters even more: believing in yourself.
 努力很重要, 但更重要的是相信自己.
 ```
+
+---
+Date: 2024.12.03
+```
+Mistakes are an essential part of education.
+从错误中吸取教训是教育极为重要的一部分.
+```
