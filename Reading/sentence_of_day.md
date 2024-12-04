@@ -6267,3 +6267,10 @@ Date: 2024.12.03
 Mistakes are an essential part of education.
 从错误中吸取教训是教育极为重要的一部分.
 ```
+
+---
+Date: 2024.12.04
+```
+The only way to do great work is to love what you do.
+做出伟大工作的唯一方式是热爱你所做的事情.
+```
