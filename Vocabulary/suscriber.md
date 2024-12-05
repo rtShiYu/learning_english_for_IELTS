@@ -9492,3 +9492,13 @@ geopolitical
 rift
 trickier
 ```
+
+---
+Date: 2024.12.05
+```
+martial law
+plot
+insurgency
+overthrow
+rescind
+```
