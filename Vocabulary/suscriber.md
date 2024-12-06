@@ -9502,3 +9502,13 @@ insurgency
 overthrow
 rescind
 ```
+
+---
+Date: 2024.12.06
+```
+abused
+pardon
+medieval
+reversal
+humane
+```
