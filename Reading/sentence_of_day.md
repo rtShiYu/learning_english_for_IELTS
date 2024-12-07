@@ -6288,3 +6288,10 @@ Date: 2024.12.06
 Opportunities don't happen. You create them.
 机会不会发生, 是你创造了它们.
 ```
+
+---
+Date: 2024.12.07
+```
+When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.
+遇到阻碍时, 你应该调整方向以达到目标, 而不是改变你抵达目的地的决心.
+```

@@ -9512,3 +9512,13 @@ medieval
 reversal
 humane
 ```
+
+---
+Date: 2024.12.07
+```
+be at odds with
+judicial
+sparing
+addiction-prone
+welfare
+```
