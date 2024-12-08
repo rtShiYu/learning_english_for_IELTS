@@ -6295,3 +6295,10 @@ Date: 2024.12.07
 When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.
 遇到阻碍时, 你应该调整方向以达到目标, 而不是改变你抵达目的地的决心.
 ```
+
+---
+Date: 2024.12.08
+```
+Simplicity is the ultimate sophistication.
+简单是终极的智慧.
+```
