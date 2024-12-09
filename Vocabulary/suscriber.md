@@ -9532,3 +9532,15 @@ motherhood
 fantasy
 stereotypical
 ```
+
+---
+Date: 2024.12.09
+```
+angst
+cohort
+hit
+flick
+genre
+jockey
+belittle
+```
