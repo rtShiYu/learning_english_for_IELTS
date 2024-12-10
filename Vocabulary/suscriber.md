@@ -9544,3 +9544,13 @@ genre
 jockey
 belittle
 ```
+
+---
+Date: 2024.12.10
+```
+extent
+takeaway
+wage-to-living-cost
+bust
+barely
+```
