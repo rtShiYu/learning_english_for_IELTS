@@ -9633,3 +9633,14 @@ arrest
 violate
 scarf
 ```
+
+---
+Date: 2024.12.18
+```
+apex
+appointed
+advisory
+lobbying
+cabinet
+tycoon
+```
