@@ -9644,3 +9644,13 @@ lobbying
 cabinet
 tycoon
 ```
+
+---
+Date: 2024.12.19
+```
+robber
+baron
+dominate
+derive
+freebie
+```
