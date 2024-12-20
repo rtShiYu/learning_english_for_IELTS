@@ -6379,3 +6379,10 @@ Date: 2024.12.19
 Hope is the heartbeat of the soul.
 希望是灵魂的心跳.
 ```
+
+---
+Date: 2024.12.20
+```
+The sum of behaviour is to retain a man's own dignity without intruding upon the liberty of others.
+人的行为准则是, 委会自己的尊严, 不妨碍他人的自由.
+```
