@@ -6386,3 +6386,10 @@ Date: 2024.12.20
 The sum of behaviour is to retain a man's own dignity without intruding upon the liberty of others.
 人的行为准则是, 委会自己的尊严, 不妨碍他人的自由.
 ```
+
+---
+Date: 2024.12.21
+```
+To appreciate the beauty of a snowflake, it is necessary to stand out in the cold.
+要欣赏雪花的美丽, 就必须站在寒冷中.
+```
