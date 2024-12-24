@@ -9686,3 +9686,14 @@ deliberate
 pop up
 yield
 ```
+
+---
+Date: 2024.12.24
+```
+makeshift memorial
+mourned
+sidework
+self-inflicted
+brand
+intimidation
+```
