@@ -6246,3 +6246,219 @@ Date: 2024.11.30
 No one can make you feel inferior without your consent.
 没有人能在取得你的同意前让你自己感到自卑.
 ```
+
+---
+Date: 2024.12.01
+```
+To be yourself is all that you can do.
+做自己就是你所能做的一切.
+```
+
+---
+Date: 2024.12.02
+```
+Working hard is important, but there is something that matters even more: believing in yourself.
+努力很重要, 但更重要的是相信自己.
+```
+
+---
+Date: 2024.12.03
+```
+Mistakes are an essential part of education.
+从错误中吸取教训是教育极为重要的一部分.
+```
+
+---
+Date: 2024.12.04
+```
+The only way to do great work is to love what you do.
+做出伟大工作的唯一方式是热爱你所做的事情.
+```
+
+---
+Date: 2024.12.05
+```
+Joy is the simplest form of gratitude.
+快乐是最简单的感恩形式.
+```
+
+---
+Date: 2024.12.06
+```
+Opportunities don't happen. You create them.
+机会不会发生, 是你创造了它们.
+```
+
+---
+Date: 2024.12.07
+```
+When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.
+遇到阻碍时, 你应该调整方向以达到目标, 而不是改变你抵达目的地的决心.
+```
+
+---
+Date: 2024.12.08
+```
+Simplicity is the ultimate sophistication.
+简单是终极的智慧.
+```
+
+---
+Date: 2024.12.09
+```
+If one cannot enjoy reading a book over and over again, there is no use in reading it at all.
+如果一本书无法让你一读再读而感到享受, 那么这本书根本就不值得读.
+```
+
+---
+Date: 2024.12.10
+```
+Wisdom begins in wonder.
+智慧始于好奇.
+```
+
+---
+Date: 2024.12.11
+```
+It is not the years in your life but the life in your years.
+不是生命中的岁月, 而是岁月中的生命.
+```
+
+---
+Date: 2024.12.12
+```
+Every flower must grow through dirt.
+每朵花都必须从泥土中成长.
+```
+
+---
+Date: 2024.12.13
+```
+Small deeds can make a big difference.
+小小的善举可以带来巨大的改变.
+```
+
+---
+Date: 2024.12.14
+```
+The most efficient way to live reasonably is every morning to make a plan of one's day and every night to examine the results obtained.
+合理的生活最有效的方法是每天早上指定一天的计划, 每天晚上检查结果.
+```
+
+---
+Date: 2024.12.15
+```
+You only fail when you stop trying.
+只有停止尝试时,你才会失败.
+```
+
+---
+Date: 2024.12.16
+```
+Stars can't shine without darkness.
+没有黑暗,星星无法闪耀.
+```
+
+---
+Date: 2024.12.17
+```
+Mistakes are proof that you are trying.
+犯错是你正在努力的证明.
+```
+
+---
+Date: 2024.12.18
+```
+Hardships often prepare ordinary people for extraordinary destiny.
+艰难常常为普通人准备非凡的命运.
+```
+
+---
+Date: 2024.12.19
+```
+Hope is the heartbeat of the soul.
+希望是灵魂的心跳.
+```
+
+---
+Date: 2024.12.20
+```
+The sum of behaviour is to retain a man's own dignity without intruding upon the liberty of others.
+人的行为准则是, 委会自己的尊严, 不妨碍他人的自由.
+```
+
+---
+Date: 2024.12.21
+```
+To appreciate the beauty of a snowflake, it is necessary to stand out in the cold.
+要欣赏雪花的美丽, 就必须站在寒冷中.
+```
+
+---
+Date: 2024.12.22
+```
+One cannot think well, love well, sleep well, if one has not dined well.
+如果一个人没有吃好, 他便不能好好的思考,恋爱和睡觉.
+```
+
+---
+Date: 2024.12.23
+```
+Keep looking up; that's the secret of life.
+抬头看天, 这是生活的秘诀.
+```
+
+---
+Date: 2024.12.24
+```
+A happy life consists in the tranquility of mind.
+幸福生活在于心灵的宁静.
+```
+
+---
+Date: 2024.12.25
+```
+All is calm, all is bright.
+```
+
+---
+Date: 2024.12.26
+```
+Life is tough, but so are you.
+生活很艰难,但你也很坚强.
+```
+
+---
+Date: 2024.12.27
+```
+Live in the sunshine, swim in the sea, and drink the wild air.
+沐浴阳光,畅游海洋,呼吸自由的空气.
+```
+
+---
+Date: 2024.12.28
+```
+The best time for new beginnings is now.
+新的开始是最佳时机就是现在.
+```
+
+---
+Date: 2024.12.29
+```
+Your vibe attracts your tribe.
+你的气场吸引你的圈子.
+```
+
+---
+Date: 2024.12.30
+```
+Do something today that your future self will thank you for.
+做些未来的你会感激的事情.
+```
+
+---
+Date: 2024.12.31
+```
+It's been quite a journey this year, full of surprises and unexpected events. Let's leave the past behind and move on.
+今年的旅程相当精彩, 充满惊喜和意外.
+```

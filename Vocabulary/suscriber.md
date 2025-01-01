@@ -9460,3 +9460,308 @@ chassis
 spudger
 underneath
 ```
+
+---
+Date: 2024.12.01
+```
+mindful
+sensation
+pupularized
+replicated
+cusesy
+```
+
+---
+Date: 2024.12.02
+```
+outgrown
+hardisest
+perennial
+sequoia
+serene
+durability
+```
+
+---
+Date: 2024.12.04
+```
+hatch
+hedge
+bankroll
+geopolitical
+rift
+trickier
+```
+
+---
+Date: 2024.12.05
+```
+martial law
+plot
+insurgency
+overthrow
+rescind
+```
+
+---
+Date: 2024.12.06
+```
+abused
+pardon
+medieval
+reversal
+humane
+```
+
+---
+Date: 2024.12.07
+```
+be at odds with
+judicial
+sparing
+addiction-prone
+welfare
+```
+
+---
+Date: 2024.12.08
+```
+hilariou
+resonate
+motherhood
+fantasy
+stereotypical
+```
+
+---
+Date: 2024.12.09
+```
+angst
+cohort
+hit
+flick
+genre
+jockey
+belittle
+```
+
+---
+Date: 2024.12.10
+```
+extent
+takeaway
+wage-to-living-cost
+bust
+barely
+```
+
+---
+Date: 2024.12.11
+```
+extradition
+assassination
+bail
+corrupt
+valedictorian
+```
+
+---
+Date: 2024.12.12
+```
+fever
+replicat
+buzz
+teased
+adorable
+fluffy
+```
+
+---
+Date: 2024.12.13
+```
+feverish
+manhunt
+spotted
+lead
+apparently
+bundle
+```
+
+---
+Date: 2024.12.14
+```
+decline
+despite
+demographic
+gloomy
+speculate
+sap
+acuity
+```
+
+---
+Date: 2024.12.15
+```
+pledge
+rioter
+rival
+falter
+turnaround
+glee
+stoke
+```
+
+---
+Date: 2024.12.16
+```
+person of the year
+seaside
+cavernous
+traversed
+intermittently
+staffer
+aide
+```
+
+---
+Date: 2024.12.17
+```
+custody
+protest
+intensify
+arrest
+violate
+scarf
+```
+
+---
+Date: 2024.12.18
+```
+apex
+appointed
+advisory
+lobbying
+cabinet
+tycoon
+```
+
+---
+Date: 2024.12.19
+```
+robber
+baron
+dominate
+derive
+freebie
+```
+
+---
+Date: 2024.12.20
+```
+dignity
+intruding
+prestige
+piker
+orphan
+```
+
+---
+Date: 2024.12.21
+```
+enigmatic
+emerging
+tied to
+sprawling
+catnip
+```
+
+---
+Date: 2024.12.23
+```
+obligation
+commitment
+approximately
+aviation
+deliberate
+pop up
+yield
+```
+
+---
+Date: 2024.12.24
+```
+makeshift memorial
+mourned
+sidework
+self-inflicted
+brand
+intimidation
+```
+
+---
+Date: 2024.12.25
+```
+vibrant
+graffiti
+iconic
+temple
+ruin
+greeted
+```
+
+---
+Date: 2024.12.27
+```
+get close
+cliff
+fog
+so sick
+going nut
+sketch
+insane
+```
+
+---
+Date: 2024.12.28
+```
+high-end
+wealthy
+reveal
+curved couch
+glimpse
+flung
+interior
+```
+
+---
+Date: 2024.12.29
+```
+ground
+briefly
+trauma
+mileage
+reclaim
+annex
+```
+
+---
+Date: 2024.12.30
+```
+nearly
+presumed
+fire agency
+all but
+tip
+deadliest
+rubble
+```
+
+---
+Date: 2024.12.31
+```
+cyber security
+veteran
+strive
+relentlessly
+heritage
+```
