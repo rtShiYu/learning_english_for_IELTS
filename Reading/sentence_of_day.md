@@ -6470,3 +6470,10 @@ Date: 2025.01.01
 Every new beginning comes from some other beginning's end.
 每一个新的开始都来自某个开始的结束.
 ```
+
+---
+Date: 2025.01.02
+```
+You block your dream when you allow your fear to grow bigger than your faith
+你让恐惧战胜了信念，就会阻碍你的梦想.
+```
