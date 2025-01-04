@@ -6484,3 +6484,10 @@ Date: 2025.01.03
 A single sunbeam is enough to drive away many shadows.
 一束阳光足以驱散许多阴影.
 ```
+
+---
+Date: 2025.01.04
+```
+Not everything that is faced can be changed, but nothing can be changed until it is faced.
+不是每一个面对的困难都能克服, 但只有面对它才有机会改变.
+```
