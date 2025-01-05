@@ -6491,3 +6491,10 @@ Date: 2025.01.04
 Not everything that is faced can be changed, but nothing can be changed until it is faced.
 不是每一个面对的困难都能克服, 但只有面对它才有机会改变.
 ```
+
+---
+Date: 2024.01.05
+```
+People rarely succeed unless they have fun in what they are doing.
+若不能再所做之事中寻到快乐,人便难以成功.
+```
