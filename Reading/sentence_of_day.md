@@ -6498,3 +6498,10 @@ Date: 2024.01.05
 People rarely succeed unless they have fun in what they are doing.
 若不能再所做之事中寻到快乐,人便难以成功.
 ```
+
+---
+Date: 2025.01.06
+```
+Nothing in life is to be feared; it is only to be understood. Now is the time to understand more, so that we may fear less.
+我们应该了解多一些,这样就能畏惧少一些.
+```
