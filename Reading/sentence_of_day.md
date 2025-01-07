@@ -6505,3 +6505,10 @@ Date: 2025.01.06
 Nothing in life is to be feared; it is only to be understood. Now is the time to understand more, so that we may fear less.
 我们应该了解多一些,这样就能畏惧少一些.
 ```
+
+---
+Date: 2025.01.07
+```
+Doubt kills more dreams than failure ever will.
+怀疑比是被扼杀更多梦想.
+```
