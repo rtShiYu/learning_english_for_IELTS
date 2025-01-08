@@ -9827,3 +9827,13 @@ grey
 lumbago
 frontline
 ```
+
+---
+Date: 2024.01.08
+```
+stripped
+recipe
+deprecated
+authorized
+teammate
+```
