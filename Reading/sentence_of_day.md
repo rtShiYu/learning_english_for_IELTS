@@ -6519,3 +6519,10 @@ Date: 2024.01.08
 Turn your face to the sun and the shadows fall behind you.
 向阳而立，阴影自会落在身后.
 ```
+
+---
+Date: 2024.01.09
+```
+Those who make the worst use of their time are the first to complain of its brevity.
+那些最不善用时间的人,总是先抱怨时间不够.
+```
