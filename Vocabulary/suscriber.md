@@ -9847,3 +9847,14 @@ acceptance
 regenerate
 breadcrumb
 ```
+
+---
+Date: 2025.01.11
+```
+vulnerable
+flame
+susceptible
+destructive
+staggering
+renew
+```
