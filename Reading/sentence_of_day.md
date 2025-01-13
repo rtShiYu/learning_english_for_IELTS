@@ -6547,3 +6547,10 @@ Date: 2025.01.12
 The biggest adventure you can take is to live the life of your dreams.
 你能经历的最大冒险是活出梦想中的生活.
 ```
+
+---
+Date: 2024.01.13
+```
+It's not what we have in life but who we have in life that matters.
+生活中重要的不是我们拥有什么,而是我们拥有谁.
+```
