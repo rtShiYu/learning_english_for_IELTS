@@ -9882,3 +9882,13 @@ to flee
 hydrant
 rattle
 ```
+
+---
+Date: 2025.01.14
+```
+entrepreneur
+far-right
+end of story
+endorsing
+thrown
+```
