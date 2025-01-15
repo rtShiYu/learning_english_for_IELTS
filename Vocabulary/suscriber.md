@@ -9892,3 +9892,14 @@ end of story
 endorsing
 thrown
 ```
+
+---
+Date: 2025.01.15
+```
+hyper-focused
+waged
+political figure
+campaign
+hampered
+curb
+```
