@@ -9903,3 +9903,14 @@ campaign
 hampered
 curb
 ```
+
+
+---
+Date: 2025.01.16
+```
+empire
+acquire
+dementia
+lifetime
+impairment
+```
