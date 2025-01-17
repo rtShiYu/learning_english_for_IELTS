@@ -6575,3 +6575,10 @@ Date: 2025.01.16
 What's within us matters most.
 内心最重要.
 ```
+
+---
+Date: 2025.01.17
+```
+Do what you feel in your heart to be right.
+做你内心认为正确的事.
+```

@@ -9914,3 +9914,14 @@ dementia
 lifetime
 impairment
 ```
+
+---
+Date: 2025.01.17
+```
+grit
+myth
+effortless
+discipline
+achievement
+rely on
+```
