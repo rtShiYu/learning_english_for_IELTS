@@ -6589,3 +6589,10 @@ Date: 2025.01.18
 We become the most familiar strangers.
 我们变成了世上最熟悉的陌生人.
 ```
+
+---
+Date: 2025.01.19
+```
+The mind is not a vessel to be filled but a fire to be kindled.
+心灵不是要被填满的容器, 而是要被点燃的火.
+```
