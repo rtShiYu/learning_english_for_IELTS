@@ -6596,3 +6596,10 @@ Date: 2025.01.19
 The mind is not a vessel to be filled but a fire to be kindled.
 心灵不是要被填满的容器, 而是要被点燃的火.
 ```
+
+---
+Date: 2025.01.20
+```
+A man is useless who sits and thinks of what he cannot have.
+一个人若只是坐着空想自己得不到的东西,那是无用的.
+```
