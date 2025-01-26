@@ -6631,3 +6631,10 @@ Date: 2025.01.24
 Don't be pushed by your problems. Be led by your dreams.
 别被问题推着, 要被梦想引导着前进.
 ```
+
+---
+Date: 2025.01.26
+```
+You leave, or I go with you.
+你留下,或者我跟你走.
+```
