@@ -6638,3 +6638,10 @@ Date: 2025.01.26
 You leave, or I go with you.
 你留下,或者我跟你走.
 ```
+
+---
+Date: 2025.02.13
+```
+Courage is like a muscle; it is strengthened by use.
+勇气就像肌肉,用的越多越强壮.
+```
