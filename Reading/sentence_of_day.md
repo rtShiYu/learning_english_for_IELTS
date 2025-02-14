@@ -6645,3 +6645,10 @@ Date: 2025.02.13
 Courage is like a muscle; it is strengthened by use.
 勇气就像肌肉,用的越多越强壮.
 ```
+
+---
+Date: 2025.02.14
+```
+Instinct is a marvelous thing. It can neither be explained nor ignored.
+本能是一种奇妙的东西，它无法解释，也无法被忽视.
+```
