@@ -10020,3 +10020,18 @@ takeaway
 home-cooked
 transaction bonus
 ```
+
+---
+Date: 2025.02.16
+```
+hook
+frailty, frailties
+fear, loneliness, greed, grief, boredom
+scam
+stake
+lucrative
+trafficker
+trade crypto
+consult, consultancy
+butcher, butchering, pig-butchering
+```

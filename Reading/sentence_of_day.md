@@ -6659,3 +6659,10 @@ Date: 2025.02.15
 I would rather die of passion than of boredom.
 我宁愿死于激情也不愿死于无聊.
 ```
+
+---
+Date: 2025.02.16
+```
+We soon believe what we desire.
+我们欲望中的东西,我们很快就信以为真.
+```
