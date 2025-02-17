@@ -10035,3 +10035,14 @@ trade crypto
 consult, consultancy
 butcher, butchering, pig-butchering
 ```
+
+---
+Date: 2025.02.17
+```
+stay up all night
+pulling all-nighter
+broad
+broaden
+grit
+discipline
+```
