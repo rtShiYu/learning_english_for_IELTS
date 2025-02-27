@@ -6727,3 +6727,10 @@ Date: 2025.02.26
 What we achieve inwardly will change outer reality.
 我们内在的成就会改变外在的现实.
 ```
+
+---
+Date: 2025.02.27
+```
+Happiness is a direction, not a place.
+幸福是一种方向, 而不是一个地方.
+```
