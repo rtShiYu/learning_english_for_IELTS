@@ -9765,3 +9765,347 @@ strive
 relentlessly
 heritage
 ```
+
+---
+Date: 2025.01.02
+```
+practical
+clutter
+hobby
+steroid
+highfalutin
+```
+
+---
+Date: 2025.01.03
+```
+cement
+dominance
+undercut
+bedrock
+deficit
+```
+
+---
+Date: 2025.01.04
+```
+routine
+invisible
+shampoo bottle
+armpit
+creature
+prompt
+```
+
+---
+Date: 2024.01.05
+```
+rattle
+juncture
+foundational
+prcecipitat
+teeter
+doom
+```
+
+---
+Date: 2025.01.06
+```
+menacing
+round-numbered
+sombre
+bullet train
+cholesterol
+```
+
+---
+Date: 2025.01.07
+```
+mileometer
+creak
+grey
+lumbago
+frontline
+```
+
+---
+Date: 2024.01.08
+```
+stripped
+recipe
+deprecated
+authorized
+teammate
+```
+
+---
+Date: 2024.01.09
+```
+iterate
+relevant
+acceptance
+regenerate
+breadcrumb
+```
+
+---
+Date: 2025.01.11
+```
+vulnerable
+flame
+susceptible
+destructive
+staggering
+renew
+```
+
+---
+Date: 2025.01.12
+```
+scam
+sin
+stretch
+flutter
+patchwork
+respite
+brutal
+symptom
+```
+
+---
+Date: 2024.01.13
+```
+corral
+sliver
+shaken
+to flee
+hydrant
+rattle
+```
+
+---
+Date: 2025.01.14
+```
+entrepreneur
+far-right
+end of story
+endorsing
+thrown
+```
+
+---
+Date: 2025.01.15
+```
+hyper-focused
+waged
+political figure
+campaign
+hampered
+curb
+```
+
+
+---
+Date: 2025.01.16
+```
+empire
+acquire
+dementia
+lifetime
+impairment
+```
+
+---
+Date: 2025.01.17
+```
+grit
+myth
+effortless
+discipline
+achievement
+rely on
+```
+
+---
+Date: 2025.01.18
+```
+barbell
+having a moment
+purveyor
+dumbbell
+cardio workout
+fad
+```
+
+---
+Date: 2025.01.19
+```
+squirrel
+inaugural
+incorporate
+arena
+uphold
+```
+
+---
+Date: 2025.01.20
+```
+curtain call
+flaw
+bequeath
+robust
+legacy
+deluge
+```
+
+---
+Date: 2025.01.22
+```
+swear in
+swiftly
+tranche
+attorney
+offshore
+```
+
+---
+Date: 2025.01.23
+```
+brainstorm
+sperate
+nuanced
+pros and cons
+debate
+regardless
+```
+
+---
+Date: 2025.01.26
+```
+sippest
+giant
+obviors
+detrmine
+intuition
+```
+
+---
+Date: 2025.02.13
+```
+restructuring
+significantly
+prospect
+profitability
+toll
+burden
+```
+
+---
+Date: 2025.02.14
+```
+instinct
+marvelous
+pebble
+feat
+property
+```
+
+---
+Date: 2025.02.15
+```
+entrench
+reputation
+ritual
+takeaway
+home-cooked
+transaction bonus
+```
+
+---
+Date: 2025.02.16
+```
+hook
+frailty, frailties
+fear, loneliness, greed, grief, boredom
+scam
+stake
+lucrative
+trafficker
+trade crypto
+consult, consultancy
+butcher, butchering, pig-butchering
+```
+
+---
+Date: 2025.02.17
+```
+stay up all night
+pulling all-nighter
+broad
+broaden
+grit
+discipline
+```
+
+---
+Date: 2025.02.18
+```
+impulse
+refund
+bulk
+severance
+tale
+relic
+```
+
+---
+Date: 2025.02.19
+```
+exhaust
+comply with
+swallow
+receipt
+grab
+```
+
+---
+Date: 2025.02.20
+```
+flip
+evacuated
+torn off
+critically
+physician
+complication
+```
+
+---
+Date: 2025.02.22
+```
+elixir
+disentangle
+premature
+confide
+inflammation
+diet
+```
+
+---
+Date: 2025.02.26
+```
+justify
+accomplishment
+tackeover
+demand
+pile
+```
+
+---
+Date: 2025.02.27
+```
+hoard
+infrastructure
+inventory
+silly
+forum
+```

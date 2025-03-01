@@ -6462,3 +6462,290 @@ Date: 2024.12.31
 It's been quite a journey this year, full of surprises and unexpected events. Let's leave the past behind and move on.
 今年的旅程相当精彩, 充满惊喜和意外.
 ```
+
+
+---
+Date: 2025.01.01
+```
+Every new beginning comes from some other beginning's end.
+每一个新的开始都来自某个开始的结束.
+```
+
+---
+Date: 2025.01.02
+```
+You block your dream when you allow your fear to grow bigger than your faith
+你让恐惧战胜了信念，就会阻碍你的梦想.
+```
+
+---
+Date: 2025.01.03
+```
+A single sunbeam is enough to drive away many shadows.
+一束阳光足以驱散许多阴影.
+```
+
+---
+Date: 2025.01.04
+```
+Not everything that is faced can be changed, but nothing can be changed until it is faced.
+不是每一个面对的困难都能克服, 但只有面对它才有机会改变.
+```
+
+---
+Date: 2024.01.05
+```
+People rarely succeed unless they have fun in what they are doing.
+若不能再所做之事中寻到快乐,人便难以成功.
+```
+
+---
+Date: 2025.01.06
+```
+Nothing in life is to be feared; it is only to be understood. Now is the time to understand more, so that we may fear less.
+我们应该了解多一些,这样就能畏惧少一些.
+```
+
+---
+Date: 2025.01.07
+```
+Doubt kills more dreams than failure ever will.
+怀疑比是被扼杀更多梦想.
+```
+
+---
+Date: 2025.01.08
+```
+Turn your face to the sun and the shadows fall behind you.
+向阳而立，阴影自会落在身后.
+```
+
+---
+Date: 2025.01.09
+```
+Those who make the worst use of their time are the first to complain of its brevity.
+那些最不善用时间的人,总是先抱怨时间不够.
+```
+
+---
+Date: 2025.01.10
+```
+When words fail, music speaks.
+当言语无力时,音乐能表达一切.
+```
+
+---
+Date: 2025.01.11
+```
+You can't change the past, but you can change the ending.
+你无法改变过去,但你可以改变结局.
+```
+
+---
+Date: 2025.01.12
+```
+The biggest adventure you can take is to live the life of your dreams.
+你能经历的最大冒险是活出梦想中的生活.
+```
+
+---
+Date: 2025.01.13
+```
+It's not what we have in life but who we have in life that matters.
+生活中重要的不是我们拥有什么,而是我们拥有谁.
+```
+
+---
+Date: 2025.01.14
+```
+Once you choose hope, anything's possible.
+一旦选择了希望,一切皆有可能.
+```
+
+---
+Date: 2025.01.15
+```
+Dare to dream big, begin small, and act right away.
+梦想要大,起步要小,行动要快.
+```
+
+---
+Date: 2025.01.16
+```
+What's within us matters most.
+内心最重要.
+```
+
+---
+Date: 2025.01.17
+```
+Do what you feel in your heart to be right.
+做你内心认为正确的事.
+```
+
+---
+Date: 2025.01.18
+```
+We become the most familiar strangers.
+我们变成了世上最熟悉的陌生人.
+```
+
+---
+Date: 2025.01.19
+```
+The mind is not a vessel to be filled but a fire to be kindled.
+心灵不是要被填满的容器, 而是要被点燃的火.
+```
+
+---
+Date: 2025.01.20
+```
+A man is useless who sits and thinks of what he cannot have.
+一个人若只是坐着空想自己得不到的东西,那是无用的.
+```
+
+---
+Date: 2025.01.21
+```
+Happiness is in sharing, not owning.
+幸福在分享,不在拥有.
+```
+
+---
+Date: 2025.01.22
+```
+Hope is a waking dream.
+希望是清醒的梦.
+```
+
+---
+Date: 2025.01.24
+```
+Light tomorrow with today.
+用今天点亮明天.
+```
+
+---
+Date: 2025.01.24
+```
+Don't be pushed by your problems. Be led by your dreams.
+别被问题推着, 要被梦想引导着前进.
+```
+
+---
+Date: 2025.01.26
+```
+You leave, or I go with you.
+你留下,或者我跟你走.
+```
+
+---
+Date: 2025.02.13
+```
+Courage is like a muscle; it is strengthened by use.
+勇气就像肌肉,用的越多越强壮.
+```
+
+---
+Date: 2025.02.14
+```
+Instinct is a marvelous thing. It can neither be explained nor ignored.
+本能是一种奇妙的东西，它无法解释，也无法被忽视.
+```
+
+---
+Date: 2025.02.15
+```
+I would rather die of passion than of boredom.
+我宁愿死于激情也不愿死于无聊.
+```
+
+---
+Date: 2025.02.16
+```
+We soon believe what we desire.
+我们欲望中的东西,我们很快就信以为真.
+```
+
+---
+Date: 2025.02.17
+```
+Learn from yesterday, live for today, hope for tomorrow.
+从昨天学习,为今天而活,对明天充满希望.
+```
+
+---
+Date: 2025.02.18
+```
+Gather sweet blossoms while you may; And not the twig devoid of flower.
+花开直须折,莫等无花空折枝.
+```
+
+---
+Date: 2025.02.19
+```
+The best time to plant a tree was 10 years ago. The second best time is now.
+```
+
+---
+Date: 2025.02.20
+```
+No pressure, no diamonds.
+没有压力,就没有钻石.
+```
+
+---
+Date: 2025.02.21
+```
+Your only limit is your mind.
+唯一的限制是你的心态.
+```
+
+---
+Date: 2025.02.22
+```
+Each day brings a new beginning.
+```
+
+Date: 2025.02.23
+```
+The more you use it, the more it produces; the more you talk of it, the less you understand.
+你用的越多,它产生的就越多;你谈论的越多,你理解的就越少.
+```
+
+---
+Date: 2025.02.24
+```
+Happiness is homemade.
+幸福是自己创造的.
+```
+
+---
+Date: 2025.02.25
+```
+Success is no accident.
+成功不是偶然.
+```
+
+---
+Date: 2025.02.26
+```
+What we achieve inwardly will change outer reality.
+我们内在的成就会改变外在的现实.
+```
+
+---
+Date: 2025.02.27
+```
+Happiness is a direction, not a place.
+幸福是一种方向, 而不是一个地方.
+```
+
+---
+Date: 2025.02.28
+```
+Strength grows in the moments when you think you can't go on but keep going anyway.
+力量来自于你觉得撑不下去却依然坚持的时刻.
+```
+```
+
