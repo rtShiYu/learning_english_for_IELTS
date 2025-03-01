@@ -6707,6 +6707,12 @@ Date: 2025.02.22
 Each day brings a new beginning.
 ```
 
+Date: 2025.02.23
+```
+The more you use it, the more it produces; the more you talk of it, the less you understand.
+你用的越多,它产生的就越多;你谈论的越多,你理解的就越少.
+```
+
 ---
 Date: 2025.02.24
 ```
@@ -6741,3 +6747,5 @@ Date: 2025.02.28
 Strength grows in the moments when you think you can't go on but keep going anyway.
 力量来自于你觉得撑不下去却依然坚持的时刻.
 ```
+```
+
