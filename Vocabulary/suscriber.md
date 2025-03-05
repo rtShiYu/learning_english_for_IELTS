@@ -10140,3 +10140,14 @@ convince
 surrender
 tram
 ```
+
+---
+Date: 2025.03.05
+```
+forsake
+endorsement
+fringe
+barrass
+labelled
+surveillance
+```

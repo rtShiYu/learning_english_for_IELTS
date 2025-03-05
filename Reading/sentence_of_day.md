@@ -6775,3 +6775,10 @@ Date: 2025.03.04
 Success depends on effort, not just desire.
 成功源于努力,而非渴望.
 ```
+
+---
+Date: 2025.03.05
+```
+To more that you read, the more things you will know.
+你读的书越多, 你知道的事情就越多.
+```
