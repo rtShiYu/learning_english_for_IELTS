@@ -6782,3 +6782,10 @@ Date: 2025.03.05
 To more that you read, the more things you will know.
 你读的书越多, 你知道的事情就越多.
 ```
+
+---
+Date: 2025.03.06
+```
+Don't wait for opportunity. Create it.
+不要等待机会,创造机会.
+```
