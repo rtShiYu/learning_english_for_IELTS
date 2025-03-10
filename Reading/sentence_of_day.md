@@ -6809,3 +6809,10 @@ Date: 2025.03.09
 Don't be afraid to be yourself. Follow your own path.
 不要害怕做与众不同的自己,走自己的路.
 ```
+
+---
+Date: 2025.03.10
+```
+Do not wait to strike till the iron is hot, but make it hot by striking.
+不要等到铁烫热再去打它, 而是通过打它让铁变热.
+```
