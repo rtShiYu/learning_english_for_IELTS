@@ -6844,3 +6844,10 @@ Date: 2025.03.14
 True success inspires others to act.
 真正的成功是激励他人行动.
 ```
+
+---
+Date: 2025.03.15
+```
+It's better to light a candle than to course the darkness.
+与其诅咒黑暗,不如点亮一根蜡烛.
+```
