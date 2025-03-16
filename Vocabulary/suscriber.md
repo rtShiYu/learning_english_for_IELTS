@@ -10247,3 +10247,13 @@ reverse
 mood
 tactic
 ```
+
+---
+Date: 2025.03.16
+```
+swear in
+explosive
+oath
+imminent
+congnitive
+```
