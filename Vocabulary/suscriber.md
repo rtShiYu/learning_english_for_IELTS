@@ -10257,3 +10257,13 @@ oath
 imminent
 congnitive
 ```
+
+---
+Date: 2025.03.17
+```
+lapse into
+emotive
+not least
+vice versa
+inclusive
+```
