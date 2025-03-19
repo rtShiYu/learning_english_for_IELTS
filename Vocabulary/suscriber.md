@@ -10267,3 +10267,14 @@ not least
 vice versa
 inclusive
 ```
+
+---
+Date: 2025.03.19
+```
+capsule
+slash down
+sojourn
+parachute
+line-up
+refuel
+```
