@@ -6914,3 +6914,9 @@ Date: 2025.03.24
 A winner is a dreamer who never gives up.
 一个成功者是一个永不放弃的梦想家.
 ```
+
+---
+Date: 2025.03.25
+```
+You can do anything, but not everything.
+```
