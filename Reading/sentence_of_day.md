@@ -6920,3 +6920,10 @@ Date: 2025.03.25
 ```
 You can do anything, but not everything.
 ```
+
+---
+Date: 2025.03.26
+```
+The only thing we have to fear is fear itself.
+我们唯一需要害怕的是害怕本身.
+```
