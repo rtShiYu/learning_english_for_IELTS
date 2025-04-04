@@ -6747,5 +6747,239 @@ Date: 2025.02.28
 Strength grows in the moments when you think you can't go on but keep going anyway.
 力量来自于你觉得撑不下去却依然坚持的时刻.
 ```
+
+---
+Date: 2025.03.01
+```
+A merry heart goes all the way.
+心旷神怡，事事顺利.
 ```
 
+---
+Date: 2025.03.02
+```
+When life gets you down, just keep moving.
+当生活遇到瓶颈，继续向前就对了.
+```
+
+---
+Date: 2025.03.03
+```
+The only way to fail is not to try.
+失败的唯一方式是不去尝试.
+```
+
+---
+Date: 2025.03.04
+```
+Success depends on effort, not just desire.
+成功源于努力,而非渴望.
+```
+
+---
+Date: 2025.03.05
+```
+To more that you read, the more things you will know.
+你读的书越多, 你知道的事情就越多.
+```
+
+---
+Date: 2025.03.06
+```
+Don't wait for opportunity. Create it.
+不要等待机会,创造机会.
+```
+
+---
+Date: 2025.03.07
+```
+Greatness comes from small, consistent efforts, not impulse.
+伟大源于微小坚持,而非冲动.
+```
+
+---
+Date: 2025.03.08
+```
+You are beautiful just as you are.
+```
+
+---
+Date: 2025.03.09
+```
+Don't be afraid to be yourself. Follow your own path.
+不要害怕做与众不同的自己,走自己的路.
+```
+
+---
+Date: 2025.03.10
+```
+Do not wait to strike till the iron is hot, but make it hot by striking.
+不要等到铁烫热再去打它, 而是通过打它让铁变热.
+```
+
+---
+Date: 2025.03.11
+```
+Hard work magnifies achievement's joy.
+越努力,成就感越强.
+```
+
+---
+Date: 2025.03.12
+```
+Don't wish for it. Work for it.
+不要仅仅希望它, 去为它努力.
+```
+
+---
+Date: 2025.03.13
+```
+Challenges spark life; conquering them gives purpose.
+挑战点亮生活,征服赋予意义.
+```
+
+---
+Date: 2025.03.14
+```
+True success inspires others to act.
+真正的成功是激励他人行动.
+```
+
+---
+Date: 2025.03.15
+```
+It's better to light a candle than to course the darkness.
+与其诅咒黑暗,不如点亮一根蜡烛.
+```
+
+---
+Date: 2025.03.16
+```
+Care and diligence bring luck.
+谨慎和勤奋,带来好运气.
+```
+
+---
+Date: 2025.03.17
+```
+The key to success is to focus on goals, not obstacles.
+成功的关键是关注与目标,而非障碍.
+```
+
+---
+Date: 2025.03.18
+```
+Don't limit your challenges. Challenge your limits.
+不要限制你的挑战，挑战你的极限.
+```
+
+---
+Date: 2025.03.19
+```
+The only place where success comes before work is in the dictionary.
+只有在字典里,成功才排在工作之前.
+```
+
+---
+Date: 2025.03.20
+```
+Spring will come and so will happiness.
+春天会到来,幸福也会随之而来.
+```
+
+---
+Date: 2025.03.21
+```
+Success is becoming the best version of yourself.
+成功是成为最好的自己.
+```
+
+---
+Date: 2025.03.22
+```
+Every cloud has a silver lining.
+天无绝人之路.
+```
+
+---
+Date: 2025.03.23
+```
+Time is a bird flying into eternity.
+时间是一只永远在飞翔的鸟.
+```
+
+---
+Date: 2025.03.24
+```
+A winner is a dreamer who never gives up.
+一个成功者是一个永不放弃的梦想家.
+```
+
+---
+Date: 2025.03.25
+```
+You can do anything, but not everything.
+```
+
+---
+Date: 2025.03.26
+```
+The only thing we have to fear is fear itself.
+我们唯一需要害怕的是害怕本身.
+```
+
+---
+Date: 2025.03.27
+```
+Your greatest triumph is staying true to yourself.
+终于自我我最高成就.
+```
+
+---
+Date: 2025.03.28
+```
+Trailblaze where no path exists.
+在无路处开辟新经.
+```
+
+---
+Date: 2025.03.29
+```
+A miss is as good as a mile.
+失之毫厘差之千里.
+```
+
+---
+Date: 2025.03.30
+```
+Vase spirit, active thought and industrious heart make a genius.
+浩瀚的精神, 活跃的思想, 勤奋的心灵, 早就了天才.
+```
+
+---
+Date: 2025.03.31
+```
+Cross oceans only by daring to leave shore.
+有离开海岸的勇气,才能横渡海洋.
+```
+
+---
+Date: 2025.04.01
+```
+Every playful prank on April Fool's Day reminds us to live with laughter.
+每个愚人节的恶作剧都提醒我们用笑声生活.
+```
+
+---
+Date: 2025.04.02
+```
+A brave decision today can spark a lifetime of transformation.
+今日的勇敢决断能激发一生的决断.
+```
+
+---
+Date: 2025.04.03
+```
+Healing is a matter of time, but it is sometimes also a matter of opportunity.
+治愈是时间问题, 但有时也是机会问题.
+```
