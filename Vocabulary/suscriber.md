@@ -10395,3 +10395,15 @@ frustrated
 strategies
 strategy
 ```
+
+
+---
+Date: 2025.04.05
+```
+ADHD: attention deficit hyperactivity disorder
+fidgety
+diagnosis
+common
+autism
+criteria
+```
