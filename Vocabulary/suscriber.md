@@ -10407,3 +10407,14 @@ common
 autism
 criteria
 ```
+
+---
+Date: 2025.04.06
+```
+clinician
+clinical
+clinic
+therapy
+symptom
+dopamine
+```
