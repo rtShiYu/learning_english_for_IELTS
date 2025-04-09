@@ -7017,3 +7017,10 @@ Date: 2025.04.08
 ```
 Think less of gain and loss as long as you go all out and have a clear mind.
 ```
+
+---
+Date: 2025.04.09
+```
+Knowledge speaks, but wisdom listens.
+知识在言说, 智慧在倾听.
+```
