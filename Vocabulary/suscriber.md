@@ -10442,3 +10442,15 @@ speaking out
 separately
 critique
 ```
+
+---
+Date: 2025.04.12
+```
+unaware
+unconscious knowledge
+one is listening
+complex
+regularly
+intonation
+pitch
+```
