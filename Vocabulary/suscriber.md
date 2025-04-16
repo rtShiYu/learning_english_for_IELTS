@@ -10475,3 +10475,14 @@ enthusiasm
 liberty
 deceive
 ```
+
+---
+Date: 2025.04.16
+```
+plunge
+meltdown
+wipe
+abrupt
+postwar
+colossal
+```
