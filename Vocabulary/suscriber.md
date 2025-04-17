@@ -10486,3 +10486,14 @@ abrupt
 postwar
 colossal
 ```
+
+---
+Date: 2025.04.17
+```
+set on fire
+notorious
+scold
+deport
+vow
+surrender
+```

@@ -7073,3 +7073,10 @@ Date: 2025.04.16
 You may not control all the events that happen to you, but you can decide not to be reduced by them.
 你可能无法控制所有发生在你身上的事, 但是你可以决定不被它们所累.
 ```
+
+---
+Date: 2025.04.17
+```
+Live simply, so others may simply live.
+简单生活, 让他人也能简单生活.
+```
