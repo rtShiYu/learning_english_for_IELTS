@@ -10497,3 +10497,14 @@ deport
 vow
 surrender
 ```
+
+---
+Date: 2025.04.18
+```
+chaos
+plunging quickly and sharply declining/falling
+inflict
+tariff
+new deals
+to be open to, to be willing to cosider
+```
