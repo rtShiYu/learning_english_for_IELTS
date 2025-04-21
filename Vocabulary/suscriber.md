@@ -10520,3 +10520,14 @@ thirsty
 drink water
 pump
 ```
+
+---
+Date: 2025.04.21
+```
+elavator
+sidewalk
+pigeon
+plaza
+fountain
+cathedral
+```
