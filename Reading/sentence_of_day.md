@@ -7150,3 +7150,10 @@ Date: 2025.05.03
 Today's mighty oak is just yesterday's nut, that held its ground.
 今日茂盛的橡树在昨日只是一粒橡子, 但昨日是今天不可或缺的基础.
 ```
+
+---
+Date: 2025.05.04
+```
+When you're following your energy and doing what you want all the time, the distinction between work and play dissolves.
+当你追随内心热情, 全心投入所爱之事时, 工作于玩乐便再无分别.
+```
