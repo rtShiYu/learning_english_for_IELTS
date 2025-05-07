@@ -7157,3 +7157,10 @@ Date: 2025.05.04
 When you're following your energy and doing what you want all the time, the distinction between work and play dissolves.
 当你追随内心热情, 全心投入所爱之事时, 工作于玩乐便再无分别.
 ```
+
+---
+Date: 2025.05.07
+```
+A dead end is just a good place to turn around.
+死胡同只是一个很好的转弯之处.
+```
