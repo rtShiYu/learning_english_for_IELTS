@@ -7213,3 +7213,10 @@ Date: 2025.05.16
 I've found 10000 ways that won't work.
 我找到了10000种行不通的方法.
 ```
+
+---
+Date: 2025.05.17
+```
+How you deal with failure determines your success.
+你如何处理失败决定你的成功.
+```
