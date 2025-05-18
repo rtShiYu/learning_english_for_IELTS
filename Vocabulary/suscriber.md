@@ -10576,3 +10576,17 @@ immerse
 trajectory
 dopanime spurts
 ```
+
+---
+Date: 2025.05.18
+```
+fliers
+renting
+apartment
+skyscraper
+statue
+crosswalk
+bottle
+currency
+roll up doors
+```

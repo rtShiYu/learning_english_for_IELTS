@@ -7220,3 +7220,10 @@ Date: 2025.05.17
 How you deal with failure determines your success.
 你如何处理失败决定你的成功.
 ```
+
+---
+Date: 2025.05.18
+```
+Free man is by necessity insecure; thinking man by necessity uncertain.
+自由者必然不安, 思考者注定忧郁.
+```
