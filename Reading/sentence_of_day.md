@@ -7226,10 +7226,17 @@ Date: 2025.05.18
 ```
 Free man is by necessity insecure; thinking man by necessity uncertain.
 自由者必然不安, 思考者注定忧郁.
-Date: 2025.05.19
 
 ---
+Date: 2025.05.19
 ```
 Time flies, but you're the pilot of your life.
 时间飞逝, 但你是人生的飞行员.
+```
+
+---
+Date: 2025.05.20
+```
+You make a life out of what you have.
+你用拥有的东西创造生活.
 ```
