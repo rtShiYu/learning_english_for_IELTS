@@ -7247,3 +7247,10 @@ Date: 2025.05.21
 Beauty and truth may be attributes of good writing, but if the write deliberately aims at truth, he is likely to find that what he has hit is the didactic.
 美和真或许是佳作的必备品质, 可若作者以为求真, 很可能会发现自己的文字都沦为说教.
 ```
+
+---
+Date: 2025.05.22
+```
+Decide what to do with the time given to us.
+决定如何使用给予我们的时间.
+```
