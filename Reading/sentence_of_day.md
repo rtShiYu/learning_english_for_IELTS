@@ -7261,3 +7261,10 @@ Date: 2025.05.23
 Each of us is more than our worst mistake.
 我们每个人都超越了自己最糟的错误.
 ```
+
+---
+Date: 2025.05.24
+```
+If you aspire to the highest place, it is no disgrace to stop at the second, or even the third, place.
+志在巅峰者, 止步于第二乃至第三, 绝非耻辱.
+```
