@@ -7282,3 +7282,10 @@ Date: 2025.05.26
 Wishing takes as much energy as planning does.
 许愿和计划需要同样的能量.
 ```
+
+---
+Date: 2025.05.27
+```
+You cannot change what you are, only what you do.
+你无法改变本质, 智能改变行为.
+```
