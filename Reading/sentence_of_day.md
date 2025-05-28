@@ -7289,3 +7289,10 @@ Date: 2025.05.27
 You cannot change what you are, only what you do.
 你无法改变本质, 智能改变行为.
 ```
+
+---
+Date: 2025.05.28
+```
+A good mind is not enough; use it well.
+好头脑不够, 必须善加利用.
+```
