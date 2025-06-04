@@ -6983,3 +6983,323 @@ Date: 2025.04.03
 Healing is a matter of time, but it is sometimes also a matter of opportunity.
 治愈是时间问题, 但有时也是机会问题.
 ```
+
+---
+Date: 2025.04.04
+```
+Progress starts with one brave step forward.
+进步始于一次勇敢的迈步.
+```
+
+---
+Date: 2025.04.05
+```
+If you want to achieve greatness, stop asking for permission.
+如果你想获得伟大, 别再请求许可.
+```
+
+---
+Date: 2025.04.06
+```
+The time is always right to do what is right.
+做正确的事, 时间总是合适的.
+```
+
+---
+Date: 2025.04.07
+```
+Laughter revivers a tired spirit and mends a broken heart.
+笑声能重燃疲惫的心灵, 修复破碎的情感.
+```
+
+---
+Date: 2025.04.08
+```
+Think less of gain and loss as long as you go all out and have a clear mind.
+```
+
+---
+Date: 2025.04.09
+```
+Knowledge speaks, but wisdom listens.
+知识在言说, 智慧在倾听.
+```
+
+---
+Date: 2025.04.10
+```
+Genuine effort turns challenges into stepping stones for real growth.
+真诚的努力, 能将阻碍转化为真正进行的垫脚石.
+```
+
+---
+Date: 2025.04.11
+```
+Forward ever, backward never.
+永远向前, 绝不后退.
+```
+
+---
+Date: 2025.04.12
+```
+No man is born wise or learned.
+人非生而知之.
+```
+
+---
+Date: 2025.04.13
+```
+The soul of a journey is liberty, perfect liberty, to think, feel, and do just as one pleases.
+旅行的灵魂就是自由自在, 完美的自由, 可以随心所欲地思考, 感受和行动.
+```
+
+---
+Date: 2025.04.14
+```
+Family always remains a safe harbor in life's stormy sea.
+家庭始终是风暴中最安全的港湾.
+```
+
+---
+Date: 2025.04.15
+```
+Calm moments reveal hidden beauty in the everyday world around us.
+宁静时刻展现出我们周围日常生活中的隐藏的美.
+```
+
+---
+Date: 2025.04.16
+```
+You may not control all the events that happen to you, but you can decide not to be reduced by them.
+你可能无法控制所有发生在你身上的事, 但是你可以决定不被它们所累.
+```
+
+---
+Date: 2025.04.17
+```
+Live simply, so others may simply live.
+简单生活, 让他人也能简单生活.
+```
+
+---
+Date: 2025.04.18
+```
+Every effort, no matter how small, builds a better future.
+每一分努力, 不论多小, 都构建个更美好的未来.
+```
+
+---
+Date: 2025.04.19
+```
+Youth means limitless possibilities.
+年轻就有无限可能.
+```
+
+---
+Date: 2025.04.20
+```
+You get in life what you have the courage to ask for.
+勇敢去争取想要的生活, 你终能得偿所愿.
+```
+
+---
+Date: 2025.04.21
+```
+Every act of honesty plants seeds for trust to eventually grow.
+每个真诚行为都为信任播下种子.
+```
+
+---
+Date: 2025.04.22
+```
+Kindness transforms the world, one compassionate act at a time.
+善良改变世界, 每一次充满同情的行动都至关重要.
+```
+
+---
+Date: 2025.04.23
+```
+Nature is kind of a loving mother, but also a butcher in cold blood.
+自然不仅是慈爱的母亲, 也是冷血的屠夫.
+```
+
+---
+Date: 2025.04.24
+```
+Books indeed open doors to worlds beyond our wildest dreams.
+书籍确实开启了超越想象的世界之门.
+```
+
+---
+Date: 2025.04.26
+```
+Your smile can warm a heart and light up a dark room.
+你的笑容能温暖一颗心, 照亮黑暗的房间.
+```
+
+---
+Date: 2025.05.02
+```
+The beautiful thing about learning is nobody can take it away from you.
+学习的美好之处在于没有人能把它从你身上夺走.
+```
+
+---
+Date: 2025.05.03
+```
+Today's mighty oak is just yesterday's nut, that held its ground.
+今日茂盛的橡树在昨日只是一粒橡子, 但昨日是今天不可或缺的基础.
+```
+
+---
+Date: 2025.05.04
+```
+When you're following your energy and doing what you want all the time, the distinction between work and play dissolves.
+当你追随内心热情, 全心投入所爱之事时, 工作于玩乐便再无分别.
+```
+
+---
+Date: 2025.05.07
+```
+A dead end is just a good place to turn around.
+死胡同只是一个很好的转弯之处.
+```
+
+---
+Date: 2025.05.09
+```
+You can, you should, and if you're brave, you will.
+你可以, 你应该, 若你勇敢, 你会做到.
+```
+
+---
+Date: 2025.05.10
+```
+There is always a better way.
+总有更好的办法.
+```
+
+---
+Date: 2025.05.11
+```
+Life is too short for us to wake up in the morning with regrets.
+人生苦短, 所以每天不要带着遗憾醒来.
+```
+
+---
+Date: 2025.05.13
+```
+Life is like riding a bicycle, you must keep moving.
+生活像骑自行车, 必须不断前进.
+```
+
+---
+Date: 2025.05.14
+```
+Some look for a beautiful place, others make it beautiful.
+有人寻找美丽之地, 有人创造美丽之地.
+```
+
+---
+Date: 2025.05.15
+```
+If no use is made of the labors of past ages, the world must remain always in the infancy of knowledge.
+若不能善用历代先贤的智慧结晶, 人类将永远困于知识的襁褓之中.
+```
+
+---
+Date: 2025.05.16
+```
+I've found 10000 ways that won't work.
+我找到了10000种行不通的方法.
+```
+
+---
+Date: 2025.05.17
+```
+How you deal with failure determines your success.
+你如何处理失败决定你的成功.
+```
+
+---
+Date: 2025.05.18
+```
+Free man is by necessity insecure; thinking man by necessity uncertain.
+自由者必然不安, 思考者注定忧郁.
+
+---
+Date: 2025.05.19
+```
+Time flies, but you're the pilot of your life.
+时间飞逝, 但你是人生的飞行员.
+```
+
+---
+Date: 2025.05.20
+```
+You make a life out of what you have.
+你用拥有的东西创造生活.
+```
+
+---
+Date: 2025.05.21
+```
+Beauty and truth may be attributes of good writing, but if the write deliberately aims at truth, he is likely to find that what he has hit is the didactic.
+美和真或许是佳作的必备品质, 可若作者以为求真, 很可能会发现自己的文字都沦为说教.
+```
+
+---
+Date: 2025.05.22
+```
+Decide what to do with the time given to us.
+决定如何使用给予我们的时间.
+```
+
+---
+Date: 2025.05.23
+```
+Each of us is more than our worst mistake.
+我们每个人都超越了自己最糟的错误.
+```
+
+---
+Date: 2025.05.24
+```
+If you aspire to the highest place, it is no disgrace to stop at the second, or even the third, place.
+志在巅峰者, 止步于第二乃至第三, 绝非耻辱.
+```
+
+---
+Date: 2025.05.25
+```
+Rome was not built in a day.
+罗马不是一天造成的.
+```
+
+---
+Date: 2025.05.26
+```
+Wishing takes as much energy as planning does.
+许愿和计划需要同样的能量.
+```
+
+---
+Date: 2025.05.27
+```
+You cannot change what you are, only what you do.
+你无法改变本质, 智能改变行为.
+```
+
+---
+Date: 2025.05.28
+```
+A good mind is not enough; use it well.
+好头脑不够, 必须善加利用.
+```
+
+---
+Date: 2025.05.29
+```
+So we beat on, boats against the current, borne back ceaselessly into the past.
+于是我们继续奋力向前, 逆水行舟, 却被不断地向后推移, 直至回到往西岁月.
+```

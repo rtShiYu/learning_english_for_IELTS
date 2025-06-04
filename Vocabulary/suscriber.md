@@ -10384,3 +10384,242 @@ blur
 nodded
 frustrated
 ```
+
+---
+Date: 2025.04.04
+```
+breakthrough
+struggled
+hesitation
+frustrated
+strategies
+strategy
+```
+
+
+---
+Date: 2025.04.05
+```
+ADHD: attention deficit hyperactivity disorder
+fidgety
+diagnosis
+common
+autism
+criteria
+```
+
+---
+Date: 2025.04.06
+```
+clinician
+clinical
+clinic
+therapy
+symptom
+dopamine
+```
+
+---
+Date: 2025.04.07
+```
+rout
+bottomless pit
+infant
+toddler
+recall
+foe
+gear
+```
+
+---
+Date: 2025.04.10
+```
+durability
+tariff
+compatibility
+handful
+speaking out
+separately
+critique
+```
+
+---
+Date: 2025.04.12
+```
+unaware
+unconscious knowledge
+one is listening
+complex
+regularly
+intonation
+pitch
+```
+
+---
+Date: 2025.04.13
+```
+obsolete
+treasury bound
+beloved
+landscape
+azalea
+allergy
+```
+
+---
+Date: 2025.04.14
+```
+vintage
+retailer
+enthusiasm
+liberty
+deceive
+```
+
+---
+Date: 2025.04.16
+```
+plunge
+meltdown
+wipe
+abrupt
+postwar
+colossal
+```
+
+---
+Date: 2025.04.17
+```
+set on fire
+notorious
+scold
+deport
+vow
+surrender
+```
+
+---
+Date: 2025.04.18
+```
+chaos
+plunging quickly and sharply declining/falling
+inflict
+tariff
+new deals
+to be open to, to be willing to cosider
+```
+
+---
+Date: 2025.04.20
+```
+grass
+lime
+pond
+comprehendsible
+thirsty
+drink water
+pump
+```
+
+---
+Date: 2025.04.21
+```
+elavator
+sidewalk
+pigeon
+plaza
+fountain
+cathedral
+```
+
+---
+Date: 2025.05.10
+```
+styrofoam bowl
+lid
+sturdy
+shrimp
+plastic utensils
+waterproof
+```
+
+---
+Date: 2025.05.11
+```
+island vibe
+breeze
+banyan tree
+retire
+stick
+bamboo
+galley
+```
+
+---
+Date: 2025.05.13
+```
+mainfestion
+impactful
+quote
+soak
+overwhelm
+digestion
+```
+
+---
+Date: 2025.05.14
+```
+stuck, unstuck
+dull
+turbulent
+immerse
+trajectory
+dopanime spurts
+```
+
+---
+Date: 2025.05.18
+```
+fliers
+renting
+apartment
+skyscraper
+statue
+crosswalk
+bottle
+currency
+roll up doors
+```
+
+---
+Date: 2025.05.20
+```
+scaffolding
+confluence
+heterogeneous
+retrieval
+foundry
+```
+
+---
+Date: 2025.05.21
+```
+anarchy
+violently
+sidewalk
+alchemy
+tents
+tranq
+```
+
+---
+Date: 2025.05.24
+```
+cafeterial
+laundry facility
+outfit
+storage
+border patrol
+tax dollar
+baby food diapers 
+```
