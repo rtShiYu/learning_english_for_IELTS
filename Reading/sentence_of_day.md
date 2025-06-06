@@ -7317,3 +7317,10 @@ Date: 2025.06.05
 The past was past; Whatever it has been it  was no more at hand.
 往昔已逝, 曾经种种皆不可追.
 ```
+
+---
+Date: 2025.06.06
+```
+Acceptance is not submission; it is acknowledgement of the facts of a situation. Then deciding what you're going to do about it.
+接纳并非屈服, 而是懂得审时度势, 然后决定该如何随机应变.
+```
