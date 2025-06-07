@@ -7324,3 +7324,10 @@ Date: 2025.06.06
 Acceptance is not submission; it is acknowledgement of the facts of a situation. Then deciding what you're going to do about it.
 接纳并非屈服, 而是懂得审时度势, 然后决定该如何随机应变.
 ```
+
+---
+Date: 2025.06.07
+```
+Whatever the mind can conceive and believe, it can achieve.
+心智能想到并相信的, 就能实现.
+```
