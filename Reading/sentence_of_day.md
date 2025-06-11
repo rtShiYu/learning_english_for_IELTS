@@ -7345,3 +7345,10 @@ Date: 2025.06.09
 It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
 尝试一种方法是常识, 如果失败了, 就坦诚承认, 然后尝试另一种方法. 但最重要的是, 尝试一下.
 ```
+
+---
+Date: 2025.06.11
+```
+Life is about making an impact, not making an income.
+生活是关于产生影响, 而不是赚钱.
+```
