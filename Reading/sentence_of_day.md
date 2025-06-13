@@ -7359,3 +7359,10 @@ Date: 2025.06.12
 Strive not to be a success, but rather to be of value.
 不要追求成功, 而要追求有价值.
 ```
+
+---
+Date: 2025.06.13
+```
+Just because something doesn't do what you planned it to do doesn't mean it's useless.
+不能因为某些东西没有按照你的计划运作, 就说这个东西没用.
+```
