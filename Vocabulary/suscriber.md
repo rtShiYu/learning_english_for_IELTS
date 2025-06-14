@@ -10623,3 +10623,15 @@ border patrol
 tax dollar
 baby food diapers 
 ```
+
+---
+Date: 2025.06.14
+```
+bring up
+carry on
+came across
+deal with
+find out
+get along
+circumstances
+```

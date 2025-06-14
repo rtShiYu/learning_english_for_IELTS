@@ -7366,3 +7366,10 @@ Date: 2025.06.13
 Just because something doesn't do what you planned it to do doesn't mean it's useless.
 不能因为某些东西没有按照你的计划运作, 就说这个东西没用.
 ```
+
+---
+Date: 2025.06.14
+```
+Innovation distinguishes between a leader and a follower.
+创新区分了领导者于跟随者.
+```
