@@ -7398,3 +7398,10 @@ Date: 2025.06.18
 ```
 In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice.
 ```
+
+---
+Date: 2025.06.19
+```
+Happiness is not something readymade. It comes from you own actions.
+幸福不是现成的, 它是来自你的行动.
+```
