@@ -7405,3 +7405,10 @@ Date: 2025.06.19
 Happiness is not something readymade. It comes from you own actions.
 幸福不是现成的, 它是来自你的行动.
 ```
+
+---
+Date: 2025.06.20
+```
+Too many of us are not living our dreams because we are living our fears.
+我们太多人没有实现梦想, 因为我们活在恐惧中.
+```
