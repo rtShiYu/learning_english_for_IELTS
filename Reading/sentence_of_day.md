@@ -7439,3 +7439,10 @@ Date: 2025.06.24
 Storms make trees take deeper roots.
 暴风雨使得树木扎根更深.
 ```
+
+---
+Date: 2025.06.25
+```
+The only way to avoid criticism is to do nothing at all.
+避免批评的唯一方法就是什么都不做.
+```
