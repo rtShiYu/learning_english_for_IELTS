@@ -7460,3 +7460,10 @@ Date: 2025.06.27
 Small acts, when multiplied by millions of people, can transform the world.
 微小的行动, 乘以数百万人, 就能改变世界.
 ```
+
+---
+Date: 2025.06.28
+```
+The expert at anything was once a beginner.
+任何领域的专家都曾是初学者.
+```
