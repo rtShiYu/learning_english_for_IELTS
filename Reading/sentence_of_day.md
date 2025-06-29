@@ -7467,3 +7467,10 @@ Date: 2025.06.28
 The expert at anything was once a beginner.
 任何领域的专家都曾是初学者.
 ```
+
+---
+Date: 2025.06.29
+```
+If you're not failing every now and again, it's a sign you're not doing anything very innovative.
+如果你不曾偶尔失败, 说明你没有在做真正创新的事.
+```
