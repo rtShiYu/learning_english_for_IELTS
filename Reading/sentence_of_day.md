@@ -7474,3 +7474,10 @@ Date: 2025.06.29
 If you're not failing every now and again, it's a sign you're not doing anything very innovative.
 如果你不曾偶尔失败, 说明你没有在做真正创新的事.
 ```
+
+---
+Date: 2025.06.30
+```
+Start where you are. Use what you have. Do what you can.
+从你现在的地方开始. 用你拥有的, 做能做的.
+```
