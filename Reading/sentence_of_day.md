@@ -7303,3 +7303,181 @@ Date: 2025.05.29
 So we beat on, boats against the current, borne back ceaselessly into the past.
 于是我们继续奋力向前, 逆水行舟, 却被不断地向后推移, 直至回到往西岁月.
 ```
+
+---
+Date: 2025.06.04
+```
+Beauty as we feel it is something indescribable; what it is or what it means can never be said.
+我们所能感知的美, 是一种不可以名状的存在.
+```
+
+---
+Date: 2025.06.05
+```
+The past was past; Whatever it has been it  was no more at hand.
+往昔已逝, 曾经种种皆不可追.
+```
+
+---
+Date: 2025.06.06
+```
+Acceptance is not submission; it is acknowledgement of the facts of a situation. Then deciding what you're going to do about it.
+接纳并非屈服, 而是懂得审时度势, 然后决定该如何随机应变.
+```
+
+---
+Date: 2025.06.07
+```
+Whatever the mind can conceive and believe, it can achieve.
+心智能想到并相信的, 就能实现.
+```
+
+---
+Date: 2025.06.08
+```
+All the world is made of faith, and trust, and pixie dust.
+世界是由信念, 信任和精灵仙尘构成的.
+```
+
+---
+Date: 2025.06.09
+```
+It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
+尝试一种方法是常识, 如果失败了, 就坦诚承认, 然后尝试另一种方法. 但最重要的是, 尝试一下.
+```
+
+---
+Date: 2025.06.11
+```
+Life is about making an impact, not making an income.
+生活是关于产生影响, 而不是赚钱.
+```
+
+---
+Date: 2025.06.12
+```
+Strive not to be a success, but rather to be of value.
+不要追求成功, 而要追求有价值.
+```
+
+---
+Date: 2025.06.13
+```
+Just because something doesn't do what you planned it to do doesn't mean it's useless.
+不能因为某些东西没有按照你的计划运作, 就说这个东西没用.
+```
+
+---
+Date: 2025.06.14
+```
+Innovation distinguishes between a leader and a follower.
+创新区分了领导者于跟随者.
+```
+
+---
+Date: 2025.06.15
+```
+The day you decide to do it is your lucky day.
+你决定这样做的那一天就是你的幸运日.
+```
+
+---
+Date: 2025.06.16
+```
+Every new day is another chance to change your life.
+```
+
+---
+Date: 2025.06.17
+```
+Remember that failure is an event, not a person.
+```
+
+---
+Date: 2025.06.18
+```
+In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice.
+```
+
+---
+Date: 2025.06.19
+```
+Happiness is not something readymade. It comes from you own actions.
+幸福不是现成的, 它是来自你的行动.
+```
+
+---
+Date: 2025.06.20
+```
+Too many of us are not living our dreams because we are living our fears.
+我们太多人没有实现梦想, 因为我们活在恐惧中.
+```
+
+---
+Date: 2025.06.21
+```
+Hope is a good thing, maybe the best of thing, and no good thing ever dies.
+希望是美好的, 也许是世上最美好的事物, 而美好的事物永远不会消失.
+```
+
+---
+Date: 2025.06.22
+```
+Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
+```
+
+---
+Date: 2025.06.23
+```
+Same actions bring same results.
+重复旧行为, 只会得到旧结果.
+```
+
+---
+Date: 2025.06.24
+```
+Storms make trees take deeper roots.
+暴风雨使得树木扎根更深.
+```
+
+---
+Date: 2025.06.25
+```
+The only way to avoid criticism is to do nothing at all.
+避免批评的唯一方法就是什么都不做.
+```
+
+---
+Date: 2025.06.26
+```
+I didn't fail the test. I just found 100 ways to do it wrong.
+我没有考试的失败. 我只是找到了100种做错的方法.
+```
+
+---
+Date: 2025.06.27
+```
+Small acts, when multiplied by millions of people, can transform the world.
+微小的行动, 乘以数百万人, 就能改变世界.
+```
+
+---
+Date: 2025.06.28
+```
+The expert at anything was once a beginner.
+任何领域的专家都曾是初学者.
+```
+
+---
+Date: 2025.06.29
+```
+If you're not failing every now and again, it's a sign you're not doing anything very innovative.
+如果你不曾偶尔失败, 说明你没有在做真正创新的事.
+```
+
+---
+Date: 2025.06.30
+```
+Start where you are. Use what you have. Do what you can.
+从你现在的地方开始. 用你拥有的, 做能做的.
+```
