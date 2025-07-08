@@ -7527,3 +7527,10 @@ Date: 2025.07.07
 It does not matter how slowly you go, as long as you do not stop.
 只要你不停下脚步, 无论走得多慢都没关系.
 ```
+
+---
+Date: 2025.07.08
+```
+All advantages aren't in running quickly, but in getting a head start.
+优势不在于跑得快, 而在于起身早.
+```
