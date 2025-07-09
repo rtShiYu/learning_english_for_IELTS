@@ -7534,3 +7534,10 @@ Date: 2025.07.08
 All advantages aren't in running quickly, but in getting a head start.
 优势不在于跑得快, 而在于起身早.
 ```
+
+---
+Date: 2025.07.08
+```
+Don't focus on why it can't work. Trust the reason why it can.
+忘掉所有不可能的借口, 坚持那个可能的理由.
+```
