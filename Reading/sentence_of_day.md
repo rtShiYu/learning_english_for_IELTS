@@ -7536,21 +7536,28 @@ All advantages aren't in running quickly, but in getting a head start.
 ```
 
 ---
-Date: 2025.07.08
+Date: 2025.07.09
 ```
 Don't focus on why it can't work. Trust the reason why it can.
 忘掉所有不可能的借口, 坚持那个可能的理由.
 ```
 
 ---
-Date: 2025.07.09
+Date: 2025.07.10
 ```
 Face the sunshine, leave shadows behind.
 ```
 
 ---
-Date: 2025.07.10
+Date: 2025.07.11
 ```
 The only limit to our realization of tomorrow will be our doubts of today.
 实现明天的唯一限制, 是我们今天的疑虑.
+```
+
+---
+Date: 2025.07.12
+```
+Talent without working hard is nothing.
+没有努力, 天份不代表什么.
 ```
