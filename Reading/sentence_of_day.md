@@ -7561,3 +7561,9 @@ Date: 2025.07.12
 Talent without working hard is nothing.
 没有努力, 天份不代表什么.
 ```
+
+---
+Date: 2024.07.13
+```
+Reach for the stars, even if you have to stand on a cactus.
+```
