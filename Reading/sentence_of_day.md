@@ -7563,7 +7563,14 @@ Talent without working hard is nothing.
 ```
 
 ---
-Date: 2024.07.13
+Date: 2025.07.13
 ```
 Reach for the stars, even if you have to stand on a cactus.
+```
+
+---
+Date: 2025.07.14
+```
+Don't cry because it's over, smile because it happened.
+不要因结束而哭泣, 因它曾发生而微笑.
 ```
