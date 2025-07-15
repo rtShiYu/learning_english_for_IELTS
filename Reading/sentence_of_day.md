@@ -7574,3 +7574,10 @@ Date: 2025.07.14
 Don't cry because it's over, smile because it happened.
 不要因结束而哭泣, 因它曾发生而微笑.
 ```
+
+---
+Date: 2025.07.15
+```
+The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.
+学习的天资是馈赠, 学习的能力是本事, 而学习的意愿是选择.
+```
