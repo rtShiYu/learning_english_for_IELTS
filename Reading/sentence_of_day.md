@@ -7581,3 +7581,10 @@ Date: 2025.07.15
 The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.
 学习的天资是馈赠, 学习的能力是本事, 而学习的意愿是选择.
 ```
+
+---
+Date: 2025.07.16
+```
+A true friend is someone who thinks that you are a good egg even though he knows that you are slightly cracked.
+真正的朋友, 是即便知道你有点不靠谱,依然觉得你是个好家伙.
+```
