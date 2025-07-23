@@ -7627,3 +7627,10 @@ Date: 2025.07.22
 The secret of success is constancy to purpose.
 成功的秘密在于终于目标.
 ```
+
+---
+Date: 2025.07.22
+```
+The secret of getting ahead is getting started.
+成功的秘诀就是开始行动.
+```
