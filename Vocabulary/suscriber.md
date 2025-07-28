@@ -10723,3 +10723,13 @@ geese
 goose
 plural
 ```
+
+---
+Date: 2025.07.28
+```
+pretend
+devise
+apparent
+carriage
+commission
+```
