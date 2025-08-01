@@ -10668,3 +10668,68 @@ vehicle
 ramp
 jewelry
 ```
+
+---
+Date: 2025.07.07
+```
+downtown
+grubby
+trashy
+urination
+sketchy
+```
+
+---
+Date: 2025.07.08
+```
+rescue
+frantically
+struggle
+sprawling
+all-night
+legislation
+```
+
+---
+Date: 2025.07.19
+```
+legend
+abbreviation
+dedicate
+synchronous
+asynchronous
+specified
+```
+
+---
+Date: 2025.07.22
+```
+headline
+landfall
+axes
+tumble
+omit
+statue
+```
+
+---
+Date: 2025.07.25
+```
+pebble beach
+reflect
+horizon
+cabin
+geese
+goose
+plural
+```
+
+---
+Date: 2025.07.28
+```
+pretend
+devise
+apparent
+carriage
+commission
+```

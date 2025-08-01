@@ -7481,3 +7481,209 @@ Date: 2025.06.30
 Start where you are. Use what you have. Do what you can.
 从你现在的地方开始. 用你拥有的, 做能做的.
 ```
+
+---
+Date: 2025.07.01
+```
+Focus on the present, not the past or future.
+不念过往, 不畏将来, 专注当下.
+```
+
+---
+Date: 2025.07.02
+```
+Move forward to keep life balanced.
+人生如骑行, 前进即平衡.
+```
+
+Date: 2025.07.03
+```
+The only true wisdom is in knowing you know nothing.
+唯一真正的智慧, 是知道自己一无所知.
+```
+
+---
+Date: 2025.07.04
+```
+Silence is the most perfect expression of scorn.
+沉默是轻蔑最完美的表达.
+```
+
+---
+Date: 2025.07.05
+```
+Life is the flower for which love is the honey.
+```
+
+---
+Date: 2025.07.06
+```
+Every day may not be good, but there's something good in every day.
+```
+
+---
+Date: 2025.07.07
+```
+It does not matter how slowly you go, as long as you do not stop.
+只要你不停下脚步, 无论走得多慢都没关系.
+```
+
+---
+Date: 2025.07.08
+```
+All advantages aren't in running quickly, but in getting a head start.
+优势不在于跑得快, 而在于起身早.
+```
+
+---
+Date: 2025.07.09
+```
+Don't focus on why it can't work. Trust the reason why it can.
+忘掉所有不可能的借口, 坚持那个可能的理由.
+```
+
+---
+Date: 2025.07.10
+```
+Face the sunshine, leave shadows behind.
+```
+
+---
+Date: 2025.07.11
+```
+The only limit to our realization of tomorrow will be our doubts of today.
+实现明天的唯一限制, 是我们今天的疑虑.
+```
+
+---
+Date: 2025.07.12
+```
+Talent without working hard is nothing.
+没有努力, 天份不代表什么.
+```
+
+---
+Date: 2025.07.13
+```
+Reach for the stars, even if you have to stand on a cactus.
+```
+
+---
+Date: 2025.07.14
+```
+Don't cry because it's over, smile because it happened.
+不要因结束而哭泣, 因它曾发生而微笑.
+```
+
+---
+Date: 2025.07.15
+```
+The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.
+学习的天资是馈赠, 学习的能力是本事, 而学习的意愿是选择.
+```
+
+---
+Date: 2025.07.16
+```
+A true friend is someone who thinks that you are a good egg even though he knows that you are slightly cracked.
+真正的朋友, 是即便知道你有点不靠谱,依然觉得你是个好家伙.
+```
+
+---
+Date: 2025.07.17
+```
+I don't believe in an afterlife, although I am bringing a change of underwear.
+```
+
+---
+Date: 2025.07.18
+```
+Custom makes all things easy.
+```
+
+---
+Date: 2025.07.19
+```
+Time and tide wait for no man.
+```
+
+---
+Date: 2025.07.20
+```
+Deep summer is when laziness finds respectability.
+盛夏时节, 慵懒都变得体面起来.
+```
+
+---
+Date: 2025.07.21
+```
+Strength knows conflict; weakness is born vanquished.
+强者才懂斗争, 弱者生来被征服.
+```
+
+---
+Date: 2025.07.22
+```
+The secret of success is constancy to purpose.
+成功的秘密在于终于目标.
+```
+
+---
+Date: 2025.07.23
+```
+The secret of getting ahead is getting started.
+成功的秘诀就是开始行动.
+```
+
+---
+Date: 2025.07.24
+```
+Perfection is not attainable, but chasing it leads to excellence.
+完美虽不可达, 追求它却能成就卓越.
+```
+
+---
+Date: 2025.07.25
+```
+Pains make stronger, tears make braver, and heartbreaks make wiser.
+```
+
+---
+Date: 2025.07.26
+```
+The best sauce in the world is hunger.
+```
+
+---
+Date: 2025.07.27
+```
+Music can name the unnameable and communicate the unknowable.
+音乐可以为不知名的事物命名, 也可以和不可知的东西交流
+```
+
+---
+Date: 2025.07.28
+```
+Do not angry with the rain; it simply does not know how to fall upwards.
+莫责怪雨水, 它本就不会向上飘落
+```
+
+---
+Date: 2025.07.29
+```
+Through the darkness, we can see the light.
+挨过了黑暗, 才能看见光明.
+```
+
+---
+Date: 2025.07.30
+```
+Strive for tomorrow, not regret yesterday.
+奋斗未来, 莫悔往昔.
+```
+
+---
+Date: 2025.07.31
+```
+The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
+```
