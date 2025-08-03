@@ -7700,3 +7700,10 @@ Date: 2025.08.02
 The only limit to your impact is your imagination and commitment.
 你影响力的唯一限制, 是你的想象力和投入程度.
 ```
+
+---
+Date: 2025.08.03
+```
+The fox has many tricks. The hedgehog has but one. But that is the best of all.
+狐狸有许多诡计，刺猬却只有一个，但那却是最厉害的一个.
+```
