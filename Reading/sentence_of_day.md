@@ -7747,3 +7747,10 @@ Date: 2025.08.16
 The worse luck now, the better another time.
 现在运气差点没关系, 下次会更好.
 ```
+
+---
+Date: 2025.08.17
+```
+Great things are not done by impulse, but by a series of small things brought together.
+伟大的事不是一时冲动做成的, 而是一连串小事联合起来做成的.
+```
