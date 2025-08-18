@@ -7754,3 +7754,10 @@ Date: 2025.08.17
 Great things are not done by impulse, but by a series of small things brought together.
 伟大的事不是一时冲动做成的, 而是一连串小事联合起来做成的.
 ```
+
+---
+Date: 2025.08.18
+```
+Activism is my rent for living on the planet.
+投身行动, 是我向这颗星球缴纳的房租.
+```
