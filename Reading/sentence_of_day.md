@@ -7782,3 +7782,10 @@ Date: 2025.08.21
 The rough road often leads to the top.
 艰难的道路经常通往高处.
 ```
+
+---
+Date: 2025.08.22
+```
+I'm talking about a lifetime. One second less makes it less!
+说的是一辈子, 差一年, 一个月, 一天, 一个时辰...都不算一辈子.
+```
