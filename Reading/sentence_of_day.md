@@ -7803,3 +7803,10 @@ Date: 2025.08.24
 Winter is coming, and we must be prepared.
 寒冬将至, 我们必须做好准备.
 ```
+
+---
+Date: 2025.08.25
+```
+The thing always happens that you really believe in; and the belief in a thing makes it happen.
+你真正相信的事情总会发生; 而对某件事的信念会使它成真.
+```
