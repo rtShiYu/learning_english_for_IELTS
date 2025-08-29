@@ -7831,3 +7831,10 @@ Date: 2025.08.28
 Behind the guise lies conviction, impervious to mortal arms.
 假面之下藏信念, 凡兵利器不可侵.
 ```
+
+---
+Date: 2025.08.29
+```
+Doubt is the beginning, not the end, of wisdom.
+怀疑是智慧之始, 而非终点.
+```
