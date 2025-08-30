@@ -7838,3 +7838,10 @@ Date: 2025.08.29
 Doubt is the beginning, not the end, of wisdom.
 怀疑是智慧之始, 而非终点.
 ```
+
+---
+Date: 2025.08.30
+```
+The only limit to our realization of tomorrow is our doubts today.
+对明天实现的唯一限制是我们今天的怀疑.
+```
