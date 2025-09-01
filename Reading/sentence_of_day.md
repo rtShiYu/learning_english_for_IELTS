@@ -7852,3 +7852,10 @@ Date: 2025.08.31
 Turn your wounds into wisdom.
 把伤口变成智慧.
 ```
+
+---
+Date: 2025.09.01
+```
+Books are passports you never need to renew.
+书籍是永不过期的护照.
+```
