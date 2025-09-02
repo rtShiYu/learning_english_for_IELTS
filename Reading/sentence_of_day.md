@@ -7687,3 +7687,175 @@ Date: 2025.07.31
 ```
 The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
 ```
+
+---
+Date: 2025.08.01
+```
+All I kept thinking about, over and over, was 'You can't live forever'; you can't live forever.
+```
+
+---
+Date: 2025.08.02
+```
+The only limit to your impact is your imagination and commitment.
+你影响力的唯一限制, 是你的想象力和投入程度.
+```
+
+---
+Date: 2025.08.03
+```
+The fox has many tricks. The hedgehog has but one. But that is the best of all.
+狐狸有许多诡计，刺猬却只有一个，但那却是最厉害的一个.
+```
+
+---
+Date: 2025.08.04
+```
+A lazy youth, a lousy age.
+```
+
+---
+Date: 2025.08.05
+```
+Nurture passes nature.
+教养胜过天性.
+```
+
+---
+Date: 2025.08.06
+```
+One swallow does not make a summer.
+一燕不成夏.
+```
+
+---
+Date: 2025.08.07
+```
+Courage is not the absence of fear, but the will to guard what we cherish.
+勇气非无畏, 而是守护所爱的意志.
+```
+
+---
+Date: 2025.08.08
+```
+The mountains are calling and I must go.
+```
+
+---
+Date: 2025.08.16
+```
+The worse luck now, the better another time.
+现在运气差点没关系, 下次会更好.
+```
+
+---
+Date: 2025.08.17
+```
+Great things are not done by impulse, but by a series of small things brought together.
+伟大的事不是一时冲动做成的, 而是一连串小事联合起来做成的.
+```
+
+---
+Date: 2025.08.18
+```
+Activism is my rent for living on the planet.
+投身行动, 是我向这颗星球缴纳的房租.
+```
+
+---
+Date: 2025.08.19
+```
+The wealth of the mind is the only wealth.
+精神的财富是唯一的财富.
+```
+
+---
+Date: 2025.08.20
+```
+Wasting time is robbing oneself.
+浪费时间就是掠夺自己.
+```
+
+---
+Date: 2025.08.21
+```
+The rough road often leads to the top.
+艰难的道路经常通往高处.
+```
+
+---
+Date: 2025.08.22
+```
+I'm talking about a lifetime. One second less makes it less!
+说的是一辈子, 差一年, 一个月, 一天, 一个时辰...都不算一辈子.
+```
+
+---
+Date: 2025.08.23
+```
+The invariable mark of wisdom is to see the miraculous in the common.
+智慧的不变标志，就是能在平凡中看到奇迹.
+```
+
+---
+Date: 2025.08.24
+```
+Winter is coming, and we must be prepared.
+寒冬将至, 我们必须做好准备.
+```
+
+---
+Date: 2025.08.25
+```
+The thing always happens that you really believe in; and the belief in a thing makes it happen.
+你真正相信的事情总会发生; 而对某件事的信念会使它成真.
+```
+
+---
+Date: 2025.08.26
+```
+Heights scaled demand mastery of descent.
+登上的高峰, 需要掌握下山的能力.
+```
+
+---
+Date: 2025.08.27
+```
+Today is important. If it matters, do it today.
+活在当下, 重要的事情今天就做.
+```
+
+---
+Date: 2025.08.28
+```
+Behind the guise lies conviction, impervious to mortal arms.
+假面之下藏信念, 凡兵利器不可侵.
+```
+
+---
+Date: 2025.08.29
+```
+Doubt is the beginning, not the end, of wisdom.
+怀疑是智慧之始, 而非终点.
+```
+
+---
+Date: 2025.08.30
+```
+The only limit to our realization of tomorrow is our doubts today.
+对明天实现的唯一限制是我们今天的怀疑.
+```
+
+---
+Date: 2025.08.31
+```
+Turn your wounds into wisdom.
+把伤口变成智慧.
+```
+
+---
+Date: 2025.09.01
+```
+Books are passports you never need to renew.
+书籍是永不过期的护照.
+```

@@ -10733,3 +10733,58 @@ apparent
 carriage
 commission
 ```
+
+---
+Date: 2025.08.04
+```
+hollowed
+enclosure
+thin
+brittle
+lip
+stuck
+somehow
+```
+
+---
+Date: 2025.08.16
+```
+paid off
+shdder
+nab
+subsequent
+boomtown
+killjoy
+```
+
+---
+Date: 2025.08.17
+```
+sunbelt
+relief
+complicated
+spike
+colossal
+```
+
+---
+Date: 2025.08.19
+```
+entirety
+substantial
+timeframe
+freakin
+mindset
+```
+
+---
+Date: 2025.08.31
+```
+scrappy
+handful
+roiled
+exodus
+wrestle
+brain trust
+waver
+```
