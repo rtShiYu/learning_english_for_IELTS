@@ -7922,3 +7922,10 @@ Date: 2025.09.10
 Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth.
 以感受为生，你便能以爱为生。因为感受是灵魂的语言，而感受亦是真理.
 ```
+
+---
+Date: 2025.09.11
+```
+There is no failure except in no longer trying.
+真正的失败只有一种, 那就是放弃尝试.
+```
