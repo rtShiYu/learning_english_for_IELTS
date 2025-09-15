@@ -7943,3 +7943,10 @@ Date: 2025.09.14
 I have always thought the actions of men the best interpreters of their thoughts.
 我一直认为，人们的行为最能体现他们的思想.
 ```
+
+---
+Date: 2025.09.15
+```
+There are moments when one has to choose between living one's own life, fully, entirely, completely-or dragging out some false, shallow, degrading existence that the world in its hypocrisy demands.
+总有一些时刻, 一个人必须抉择: 是全然而彻底地活出自我, 还是笱延一种虚假, 浅薄, 堕落的生活. 那是伪善世界所要求的.
+```
