@@ -7950,3 +7950,10 @@ Date: 2025.09.15
 There are moments when one has to choose between living one's own life, fully, entirely, completely-or dragging out some false, shallow, degrading existence that the world in its hypocrisy demands.
 总有一些时刻, 一个人必须抉择: 是全然而彻底地活出自我, 还是笱延一种虚假, 浅薄, 堕落的生活. 那是伪善世界所要求的.
 ```
+
+---
+Date: 2025.09.16
+```
+The rights of every man are diminished when the rights of one man are threatened.
+当一个人的权利受到威胁时, 每个人的权利都会被削弱.
+```
