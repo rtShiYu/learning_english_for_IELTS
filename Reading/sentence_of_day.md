@@ -7957,3 +7957,10 @@ Date: 2025.09.16
 The rights of every man are diminished when the rights of one man are threatened.
 当一个人的权利受到威胁时, 每个人的权利都会被削弱.
 ```
+
+---
+Date: 2025.09.17
+```
+If you are not willing to risk the unusual, you will have to settle for the ordinary.
+若不愿冒险尝试非凡, 你只能甘于平凡.
+```
