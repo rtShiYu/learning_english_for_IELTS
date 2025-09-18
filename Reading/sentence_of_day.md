@@ -7964,3 +7964,10 @@ Date: 2025.09.17
 If you are not willing to risk the unusual, you will have to settle for the ordinary.
 若不愿冒险尝试非凡, 你只能甘于平凡.
 ```
+
+---
+Date: 2025.09.18
+```
+Follow your heart but take your brain with you.
+听从内心的声音, 但别忘了用理智的思考.
+```
