@@ -7971,3 +7971,10 @@ Date: 2025.09.18
 Follow your heart but take your brain with you.
 听从内心的声音, 但别忘了用理智的思考.
 ```
+
+---
+Date: 2025.09.19
+```
+The art of progress is to preserve order amid change, and to preserve change amid order.
+进步的艺术在于：在变革中保持秩序，在秩序中推动变革.
+```
