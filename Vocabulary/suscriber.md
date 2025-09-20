@@ -10855,3 +10855,14 @@ rumor
 bulletin
 geezer
 ```
+
+---
+Date: 2025.09.20
+```
+desexualize
+weird
+divert
+advice
+offend
+manipulated
+```

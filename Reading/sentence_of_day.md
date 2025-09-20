@@ -7978,3 +7978,10 @@ Date: 2025.09.19
 The art of progress is to preserve order amid change, and to preserve change amid order.
 进步的艺术在于：在变革中保持秩序，在秩序中推动变革.
 ```
+
+---
+Date: 2025.09.20
+```
+If you are easily offended you are easily manipulated. Stop talking shit personally.
+如果你容易被冒犯, 你就很容易被操纵.
+```
