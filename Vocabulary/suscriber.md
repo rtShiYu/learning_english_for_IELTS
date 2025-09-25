@@ -10889,3 +10889,13 @@ successor
 gyroscope
 mandatory
 ```
+
+---
+Date: 2025.09.25
+```
+conceptual
+compatible
+codename
+infracstructure
+metadata
+```
