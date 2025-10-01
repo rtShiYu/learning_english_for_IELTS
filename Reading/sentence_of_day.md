@@ -7859,3 +7859,182 @@ Date: 2025.09.01
 Books are passports you never need to renew.
 书籍是永不过期的护照.
 ```
+
+---
+Date: 2025.09.02
+```
+Hope is the quiet voice that says, try one more time.
+希望是那个轻声说"再试一次"的声音.
+```
+
+---
+Date: 2025.09.03
+```
+All the beautiful sentiments in the world weigh less than a single lovely action.
+世间所有美丽的情感抵不过一次实际行动.
+```
+
+---
+Date: 2025.09.04
+```
+Compliment yourself daily.
+每天夸自己一句.
+```
+
+---
+Date: 2025.09.05
+```
+In the age of AI, curiosity is still our superpower.
+在AI时代, 好奇心仍然是我们的超能力.
+```
+
+---
+Date: 2025.09.06
+```
+Life is a beautiful struggle.
+生活是一场美丽的挣扎.
+```
+
+---
+Date: 2025.09.07
+```
+Success is not how high you have climbed, but how you make a positive difference.
+成功不是你攀登的高度, 而是你做出的积极差异.
+```
+
+---
+Date: 2025.09.08
+```
+Patience is quiet strength.
+耐心是无声的力量.
+```
+
+---
+Date: 2025.09.09
+```
+In the middle of adversity lies opportunity.
+困难的中心蕴藏着机遇.
+```
+
+---
+Date: 2025.09.10
+```
+Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth.
+以感受为生，你便能以爱为生。因为感受是灵魂的语言，而感受亦是真理.
+```
+
+---
+Date: 2025.09.11
+```
+There is no failure except in no longer trying.
+真正的失败只有一种, 那就是放弃尝试.
+```
+
+---
+Date: 2025.09.13
+```
+Stress is a compass, not a cage.
+压力是罗盘，而非牢笼.
+```
+
+---
+Date: 2025.09.14
+```
+I have always thought the actions of men the best interpreters of their thoughts.
+我一直认为，人们的行为最能体现他们的思想.
+```
+
+---
+Date: 2025.09.15
+```
+There are moments when one has to choose between living one's own life, fully, entirely, completely-or dragging out some false, shallow, degrading existence that the world in its hypocrisy demands.
+总有一些时刻, 一个人必须抉择: 是全然而彻底地活出自我, 还是笱延一种虚假, 浅薄, 堕落的生活. 那是伪善世界所要求的.
+```
+
+---
+Date: 2025.09.16
+```
+The rights of every man are diminished when the rights of one man are threatened.
+当一个人的权利受到威胁时, 每个人的权利都会被削弱.
+```
+
+---
+Date: 2025.09.17
+```
+If you are not willing to risk the unusual, you will have to settle for the ordinary.
+若不愿冒险尝试非凡, 你只能甘于平凡.
+```
+
+---
+Date: 2025.09.18
+```
+Follow your heart but take your brain with you.
+听从内心的声音, 但别忘了用理智的思考.
+```
+
+---
+Date: 2025.09.19
+```
+The art of progress is to preserve order amid change, and to preserve change amid order.
+进步的艺术在于：在变革中保持秩序，在秩序中推动变革.
+```
+
+---
+Date: 2025.09.20
+```
+If you are easily offended you are easily manipulated. Stop talking shit personally.
+如果你容易被冒犯, 你就很容易被操纵.
+```
+
+---
+Date: 2025.09.23
+```
+Curiosity unlocks every knowledge door.
+好奇心打开所有知识之门.
+```
+
+---
+Date: 2025.09.24
+```
+Own your narrative daily.
+每天掌控你自己的叙事.
+```
+
+---
+Date: 2025.09.25
+```
+True friends reflect your soul.
+真正的朋友映照你的灵魂.
+```
+
+---
+Date: 2025.09.26
+```
+Seeds grow in quiet soil.
+种子在寂静的泥土里生长.
+```
+
+---
+Date: 2025.09.27
+```
+Fantasy is an exercise bicycle for the mind. It might not take you anywhere, but it tones up the muscles that can. Of course, I could be wrong.
+```
+
+---
+Date: 2025.09.28
+```
+Goals are the fuel in the furnace of achievement.
+```
+
+---
+Date: 2025.09.29
+```
+The good times of today are the sad thoughts of tomorrow.
+```
+
+---
+Date: 2025.09.30
+```
+Sleep is a superpower.
+睡眠是一种超能力.
+```
