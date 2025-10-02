@@ -8045,3 +8045,9 @@ Date: 2025.10.01
 Do small things greatly.
 把小事做到伟大.
 ```
+
+---
+Date: 2025.10.02
+```
+A good bookshop is just a genteel Black hole that knows how to read.
+```
