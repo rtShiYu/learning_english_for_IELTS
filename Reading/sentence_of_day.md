@@ -8051,3 +8051,10 @@ Date: 2025.10.02
 ```
 A good bookshop is just a genteel Black hole that knows how to read.
 ```
+
+---
+Date: 2025.10.03
+```
+We must be free not because we claim freedom, but because we practice it.
+我们必须自由, 不是因为我们宣称自由, 而是因为我们实践自由.
+```
