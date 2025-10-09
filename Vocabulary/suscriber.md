@@ -10963,3 +10963,15 @@ deliver
 delivery
 woodland
 ```
+
+---
+Date: 2025.10.09
+```
+stick
+junior
+slash /
+dash -
+concatenate
+pipe
+grep = stands for global regular expression print
+```
