@@ -8100,3 +8100,10 @@ Date: 2025.10.10
 Change begins from within.
 改变始于内在.
 ```
+
+---
+Date: 2025.10.12
+```
+One of my secret instructions to myself as a poet is: whatever you do, don't be boring.
+身为诗人, 我给自己立下一条隐秘的铁律, 无论如何, 切勿乏味.
+```
