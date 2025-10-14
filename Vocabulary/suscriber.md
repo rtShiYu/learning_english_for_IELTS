@@ -11022,3 +11022,14 @@ appropriate
 enforcement
 impersonate
 ```
+
+---
+Date: 2025.10.14
+```
+SPL: secondary program loader
+TPL: tertiary program loader
+poke
+backslash \
+variable
+semiconlon
+```
