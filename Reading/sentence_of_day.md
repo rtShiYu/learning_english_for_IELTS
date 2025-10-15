@@ -8114,3 +8114,10 @@ Date: 2025.10.13
 We are all like the bright moon; we still have our darker side.
 我们都像明亮的月亮, 仍有我们阴暗的一面.
 ```
+
+---
+Date: 2025.10.15
+```
+Understanding is the first step to acceptance, and only with acceptance can there be recovery.
+理解是接纳的第一步, 未有接纳, 方能治愈.
+```
