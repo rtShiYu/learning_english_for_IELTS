@@ -8128,3 +8128,10 @@ Date: 2025.10.18
 No man is really happy or safe without a hobby.
 一个人若没有一点爱好, 便难获得真正的快乐与安稳.
 ```
+
+---
+Date: 2025.10.19
+```
+Beware of false knowledge; it is more dangerous than ignorance.
+警惕虚假知识; 他比无知更危险.
+```
