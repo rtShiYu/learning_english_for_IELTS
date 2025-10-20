@@ -8135,3 +8135,10 @@ Date: 2025.10.19
 Beware of false knowledge; it is more dangerous than ignorance.
 警惕虚假知识; 他比无知更危险.
 ```
+
+---
+Date: 2025.10.20
+```
+The world turns aside to let any man pass who knows where he is going.
+世界会为那些知道自己要去哪里的人让路.
+```
