@@ -8154,3 +8154,10 @@ Date: 2025.10.22
 ```
 I declare after all there is no enjoyment like reading! How much sooner one tires of anything than of a book!
 ```
+
+---
+Date: 2025.10.24
+```
+Unless you become a big picture thinker: you will always stay where you are.
+除非你成为一个有全局观的思考者，否则你将永远停留在原地.
+```
