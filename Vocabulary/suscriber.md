@@ -11164,3 +11164,28 @@ irritate
 nag
 offspring
 ```
+
+---
+Date: 2025.10.28
+```
+actual
+actually
+react vi.
+reaction n.
+exact adj.
+exactly
+agent n.
+arm arms n.
+army, in the army
+alarm n, v.
+air n.
+airplane, by airplane
+airport
+airspace n.
+airline n.
+anybody
+anyone
+anyhow, anyway adj.
+awful adj.
+awesome adj.
+```
