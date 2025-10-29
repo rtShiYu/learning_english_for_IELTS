@@ -11189,3 +11189,18 @@ anyhow, anyway adj.
 awful adj.
 awesome adj.
 ```
+
+---
+Date: 2025.10.29
+```
+end
+ending
+endless
+perform, to perform an experiment
+platform
+uniform
+inform
+information
+formal
+former
+```
