@@ -8175,3 +8175,10 @@ Date: 2025.10.30
 Fantasy is an exercise bicycle for the mind. It might not take you anywhere, but it tones up the muscles that can. Of course, I could be wrong.
 幻想就像是心灵的健身自行车。它或许不能带你到达任何地方，但它能锻炼那些能带你到达目的地的“肌肉”。当然，我也可能说错了。
 ```
+
+---
+Date: 2025.10.31
+```
+If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.
+要想在大事上取得卓越成就，就要从小事做起，养成良好的习惯。卓越并非偶然，而是一种贯穿始终的态度.
+```
