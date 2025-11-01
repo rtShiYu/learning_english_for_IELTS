@@ -8038,3 +8038,147 @@ Date: 2025.09.30
 Sleep is a superpower.
 睡眠是一种超能力.
 ```
+
+---
+Date: 2025.10.01
+```
+Do small things greatly.
+把小事做到伟大.
+```
+
+---
+Date: 2025.10.02
+```
+A good bookshop is just a genteel Black hole that knows how to read.
+```
+
+---
+Date: 2025.10.03
+```
+We must be free not because we claim freedom, but because we practice it.
+我们必须自由, 不是因为我们宣称自由, 而是因为我们实践自由.
+```
+
+---
+Date: 2025.10.04
+```
+Real strength doesn't come from pushing other people down. It's from lifting them up.
+真正的力量不是推到别人, 而是将摔倒的人扶起来.
+```
+
+---
+Date: 2025.10.06
+```
+No matter what label is thrown your way, only you can define yourself.
+不管你被贴上什么标签, 只有你才能定义自己.
+```
+
+---
+Date: 2025.10.07
+```
+A rolling stone gathers no moss.
+滚石不生苔.
+```
+
+---
+Date: 2025.10.08
+```
+Autumn kisses the earth with cold dew.
+秋以寒露亲吻大地.
+```
+
+---
+Date: 2025.10.09
+```
+The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.
+品格的高低取决于你自己的选择, 日复一日, 你选择什么, 思考什么, 做什么,就会成为什么样的人.
+```
+
+---
+Date: 2025.10.10
+```
+Change begins from within.
+改变始于内在.
+```
+
+---
+Date: 2025.10.12
+```
+One of my secret instructions to myself as a poet is: whatever you do, don't be boring.
+身为诗人, 我给自己立下一条隐秘的铁律, 无论如何, 切勿乏味.
+```
+
+---
+Date: 2025.10.13
+```
+We are all like the bright moon; we still have our darker side.
+我们都像明亮的月亮, 仍有我们阴暗的一面.
+```
+
+---
+Date: 2025.10.15
+```
+Understanding is the first step to acceptance, and only with acceptance can there be recovery.
+理解是接纳的第一步, 未有接纳, 方能治愈.
+```
+
+---
+Date: 2025.10.18
+```
+No man is really happy or safe without a hobby.
+一个人若没有一点爱好, 便难获得真正的快乐与安稳.
+```
+
+---
+Date: 2025.10.19
+```
+Beware of false knowledge; it is more dangerous than ignorance.
+警惕虚假知识; 他比无知更危险.
+```
+
+---
+Date: 2025.10.20
+```
+The world turns aside to let any man pass who knows where he is going.
+世界会为那些知道自己要去哪里的人让路.
+```
+
+---
+Date: 2025.10.21
+```
+I don't want this to be the straw that breaks the camel's back.
+```
+
+---
+Date: 2025.10.22
+```
+I declare after all there is no enjoyment like reading! How much sooner one tires of anything than of a book!
+```
+
+---
+Date: 2025.10.24
+```
+Unless you become a big picture thinker: you will always stay where you are.
+除非你成为一个有全局观的思考者，否则你将永远停留在原地.
+```
+
+---
+Date: 2025.10.26
+```
+A man who dares to waste one hour of time has not discovered the value of life.
+敢于虚度一小时光阴的人, 尚未领悟生命的价值.
+```
+
+---
+Date: 2025.10.30
+```
+Fantasy is an exercise bicycle for the mind. It might not take you anywhere, but it tones up the muscles that can. Of course, I could be wrong.
+幻想就像是心灵的健身自行车。它或许不能带你到达任何地方，但它能锻炼那些能带你到达目的地的“肌肉”。当然，我也可能说错了。
+```
+
+---
+Date: 2025.10.31
+```
+If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.
+要想在大事上取得卓越成就，就要从小事做起，养成良好的习惯。卓越并非偶然，而是一种贯穿始终的态度.
+```

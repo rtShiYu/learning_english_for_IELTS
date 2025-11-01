@@ -10899,3 +10899,308 @@ codename
 infracstructure
 metadata
 ```
+
+---
+Date: 2025.10.02
+```
+restore
+top brass
+admiral
+on short notice
+fitness
+grooming
+```
+
+---
+Date: 2025.10.04
+```
+certain
+circumstance
+variable
+artefact
+handy
+equivalence
+```
+
+---
+Date: 2025.10.05
+```
+recipe
+ingredient
+tweak
+mandatory
+either
+excute
+```
+
+---
+Date: 2025.10.06
+```
+stick
+chunk
+cetera
+editable
+predictable
+```
+
+---
+Date: 2025.10.07
+```
+contest
+context
+initate
+cognitive
+disrupt
+```
+
+---
+Date: 2025.10.08
+```
+dove
+dives
+dedicated
+deliver
+delivery
+woodland
+```
+
+---
+Date: 2025.10.09
+```
+stick
+junior
+slash /
+dash -
+concatenate
+pipe
+grep = stands for global regular expression print
+```
+
+---
+Date: 2025.10.10
+```
+squat
+versus
+scenario
+replaceable
+lens
+dome
+```
+
+---
+Date: 2025.10.11
+```
+copper mine
+escape
+stamina
+cattle
+cows
+plow
+tripped
+```
+
+---
+Date: 2025.10.12
+```
+mountain goat
+quite
+tent
+spot
+asphelt
+unpaved roads
+sauce
+spoon
+tap water
+```
+
+---
+Date: 2025.10.13
+```
+bombarded
+grant
+appropriate
+enforcement
+impersonate
+```
+
+---
+Date: 2025.10.14
+```
+SPL: secondary program loader
+TPL: tertiary program loader
+poke
+backslash \
+variable
+semiconlon
+```
+
+---
+Date: 2025.10.15
+```
+wrapper
+toggle
+despite
+practical
+headwind
+plagued
+escalop
+lore
+souk area
+bazar
+decent
+```
+
+---
+Date: 2025.10.16
+```
+panorama
+tribe
+shade
+shame
+cement
+stink
+mosque
+pottery
+```
+
+---
+Date: 2025.10.17
+```
+trail
+settlement
+gorge
+palm
+a grease man
+```
+
+---
+Date: 2025.10.18
+```
+giddy
+freak, freaking
+insane
+pasta
+fare
+fee
+tropical
+```
+
+---
+Date: 2025.10.19
+```
+maintain
+maintainer
+distro
+grab
+grub
+buddy
+```
+
+---
+Date: 2025.10.21
+```
+campsite
+halfbroken chain
+knackered
+straw
+weed
+tendon
+grasshopper
+```
+
+---
+Date: 2025.10.22
+```
+trek
+wonderland trail
+cereal
+wasteland
+desert
+semi-nomad
+settlement
+fictional
+```
+
+---
+Date: 2025.10.23
+```
+female
+mentor
+defy
+veteran
+jewels
+balcony
+```
+
+---
+Date: 2025.10.25
+```
+fortunately
+helicopter
+justice, injustice
+stunning
+campground
+dust
+```
+
+---
+Date: 2025.10.26
+```
+amplify
+rallies, rally
+wearing a crown
+excrement
+experiment
+stunt
+```
+
+--
+Date: 2025.10.27
+```
+never mind
+glued to
+delight
+irritate
+nag
+offspring
+```
+
+---
+Date: 2025.10.28
+```
+actual
+actually
+react vi.
+reaction n.
+exact adj.
+exactly
+agent n.
+arm arms n.
+army, in the army
+alarm n, v.
+air n.
+airplane, by airplane
+airport
+airspace n.
+airline n.
+anybody
+anyone
+anyhow, anyway adj.
+awful adj.
+awesome adj.
+```
+
+---
+Date: 2025.10.29
+```
+end
+ending
+endless
+perform, to perform an experiment
+platform
+uniform
+inform
+information
+formal
+former
+```
