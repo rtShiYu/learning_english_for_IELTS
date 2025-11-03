@@ -11229,3 +11229,20 @@ express train
 expression
 impress
 ```
+
+---
+Date: 2025.11.03
+```
+scarf
+care, cure
+curious
+curiousity
+accurate
+secure
+insecure
+caution
+cause
+countdown
+countless
+discount
+```
