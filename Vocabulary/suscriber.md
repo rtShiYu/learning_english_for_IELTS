@@ -11256,3 +11256,28 @@ sprout
 seed coat
 cone
 ```
+
+---
+Date: 2025.11.05
+```
+positive
+negative
+individual
+expert
+compare
+account
+clain
+emotional
+financial
+solution
+fuel
+insurance
+credit
+poverty
+colleague
+engage
+promote
+promotion
+expand
+occur
+```
