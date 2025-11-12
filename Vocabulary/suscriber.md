@@ -11351,3 +11351,18 @@ starve, starving
 seagull
 pigeon
 ```
+
+---
+Date: 2025.11.12
+```
+behave, behavior
+consequence
+contract
+corporate
+depression
+haven
+heaven
+psychological
+reputation
+vehicle
+```
