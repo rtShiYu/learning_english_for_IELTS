@@ -8224,3 +8224,10 @@ Date: 2025.11.11
 Health is wealth. Never ignore it, busy or not.
 健康即财富, 无论多忙都别忽视它.
 ```
+
+---
+Date: 2025.11.14
+```
+To be beautiful means to be yourself. You don’t need to be accepted by others. You need to accept yourself.
+美丽在于做你自己。你不需要被别人接受，你只需要接受你自己.
+```
