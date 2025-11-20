@@ -8245,3 +8245,10 @@ Date: 2025.11.19
 It's the perfect time for a good book by the window.
 这是在窗边读一本好书的完美时节.
 ```
+
+---
+Date: 2025.11.20
+```
+In the midst of winter, I found there was, within me, an invincible summer.
+在寒冬之中, 我发现内心存在着永不陷落的夏天.
+```
