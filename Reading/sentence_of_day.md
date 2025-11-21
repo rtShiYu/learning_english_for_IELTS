@@ -8252,3 +8252,9 @@ Date: 2025.11.20
 In the midst of winter, I found there was, within me, an invincible summer.
 在寒冬之中, 我发现内心存在着永不陷落的夏天.
 ```
+
+---
+Date: 2025.11.21
+```
+You are always free to change your mind and choose a different future, or a different past.
+```
