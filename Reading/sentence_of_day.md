@@ -8272,3 +8272,10 @@ Date: 2025.11.24
 Each day is a new page in the story of autumn.
 每一天都是秋天故事里崭新的一页.
 ```
+
+---
+Date: 2025.11.25
+```
+We don't see thing as they are, we see them as we are.
+我们看到的事物并非事物本身, 而是自身内心的投射.
+```
