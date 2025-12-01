@@ -8182,3 +8182,107 @@ Date: 2025.10.31
 If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.
 要想在大事上取得卓越成就，就要从小事做起，养成良好的习惯。卓越并非偶然，而是一种贯穿始终的态度.
 ```
+
+---
+Date: 2025.11.02
+```
+The two most powerful warriors are patience and time.
+最强大的两位战士是——耐心与时间.
+```
+
+---
+Date: 2025.11.03
+```
+You run from one place to another, but you are still you. You can't escape from you body.
+你从一个地方跑到另一个地方, 但你还是你. 你没法从自己的身体里面逃走.
+```
+
+---
+Date: 2025.11.04
+```
+Beauty is how you feel inside, and it reflects in your eyes.
+美是一种内心的感觉, 它会反映在你的眼睛里.
+```
+
+---
+Date: 2025.11.07
+```
+Winter warms body, and enriches soul for spring.
+冬日暖身养心，静候春来.
+```
+
+---
+Date: 2025.11.08
+```
+Instinct is a marvelous thing. It can neither be explained nor ignored.
+本能是一种奇妙的东西。它既无法解释，也无法忽视.
+```
+
+---
+Date: 2025.11.11
+```
+Health is wealth. Never ignore it, busy or not.
+健康即财富, 无论多忙都别忽视它.
+```
+
+---
+Date: 2025.11.14
+```
+To be beautiful means to be yourself. You don’t need to be accepted by others. You need to accept yourself.
+美丽在于做你自己。你不需要被别人接受，你只需要接受你自己.
+```
+
+---
+Date: 2025.11.18
+```
+Each breath forms a tiny cloud in the cool air.
+在清凉的空气中, 每一次呼吸都呵出一小朵云.
+```
+
+---
+Date: 2025.11.19
+```
+It's the perfect time for a good book by the window.
+这是在窗边读一本好书的完美时节.
+```
+
+---
+Date: 2025.11.20
+```
+In the midst of winter, I found there was, within me, an invincible summer.
+在寒冬之中, 我发现内心存在着永不陷落的夏天.
+```
+
+---
+Date: 2025.11.21
+```
+You are always free to change your mind and choose a different future, or a different past.
+```
+
+---
+Date: 2025.11.22
+```
+No snowflake ever falls in the wrong place.
+没有一片雪花会落在错误的地方.
+```
+
+---
+Date: 2025.11.24
+```
+Each day is a new page in the story of autumn.
+每一天都是秋天故事里崭新的一页.
+```
+
+---
+Date: 2025.11.25
+```
+We don't see thing as they are, we see them as we are.
+我们看到的事物并非事物本身, 而是自身内心的投射.
+```
+
+---
+Date: 2025.11.30
+```
+A wise man makes his own decisions.
+智者做自己的决定.
+```

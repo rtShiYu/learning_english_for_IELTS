@@ -11204,3 +11204,246 @@ information
 formal
 former
 ```
+
+---
+Date: 2025.11.01
+```
+portable
+export
+import
+important
+importance
+support
+report
+```
+
+---
+Date: 2025.11.02
+```
+fireman
+firework, fireworks
+postcard
+postman
+express delivery
+express train
+expression
+impress
+```
+
+---
+Date: 2025.11.03
+```
+scarf
+care, cure
+curious
+curiousity
+accurate
+secure
+insecure
+caution
+cause
+countdown
+countless
+discount
+```
+
+---
+Date: 2025.11.04
+```
+seed
+seedling
+sprout
+seed coat
+cone
+```
+
+---
+Date: 2025.11.05
+```
+positive
+negative
+individual
+expert
+compare
+account
+clain
+emotional
+financial
+solution
+fuel
+insurance
+credit
+poverty
+colleague
+engage
+promote
+promotion
+expand
+occur
+```
+
+---
+Date: 2025.11.06
+```
+rejected
+headwind
+struggle
+camel
+territory
+salt lake
+```
+
+---
+Date: 2025.11.07
+```
+associate
+institution
+adolescent
+innovation
+pattern
+troop
+reserve
+specific
+consumption
+crisis
+debate
+fossil
+insect
+pest
+```
+
+---
+Date: 2025.11.08
+```
+vulnerable
+yield
+genetic
+ideal
+illustrate
+perspective
+breed
+cite
+```
+
+---
+Date: 2025.11.10
+```
+trail
+harzardous
+maintainted
+slip
+slap
+giant pinecone
+pointy
+```
+
+---
+Date: 2025.11.11
+```
+majority
+railway
+fairly unassuming
+bumpy
+take a nap
+mediterranean
+vibe
+starve, starving
+seagull
+pigeon
+```
+
+---
+Date: 2025.11.12
+```
+behave, behavior
+consequence
+contract
+corporate
+depression
+haven
+heaven
+psychological
+reputation
+vehicle
+```
+
+---
+Date: 2025.11.13
+```
+flicker, flickered
+stall, stop
+critic
+elite
+patent
+revenue
+wealthy
+establish
+```
+
+---
+Date: 2025.11.15
+```
+escort
+oasis
+palm tree
+muddy
+antelope
+ostrich
+knockoff
+```
+
+---
+Date: 2025.11.16
+```
+epitome
+vessel
+academy
+rustic
+ballroom
+inspired
+twig
+milkman
+freshman
+chronic
+trimming
+gross
+stinky
+tier wall
+haywire
+one step at a time
+```
+
+---
+Date: 2025.11.17
+```
+heartbroken
+brutal
+wobble
+patent
+legal
+counsel
+```
+
+---
+Date: 2025.11.23
+```
+tart
+dim sum
+offordable
+fancy mall
+grocery store
+avocado toast
+scrambled egg
+stumbled upon
+```
+
+---
+Date: 2025.11.30
+```
+field
+yak
+barley
+pea
+radish
+dune
+```
