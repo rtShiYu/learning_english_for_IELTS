@@ -8286,3 +8286,10 @@ Date: 2025.11.30
 A wise man makes his own decisions.
 智者做自己的决定.
 ```
+
+---
+Date: 2025.12.01
+```
+We must accept finite disappointment, but we must never lose infinite hope.
+我们必须接受失败, 因为它是有限的, 但千万不可失去希望, 因为它是无穷的.
+```
