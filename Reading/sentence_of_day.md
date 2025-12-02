@@ -8293,3 +8293,10 @@ Date: 2025.12.01
 We must accept finite disappointment, but we must never lose infinite hope.
 我们必须接受失败, 因为它是有限的, 但千万不可失去希望, 因为它是无穷的.
 ```
+
+---
+Date: 2025.12.02
+```
+Life isn't about waiting for the storm to pass. It's about learning how to dance in the rain.
+生活不是等待风暴过去, 而是学会在雨中起舞.
+```
