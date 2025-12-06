@@ -8319,3 +8319,10 @@ Date: 2025.12.05
 ```
 If you look at the world, you'll be distressed. If you look within, you'll be depressed. If you look at God you'll be at rest.
 ```
+
+---
+Date: 2025.12.06
+```
+You wouldn't worry so much about what others think of you if you realized how seldom they do.
+如果你意识到别人很少会真正关心你，你就不会那么在意别人怎么想了.
+```
