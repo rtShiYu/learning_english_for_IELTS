@@ -8326,3 +8326,10 @@ Date: 2025.12.06
 You wouldn't worry so much about what others think of you if you realized how seldom they do.
 如果你意识到别人很少会真正关心你，你就不会那么在意别人怎么想了.
 ```
+
+---
+Date: 2025.12.07
+```
+It is not death that a man should fear, but he should fear never beginning to live.
+人不应畏惧死亡，而应畏惧的是从未真正开始过生活.
+```
