@@ -8333,3 +8333,10 @@ Date: 2025.12.07
 It is not death that a man should fear, but he should fear never beginning to live.
 人不应畏惧死亡，而应畏惧的是从未真正开始过生活.
 ```
+
+---
+Date: 2025.12.08
+```
+You will never have what you like until you learn to like what you have.
+要得到你喜欢的东西, 应先学会喜欢你已有的东西.
+```
