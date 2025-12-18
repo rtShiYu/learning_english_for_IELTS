@@ -8380,3 +8380,10 @@ Date: 2025.12.17
 ```
 Remember that a gesture of friendship, no matter how small, is always appreciated.
 ```
+
+---
+Date: 2025.12.18
+```
+The reason most goals are not achieved is that we spend our time doing second thing first.
+大多数目标未能实现的原因在于，我们总是先把时间花在次要的事情上.
+```
