@@ -8387,3 +8387,10 @@ Date: 2025.12.18
 The reason most goals are not achieved is that we spend our time doing second thing first.
 大多数目标未能实现的原因在于，我们总是先把时间花在次要的事情上.
 ```
+
+---
+Date: 2025.12.19
+```
+Do what you can, with what you have, where you are.
+在你力所能及的范围内，利用你所拥有的资源，做好你所在位置能做的事.
+```
