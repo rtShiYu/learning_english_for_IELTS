@@ -11512,3 +11512,15 @@ titan
 heir
 conglomerate
 ```
+
+---
+Date: 2025.12.20
+```
+social climber
+eager to do sth
+consequence
+accurate
+secure
+insecure
+caution
+```
