@@ -8394,3 +8394,11 @@ Date: 2025.12.19
 Do what you can, with what you have, where you are.
 在你力所能及的范围内，利用你所拥有的资源，做好你所在位置能做的事.
 ```
+
+
+---
+Date: 2025.12.21
+```
+Mistake is something that happens to everyone in life.
+犯错是人生中每个人都会经历的事.
+```
