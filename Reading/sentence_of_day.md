@@ -8436,3 +8436,10 @@ Date: 2025.12.26
 The present moment dies every moment to become the past, is reborn every moment into the future. All experience is now. Now never ends.
 当下这一刻, 每一刻都在消逝成为过去; 又在每一刻重生, 走向未来. 一切体验都发生在此时此刻. 当下, 从未终结.
 ```
+
+---
+Date: 2025.12.27
+```
+Life is about your own genuine feelings; don't get caught up in others' opinions.
+生活是自己的真切感受，不必困于他人眼光.
+```
