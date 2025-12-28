@@ -8443,3 +8443,10 @@ Date: 2025.12.27
 Life is about your own genuine feelings; don't get caught up in others' opinions.
 生活是自己的真切感受，不必困于他人眼光.
 ```
+
+---
+Date: 2025.12.28
+```
+A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.
+人不该因承认自己错过而感到羞耻；那不过是在说，他今天比昨天更加聪慧。
+```
