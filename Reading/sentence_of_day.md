@@ -6707,6 +6707,7 @@ Date: 2025.02.22
 Each day brings a new beginning.
 ```
 
+---
 Date: 2025.02.23
 ```
 The more you use it, the more it produces; the more you talk of it, the less you understand.
@@ -7226,6 +7227,7 @@ Date: 2025.05.18
 ```
 Free man is by necessity insecure; thinking man by necessity uncertain.
 自由者必然不安, 思考者注定忧郁.
+```
 
 ---
 Date: 2025.05.19
@@ -8456,4 +8458,11 @@ Date: 2025.12.29
 ```
 The best time for new beginnings is now.
 新的开始的最佳时机就是现在.
+```
+
+---
+Date: 2025.12.30
+```
+Our greatest glory is not in never falling, but in rising every time we fall.
+我们最大的荣誉不是从来没有跌倒, 而在于每次跌倒了都可以站起来.
 ```
