@@ -177,3 +177,80 @@ A）所谓的“完成进行态”就是动作的“完成态”结合“进行�
 | sleep | slept | slept | 睡 |
 | smell | smelt | smelt | 闻 |
 | sweep | swept | swept | 扫 |
+
+### 12 疑问句
+#### 12.1 一般疑问句
+一、总公式（先记这一条）
+疑问句 = 助动词 / 情态动词 / be + 主语 + 其他成分 ?
+
+| 时态        | 陈述句示例             | 疑问句结构                          | 疑问句示例                |
+| --------- | ----------------- | ------------------------------ | -------------------- |
+| **一般现在时** | You work here.    | **Do / Does + 主语 + 动词原形**      | Do you work here?    |
+| **一般过去时** | She left early.   | **Did + 主语 + 动词原形**            | Did she leave early? |
+| **现在进行时** | They are eating.  | **Am / Is / Are + 主语 + doing** | Are they eating?     |
+| **过去进行时** | He was sleeping.  | **Was / Were + 主语 + doing**    | Was he sleeping?     |
+| **一般将来时** | You will join us. | **Will + 主语 + 动词原形**           | Will you join us?    |
+| **现在完成时** | She has finished. | **Have / Has + 主语 + 过去分词**     | Has she finished?    |
+| **过去完成时** | They had left.    | **Had + 主语 + 过去分词**            | Had they left?       |
+| **情态动词**  | You can drive.    | **情态动词 + 主语 + 动词原形**           | Can you drive?       |
+
+
+二、do / does / did 速查（最容易错的点）
+
+| 情况              | 用什么                | 示例                             |
+| --------------- | ------------------ | ------------------------------ |
+| 一般现在，主语不是第三人称单数 | do                 | Do you like tea?               |
+| 一般现在，主语是第三人称单数  | does               | Does he like tea?              |
+| 一般过去（不分人称）      | did                | Did they like tea?             |
+| **注意**          | **助动词出现后，动词一定用原形** | ❌ Did he liked → ✅ Did he like |
+
+
+同一句话，不同时态对照（强化记忆）
+| 时态   | 疑问句                              |
+| ---- | -------------------------------- |
+| 一般现在 | Do you understand this rule?     |
+| 一般过去 | Did you understand this rule?    |
+| 现在进行 | Are you understanding this rule? |
+| 现在完成 | Have you understood this rule?   |
+| 一般将来 | Will you understand this rule?   |
+
+
+
+#### 12.1 特殊疑问句
+##### 1. 各时态速查表(非主语提问：需要倒装)
+
+| 时态        | 结构模板                                | 例句                         |
+| --------- | --------------------------------------- | -------------------------- |
+| **一般现在时** | Wh + **do / does** + 主语 + 动词原形      | Where **do** you work?     |
+|               |                                     | What **does** he want?     |
+| **一般过去时** | Wh + **did** + 主语 + 动词原形            | When **did** she arrive?   |
+| **现在进行时** | Wh + **am / is / are** + 主语 + doing | What **are** they doing?   |
+| **过去进行时** | Wh + **was / were** + 主语 + doing    | Why **was** he waiting?    |
+| **一般将来时** | Wh + **will** + 主语 + 动词原形           | When **will** you start?   |
+| **现在完成时** | Wh + **have / has** + 主语 + 过去分词     | What **has** she finished? |
+| **过去完成时** | Wh + **had** + 主语 + 过去分词            | Why **had** they left?     |
+| **情态动词**  | Wh + **情态动词** + 主语 + 动词原形         | How **can** I help you?    |
+
+记忆点
+- 时态在助动词/情态词上 → 主动词常用原形
+- 有 be / 情态 / have / will → 直接提前，不用 do
+
+##### 2. 主语提问（不倒装，极重要）
+- Wh-词 = 主语 → 陈述句结构
+
+| 时态   | 正确示例                           |
+| ---- | ------------------------------ |
+| 一般现在 | **Who likes coffee?**          |
+| 一般过去 | **Who broke the window?**      |
+| 现在进行 | **Who is calling you?**        |
+| 现在完成 | **Who has finished the task?** |
+
+- 同一句话的完整对照（强化理解）
+陈述句：John bought a car yesterday.
+
+| 问点   | 句型 | 正确句                              |
+| ---- | -- | -------------------------------- |
+| 谁    | 主语 | **Who bought a car yesterday?**  |
+| 买了什么 | 宾语 | **What did John buy yesterday?** |
+| 什么时候 | 时间 | **When did John buy a car?**     |
+| 为什么  | 原因 | **Why did John buy a car?**      |
