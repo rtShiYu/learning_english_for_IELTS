@@ -8466,3 +8466,10 @@ Date: 2025.12.30
 Our greatest glory is not in never falling, but in rising every time we fall.
 我们最大的荣誉不是从来没有跌倒, 而在于每次跌倒了都可以站起来.
 ```
+
+---
+Date: 2025.12.31
+```
+Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering.
+等待令人煎熬, 遗忘带来痛楚, 但最折磨的, 是徘徊于二者之间的仿徨.
+```

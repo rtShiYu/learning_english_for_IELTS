@@ -6214,7 +6214,7 @@ masterpiece
 
 ---
 Date: 2023.11.16
-````
+```
 thaw
 sentiment
 beaten-down
@@ -10824,6 +10824,7 @@ approximation
 
 ---
 Date: 2025.09.12
+```
 harass
 harasser
 harassment
@@ -11564,4 +11565,16 @@ bird
 ostrich
 insect
 bones
+```
+
+---
+Date: 2025.12.31
+```
+aspect
+delegation
+substantial
+thorny
+inaudible
+dispute
+referendum
 ```
