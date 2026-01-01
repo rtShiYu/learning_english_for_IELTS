@@ -6707,6 +6707,7 @@ Date: 2025.02.22
 Each day brings a new beginning.
 ```
 
+---
 Date: 2025.02.23
 ```
 The more you use it, the more it produces; the more you talk of it, the less you understand.
@@ -7226,6 +7227,7 @@ Date: 2025.05.18
 ```
 Free man is by necessity insecure; thinking man by necessity uncertain.
 自由者必然不安, 思考者注定忧郁.
+```
 
 ---
 Date: 2025.05.19
@@ -8285,4 +8287,189 @@ Date: 2025.11.30
 ```
 A wise man makes his own decisions.
 智者做自己的决定.
+```
+
+---
+Date: 2025.12.01
+```
+We must accept finite disappointment, but we must never lose infinite hope.
+我们必须接受失败, 因为它是有限的, 但千万不可失去希望, 因为它是无穷的.
+```
+
+---
+Date: 2025.12.02
+```
+Life isn't about waiting for the storm to pass. It's about learning how to dance in the rain.
+生活不是等待风暴过去, 而是学会在雨中起舞.
+```
+
+---
+Date: 2025.12.03
+```
+Always aim for achievement and forget about success.
+永远要争取做出成就, 别考虑成功.
+```
+
+---
+Date: 2025.12.04
+```
+Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.
+```
+
+---
+Date: 2025.12.05
+```
+If you look at the world, you'll be distressed. If you look within, you'll be depressed. If you look at God you'll be at rest.
+```
+
+---
+Date: 2025.12.06
+```
+You wouldn't worry so much about what others think of you if you realized how seldom they do.
+如果你意识到别人很少会真正关心你，你就不会那么在意别人怎么想了.
+```
+
+---
+Date: 2025.12.07
+```
+It is not death that a man should fear, but he should fear never beginning to live.
+人不应畏惧死亡，而应畏惧的是从未真正开始过生活.
+```
+
+---
+Date: 2025.12.08
+```
+You will never have what you like until you learn to like what you have.
+要得到你喜欢的东西, 应先学会喜欢你已有的东西.
+```
+
+---
+Date: 2025.12.10
+```
+The sky is filled with stars, invisible by day.
+天空中繁星密布, 白昼时却隐匿不见.
+```
+
+---
+Date: 2025.12.12
+```
+Every road offers its own unique scenery, and every person is a singular existence.
+每一条路都是独特的风景，每一个人都是唯一的存在.
+```
+
+---
+Date: 2025.12.13
+```
+In the silence, grow your own roots.
+在寂静中, 长出自己的根.
+```
+
+---
+Date: 2025.12.14
+```
+Beyond material possessions, what matters most is a person's spirit and perspective.
+物质之外, 更重要的是一个人的精神与见解.
+```
+
+---
+Date: 2025.12.15
+```
+Fortune favors the bold.
+```
+
+---
+Date: 2025.12.17
+```
+Remember that a gesture of friendship, no matter how small, is always appreciated.
+```
+
+---
+Date: 2025.12.18
+```
+The reason most goals are not achieved is that we spend our time doing second thing first.
+大多数目标未能实现的原因在于，我们总是先把时间花在次要的事情上.
+```
+
+---
+Date: 2025.12.19
+```
+Do what you can, with what you have, where you are.
+在你力所能及的范围内，利用你所拥有的资源，做好你所在位置能做的事.
+```
+
+
+---
+Date: 2025.12.21
+```
+Mistake is something that happens to everyone in life.
+犯错是人生中每个人都会经历的事.
+```
+
+---
+Date: 2025.12.22
+```
+In the wilderness, forge you own path.
+于荒原中, 踏出自己的路.
+```
+
+---
+Date: 2025.12.23
+```
+It's no use going back to yesterday, because I was a different person then.
+```
+
+---
+Date: 2025.12.24
+```
+Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
+感恩赋予过去意义，给予今天安宁，塑造明天的愿景.
+```
+
+---
+Date: 2025.12.25
+```
+May you gather the courage to greet the new sun.
+愿你攒足勇气, 迎接新的太阳.
+```
+
+---
+Date: 2025.12.26
+```
+The present moment dies every moment to become the past, is reborn every moment into the future. All experience is now. Now never ends.
+当下这一刻, 每一刻都在消逝成为过去; 又在每一刻重生, 走向未来. 一切体验都发生在此时此刻. 当下, 从未终结.
+```
+
+---
+Date: 2025.12.27
+```
+Life is about your own genuine feelings; don't get caught up in others' opinions.
+生活是自己的真切感受，不必困于他人眼光.
+```
+
+---
+Date: 2025.12.28
+```
+A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.
+人不该因承认自己错过而感到羞耻；那不过是在说，他今天比昨天更加聪慧。
+```
+
+---
+Date: 2025.12.29
+```
+The best time for new beginnings is now.
+新的开始的最佳时机就是现在.
+```
+
+---
+Date: 2025.12.30
+```
+Our greatest glory is not in never falling, but in rising every time we fall.
+我们最大的荣誉不是从来没有跌倒, 而在于每次跌倒了都可以站起来.
+```
+
+---
+Date: 2025.12.31
+```
+Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering.
+等待令人煎熬, 遗忘带来痛楚, 但最折磨的, 是徘徊于二者之间的仿徨.
 ```

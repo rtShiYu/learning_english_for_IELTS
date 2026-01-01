@@ -6214,7 +6214,7 @@ masterpiece
 
 ---
 Date: 2023.11.16
-````
+```
 thaw
 sentiment
 beaten-down
@@ -10824,6 +10824,7 @@ approximation
 
 ---
 Date: 2025.09.12
+```
 harass
 harasser
 harassment
@@ -11446,4 +11447,134 @@ barley
 pea
 radish
 dune
+```
+
+---
+Date: 2025.12.07
+```
+horr
+horrible
+horror
+horrify
+art
+artwork
+artist
+artistic
+artistically
+article
+artificial
+artisan
+inert
+arm
+armed
+army
+armor
+disarm
+ball
+balloon
+cartoon
+card
+baseball
+volleyball
+ballot
+bullet
+```
+
+---
+Date: 2025.12.13
+```
+thin
+thick
+bookstore
+sportwear
+rival
+went a step further
+```
+
+---
+Date: 2025.12.15
+```
+tandem
+diverged
+hell of a run
+barring
+creeping
+tapered off
+```
+
+---
+Date: 2025.12.16
+```
+indefinitely
+workaround
+hot dog
+disclose
+titan
+heir
+conglomerate
+```
+
+---
+Date: 2025.12.20
+```
+social climber
+eager to do sth
+consequence
+accurate
+secure
+insecure
+caution
+```
+
+---
+Date: 2025.12.21
+```
+whale
+nurse
+mammal
+species
+respiratory
+breathing
+blowhole
+dwarf
+overshadow
+```
+
+---
+Date: 2025.12.22
+```
+characterized
+biodiversity
+diverse
+high rainfall
+tropical
+temperate
+substantial
+indigenous
+antibiotic
+```
+
+
+---
+Date: 2025.12.23
+```
+mammal
+reptile
+amphibian
+bird
+ostrich
+insect
+bones
+```
+
+---
+Date: 2025.12.31
+```
+aspect
+delegation
+substantial
+thorny
+inaudible
+dispute
+referendum
 ```
