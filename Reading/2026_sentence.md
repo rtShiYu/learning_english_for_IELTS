@@ -20,3 +20,10 @@ Date: 2026.01.03
 You don't need a weatherman to know which way the wind blows.
 你不需要气象员，也能知道风往哪边吹。
 ```
+
+---
+Date: 2026.01.04
+```
+I don't think of all the misery, but of the beauty that still remains.
+我想的不是所有的痛苦, 而是依然留存的美好.
+```

@@ -20,3 +20,15 @@ governor
 vault
 line up
 ```
+
+---
+Date: 2026.01.04
+```
+slumped
+innocent
+convicted
+blamed
+supposedly
+descendant
+curse
+```
