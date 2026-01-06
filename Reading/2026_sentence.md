@@ -33,3 +33,9 @@ Date: 2026.01.05
 ```
 The good you do today will be forgotten tomorrow. Do good anyway.
 ```
+
+---
+Date: 2026.01.06
+```
+No matter how tall the mountain is, it cannot block the sun.
+```
