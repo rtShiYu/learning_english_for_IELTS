@@ -39,3 +39,10 @@ Date: 2026.01.06
 ```
 No matter how tall the mountain is, it cannot block the sun.
 ```
+
+---
+Date: 2026.01.07
+```
+The key to success is to focus our conscious mind on things we desire not things we fear.
+成功的关键在于把我们意识专注在我们渴望的事物上, 而不是我们所恐惧的实物.
+```
