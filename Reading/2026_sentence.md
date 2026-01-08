@@ -46,3 +46,10 @@ Date: 2026.01.07
 The key to success is to focus our conscious mind on things we desire not things we fear.
 成功的关键在于把我们意识专注在我们渴望的事物上, 而不是我们所恐惧的实物.
 ```
+
+---
+Date: 2026.01.08
+```
+The past has no power over the present moment.
+过去对当下这一刻没有任何支配力量.
+```
