@@ -73,3 +73,10 @@ Date: 2026.01.11
 ```
 The finish line is just the beginning of a whole new race.
 ```
+
+---
+Date: 2026.01.12
+```
+A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
+一生犯错不仅比无所事事更为光荣, 也更有价值.
+```
