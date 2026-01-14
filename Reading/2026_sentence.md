@@ -80,3 +80,10 @@ Date: 2026.01.12
 A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
 一生犯错不仅比无所事事更为光荣, 也更有价值.
 ```
+
+---
+Date: 2026.01.14
+```
+Knowing what's right doesn't mean much unless you do what's right.
+知道什么是正确的, 如果不去做正确的事, 那就毫无意义.
+```
