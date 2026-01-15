@@ -87,3 +87,10 @@ Date: 2026.01.14
 Knowing what's right doesn't mean much unless you do what's right.
 知道什么是正确的, 如果不去做正确的事, 那就毫无意义.
 ```
+
+---
+Date: 2026.01.15
+```
+Faith is taking the first step even when you don't see the whole staircase.
+信念就是：即使你看不见整段楼梯，也愿意迈出第一步.
+```
