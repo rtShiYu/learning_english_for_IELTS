@@ -94,3 +94,10 @@ Date: 2026.01.15
 Faith is taking the first step even when you don't see the whole staircase.
 信念就是：即使你看不见整段楼梯，也愿意迈出第一步.
 ```
+
+---
+Date: 2026.01.16
+```
+Make yourself so useful to other people, that they think you are irreplaceable.
+让自己对别人非常有用，以至于他们认为你无可替代.
+```
