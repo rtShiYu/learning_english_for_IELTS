@@ -101,3 +101,10 @@ Date: 2026.01.16
 Make yourself so useful to other people, that they think you are irreplaceable.
 让自己对别人非常有用，以至于他们认为你无可替代.
 ```
+
+---
+Date: 2026.01.17
+```
+Force has no place where there is need of skill.
+需要技巧的地方，蛮力没有用武之地.
+```
