@@ -108,3 +108,10 @@ Date: 2026.01.17
 Force has no place where there is need of skill.
 需要技巧的地方，蛮力没有用武之地.
 ```
+
+---
+Date: 2026.01.19
+```
+Become the person you want to be, not the person others see you as.
+成为你想成为的人, 而非他人眼中的你.
+```
