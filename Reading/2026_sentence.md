@@ -157,3 +157,9 @@ Date: 2026.01.25
 True freedom is choosing the weight of your soul.
 真正的自由, 是位灵魂选择它的重量.
 ```
+
+---
+Date: 2026.01.26
+```
+Settling oneself is the only thing that matters.
+```
