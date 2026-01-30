@@ -64,3 +64,13 @@ mime
 avenue
 row
 ```
+
+---
+Date: 2026.01.30
+```
+burden
+burnout
+bedraggled
+angst
+routine
+```
