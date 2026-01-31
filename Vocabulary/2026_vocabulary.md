@@ -74,3 +74,16 @@ bedraggled
 angst
 routine
 ```
+
+---
+Date: 2026.01.31
+```
+discount
+recount
+counter
+encounter
+countercurrent
+counterpart
+contrast
+contrary
+```
