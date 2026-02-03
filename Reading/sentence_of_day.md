@@ -8479,3 +8479,10 @@ Date: 2026.02.01
 ```
 Be approximately right rather than exactly wrong.
 ```
+
+---
+Date: 2026.02.03
+```
+We will act consistently with our view of who we truly are, whether that view is accurate or not.
+人总会按照自己所认为的真正的自己去行动, 不管这种看法是否真实.
+```
