@@ -87,3 +87,14 @@ counterpart
 contrast
 contrary
 ```
+
+---
+Date: 2026.02.01
+```
+stinky
+fussy
+sniff out
+pungent
+perishable
+mysterious
+```
