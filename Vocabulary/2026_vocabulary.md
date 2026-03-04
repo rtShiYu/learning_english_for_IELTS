@@ -98,3 +98,19 @@ pungent
 perishable
 mysterious
 ```
+
+---
+Date: 2026.03.04
+```
+declaim
+acclaim
+disclaim
+proclaim
+exclaim
+reclaim
+draw
+drawing
+drawback
+drawer
+withdraw
+```
