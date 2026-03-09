@@ -114,3 +114,15 @@ drawback
 drawer
 withdraw
 ```
+
+---
+Date: 2026.03.09
+```
+surrender
+unconditional
+facility
+missile
+military
+operation
+beverage
+```
