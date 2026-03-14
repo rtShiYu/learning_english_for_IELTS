@@ -168,3 +168,14 @@ involvement
 autonomous
 aurora
 ```
+
+---
+Date: 2026.03.14
+```
+long haul
+buck
+combat, fight, battle
+fatigue, fatigued
+downside, negative aspect/disadvantage
+upside
+```
