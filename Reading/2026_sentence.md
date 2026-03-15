@@ -293,3 +293,10 @@ Date: 2026.03.14
 To raise your consciousness, surround yourself with people of higher consciousness.
 想要提升自己的意识层次, 就要让自己于更高层次意识的人为伴.
 ```
+
+---
+Date: 2026.03.15
+```
+We're kept from our goal not by obstacles, but by a clear path to a lesser goal.
+阻止我们实现真正目标的, 往往不是障碍, 而是那条通往较低目标的容易之路.
+```
