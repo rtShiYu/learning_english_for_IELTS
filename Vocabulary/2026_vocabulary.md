@@ -189,3 +189,13 @@ footage
 stuck
 brushless motor
 ```
+
+---
+Date: 2025.03.16
+```
+syllable
+struggle
+vowel
+trick
+rhythm
+```
