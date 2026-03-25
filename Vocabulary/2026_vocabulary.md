@@ -210,3 +210,15 @@ downhill
 water reserve
 escort
 ```
+
+---
+Date: 2026.03.25
+```
+backup
+indicator
+throttle
+hover throttle
+constant height
+return to home RTH
+failsafe
+```
