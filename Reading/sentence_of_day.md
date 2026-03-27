@@ -8493,3 +8493,10 @@ Date: 2026.02.04
 Spring tiptoes in, melting the edge of the ice.
 春天垫脚而来, 融化了冰的边缘.
 ```
+
+---
+Date: 2026.03.27
+```
+The essence of true friendship is to make allowance for another's little lapses.
+真正友谊的本质, 在于包容对方的小过失.
+```
