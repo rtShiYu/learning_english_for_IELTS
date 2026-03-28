@@ -233,3 +233,13 @@ terrain
 sunlight
 campsite
 ```
+
+---
+Date: 2026.03.28
+```
+reckoning
+addiction
+landmark
+verdict
+payout
+```
