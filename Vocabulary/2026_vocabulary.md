@@ -254,3 +254,15 @@ big chef
 picturesque
 nasty
 ```
+
+---
+Date: 2026.03.31
+```
+exhibit
+glassware
+jadeware
+porcelain
+caption
+dinosaur
+fossil
+```
