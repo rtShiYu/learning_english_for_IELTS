@@ -288,3 +288,15 @@ erupt
 regime
 theocratic
 ```
+
+---
+Date: 2026.04.08
+```
+affective
+delusion
+disorder
+insane
+rational
+abolish
+annul
+```
