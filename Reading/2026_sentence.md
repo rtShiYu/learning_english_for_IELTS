@@ -197,6 +197,27 @@ Don't let your learning lead to knowledge. Let your learning lead to action.
 不要让学习只停留在知识层面, 要让学习引导你去行动.
 ```
 
+
+---
+Date: 2026.02.01
+```
+Be approximately right rather than exactly wrong.
+```
+
+---
+Date: 2026.02.03
+```
+We will act consistently with our view of who we truly are, whether that view is accurate or not.
+人总会按照自己所认为的真正的自己去行动, 不管这种看法是否真实.
+```
+
+---
+Date: 2026.02.04
+```
+Spring tiptoes in, melting the edge of the ice.
+春天垫脚而来, 融化了冰的边缘.
+```
+
 ---
 Date: 2026.02.06
 ```
@@ -339,4 +360,60 @@ Date: 2026.03.24
 ```
 Past lessons are gifts for tomorrow.
 过去的经验是给明天的礼物.
+```
+
+---
+Date: 2026.03.27
+```
+The essence of true friendship is to make allowance for another's little lapses.
+真正友谊的本质, 在于包容对方的小过失.
+```
+
+---
+Date: 2026.03.30
+```
+Warm rain writes poems on the window.
+温润的雨在窗上写诗.
+```
+
+---
+Date: 2026.03.31
+```
+Rain stitches the earth with silver thread.
+雨用银线把大地细细缝起来.
+```
+
+---
+Date: 2026.04.02
+```
+The river does not hurry; it simply knows the sea.
+河流不急于赶路, 它只是知道海的方向.
+```
+
+---
+Date: 2026.04.07
+```
+The path is made by walking, not by waiting for signs.
+路是走出来的而不是等待征兆.
+```
+
+---
+Date: 2026.04.09
+```
+The mountain never moves, yet it teaches the clouds to dance.
+山峦岿然不动，却教会了云朵如何舞蹈.
+```
+
+---
+Date: 2026.04.11
+```
+Forward ever, backward never.
+永远向前, 绝不后退.
+```
+
+---
+Date: 2026.04.12
+```
+Life is short; smile while you still have teeth.
+人生苦短, 趁着牙齿未落微笑.
 ```
