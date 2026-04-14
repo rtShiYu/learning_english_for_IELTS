@@ -424,3 +424,10 @@ Date: 2026.04.13
 Your potential is a universe; don't settle for being a single star.
 你的潜力是一个宇宙, 别满足于做一颗孤星.
 ```
+
+---
+Date: 2026.04.14
+```
+Every scar on the earth becomes a valley or a river.
+大地上的每道伤痕, 最终都成了山谷或河流.
+```
