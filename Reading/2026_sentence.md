@@ -445,3 +445,10 @@ Date: 2026.04.16
 Your thoughts are gardeners; tend only to the flowers.
 你的思绪是园丁, 只去照料哪些花朵.
 ```
+
+---
+Date: 2026.04.18
+```
+Within you is a stillness vast enough to hold every storm.
+你的内心深处, 有一片足以容纳所有风暴的宁静.
+```
