@@ -452,3 +452,10 @@ Date: 2026.04.18
 Within you is a stillness vast enough to hold every storm.
 你的内心深处, 有一片足以容纳所有风暴的宁静.
 ```
+
+---
+Date: 2026.04.20
+```
+Rain awakens the seeds sleeping in your heart.
+谷雨唤醒你心中沉睡的种子.
+```
