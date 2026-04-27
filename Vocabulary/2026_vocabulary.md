@@ -300,3 +300,15 @@ rational
 abolish
 annul
 ```
+
+---
+Date: 2026.04.27
+```
+effect
+defect
+feat
+defeat
+fiction
+benefit
+profit
+```
