@@ -344,3 +344,13 @@ broader
 rank
 at the behest of
 ```
+
+---
+Date: 2026.05.14
+```
+proper
+prejudice
+outlaw
+hood
+discipline
+```
