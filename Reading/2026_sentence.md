@@ -605,3 +605,11 @@ Date: 26.05.21
 Wheat grains grow full; the rain comes more often.
 麦粒渐满，雨水增多.
 ```
+
+---
+Date: 26.05.22
+```
+A dragonfly stands on a lotus tip, still like a guard.
+蜻蜓立在荷尖上，一动不动像个哨兵.
+```
+
