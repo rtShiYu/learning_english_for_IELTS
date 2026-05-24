@@ -613,3 +613,9 @@ A dragonfly stands on a lotus tip, still like a guard.
 蜻蜓立在荷尖上，一动不动像个哨兵.
 ```
 
+---
+Date: 26.05.24
+```
+A summer thunderstorm comes fast and goes fast.
+午后的雷雨来得快, 去得也快.
+```

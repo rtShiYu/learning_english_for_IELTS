@@ -365,3 +365,15 @@ either for or
 neither nor
 a gateway of
 ```
+
+---
+Date: 26.05.24
+```
+attract
+draw
+drag
+drawback
+underwear
+downstairs
+downtown
+```
