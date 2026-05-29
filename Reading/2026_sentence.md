@@ -640,3 +640,10 @@ Date: 26.05.28
 Shoot for the moon. Even if you miss, you'll land among the starts.
 瞄准月亮, 即使你没射中, 也会落在星辰之间.
 ```
+
+---
+Date: 26.05.29
+```
+Gardenias bloom, turning the yard white with scent.
+栀子花开了, 整个院子都是白色的香气.
+```
