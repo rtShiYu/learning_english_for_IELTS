@@ -647,3 +647,10 @@ Date: 26.05.29
 Gardenias bloom, turning the yard white with scent.
 栀子花开了, 整个院子都是白色的香气.
 ```
+
+---
+Date: 26.05.30
+```
+By the pond, kids splash water with bare feet.
+池塘边，孩子们光着脚丫踩水花.
+```
