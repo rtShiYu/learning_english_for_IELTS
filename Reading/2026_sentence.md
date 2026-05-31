@@ -654,3 +654,10 @@ Date: 26.05.30
 By the pond, kids splash water with bare feet.
 池塘边，孩子们光着脚丫踩水花.
 ```
+
+---
+Date: 26.05.31
+```
+Light lingers, reluctant to say goodbye.
+光线流连着, 不舍得说再见.
+```
