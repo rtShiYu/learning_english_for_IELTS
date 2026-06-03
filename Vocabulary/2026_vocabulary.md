@@ -399,3 +399,16 @@ spare time
 absorbed in
 neglect
 ```
+
+---
+Date: 26.06.04
+```
+durian
+mild climate
+symposiums
+convenient
+spacious
+furnished
+sweet and cozy
+a room with view
+```
