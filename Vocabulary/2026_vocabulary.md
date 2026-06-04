@@ -401,7 +401,7 @@ neglect
 ```
 
 ---
-Date: 26.06.04
+Date: 26.06.03
 ```
 durian
 mild climate
@@ -411,4 +411,16 @@ spacious
 furnished
 sweet and cozy
 a room with view
+```
+
+---
+Date: 26.06.04
+```
+occupied
+crowded
+franchise
+mint
+tempting
+slogging it out
+plausibly
 ```
