@@ -424,3 +424,14 @@ tempting
 slogging it out
 plausibly
 ```
+
+---
+Date: 26.06.05
+```
+outlook
+grim
+well-paid job
+multinational
+fierce competition
+merit
+```
