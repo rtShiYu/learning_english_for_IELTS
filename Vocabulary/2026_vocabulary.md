@@ -435,3 +435,13 @@ multinational
 fierce competition
 merit
 ```
+
+---
+Date: 26.06.06
+```
+in my leisure time
+be fond of
+badminton
+flowery face
+strong-willed
+```

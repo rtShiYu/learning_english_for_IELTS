@@ -675,3 +675,10 @@ Date: 26.06.05
 Wheat awns pierce the dawn. Farmers bend to pick up gold.
 麦芒刺破晨光, 衣人弯腰拾起金黄.
 ```
+
+---
+Date: 26.06.07
+```
+Trust time. Good things grow slowly.
+相信时间. 美好的实物需要慢慢生长.
+```
