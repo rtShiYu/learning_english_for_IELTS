@@ -456,3 +456,16 @@ elixir
 charlatan
 flea market
 ```
+
+---
+Date: 26.06.08
+```
+grass
+trunk
+palm
+leaf
+leaves
+pave, paved
+ceiling
+fountain
+```
