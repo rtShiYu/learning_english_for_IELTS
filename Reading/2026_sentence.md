@@ -682,3 +682,10 @@ Date: 26.06.07
 Trust time. Good things grow slowly.
 相信时间. 美好的实物需要慢慢生长.
 ```
+
+---
+Date: 26.06.09
+```
+Go forth - the outcome will give you the answer.
+去做吧, 结果会给你答案.
+```
