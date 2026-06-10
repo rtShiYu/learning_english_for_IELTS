@@ -689,3 +689,10 @@ Date: 26.06.09
 Go forth - the outcome will give you the answer.
 去做吧, 结果会给你答案.
 ```
+
+---
+Date: 26.06.10
+```
+Shadows are sketches made of light.
+影子是光做的素描.
+```
