@@ -507,3 +507,17 @@ spectacular
 jagged
 giant shark
 ```
+
+---
+Date: 26.07.04
+```
+dive
+tux
+tuxedo
+antarctica
+mono
+monopoly
+monologue
+monochromatic
+polyglot
+```
