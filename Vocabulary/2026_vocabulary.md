@@ -523,7 +523,7 @@ polyglot
 ```
 
 ---
-Date: 26.05
+Date: 26.07.05
 ```
 ord order or new order
 organic stuff
@@ -532,4 +532,18 @@ thrive
 craft
 great vibe
 ginger, lemon, water, vanilla
+```
+
+---
+Date: 26.07.06
+```
+besiege
+combat
+defeat
+defense
+disarm
+enlist
+envelop
+intrude
+invade
 ```
