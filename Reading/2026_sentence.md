@@ -759,3 +759,10 @@ Date: 26.07.03
 Light bulbs are like fruits that light up the night.
 灯泡像黑夜里结出的果实.
 ```
+
+---
+Date: 26.07.08
+```
+All advantages aren't in running quickly, but in getting a head start.​
+优势不在于跑得快，而在于起身早.
+```
