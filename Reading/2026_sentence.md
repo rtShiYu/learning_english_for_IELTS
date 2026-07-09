@@ -766,3 +766,10 @@ Date: 26.07.08
 All advantages aren't in running quickly, but in getting a head start.​
 优势不在于跑得快，而在于起身早.
 ```
+
+---
+Date: 26.07.09
+```
+Stay curious, and the world stays fresh.
+保持好奇，世界永远新鲜.
+```
