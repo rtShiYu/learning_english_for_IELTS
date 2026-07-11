@@ -569,3 +569,14 @@ fade
 bimonthly
 columnist
 ```
+
+---
+Date: 26.07.11
+```
+get along with
+personable
+sour expression
+breathtaking
+amuse
+a maid
+```
