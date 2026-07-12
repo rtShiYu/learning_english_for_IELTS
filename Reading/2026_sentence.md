@@ -773,3 +773,10 @@ Date: 26.07.09
 Stay curious, and the world stays fresh.
 保持好奇，世界永远新鲜.
 ```
+
+---
+Date: 26.07.12
+```
+Choices are branches that fork in two.
+选择是分叉的树枝.
+```
