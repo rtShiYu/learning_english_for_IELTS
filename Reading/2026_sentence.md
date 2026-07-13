@@ -780,3 +780,10 @@ Date: 26.07.12
 Choices are branches that fork in two.
 选择是分叉的树枝.
 ```
+
+---
+Date: 26.07.13
+```
+Patience is not just waiting. It makes us stronger.
+耐心不是干等, 而是在等待里变强.
+```
