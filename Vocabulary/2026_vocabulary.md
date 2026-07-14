@@ -590,3 +590,16 @@ disturb
 burden
 nasty
 ```
+
+---
+Date: 26.07.14
+```
+lobster
+condo
+pier
+waterfront
+mussel farmer
+oyster
+crowd
+goofy
+```
