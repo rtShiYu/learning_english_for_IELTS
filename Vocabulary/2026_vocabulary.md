@@ -603,3 +603,14 @@ oyster
 crowd
 goofy
 ```
+
+---
+Date: 26.07.14
+```
+fragile
+disdain, disdaining
+imploringly
+awfully
+wrung
+gesture
+```
