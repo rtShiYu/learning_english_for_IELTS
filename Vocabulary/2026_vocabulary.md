@@ -614,3 +614,14 @@ awfully
 wrung
 gesture
 ```
+
+---
+Date: 26.07.15
+```
+chalera
+dehydrated
+diarrhea
+servant
+terror
+extreme
+```
