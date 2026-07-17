@@ -787,3 +787,10 @@ Date: 26.07.13
 Patience is not just waiting. It makes us stronger.
 耐心不是干等, 而是在等待里变强.
 ```
+
+---
+Date: 26.07.17
+```
+Trust is the gentle care we give each other.
+信任，是彼此愿意给出的温柔.
+```
