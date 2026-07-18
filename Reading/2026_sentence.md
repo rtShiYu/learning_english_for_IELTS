@@ -794,3 +794,10 @@ Date: 26.07.17
 Trust is the gentle care we give each other.
 信任，是彼此愿意给出的温柔.
 ```
+
+---
+Date: 26.07.18
+```
+Custom makes all things easy.
+习惯成自然.
+```
