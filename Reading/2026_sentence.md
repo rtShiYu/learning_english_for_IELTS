@@ -801,3 +801,10 @@ Date: 26.07.18
 Custom makes all things easy.
 习惯成自然.
 ```
+
+---
+Date: 26.07.18
+```
+Be grateful for now. The future is full of hope.
+感恩此刻，未来还充满可能.
+```
