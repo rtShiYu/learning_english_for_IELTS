@@ -815,3 +815,10 @@ Date: 26.07.20
 True strength is standing up again after we fail.
 真正的强大, 是跌倒后再站起来.
 ```
+
+---
+Date: 26.07.21
+```
+Calm is the quiet deep place in a lake.
+平静像湖水最深处的安静.
+```
