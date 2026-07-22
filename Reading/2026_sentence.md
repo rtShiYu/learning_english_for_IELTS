@@ -822,3 +822,10 @@ Date: 26.07.21
 Calm is the quiet deep place in a lake.
 平静像湖水最深处的安静.
 ```
+
+---
+Date: 26.07.22
+```
+In conflict, the heart seems to speak with two voices.
+矛盾时，心里像有两个声音在说话.
+```
