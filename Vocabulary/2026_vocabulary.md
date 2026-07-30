@@ -625,3 +625,14 @@ servant
 terror
 extreme
 ```
+
+---
+Date: 26.07.30
+```
+clergyman
+shabby
+snatch
+spoiled
+bicker
+bickering
+```
