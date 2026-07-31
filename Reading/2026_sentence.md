@@ -885,3 +885,10 @@ Date: 26.07.30
 A chance meeting is candy from fate.
 偶遇是命运送的糖果.
 ```
+
+---
+Date: 26.07.31
+```
+At goodbye, even a full suitcase cannot hold all our cares.
+离别时，行李箱再满，也装不下全部牵挂.
+```
