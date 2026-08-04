@@ -906,3 +906,10 @@ Date: 26.08.03
 Keep your eyes on the stars and your feet on the ground.
 仰望星空, 脚踏实地.
 ```
+
+---
+Date: 26.08.04
+```
+A lazy youth, a lousy age.
+少壮不努力，老大徒伤悲.
+```
