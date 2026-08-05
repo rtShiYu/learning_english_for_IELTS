@@ -647,3 +647,13 @@ tease
 taunt
 provoke
 ```
+
+---
+Date: 26.08.05
+```
+scorn
+snapped
+desolate
+hunchback
+stony
+```
