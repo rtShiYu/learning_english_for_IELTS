@@ -657,3 +657,10 @@ desolate
 hunchback
 stony
 ```
+
+---
+Date: 26.08.06
+```
+One swallow does not make a summer.
+一燕不成夏.
+```
