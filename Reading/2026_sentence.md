@@ -913,3 +913,17 @@ Date: 26.08.04
 A lazy youth, a lousy age.
 少壮不努力，老大徒伤悲.
 ```
+
+---
+Date: 26.08.06
+```
+One swallow does not make a summer.
+一燕不成夏.
+```
+
+---
+Date: 26.08.07
+```
+Courage is not the absence of fear, but the will to guard what we cherish.
+勇气非无畏，而是守护所爱的意志.
+```
