@@ -927,3 +927,10 @@ Date: 26.08.07
 Courage is not the absence of fear, but the will to guard what we cherish.
 勇气非无畏，而是守护所爱的意志.
 ```
+
+---
+Date: 26.08.07
+```
+Poverty is stranger to industry.
+勤劳之人不受穷.
+```
