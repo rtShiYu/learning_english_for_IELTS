@@ -657,3 +657,16 @@ desolate
 hunchback
 stony
 ```
+
+---
+Date: 26.08.08
+```
+headroom
+voltage regulator
+spike
+potential
+fry something
+pigtail table
+sharp bend
+downside
+```

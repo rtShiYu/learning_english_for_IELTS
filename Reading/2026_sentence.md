@@ -934,3 +934,10 @@ Date: 26.08.07
 Poverty is stranger to industry.
 勤劳之人不受穷.
 ```
+
+---
+Date: 26.08.08
+```
+There is no greatness where there is not simplicity, goodness, and truth.
+没有朴素、善良与真实，就没有真正的伟大。
+```
