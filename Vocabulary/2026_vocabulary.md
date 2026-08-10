@@ -670,3 +670,13 @@ pigtail table
 sharp bend
 downside
 ```
+
+---
+Date: 26.08.09
+```
+omni
+harmonic
+dropout
+usefulness
+interference
+```
