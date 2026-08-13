@@ -955,3 +955,10 @@ Date: 26.08.12
 Kindness costs little, yet it changes the whole room.
 善意花费很少, 却能改变整个房间.
 ```
+
+---
+Date: 26.08.13
+```
+Warm tea on a quiet night softens a hard day.
+安静夜里的热茶, 能软化艰难的一天.
+```
