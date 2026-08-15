@@ -969,3 +969,10 @@ Date: 26.08.14
 Let today be enough; tomorrow can wait a while.
 让今天就够了，明天可以再等等.
 ```
+
+---
+Date: 26.08.15
+```
+Enlightenment is intimacy with all things.
+觉悟，就是与万物亲密无间.
+```
