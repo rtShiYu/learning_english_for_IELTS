@@ -976,3 +976,10 @@ Date: 26.08.15
 Enlightenment is intimacy with all things.
 觉悟，就是与万物亲密无间.
 ```
+
+---
+Date: 26.08.16
+```
+If you want to live a happy life, tie it to a goal, not to people or objects.
+如果你想过上幸福的生活, 就把它与目标相连, 而不是寄与人和物.
+```
