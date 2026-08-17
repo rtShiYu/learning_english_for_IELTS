@@ -983,3 +983,10 @@ Date: 26.08.16
 If you want to live a happy life, tie it to a goal, not to people or objects.
 如果你想过上幸福的生活, 就把它与目标相连, 而不是寄与人和物.
 ```
+
+---
+Date: 26.08.17
+```
+Far and away the best prize that life has to offer is the chance to work hard at work worth doing.
+人生所能给予的最大奖赏, 莫过于有机会为值得做的事情全力以赴.
+```
