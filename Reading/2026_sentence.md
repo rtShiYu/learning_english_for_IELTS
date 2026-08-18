@@ -990,3 +990,10 @@ Date: 26.08.17
 Far and away the best prize that life has to offer is the chance to work hard at work worth doing.
 人生所能给予的最大奖赏, 莫过于有机会为值得做的事情全力以赴.
 ```
+
+---
+Date: 26.08.18
+```
+The worst part of success is trying to find someone who is happy for you.
+成功最糟糕的部分，就是很难找到一个真正为你感到高兴的人。
+```
