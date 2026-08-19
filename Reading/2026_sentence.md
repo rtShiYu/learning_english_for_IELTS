@@ -997,3 +997,9 @@ Date: 26.08.18
 The worst part of success is trying to find someone who is happy for you.
 成功最糟糕的部分，就是很难找到一个真正为你感到高兴的人。
 ```
+
+---
+Date: 26.08.19
+```
+A garden is always a series of losses set against a few triumphs, like life itself.
+```
