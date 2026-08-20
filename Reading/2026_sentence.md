@@ -1003,3 +1003,10 @@ Date: 26.08.19
 ```
 A garden is always a series of losses set against a few triumphs, like life itself.
 ```
+
+---
+Date: 26.08.20
+```
+Don't wait for extraordinary opportunities. Seize common occasions and make them great.
+不要等待非凡的机遇。抓住平凡的机会，并让它们变得非凡。
+```
