@@ -1010,3 +1010,10 @@ Date: 26.08.20
 Don't wait for extraordinary opportunities. Seize common occasions and make them great.
 不要等待非凡的机遇。抓住平凡的机会，并让它们变得非凡。
 ```
+
+---
+Date: 26.09.06
+```
+Trying to define yourself is like trying to bite your own teeth.
+试图给自己下定义, 就如同试图用自己的牙齿去咬自己的牙齿.
+```
