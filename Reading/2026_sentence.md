@@ -1017,3 +1017,10 @@ Date: 26.09.06
 Trying to define yourself is like trying to bite your own teeth.
 试图给自己下定义, 就如同试图用自己的牙齿去咬自己的牙齿.
 ```
+
+---
+Date: 26.09.07
+```
+White dew cools the green at break of day.
+白露在破晓时, 凉了满地的绿.
+```
