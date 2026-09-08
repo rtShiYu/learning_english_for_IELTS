@@ -1024,3 +1024,10 @@ Date: 26.09.07
 White dew cools the green at break of day.
 白露在破晓时, 凉了满地的绿.
 ```
+
+---
+Date: 26.09.08
+```
+Evening light moves slowly across the floor.
+晚间的光, 慢慢挪过地板.
+```
