@@ -1031,3 +1031,10 @@ Date: 26.09.08
 Evening light moves slowly across the floor.
 晚间的光, 慢慢挪过地板.
 ```
+
+---
+Date: 26.09.09
+```
+Books stay open when the heart stays curious.
+心保持好奇, 书就会一直打开.
+```
