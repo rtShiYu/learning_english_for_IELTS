@@ -1044,3 +1044,9 @@ Date: 26.09.10
 ```
 Whatever you decide to do, make sure it makes you happy.
 ```
+
+---
+Date: 26.09.11
+```
+Make today worth remembering.
+```
