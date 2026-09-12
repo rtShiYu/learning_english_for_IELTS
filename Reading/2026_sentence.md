@@ -1050,3 +1050,10 @@ Date: 26.09.11
 ```
 Make today worth remembering.
 ```
+
+---
+Date: 26.09.12
+```
+Shared laughter makes the long road feel easy.
+一同笑过，长路也显得轻松.
+```
