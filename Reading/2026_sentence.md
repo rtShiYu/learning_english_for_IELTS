@@ -1057,3 +1057,10 @@ Date: 26.09.12
 Shared laughter makes the long road feel easy.
 一同笑过，长路也显得轻松.
 ```
+
+---
+Date: 26.09.13
+```
+To every action there is always opposed an equal reaction.
+每一个行动都有一个平等的反应。
+```
