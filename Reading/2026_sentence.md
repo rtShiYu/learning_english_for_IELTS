@@ -1064,3 +1064,10 @@ Date: 26.09.13
 To every action there is always opposed an equal reaction.
 每一个行动都有一个平等的反应。
 ```
+
+---
+Date: 26.09.14
+```
+Do what you love, and the hours grow light.
+做你热爱的事, 时光也会变轻.
+```
