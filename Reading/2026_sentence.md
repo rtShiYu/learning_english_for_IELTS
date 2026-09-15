@@ -1071,3 +1071,9 @@ Date: 26.09.14
 Do what you love, and the hours grow light.
 做你热爱的事, 时光也会变轻.
 ```
+
+---
+Date: 26.09.15
+```
+You can't build a reputation on what you are going to do.
+```
