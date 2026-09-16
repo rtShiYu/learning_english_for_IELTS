@@ -1077,3 +1077,9 @@ Date: 26.09.15
 ```
 You can't build a reputation on what you are going to do.
 ```
+
+---
+Date: 26.09.16
+```
+You're on earth. There's no cure for that.
+```
