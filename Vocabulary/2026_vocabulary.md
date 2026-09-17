@@ -701,3 +701,14 @@ almond
 aroma
 darn
 ```
+
+---
+Date: 26.09.17
+```
+dawn
+laundry
+lean
+ordinary
+itinerary
+basin
+```
