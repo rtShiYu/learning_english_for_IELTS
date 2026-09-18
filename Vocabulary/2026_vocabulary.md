@@ -712,3 +712,14 @@ ordinary
 itinerary
 basin
 ```
+
+---
+Date: 26.09.18
+```
+fragrance
+lie, lay, lain, lying
+yawn, yawning
+terror
+comrade, comrades, teammate
+syllable
+```
