@@ -1083,3 +1083,10 @@ Date: 26.09.16
 ```
 You're on earth. There's no cure for that.
 ```
+
+---
+Date: 26.09.19
+```
+We speak much less, yet we understand much more.
+我们说得更少, 却懂得更多.
+```
