@@ -723,3 +723,13 @@ terror
 comrade, comrades, teammate
 syllable
 ```
+
+---
+Date: 26.09.20
+```
+bungalow
+freaking
+bewilderment
+synonym
+alternately
+```
