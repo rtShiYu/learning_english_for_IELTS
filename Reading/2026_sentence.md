@@ -1090,3 +1090,9 @@ Date: 26.09.19
 We speak much less, yet we understand much more.
 我们说得更少, 却懂得更多.
 ```
+
+---
+Date: 26.09.23
+```
+The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.
+```
