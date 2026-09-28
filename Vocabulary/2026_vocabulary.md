@@ -766,3 +766,14 @@ parched
 intensely
 drowsy
 ```
+
+---
+Date: 26.09.27
+```
+verdict
+jury
+clunker
+margin
+lopsided
+uneven
+```
