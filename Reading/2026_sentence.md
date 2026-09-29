@@ -1115,3 +1115,10 @@ Date: 26.09.26
 ```
 Believe that life is worth living and your belief will help create the fact.
 ```
+
+---
+Date: 26.09.29
+```
+Keep one true task close to your hands.
+把一件真正要做的事，留在手边.
+```
