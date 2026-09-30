@@ -1122,3 +1122,10 @@ Date: 26.09.29
 Keep one true task close to your hands.
 把一件真正要做的事，留在手边.
 ```
+
+---
+Date: 26.09.30
+```
+We close the month with thanks, not haste.
+我们用感谢, 而不是匆忙, 结束这个月.
+```
