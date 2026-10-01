@@ -777,3 +777,13 @@ margin
 lopsided
 uneven
 ```
+
+---
+Date: 26.10.01
+```
+apparent, apparently
+Edinburgh
+manner
+overwhelming
+authority
+```
