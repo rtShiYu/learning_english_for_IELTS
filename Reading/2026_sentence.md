@@ -1129,3 +1129,10 @@ Date: 26.09.30
 We close the month with thanks, not haste.
 我们用感谢, 而不是匆忙, 结束这个月.
 ```
+
+---
+Date: 26.10.02
+```
+Don't give in to your feats. If you do, you won't be able to talk to your heart.
+不要屈服于恐惧, 否则, 你将无法听见自己内心的声音.
+```

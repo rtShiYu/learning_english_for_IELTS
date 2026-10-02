@@ -787,3 +787,14 @@ manner
 overwhelming
 authority
 ```
+
+---
+Date: 26.10.02
+```
+squeeze
+buddy
+bacon
+carriage car
+aka = also known as
+harass
+```
