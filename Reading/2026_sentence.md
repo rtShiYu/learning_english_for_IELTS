@@ -1136,3 +1136,10 @@ Date: 26.10.02
 Don't give in to your feats. If you do, you won't be able to talk to your heart.
 不要屈服于恐惧, 否则, 你将无法听见自己内心的声音.
 ```
+
+---
+Date: 26.10.03
+```
+Every one of us is the sum total of his own thoughts.
+每个人最终成为什么样的人，都是自己思想累积的结果.
+```
