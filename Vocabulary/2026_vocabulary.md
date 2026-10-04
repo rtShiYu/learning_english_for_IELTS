@@ -798,3 +798,14 @@ carriage car
 aka = also known as
 harass
 ```
+
+---
+Date: 26.10.04
+```
+forfeit, surrender, give up
+theater, movie, cinema
+angry crowd, mobs
+yelling
+trick
+```
+

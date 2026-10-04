@@ -1143,3 +1143,10 @@ Date: 26.10.03
 Every one of us is the sum total of his own thoughts.
 每个人最终成为什么样的人，都是自己思想累积的结果.
 ```
+
+---
+Date: 26.10.04
+```
+I don't want to be at the mercy of my emotions. I want to use them, to enjoy them, and to dominate.
+我不想收情绪摆布, 我想驾驭享受主宰它们.
+```
