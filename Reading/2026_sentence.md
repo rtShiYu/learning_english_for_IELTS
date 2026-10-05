@@ -1150,3 +1150,10 @@ Date: 26.10.04
 I don't want to be at the mercy of my emotions. I want to use them, to enjoy them, and to dominate.
 我不想收情绪摆布, 我想驾驭享受主宰它们.
 ```
+
+---
+Date: 26.10.05
+```
+Slow mornings make the whole day feel longer.
+不慌不忙的清晨, 让一整天都变得悠长.
+```
