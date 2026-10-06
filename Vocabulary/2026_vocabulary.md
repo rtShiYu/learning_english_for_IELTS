@@ -818,3 +818,15 @@ hypothetical
 windchill
 vehicle, utility vehicle
 ```
+
+---
+Date: 26.10.06
+```
+shovel
+pissed
+clue
+hint
+chill
+curse word, dirty word
+censor, censored
+```
