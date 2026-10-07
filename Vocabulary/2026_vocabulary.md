@@ -830,3 +830,14 @@ chill
 curse word, dirty word
 censor, censored
 ```
+
+---
+Date: 26.10.07
+```
+arrest
+handcuff
+approximately
+head on down
+head down, head east, head west, head north, head over
+snowplow
+```

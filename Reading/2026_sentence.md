@@ -1157,3 +1157,9 @@ Date: 26.10.05
 Slow mornings make the whole day feel longer.
 不慌不忙的清晨, 让一整天都变得悠长.
 ```
+
+---
+Date: 26.10.07
+```
+We live only now. Everything else is either passed or is unknown.
+```
