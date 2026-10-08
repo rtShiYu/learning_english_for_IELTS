@@ -1163,3 +1163,9 @@ Date: 26.10.07
 ```
 We live only now. Everything else is either passed or is unknown.
 ```
+
+Date: 26.10.08
+```
+Cold dew wets the grass, and autumn deepens its voice.
+寒露打湿了草, 秋天深沉了嗓音.
+```
