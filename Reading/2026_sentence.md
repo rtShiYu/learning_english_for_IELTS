@@ -1169,3 +1169,9 @@ Date: 26.10.08
 Cold dew wets the grass, and autumn deepens its voice.
 寒露打湿了草, 秋天深沉了嗓音.
 ```
+
+Date: 26.10.09
+```
+A good book is a door you can open anywhere.
+好书是一扇随处可开的门.
+```
