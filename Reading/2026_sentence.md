@@ -1175,3 +1175,10 @@ Date: 26.10.09
 A good book is a door you can open anywhere.
 好书是一扇随处可开的门.
 ```
+
+---
+Date: 26.10.16
+```
+Bread tastes better when it is shared.
+一起分享的面包, 格外香甜.
+```
