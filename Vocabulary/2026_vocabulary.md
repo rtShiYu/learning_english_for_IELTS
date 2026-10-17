@@ -902,3 +902,15 @@ confession
 unbearable, unlike, awful
 grumpy
 ```
+
+---
+Date: 26.10.17
+```
+spouse, wife
+rattletrap
+rob
+trap
+sacrifice
+retirement
+paranoid
+```
