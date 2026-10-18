@@ -914,3 +914,15 @@ sacrifice
 retirement
 paranoid
 ```
+
+---
+Date: 26.10.18
+```
+dark roast
+decaf
+violation
+tricky territory
+accidentally
+heathen
+lol laughing out loud, haha
+```
