@@ -936,3 +936,13 @@ complaint
 retaliatory
 causative
 ```
+
+---
+Date: 26.10.20
+```
+grapevine
+clause
+concessive
+subcontract
+billable
+```
