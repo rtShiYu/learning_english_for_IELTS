@@ -1182,3 +1182,10 @@ Date: 26.10.16
 Bread tastes better when it is shared.
 一起分享的面包, 格外香甜.
 ```
+
+---
+Date: 26.10.17
+```
+We must not say every mistake is a foolish one.
+我们不能说每一个错误都是愚蠢的.
+```
