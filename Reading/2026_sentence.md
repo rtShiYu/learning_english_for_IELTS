@@ -1189,3 +1189,10 @@ Date: 26.10.17
 We must not say every mistake is a foolish one.
 我们不能说每一个错误都是愚蠢的.
 ```
+
+---
+Date: 26.10.22
+```
+We make a living by what we get, but we make a life by what we give.
+我们靠所得谋生，但靠付出创造人生.
+```
