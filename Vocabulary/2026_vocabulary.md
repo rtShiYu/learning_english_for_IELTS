@@ -946,3 +946,13 @@ concessive
 subcontract
 billable
 ```
+
+---
+Date: 26.10.23
+```
+don't bother = don't
+used to do = did before
+chill = relaxed
+punctuality
+precisely
+```
