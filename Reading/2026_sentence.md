@@ -1203,3 +1203,10 @@ Date: 26.10.24
 What we achieve inwardly will change outer reality.
 我们在内在所达成的成就，将改变外部现实.
 ```
+
+---
+Date: 26.10.25
+```
+Do not go where the path may lead, go instead where there is no path and leave a trail.
+不要沿着现成的道路前行，而要走向无路之处，并留下自己的足迹.
+```
