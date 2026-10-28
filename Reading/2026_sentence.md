@@ -1216,3 +1216,10 @@ Date: 26.10.26
 ```
 It is not what we get. But who we become, what we contribute... that gives meaning to our lives.
 ```
+
+---
+Date: 26.10.28
+```
+Autumn asks for nothing but shows us everything.
+秋天一无所求, 却把一切都展现给我们.
+```
