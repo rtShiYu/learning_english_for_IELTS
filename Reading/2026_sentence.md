@@ -1223,3 +1223,10 @@ Date: 26.10.28
 Autumn asks for nothing but shows us everything.
 秋天一无所求, 却把一切都展现给我们.
 ```
+
+---
+Date: 26.10.29
+```
+The quieter you become, the more you can hear.
+你越安静，能听见的就越多.
+```
