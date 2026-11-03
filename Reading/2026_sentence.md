@@ -1250,3 +1250,9 @@ Date: 26.11.02
 ```
 Change your life today. Don't gamble on the future, act now, without delay.
 ```
+
+---
+Date: 26.11.03
+```
+Never tell the truth to people who are not worthy of it.
+```
