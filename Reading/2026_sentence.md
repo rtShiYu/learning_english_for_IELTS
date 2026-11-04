@@ -1256,3 +1256,9 @@ Date: 26.11.03
 ```
 Never tell the truth to people who are not worthy of it.
 ```
+
+---
+Date: 26.11.04
+```
+Knowledge is proud that it knows so much; wisdom is humble that it knows no more.
+```
