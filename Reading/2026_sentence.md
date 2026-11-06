@@ -1262,3 +1262,9 @@ Date: 26.11.04
 ```
 Knowledge is proud that it knows so much; wisdom is humble that it knows no more.
 ```
+
+---
+Date: 26.11.05
+```
+Focus on the moment, not the monsters that may or may not be up ahead.
+```
