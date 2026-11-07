@@ -999,3 +999,14 @@ broadly
 partake
 formula
 ```
+
+---
+Date: 26.11.07
+```
+stew
+stir
+season, seasoning
+lean
+vacuum seal
+oven
+```
