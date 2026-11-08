@@ -1268,3 +1268,9 @@ Date: 26.11.05
 ```
 Focus on the moment, not the monsters that may or may not be up ahead.
 ```
+
+---
+Date: 26.11.08
+```
+What a child doesn't receive he can seldom later give.
+```
