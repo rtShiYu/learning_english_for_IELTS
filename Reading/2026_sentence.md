@@ -1274,3 +1274,10 @@ Date: 26.11.08
 ```
 What a child doesn't receive he can seldom later give.
 ```
+
+---
+Date: 26.11.12
+```
+A hot drink in cold hands holds the morning still.
+冷手里捧一杯热饮，清晨就静止了.
+```
