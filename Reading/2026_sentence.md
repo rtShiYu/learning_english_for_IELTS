@@ -1281,3 +1281,10 @@ Date: 26.11.12
 A hot drink in cold hands holds the morning still.
 冷手里捧一杯热饮，清晨就静止了.
 ```
+
+---
+Date: 26.11.13
+```
+The most wasted day of all is that on which we have not laughed.
+所有日子中, 最被浪费的一天, 莫过于我们未曾开怀大笑的那一天.
+```
