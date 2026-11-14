@@ -1049,3 +1049,13 @@ garage
 lawn
 combination
 ```
+
+---
+Date: 26.11.14
+```
+bureaucracy
+guardrail
+syllable
+turnover
+plummet
+```
