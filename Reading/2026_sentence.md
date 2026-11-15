@@ -1288,3 +1288,10 @@ Date: 26.11.13
 The most wasted day of all is that on which we have not laughed.
 所有日子中, 最被浪费的一天, 莫过于我们未曾开怀大笑的那一天.
 ```
+
+---
+Date: 26.11.15
+```
+Trees sleep deeply and dream of green again.
+树沉睡着, 梦见重回绿色.
+```
