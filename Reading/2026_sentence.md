@@ -1295,3 +1295,10 @@ Date: 26.11.15
 Trees sleep deeply and dream of green again.
 树沉睡着, 梦见重回绿色.
 ```
+
+---
+Date: 26.11.16
+```
+The fallen leaves form a crunchy carpet underfoot.
+落叶在脚下铺成了一张松脆的地毯.
+```
