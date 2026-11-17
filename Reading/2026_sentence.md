@@ -1302,3 +1302,9 @@ Date: 26.11.16
 The fallen leaves form a crunchy carpet underfoot.
 落叶在脚下铺成了一张松脆的地毯.
 ```
+
+---
+Date: 26.11.17
+```
+Each breath forms a tiny cloud in the cool air.
+```
