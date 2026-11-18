@@ -1059,3 +1059,13 @@ syllable
 turnover
 plummet
 ```
+
+---
+Date: 26.11.18
+```
+grams
+manipulate
+lanyard
+suction
+waterproof
+```
