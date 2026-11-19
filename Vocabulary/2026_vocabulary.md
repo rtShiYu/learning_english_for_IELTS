@@ -1069,3 +1069,14 @@ lanyard
 suction
 waterproof
 ```
+
+---
+Date: 26.11.19
+```
+sausage
+chicken base
+squeeze
+simmer
+wrap
+liver
+```
