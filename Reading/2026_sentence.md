@@ -1308,3 +1308,9 @@ Date: 26.11.17
 ```
 Each breath forms a tiny cloud in the cool air.
 ```
+
+---
+Date: 26.11.20
+```
+Let us be thankful for the simple joys.
+```
