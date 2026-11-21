@@ -1080,3 +1080,15 @@ simmer
 wrap
 liver
 ```
+
+---
+Date: 26.11.21
+```
+insane
+aberration
+cliche
+embarrassment
+embarrassed
+substance
+shaky relationship
+```
