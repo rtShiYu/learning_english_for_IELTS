@@ -1092,3 +1092,15 @@ embarrassed
 substance
 shaky relationship
 ```
+
+---
+Date: 26.11.22
+```
+etcetera
+inappropriate
+corporate
+one occasion
+healthcare
+linguist
+charm
+```
