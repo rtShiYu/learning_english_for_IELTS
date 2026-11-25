@@ -1314,3 +1314,9 @@ Date: 26.11.20
 ```
 Let us be thankful for the simple joys.
 ```
+
+---
+Date: 26.11.25
+```
+Don't look for meaning in the words. Listen to the silences.
+```
