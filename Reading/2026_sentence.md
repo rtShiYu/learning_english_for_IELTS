@@ -1320,3 +1320,9 @@ Date: 26.11.25
 ```
 Don't look for meaning in the words. Listen to the silences.
 ```
+
+---
+Date: 26.11.27
+```
+I don't think there is any truth. There are only points of view.
+```
